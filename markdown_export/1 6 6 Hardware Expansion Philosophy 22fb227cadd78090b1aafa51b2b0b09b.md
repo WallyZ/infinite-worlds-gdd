@@ -1,0 +1,1 @@
+# 1.6.6 Hardware Expansion Philosophy

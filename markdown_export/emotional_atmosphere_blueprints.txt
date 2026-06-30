@@ -1,0 +1,74 @@
+### 🔵 Blueprint Template 1: EmotionTriggerVolume
+
+**Purpose:** A trigger volume that changes emotional cues (audio, lighting, post-processing) when the player enters or exits.
+
+**Key Components:**
+- Box Collision (Trigger)
+- Audio Component (optional)
+- Post Process Volume (linked or adjusted)
+- Blueprint Variables:
+  - `EmotionType` (Enum: Calm, Tense, Fear, Wonder, Sadness, etc.)
+  - `AmbientAudioCue` (Sound Cue)
+  - `LightingProfile` (Custom Struct or Actor Reference)
+
+**Logic Flow:**
+1. OnComponentBeginOverlap → Check if overlapping actor is player
+2. Trigger:
+   - Update global PlayerEmotionManager
+   - Play AmbientAudioCue
+   - Apply Post-Process/Lighting settings
+3. OnComponentEndOverlap → Restore default emotion (if needed)
+
+---
+
+### 🔵 Blueprint Template 2: PlayerEmotionManager (Actor Component)
+
+**Purpose:** Central component tracking current emotional state, notifying subsystems.
+
+**Variables:**
+- `CurrentEmotion` (Enum)
+- `EmotionIntensity` (Float 0–1)
+- `EmotionChangeSpeed` (Float)
+- `LastUpdatedSource` (Actor or Location Reference)
+
+**Functions:**
+- `UpdateEmotion(NewEmotion: Enum, Intensity: Float, SourceActor: Actor)`
+  - Smoothly transition from old to new state
+  - Notify:
+    - Audio subsystem (music and ambience)
+    - UI or VFX triggers
+    - NPC AI (if tied to player proximity)
+- `GetCurrentEmotion()`
+- `FadeEmotionBackToNeutral(Time: Float)`
+
+**Usage:**
+- Attached to PlayerCharacter Blueprint
+- Called by EmotionTriggerVolume, Combat Events, Discovery, or Health thresholds
+
+---
+
+### 🔵 Blueprint Template 3: Dynamic Audio Modulator (Subsystem or Manager Actor)
+
+**Purpose:** Adjust background audio layers based on emotional state.
+
+**Components:**
+- AudioManager (singleton or ambient actor in level)
+- Arrays of `Sound Cues` grouped by EmotionType
+
+**Functions:**
+- `SetEmotionAudio(EmotionType)`
+  - Fade out current layer
+  - Fade in appropriate ambient/music layers
+  - Optionally use RTPC or volume blending
+
+**Inputs:**
+- Called by PlayerEmotionManager
+- Listens to player state or volume triggers
+
+**Optional Features:**
+- Use MetaSounds to blend ambient layers based on `PlayerEmotionManager.EmotionIntensity`
+- Reverb/echo zone change when entering fear or awe states
+
+---
+
+Would you like a version of these implemented in C++ as well or want me to expand with a VR-specific haptics/visual effect module next?

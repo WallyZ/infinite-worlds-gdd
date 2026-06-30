@@ -1,0 +1,88 @@
+# 1.11.1 Foundational Figure & Mentor System
+
+### **Overview**
+
+The *Foundational Figure & Mentor System* provides each player with a unique and emotionally resonant backstory that directly shapes their character’s initial identity, learning style, and progression arc. Instead of selecting traits from a list, players explore memories, relationships, and formative experiences in a guided sequence that establishes their early worldview and long-term growth.
+
+This system blends narrative immersion, skill learning, and roleplay freedom, while giving mentors lasting presence in the form of **visions**, **echoes**, and **reactive guidance** throughout the game.
+
+---
+
+### **Opening: Memory-Based Character Creation**
+
+At the start of the game, the player enters a dreamlike, interactive memory sequence—called **The Shaping**—that acts as both character creation and psychological calibration. Rather than sliders and stats, players:
+
+- **Recall pivotal early-life events**, like "The Day of Fire," "The Walk in the Storm," or "The Forbidden Lesson."
+- **Interact with symbolic representations** of past choices and values (e.g., choosing between saving a sibling or completing a ritual).
+- **Respond to formative experiences** with actions and emotions, not words.
+- **Form bonds** with one or more mentor figures—these are not mere archetypes, but emotionally complex individuals who reflect different philosophical paths.
+
+Each decision subtly configures the following:
+
+- Initial worldview and internal voice.
+- Starting proficiencies and latent potential (e.g., affinity with psionics, ease of learning alchemy, stubbornness in combat).
+- Learning modality (hands-on vs. observational, mystical vs. logical).
+- Cultural or factional ties (or estrangement from them).
+- First language or symbolic system known.
+
+---
+
+### **Mentors as Identity Architects**
+
+Mentors are **not static NPCs**. They are living presences—people, spirits, voices, or memories—that shape the character's:
+
+- **Philosophical framework**: how the player views power, failure, knowledge, and responsibility.
+- **Preferred learning methods**: do they "fail forward"? Do they mimic, innovate, or question everything?
+- **Moral compass and emotional tone**: some mentors encourage compassion, others ruthlessness, others detachment or curiosity.
+
+Mentors are selected or "bonded with" during the character creation sequence, though their exact nature can evolve. Some examples:
+
+- **The Ember-Wise Crone**: A hermit whose lessons are hard-earned but deep; favors patient learners and moral strength.
+- **The Broken General**: Teaches discipline and strategy but warns against arrogance; favors tactical thinking and resilience.
+- **The Laughing Ghost**: A trickster guide who trains the player through riddles, failures, and paradoxes.
+
+Mentors shape **dialogue style**, **inner monologue**, and sometimes even **how certain magic or skills are perceived**. Players may "hear" them when making big decisions or when under psychological stress, simulating internalized identity.
+
+---
+
+### **Systemic Role in Skill Growth & Narrative**
+
+Mentors affect more than story—they are integral to *how skills grow and are framed*.
+
+- **Skill feedback is filtered** through the mentor’s worldview.
+    - A botanist mentor may describe foraging discoveries in ecological terms.
+    - A warrior mentor may relate everything to combat usefulness.
+- **Unlockable mentor-specific techniques** or "Mindprints" offer distinct approaches to the same skill (e.g., fire shaping via ritual, rage, or resonance).
+- **Guided dreams and simulations** from the mentor may function as skill-based challenge sequences or fast-track introspection zones.
+- Some **quests and factions react differently** depending on a player’s mentor lineage, treating them as inheritors of certain ideas or rivalries.
+
+---
+
+### **Long-Term Presence: Dreams, Echoes, and Reminders**
+
+Mentors continue to shape the experience throughout the game in layered, evolving ways:
+
+- **Dream Sequences**:
+    - During rest, death, or stress, the player may revisit symbolic dreams where their mentor offers guidance, criticism, or puzzles.
+    - These dreams can provide rare insights, unlock forgotten skills, or reveal deeper lore tied to the mentor’s origin.
+- **Echoes & Voiceovers**:
+    - Contextual voice snippets (or text, for accessibility) may emerge during key gameplay moments: “She warned you about hubris,” “This feels like the ice lake again,” etc.
+    - These may become quieter or evolve depending on the player’s divergence from their original path.
+- **Memory Reforging**:
+    - Players can seek out rituals or experiences that allow them to **re-express or reinterpret** their mentor relationship.
+    - A mentor can be rejected, replaced, merged with others, or even become an adversary or summoned ally.
+- **Tangible Legacy**:
+    - Some mentors leave **physical heirlooms**, hidden shrines, or texts that act as evolving, interactive artifacts.
+    - If the player grows far enough, they might become a mentor themselves, allowing for *new game+ inheritance mechanics* or affecting other players/NPCs in a multiplayer or persistent world context.
+
+---
+
+### **Design Goals & Gameplay Impacts**
+
+| Goal | Implementation |
+| --- | --- |
+| Deep Roleplay through experience | Memory creation instead of menus, symbolic interactions |
+| Unique player progression paths | Mentor-driven skill evolution, personalized feedback, alternate paths to mastery |
+| Narrative replayability | Different mentors lead to different world interpretations and outcomes |
+| Immersive inner voice | Mentor echoes become part of the player’s internal narrative |
+| Long-term growth reflection | Mentor system evolves with player actions and choices |

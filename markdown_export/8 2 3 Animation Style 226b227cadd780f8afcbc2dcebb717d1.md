@@ -1,0 +1,4 @@
+# 8.2.3 Animation Style
+
+- Hand-keyed vs mocap vs procedural
+- Expressive gesture language (especially for companions, NPCs, and ritual)

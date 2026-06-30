@@ -1,0 +1,5 @@
+# 3.10.9 Dreaming Realm
+
+- Formed by the subconscious of all creatures
+- Shared lucid dreaming, emotional storms, nightmare entities
+- May be linked to prophecy or psionics

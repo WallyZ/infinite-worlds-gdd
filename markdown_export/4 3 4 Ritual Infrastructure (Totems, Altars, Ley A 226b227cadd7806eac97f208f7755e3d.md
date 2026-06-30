@@ -1,0 +1,1 @@
+# 4.3.4 Ritual Infrastructure (Totems, Altars, Ley Anchors)

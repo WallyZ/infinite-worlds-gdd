@@ -1,0 +1,132 @@
+# 7.2.1 NPC Speech
+
+- Dialogue generation (procedural vs authored lines)
+- Memory-influenced conversations (NPC remembers prior chats)
+- Gossip systems
+- Tone, cadence, mood reflection in speech
+- Voice type, accents, or language systems
+- Contextual conversation triggers (e.g., combat chatter, shopkeeper lines)
+- NPC-to-NPC interactions
+- Speech as a tool for worldbuilding (religions, factions, local dialects)
+
+A **local LLM (Large Language Model)** can be integrated into PC games to enhance NPC interactions, making them more dynamic and realistic. This allows NPCs to generate responses in real time without relying on external servers, reducing latency and ensuring full control over dialogue behavior.
+
+### **How to Integrate a Local LLM into Unreal Engine VR**
+
+Some possible tools and approaches to get started:
+
+### **1. UnrealAiConnector Plugin**
+
+- A plugin for **Unreal Engine 5** that enables integration of AI models like GPT, Claude, and Gemini into your game.
+- Supports **Blueprint and C++**, allowing NPCs to respond dynamically to player interactions.
+- [**Learn more**](https://forums.unrealengine.com/t/plugin-llm-unrealaiconnector-integrate-ai-models-into-your-ue5-project/2502352)
+
+### **2. Local LLM Plugin for Unreal Engine**
+
+- Allows you to load **GGUF-format LLMs** and run them locally on your PC.
+- Ideal for offline AI-powered NPCs.
+- [**Official documentation**](https://github.com/Akiya-Research-Institute/LocalLLMPlugin-Manual)
+
+### **3. Llama.cpp with Mistral7b & StyleTTS2**
+
+- Uses **Llama.cpp** for generating NPC dialogue and **StyleTTS2** for voice synthesis.
+- Implemented via **Node scripts** and Unreal Engine’s **FInteractiveProcess class**.
+- [**Detailed implementation guide**](https://jgibbs.dev/blogs/local-llm-npcs-in-unreal-engine)
+
+### **Steps to Integrate a Local LLM**
+
+1. **Choose an LLM** – Models like **Mistral7b** or **Llama.cpp** work well for local processing.
+2. **Install UnrealAiConnector or Local LLM Plugin** – These plugins simplify integration.
+3. **Set Up NPC Dialogue System** – Use **Blueprints or C++** to trigger AI-generated responses.
+4. **Optimize Performance** – Ensure smooth real-time interactions by managing memory and processing speed.
+5. **Test & Refine** – Adjust NPC behavior to make conversations feel natural.
+
+Using **Llama.cpp with Mistral7b & StyleTTS2** will allow NPCs to generate dynamic dialogue locally, reducing latency and ensuring immersive interactions. How to set it up in **Unreal Engine 5**:
+
+### **Step 1: Install Llama.cpp & Mistral7b**
+
+1. **Download Llama.cpp** – A lightweight framework for running LLMs locally.
+2. **Get a GGUF-format model of Mistral7b** – This will be your AI-powered dialogue generator.
+3. **Build & Run Llama.cpp Server** – Set up a local server to process NPC dialogue.
+
+### **Step 2: Set Up StyleTTS2 for Voice Generation**
+
+1. **Install StyleTTS2** – A neural voice synthesis model for generating realistic NPC speech.
+2. **Use Docker for Deployment** – Run the StyleTTS2 demo using **mrfakename’s Docker image**.
+3. **Integrate with Unreal Engine** – Use **Gradio API** to fetch generated voice lines.
+
+### **Step 3: Connect Everything in Unreal Engine**
+
+1. **Use FInteractiveProcess Class** – This allows Unreal to call external scripts for AI processing.
+2. **Pass Conversation History to Llama.cpp** – Send previous dialogue as input for contextual responses.
+3. **Generate & Play Voice Lines** – Parse JSON output from StyleTTS2 and play audio dynamically.
+
+### **Resources to Follow**
+
+- [**Detailed Setup Guide**](https://jgibbs.dev/blogs/local-llm-npcs-in-unreal-engine) – Covers the full integration process.
+- [**GitHub Repository**](https://github.com/joe-gibbs/local-llms-ue5) – Contains source code for implementing local LLM-powered NPCs.
+- [**YouTube Tutorial**](https://www.youtube.com/watch?v=y45RDrLvpaM) – Walkthrough of setting up Llama.cpp, Mistral7b, and StyleTTS2 in Unreal Engine.
+
+This setup will allow NPCs to **respond dynamically** and **speak naturally** in a game.
+
+Fully integrate a local LLM solution into the game installation. The key is to package every component's executable and assets—like the llama.cpp binary compiled for the target platform, the Mistral7b GGUF model file, and the resources for StyleTTS2—into the game's distribution so that everything runs locally once the game is installed.
+
+Below are the steps to achieve this integration:
+
+### **1. Bundle All External Components**
+
+- **Compile and Package Llama.cpp:**
+    
+    Build the llama.cpp binary (or DLL) specifically for your target system (e.g., Windows) and package it within your game’s binaries. This binary will act as your local dialogue processor.
+    
+- **Include the Mistral7b Model:**
+    
+    Place the GGUF-format model file with your game assets. Note that these models can be sizable, so consider your installer’s overall footprint.
+    
+- **Set Up StyleTTS2:**
+    
+    While the demo often runs via a Docker container, for a seamless experience in a packaged game you might consider:
+    
+    - Running StyleTTS2 natively (if feasible) after compiling it using a similar approach, or
+    - Wrapping the Docker-based deployment in a way that it launches automatically from your game’s directory. Alternatively, packaging the necessary executable files from the Docker image (if licensing and technical constraints allow) could work.
+
+### **2. Integrate With Unreal Engine**
+
+- **For Dialogue Processing:**
+    
+    Use Unreal Engine’s `FInteractiveProcess` class (or a similar method) to spawn the external processes (the llama.cpp process and the Node script for StyleTTS2 integration) at runtime. Your game sends conversation history as arguments and reads the JSON output to update NPC dialogue.
+    
+- **Blueprint and C++ Integration:**
+    
+    Set up your NPC classes (or an AI manager) in Unreal using Blueprints or C++ so that the external AI components are invoked at the appropriate moments. This creates a “bridge” where the game talks to the AI engine seamlessly.
+    
+
+### **3. Packaging Your Game**
+
+- **Include Additional Non-UFS Files:**
+    
+    Unreal Engine packaging settings allow you to bundle extra files (like your external binaries and model files) into your installer. In the packaging settings, add the relevant folders/files under “Additional Non-Asset Directories to Package.” This way, when a user installs the game, the required components are placed alongside your main executables.
+    
+- **Post-Build Script Integration:**
+    
+    Create post-build scripts to copy these additional resources into the packaged directory. This ensures that regardless of where your game is installed, all dependencies are in the correct location and accessible at runtime.
+    
+
+### **4. Testing and Optimization**
+
+- **Performance and Stability:**
+    
+    Because you're running external processes, testing is crucial. Monitor the startup time, potential stutters when spawning the AI processes, and ensure that the integration does not introduce delays or unexpected behavior during gameplay.
+    
+- **UI Feedback:**
+    
+    Consider implementing a UI indicator while the dialogue or voice processing is ongoing, to enhance player experience. This can help manage any latency in generating lengthy dialogue sequences.
+    
+
+### **Resources for Further Reference**
+
+- [**Local LLM-powered NPCs with llama.cpp, Mistral7b and StyleTTS2**](https://jgibbs.dev/blogs/local-llm-npcs-in-unreal-engine) – A detailed guide covering the conceptual integration and performance evaluations.
+- [**GitHub Repository: joe-gibbs/local-llms-ue5**](https://github.com/joe-gibbs/local-llms-ue5) – Contains a demonstrative project setup including packaging instructions and integration details.
+- [**YouTube Tutorial on the Setup**](https://www.youtube.com/watch?v=y45RDrLvpaM) – Offers a visual walkthrough of the integration process in Unreal Engine.
+
+By following these steps, you can fully integrate your local LLM and voice synthesis tools into your VR game’s installation package, ensuring that players have a seamless, immersive experience from the moment they launch your game.

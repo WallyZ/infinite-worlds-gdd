@@ -1,0 +1,3 @@
+# 12.2.1 Kickstarter
+
+Main launch crowdfunding, tiered rewards, lore items

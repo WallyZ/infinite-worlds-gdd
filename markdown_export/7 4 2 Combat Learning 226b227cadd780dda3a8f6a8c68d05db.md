@@ -1,0 +1,4 @@
+# 7.4.2 Combat Learning
+
+- Enemies learn and adapt to player patterns (e.g., fire spam, ambushes)
+- Tactical coordination between ranged, melee, casters

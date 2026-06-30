@@ -1,0 +1,3 @@
+# 15.6 Combat Diagrams
+
+Positioning logic, attack cone visuals, detection cones, stamina-cost graphs

@@ -1,0 +1,6 @@
+# 11.4 AI Architecture
+
+- Behavior trees, utility AI, or GOAP
+- NPC learning & memory simulation integration
+- Modular emotion engine implementation
+- Social graph propagation logic

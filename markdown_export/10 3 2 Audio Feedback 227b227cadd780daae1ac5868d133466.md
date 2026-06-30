@@ -1,0 +1,4 @@
+# 10.3.2 Audio Feedback
+
+- UI sounds blend with world: bag rustle, whispering menu glyphs
+- Emotional cues in voice, music, and environment

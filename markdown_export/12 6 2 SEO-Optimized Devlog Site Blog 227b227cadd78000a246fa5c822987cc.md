@@ -1,0 +1,1 @@
+# 12.6.2 SEO-Optimized Devlog Site / Blog

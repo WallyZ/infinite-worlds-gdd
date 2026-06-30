@@ -1,0 +1,1 @@
+# 12.6.3 Email List & Lore Drops

@@ -1,0 +1,4 @@
+# 6.2.1 Weapon Crafting
+
+- Blade shape, hilt types, balance weight, multi-material fusion
+- Planar-infused or psionic weapon forging

@@ -1,0 +1,1 @@
+# 11.2.4 Stealth Detection (vision/audio/odor)

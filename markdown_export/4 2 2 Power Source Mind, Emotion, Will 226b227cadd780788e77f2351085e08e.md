@@ -1,0 +1,1 @@
+# 4.2.2 Power Source: Mind, Emotion, Will

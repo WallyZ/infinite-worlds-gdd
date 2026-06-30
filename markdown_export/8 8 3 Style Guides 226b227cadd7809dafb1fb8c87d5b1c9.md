@@ -1,0 +1,4 @@
+# 8.8.3 Style Guides
+
+- Brush, texture, palette consistency
+- “Don’ts” list to avoid off-tone additions

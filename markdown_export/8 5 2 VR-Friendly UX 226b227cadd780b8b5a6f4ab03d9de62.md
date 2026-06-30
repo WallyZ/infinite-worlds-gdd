@@ -1,0 +1,4 @@
+# 8.5.2 VR-Friendly UX
+
+- Comfort design: eye tracking, depth layering, animation pacing
+- UI appearance based on in-world skills or items

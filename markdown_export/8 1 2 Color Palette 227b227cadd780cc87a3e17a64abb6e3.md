@@ -1,0 +1,12 @@
+# 8.1.2 Color Palette
+
+| Category | Color | Usage |
+| --- | --- | --- |
+| **Earth Base** | Warm Soil (#4B3621) | Ground, stone, UI panels |
+| **Mystic Blue** | Moonlit Sky (#3B6BA5) | Magic, dream-state accents, night |
+| **Forest Green** | Deep Grove (#2F4F2F) | Wilderness, nature, discovery |
+| **Spirit Gold** | Relic Gold (#D4AF37) | Ancient tech, memory, importance |
+| **Ghost Grey** | Veil Mist (#BFC9CA) | UI, ghosts, transitions, planar energy |
+| **Blood Red** | Sacrifice (#7B1E1E) | Damage, danger, rituals |
+
+You can use **muted natural tones with mystical highlights**—avoid glossy or synthetic colors.

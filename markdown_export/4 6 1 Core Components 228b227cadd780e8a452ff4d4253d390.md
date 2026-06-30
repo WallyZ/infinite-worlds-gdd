@@ -1,0 +1,16 @@
+# 4.6.1 Core Components
+
+### 🧭 Astral Navigation (The Art)
+
+- Players learn to navigate the **astral sea** using:
+    - **Star charts** (dynamic to planetary rotation)
+    - **Meditation or dream-walking** (VR-compatible input: breath control, hand seals, ritual gestures)
+    - **Celestial harmonics** (in-world music/tone tools)
+- Navigation is **real-time and spatial**, not menu-based. You pilot the astral plane with your body, mind, and will.
+
+### Real-World Learning Tie-in:
+
+- Ancient astronomy
+- Sacred geometry
+- Mnemonic star maps
+- Alchemy and numerology

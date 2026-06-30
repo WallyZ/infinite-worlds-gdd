@@ -1,0 +1,5 @@
+# 3.10.6 Astral Plane
+
+- The space between worlds; a silvery void of thought and spirit
+- Travel route between outer planes, home of lost souls, psionics
+- Timeless and thought-responsive

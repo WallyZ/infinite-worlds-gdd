@@ -1,0 +1,4 @@
+# 6.2.2 Armor Crafting
+
+- Layered materials (e.g., fur + bone + enchanted steel)
+- Ergonomics for VR weight simulation & freedom of movement

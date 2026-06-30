@@ -1,0 +1,4 @@
+# 15.9 Player Personas
+
+- Player type breakdowns (explorer, scholar, achiever, builder)
+- Immersion profiles and UX needs
