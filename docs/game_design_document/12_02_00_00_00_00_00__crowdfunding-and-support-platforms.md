@@ -10,4 +10,4 @@
 
 [12.2.5 [Itch.io](http://itch.io/)](12_02_05_00_00_00_00__itch-io.md)
 
-[12.8 Substack](12_08_00_00_00_00_00__substack.md)
+[12.6.7 Substack](12_06_07_00_00_00_00__substack.md)

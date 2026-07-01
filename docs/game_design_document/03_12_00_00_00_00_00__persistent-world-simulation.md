@@ -50,8 +50,9 @@ The world of *Infinite Worlds* operates under a deep simulation framework, suppo
     - [Historical Tracking & Lore]: Persistent, system-recorded events stored for NPC and player reference.
     - [Player Impact Memory System]: Simulation-driven memory and recognition of player deeds, across time and geography.
 
-[3.12.1 World Persists Without Player Input](03_12_01_00_00_00_00__world-persists-without-player-input.md)
+## Persistent Simulation Notes
 
-[3.12.2 Systems Interact Autonomously](03_12_02_00_00_00_00__systems-interact-autonomously.md)
-
-[3.12.3 Server/Local Performance & Memory Optimization](03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md)
+- The world persists without player input in multiplayer or server-hosted modes, while single-player can pause or batch-resume simulation state.
+- Systems should interact autonomously across economy, diplomacy, weather, ecology, culture, NPC aging, and historical memory.
+- Server/local performance and memory optimization should scale simulation fidelity by proximity, importance, and current play mode.
+- These notes absorb the former heading-only stubs `3.12.1 World Persists Without Player Input`, `3.12.2 Systems Interact Autonomously`, and `3.12.3 Server/Local Performance & Memory Optimization`.

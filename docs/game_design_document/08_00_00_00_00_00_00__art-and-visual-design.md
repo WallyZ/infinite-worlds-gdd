@@ -16,8 +16,6 @@
 
 [8.7 Procedural & AI Tools Summary](08_07_00_00_00_00_00__procedural-and-ai-tools-summary.md)
 
-[8.7 Iconography, Fonts & Symbol Systems](08_07_00_00_00_00_00__iconography-fonts-and-symbol-systems.md)
-
 [8.8 Art Bible & Asset Documentation](08_08_00_00_00_00_00__art-bible-and-asset-documentation.md)
 
 [8.9 Emotion-Responsive Visual Effects](08_09_00_00_00_00_00__emotion-responsive-visual-effects.md)

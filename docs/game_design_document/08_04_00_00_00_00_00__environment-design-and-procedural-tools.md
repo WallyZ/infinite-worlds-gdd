@@ -32,6 +32,8 @@
 | Weathering/Procedural Damage | Unreal RVTs, Vertex Painting | Quixel Smart Materials, Substance Painter |
 | Architecture Generation | Blender + Snap Utilities, Dungeon Architect (trial) | Houdini, Modular Snap Plugin, CityEngine |
 
+Core procedural tool coverage includes Houdini, World Machine, Unreal Foliage, scatter tools, UE PCG, Blender Geometry Nodes, and related environment-generation workflows.
+
 The look and feel of the living world, both static and dynamic.
 
 [8.3.1 Biome Visual Language](08_03_01_00_00_00_00__biome-visual-language.md)

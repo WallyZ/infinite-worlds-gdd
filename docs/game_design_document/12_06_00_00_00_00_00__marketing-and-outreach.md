@@ -11,3 +11,5 @@
 [12.6.5 Event Participation](12_06_05_00_00_00_00__event-participation.md)
 
 [12.6.6 Review Codes & Indie PR](12_06_06_00_00_00_00__review-codes-and-indie-pr.md)
+
+[12.6.7 Substack](12_06_07_00_00_00_00__substack.md)

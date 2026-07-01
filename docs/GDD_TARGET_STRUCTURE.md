@@ -65,13 +65,12 @@ The RPG-book model should be retained for player-facing and reference-heavy mate
 
 ## High-Priority Reorganization Lanes
 
-1. Numbering repair: fix the 12 duplicate section numbers before any larger moves. The orphaned `2.1.2.13.1.1` branch has been rehomed under `11.2.3`.
-2. Stub handling: review pages under 20 words first; absorb empty concept labels into parent pages unless they need real design expansion.
-3. Accessibility consolidation: make `01 Player Handbook` the canonical owner for accessibility and comfort rules, with presentation details cross-linked to `06 Art, Audio, UI, and UX Bible`.
-4. Magic consolidation: keep magic/psionics/ritual mechanics in `02 Systems Compendium`, supernatural metaphysics in `05 Narrative and Lore Bible`, VFX in `06 Art, Audio, UI, and UX Bible`, and implementation architecture in `07 Technical, Tooling, and QA Bible`.
-5. AI and narrative split: put behavior, memory, dialogue systems, factions, and companions in `04 Bestiary, NPC, and Faction Codex`; put emergent story meaning and quest/narrative tools in `05 Narrative and Lore Bible`.
-6. Production consolidation: merge community, monetization, publishing, roadmap, and risk material into `08 Production, Community, and Publishing Plan`.
-7. Appendix cleanup: keep appendices as reference, not as a dumping ground for underdeveloped design decisions.
+1. Stub handling: review pages under 20 words first; absorb empty concept labels into parent pages unless they need real design expansion. Duplicate section numbers and the orphaned `2.1.2.13.1.1` branch have been resolved.
+2. Accessibility consolidation: make `01 Player Handbook` the canonical owner for accessibility and comfort rules, with presentation details cross-linked to `06 Art, Audio, UI, and UX Bible`.
+3. Magic consolidation: keep magic/psionics/ritual mechanics in `02 Systems Compendium`, supernatural metaphysics in `05 Narrative and Lore Bible`, VFX in `06 Art, Audio, UI, and UX Bible`, and implementation architecture in `07 Technical, Tooling, and QA Bible`.
+4. AI and narrative split: put behavior, memory, dialogue systems, factions, and companions in `04 Bestiary, NPC, and Faction Codex`; put emergent story meaning and quest/narrative tools in `05 Narrative and Lore Bible`.
+5. Production consolidation: merge community, monetization, publishing, roadmap, and risk material into `08 Production, Community, and Publishing Plan`.
+6. Appendix cleanup: keep appendices as reference, not as a dumping ground for underdeveloped design decisions.
 
 ## Future Curated File Naming
 

@@ -81,12 +81,12 @@ Each “layer” of the Underworld reflects a deeper severance from reality and 
 
 Include societies (e.g., ancient worm-kin empires), ecosystem inversion (luminescent predators above fungal forests), and deep-time geological storytelling.
 
-[3.12.1 Cave Systems, Ancient Ruins & Tectonics](03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md)
+[3.13.1 Cave Systems, Ancient Ruins & Tectonics](03_13_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md)
 
-[3.12.2 Fungal, Crystalline & Subterranean Life](03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md)
+[3.13.2 Fungal, Crystalline & Subterranean Life](03_13_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md)
 
-[3.12.4 Procedural Dungeon Design & Emergent Ruins](03_12_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md)
+[3.13.3 Underworld Physics & Mythic Layers](03_13_03_00_00_00_00__underworld-physics-and-mythic-layers.md)
 
-[3.12.5 Underworld Factions & Mechanics](03_12_05_00_00_00_00__underworld-factions-and-mechanics.md)
+[3.13.4 Procedural Dungeon Design & Emergent Ruins](03_13_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md)
 
-[3.12.3 Underworld Physics & Mythic Layers](03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md)
+[3.13.5 Underworld Factions & Mechanics](03_13_05_00_00_00_00__underworld-factions-and-mechanics.md)

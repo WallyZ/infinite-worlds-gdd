@@ -8,30 +8,25 @@ For the current generated audit, use `docs/index/GDD_CONTENT_AUDIT.md`.
 
 Current findings:
 
-- 658 Markdown source pages.
+- 648 Markdown source pages.
 - Maximum hierarchy depth: 7.
-- 12 duplicate section numbers.
+- 0 duplicate section numbers after the first duplicate-number cleanup pass.
 - 0 orphaned sections after the `2.1.2.13.1.1` branch was rehomed under `11.2.3`.
-- 287 very small pages with 20 words or fewer.
+- 280 very small pages with 20 words or fewer.
 
 ## Numbering Issues
 
-Duplicate section numbers:
+Resolved duplicate section numbers:
 
-| Section | Titles |
+| Old Section | Decision |
 | --- | --- |
-| `3.4.5` | NPC & Faction Reactions to Contagion; Treatments: Alchemy, Rituals, Herbs, Surgery |
-| `3.12.1` | Cave Systems, Ancient Ruins & Tectonics; World Persists Without Player Input |
-| `3.12.2` | Fungal, Crystalline & Subterranean Life; Systems Interact Autonomously |
-| `3.12.3` | Server/Local Performance & Memory Optimization; Underworld Physics & Mythic Layers |
-| `8.1.1` | Core Themes & Emotional Pillars; Visual Tone & World Mood |
-| `8.1.2` | Color Palette; Key Visual References |
-| `8.1.3` | Visual Tone & Art Style; VR Aesthetic Design Considerations |
-| `8.7` | Iconography, Fonts & Symbol Systems; Procedural & AI Tools Summary |
-| `8.7.1` | Magic & Spell VFX; Procedural Tools Used |
-| `8.7.2` | AI-Enhanced Design Tools; Planar/Anomalous Effects |
-| `8.7.3` | Atmosphere & Emotion; Texture & Material Authoring |
-| `12.8` | AI-Powered Lore Expansion Toolkits; Substack |
+| `3.4.5` | Absorbed the two heading-only disease treatment and contagion-response stubs into `3.4 Disease, Poison & Afflictions`. |
+| `3.12.1` - `3.12.3` | Absorbed heading-only persistent-simulation stubs into `3.12 Persistent World Simulation`; rehomed distinct Underworld children under `3.13.1` - `3.13.5`. |
+| `8.1.1` - `8.1.3` | Absorbed visual mood, references, and VR aesthetic notes into `8.1.3 Visual Tone & Art Style`. |
+| `8.7` | Absorbed the redundant iconography/fonts stub into `8.1.4 Iconography & Symbol Language`; kept `8.7 Procedural & AI Tools Summary` as the canonical art-tooling/VFX parent. |
+| `8.7.1` | Absorbed the procedural-tools stub into `8.4 Environment Design & Procedural Tools`; kept `8.7.1 Magic & Spell VFX`. |
+| `8.7.2` - `8.7.3` | Kept the distinct VFX pages at `8.7.2` and `8.7.3`; rehomed AI-enhanced design tools to `8.7.5` and texture/material authoring to `8.7.6`. |
+| `12.8` | Kept `12.8 AI-Powered Lore Expansion Toolkits`; rehomed the full Substack page under `12.6.7 Marketing & Outreach`. |
 
 Resolved orphaned section:
 
@@ -55,11 +50,10 @@ These areas should be reviewed before changing section numbers:
 
 ## Recommended Curation Order
 
-1. Fix duplicate section numbers without moving concepts.
-2. Continue duplicate section number repair now that the orphaned `2.1.2.13.1.1` branch is resolved.
-3. Merge or annotate pages with 20 words or fewer.
-4. Decide canonical homes for accessibility, AI/social simulation, magic/psionics, technical implementation, and production/community.
-5. Create curated summary pages for the canonical taxonomy in `docs/GDD_STANDARDS.md`.
+1. Merge or annotate pages with 20 words or fewer.
+2. Decide canonical homes for accessibility, AI/social simulation, magic/psionics, technical implementation, and production/community.
+3. Consolidate duplicate title groups and similar-title candidates.
+4. Create curated summary pages for the canonical taxonomy in `docs/GDD_STANDARDS.md`.
 
 ## Do Not Do Automatically
 

@@ -8,3 +8,5 @@
 | **Language** | Optional symbolic runes with a decipherable logic (for tomes, ruins) |
 
 All icons should feel **ancient yet grounded**, as if carved by real people with spiritual intent.
+
+Use this section as the canonical brand-guide home for non-verbal, ancient, and symbolic visual language. Font implementation details stay with `8.4.1 Fonts & Typography`; world-symbol usage stays with `8.4.2 Icons & World Symbols`.

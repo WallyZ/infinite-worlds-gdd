@@ -105,6 +105,9 @@ function Get-MigrationByNewFile {
 
     $items = @(Get-Content -LiteralPath $migrationMapPath -Raw | ConvertFrom-Json)
     foreach ($item in $items) {
+        if (($item.PSObject.Properties.Name -contains "status") -and ($item.status -ne "active")) {
+            continue
+        }
         $lookup[$item.new_file] = $item
     }
 

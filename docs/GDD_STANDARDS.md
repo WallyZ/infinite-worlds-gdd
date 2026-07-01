@@ -37,6 +37,7 @@ Rules:
 - The title slug is lowercase ASCII kebab-case.
 - Notion export IDs do not appear in filenames.
 - Old export names and source IDs are preserved in `docs/index/gdd_filename_migration.json`.
+- When a source page is absorbed into a canonical parent, its migration entry should use `status: absorbed` and `absorbed_into` to point at the current canonical page.
 
 Examples:
 

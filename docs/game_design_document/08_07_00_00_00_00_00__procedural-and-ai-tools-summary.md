@@ -19,3 +19,7 @@ Bringing spells, weather, damage, and emotion to life visually.
 [8.7.3 Atmosphere & Emotion](08_07_03_00_00_00_00__atmosphere-and-emotion.md)
 
 [8.7.4 Damage, Decay & Corruption](08_07_04_00_00_00_00__damage-decay-and-corruption.md)
+
+[8.7.5 AI-Enhanced Design Tools](08_07_05_00_00_00_00__ai-enhanced-design-tools.md)
+
+[8.7.6 Texture & Material Authoring](08_07_06_00_00_00_00__texture-and-material-authoring.md)

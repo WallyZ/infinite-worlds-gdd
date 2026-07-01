@@ -3,7 +3,7 @@
   "source_root": "docs/game_design_document",
   "markdown_index": "docs/index/GDD_SOURCE_INDEX.md",
   "full_text_snapshot": "docs/index/GDD_SOURCE_INDEX.md#full-text-search-snapshot",
-  "markdown_file_count": 658,
+  "markdown_file_count": 648,
   "sections": [
     {
       "section": 0,
@@ -29,9 +29,9 @@
     {
       "section": 3,
       "title": "Simulation & World Systems",
-      "files": 103,
-      "bytes": 147544.0,
-      "words": 16467.0
+      "files": 98,
+      "bytes": 147834.0,
+      "words": 16547.0
     },
     {
       "section": 4,
@@ -64,9 +64,9 @@
     {
       "section": 8,
       "title": "Art & Visual Design",
-      "files": 48,
-      "bytes": 43047.0,
-      "words": 6084.0
+      "files": 43,
+      "bytes": 43050.0,
+      "words": 6105.0
     },
     {
       "section": 9,
@@ -93,8 +93,8 @@
       "section": 12,
       "title": "Community & Monetization",
       "files": 36,
-      "bytes": 42189.0,
-      "words": 5674.0
+      "bytes": 42247.0,
+      "words": 5676.0
     },
     {
       "section": 13,
@@ -1669,9 +1669,9 @@
       "file": "docs/game_design_document/03_04_00_00_00_00_00__disease-poison-and-afflictions.md",
       "source_id": "215b227cadd78066a235d4ef33c4984b",
       "original_file": "markdown_export/3 4 Disease, Poison & Afflictions 215b227cadd78066a235d4ef33c4984b.md",
-      "bytes": 1029,
-      "lines": 20,
-      "words": 66
+      "bytes": 1257,
+      "lines": 22,
+      "words": 114
     },
     {
       "section": "3.4.1",
@@ -1726,34 +1726,6 @@
       "source_id": "225b227cadd780f294f1e3e0aaf09013",
       "original_file": "markdown_export/3 4 4 Mutation & Evolution in Pathogens 225b227cadd780f294f1e3e0aaf09013.md",
       "bytes": 42,
-      "lines": 2,
-      "words": 7
-    },
-    {
-      "section": "3.4.5",
-      "sort_key": "0003.0004.0005",
-      "top_section": 3,
-      "depth": 3,
-      "title": "NPC & Faction Reactions to Contagion",
-      "first_heading": "3.4.5 NPC & Faction Reactions to Contagion",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md",
-      "source_id": "21db227cadd780c2bba9d75d57c88423",
-      "original_file": "markdown_export/3 4 5 NPC & Faction Reactions to Contagion 21db227cadd780c2bba9d75d57c88423.md",
-      "bytes": 45,
-      "lines": 2,
-      "words": 8
-    },
-    {
-      "section": "3.4.5",
-      "sort_key": "0003.0004.0005",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Treatments: Alchemy, Rituals, Herbs, Surgery",
-      "first_heading": "3.4.5 Treatments: Alchemy, Rituals, Herbs, Surgery",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md",
-      "source_id": "21db227cadd7805eb4a8d778f9e98a78",
-      "original_file": "markdown_export/3 4 5 Treatments Alchemy, Rituals, Herbs, Surgery 21db227cadd7805eb4a8d778f9e98a78.md",
-      "bytes": 53,
       "lines": 2,
       "words": 7
     },
@@ -2607,121 +2579,9 @@
       "file": "docs/game_design_document/03_12_00_00_00_00_00__persistent-world-simulation.md",
       "source_id": "21db227cadd7809ab16beb8d167222c8",
       "original_file": "markdown_export/3 12 Persistent World Simulation 21db227cadd7809ab16beb8d167222c8.md",
-      "bytes": 5053,
-      "lines": 58,
-      "words": 674
-    },
-    {
-      "section": "3.12.1",
-      "sort_key": "0003.0012.0001",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Cave Systems, Ancient Ruins & Tectonics",
-      "first_heading": "3.12.1 Cave Systems, Ancient Ruins & Tectonics",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
-      "source_id": "225b227cadd7809bb25ada441cd05564",
-      "original_file": "markdown_export/3 12 1 Cave Systems, Ancient Ruins & Tectonics 225b227cadd7809bb25ada441cd05564.md",
-      "bytes": 49,
-      "lines": 2,
-      "words": 8
-    },
-    {
-      "section": "3.12.1",
-      "sort_key": "0003.0012.0001",
-      "top_section": 3,
-      "depth": 3,
-      "title": "World Persists Without Player Input",
-      "first_heading": "3.12.1 World Persists Without Player Input",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__world-persists-without-player-input.md",
-      "source_id": "226b227cadd780d5b817df510196beed",
-      "original_file": "markdown_export/3 12 1 World Persists Without Player Input 226b227cadd780d5b817df510196beed.md",
-      "bytes": 45,
-      "lines": 2,
-      "words": 7
-    },
-    {
-      "section": "3.12.2",
-      "sort_key": "0003.0012.0002",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Fungal, Crystalline & Subterranean Life",
-      "first_heading": "3.12.2 Fungal, Crystalline & Subterranean Life",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
-      "source_id": "225b227cadd780bcbab5d7331e0387b7",
-      "original_file": "markdown_export/3 12 2 Fungal, Crystalline & Subterranean Life 225b227cadd780bcbab5d7331e0387b7.md",
-      "bytes": 49,
-      "lines": 2,
-      "words": 7
-    },
-    {
-      "section": "3.12.2",
-      "sort_key": "0003.0012.0002",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Systems Interact Autonomously",
-      "first_heading": "3.12.2 Systems Interact Autonomously",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__systems-interact-autonomously.md",
-      "source_id": "226b227cadd7808fae78e0fe8e1648e1",
-      "original_file": "markdown_export/3 12 2 Systems Interact Autonomously 226b227cadd7808fae78e0fe8e1648e1.md",
-      "bytes": 39,
-      "lines": 2,
-      "words": 5
-    },
-    {
-      "section": "3.12.3",
-      "sort_key": "0003.0012.0003",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Server/Local Performance & Memory Optimization",
-      "first_heading": "3.12.3 Server/Local Performance & Memory Optimization",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md",
-      "source_id": "226b227cadd7800ca971c4650816fc01",
-      "original_file": "markdown_export/3 12 3 Server Local Performance & Memory Optimizat 226b227cadd7800ca971c4650816fc01.md",
-      "bytes": 56,
-      "lines": 2,
-      "words": 7
-    },
-    {
-      "section": "3.12.3",
-      "sort_key": "0003.0012.0003",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Underworld Physics & Mythic Layers",
-      "first_heading": "3.12.3 Underworld Physics & Mythic Layers",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
-      "source_id": "225b227cadd780ec898fc6d0c6026b0b",
-      "original_file": "markdown_export/3 12 3 Underworld Physics & Mythic Layers 225b227cadd780ec898fc6d0c6026b0b.md",
-      "bytes": 44,
-      "lines": 2,
-      "words": 7
-    },
-    {
-      "section": "3.12.4",
-      "sort_key": "0003.0012.0004",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Procedural Dungeon Design & Emergent Ruins",
-      "first_heading": "3.12.4 Procedural Dungeon Design & Emergent Ruins",
-      "file": "docs/game_design_document/03_12_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md",
-      "source_id": "211b227cadd780409ec8ddb5afa9b340",
-      "original_file": "markdown_export/3 12 4 Procedural Dungeon Design & Emergent Ruins 211b227cadd780409ec8ddb5afa9b340.md",
-      "bytes": 5752,
-      "lines": 158,
-      "words": 865
-    },
-    {
-      "section": "3.12.5",
-      "sort_key": "0003.0012.0005",
-      "top_section": 3,
-      "depth": 3,
-      "title": "Underworld Factions & Mechanics",
-      "first_heading": "3.12.5 Underworld Factions & Mechanics",
-      "file": "docs/game_design_document/03_12_05_00_00_00_00__underworld-factions-and-mechanics.md",
-      "source_id": "214b227cadd780dc90a7fd3da12a049b",
-      "original_file": "markdown_export/3 12 5 Underworld Factions & Mechanics 214b227cadd780dc90a7fd3da12a049b.md",
-      "bytes": 6035,
-      "lines": 113,
-      "words": 811
+      "bytes": 5353,
+      "lines": 59,
+      "words": 740
     },
     {
       "section": "3.13",
@@ -2736,6 +2596,76 @@
       "bytes": 5881,
       "lines": 93,
       "words": 749
+    },
+    {
+      "section": "3.13.1",
+      "sort_key": "0003.0013.0001",
+      "top_section": 3,
+      "depth": 3,
+      "title": "Cave Systems, Ancient Ruins & Tectonics",
+      "first_heading": "3.13.1 Cave Systems, Ancient Ruins & Tectonics",
+      "file": "docs/game_design_document/03_13_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
+      "source_id": "225b227cadd7809bb25ada441cd05564",
+      "original_file": "markdown_export/3 12 1 Cave Systems, Ancient Ruins & Tectonics 225b227cadd7809bb25ada441cd05564.md",
+      "bytes": 49,
+      "lines": 2,
+      "words": 8
+    },
+    {
+      "section": "3.13.2",
+      "sort_key": "0003.0013.0002",
+      "top_section": 3,
+      "depth": 3,
+      "title": "Fungal, Crystalline & Subterranean Life",
+      "first_heading": "3.13.2 Fungal, Crystalline & Subterranean Life",
+      "file": "docs/game_design_document/03_13_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
+      "source_id": "225b227cadd780bcbab5d7331e0387b7",
+      "original_file": "markdown_export/3 12 2 Fungal, Crystalline & Subterranean Life 225b227cadd780bcbab5d7331e0387b7.md",
+      "bytes": 49,
+      "lines": 2,
+      "words": 7
+    },
+    {
+      "section": "3.13.3",
+      "sort_key": "0003.0013.0003",
+      "top_section": 3,
+      "depth": 3,
+      "title": "Underworld Physics & Mythic Layers",
+      "first_heading": "3.13.3 Underworld Physics & Mythic Layers",
+      "file": "docs/game_design_document/03_13_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
+      "source_id": "225b227cadd780ec898fc6d0c6026b0b",
+      "original_file": "markdown_export/3 12 3 Underworld Physics & Mythic Layers 225b227cadd780ec898fc6d0c6026b0b.md",
+      "bytes": 44,
+      "lines": 2,
+      "words": 7
+    },
+    {
+      "section": "3.13.4",
+      "sort_key": "0003.0013.0004",
+      "top_section": 3,
+      "depth": 3,
+      "title": "Procedural Dungeon Design & Emergent Ruins",
+      "first_heading": "3.13.4 Procedural Dungeon Design & Emergent Ruins",
+      "file": "docs/game_design_document/03_13_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md",
+      "source_id": "211b227cadd780409ec8ddb5afa9b340",
+      "original_file": "markdown_export/3 12 4 Procedural Dungeon Design & Emergent Ruins 211b227cadd780409ec8ddb5afa9b340.md",
+      "bytes": 5752,
+      "lines": 158,
+      "words": 865
+    },
+    {
+      "section": "3.13.5",
+      "sort_key": "0003.0013.0005",
+      "top_section": 3,
+      "depth": 3,
+      "title": "Underworld Factions & Mechanics",
+      "first_heading": "3.13.5 Underworld Factions & Mechanics",
+      "file": "docs/game_design_document/03_13_05_00_00_00_00__underworld-factions-and-mechanics.md",
+      "source_id": "214b227cadd780dc90a7fd3da12a049b",
+      "original_file": "markdown_export/3 12 5 Underworld Factions & Mechanics 214b227cadd780dc90a7fd3da12a049b.md",
+      "bytes": 6035,
+      "lines": 113,
+      "words": 811
     },
     {
       "section": "3.14",
@@ -6009,9 +5939,9 @@
       "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
       "source_id": "20eb227cadd7802e930bfe8f391a8c81",
       "original_file": "markdown_export/8 Art & Visual Design 20eb227cadd7802e930bfe8f391a8c81.md",
-      "bytes": 1164,
-      "lines": 28,
-      "words": 72
+      "bytes": 1058,
+      "lines": 26,
+      "words": 66
     },
     {
       "section": "8.1",
@@ -6042,20 +5972,6 @@
       "words": 108
     },
     {
-      "section": "8.1.1",
-      "sort_key": "0008.0001.0001",
-      "top_section": 8,
-      "depth": 3,
-      "title": "Visual Tone & World Mood",
-      "first_heading": "8.1.1 Visual Tone & World Mood",
-      "file": "docs/game_design_document/08_01_01_00_00_00_00__visual-tone-and-world-mood.md",
-      "source_id": "226b227cadd7807d9902f4728810068e",
-      "original_file": "markdown_export/8 1 1 Visual Tone & World Mood 226b227cadd7807d9902f4728810068e.md",
-      "bytes": 211,
-      "lines": 5,
-      "words": 30
-    },
-    {
       "section": "8.1.2",
       "sort_key": "0008.0001.0002",
       "top_section": 8,
@@ -6070,20 +5986,6 @@
       "words": 107
     },
     {
-      "section": "8.1.2",
-      "sort_key": "0008.0001.0002",
-      "top_section": 8,
-      "depth": 3,
-      "title": "Key Visual References",
-      "first_heading": "8.1.2 Key Visual References",
-      "file": "docs/game_design_document/08_01_02_00_00_00_00__key-visual-references.md",
-      "source_id": "226b227cadd780a69b61cfd07924e781",
-      "original_file": "markdown_export/8 1 2 Key Visual References 226b227cadd780a69b61cfd07924e781.md",
-      "bytes": 191,
-      "lines": 5,
-      "words": 26
-    },
-    {
       "section": "8.1.3",
       "sort_key": "0008.0001.0003",
       "top_section": 8,
@@ -6093,23 +5995,9 @@
       "file": "docs/game_design_document/08_01_03_00_00_00_00__visual-tone-and-art-style.md",
       "source_id": "227b227cadd780d2a528ed2552bbfeb1",
       "original_file": "markdown_export/8 1 3 Visual Tone & Art Style 227b227cadd780d2a528ed2552bbfeb1.md",
-      "bytes": 627,
-      "lines": 8,
-      "words": 84
-    },
-    {
-      "section": "8.1.3",
-      "sort_key": "0008.0001.0003",
-      "top_section": 8,
-      "depth": 3,
-      "title": "VR Aesthetic Design Considerations",
-      "first_heading": "8.1.3 VR Aesthetic Design Considerations",
-      "file": "docs/game_design_document/08_01_03_00_00_00_00__vr-aesthetic-design-considerations.md",
-      "source_id": "226b227cadd7805b9bcacdcff2fdc95e",
-      "original_file": "markdown_export/8 1 3 VR Aesthetic Design Considerations 226b227cadd7805b9bcacdcff2fdc95e.md",
-      "bytes": 147,
-      "lines": 5,
-      "words": 22
+      "bytes": 1403,
+      "lines": 15,
+      "words": 185
     },
     {
       "section": "8.1.4",
@@ -6121,9 +6009,9 @@
       "file": "docs/game_design_document/08_01_04_00_00_00_00__iconography-and-symbol-language.md",
       "source_id": "227b227cadd780c68eb0e72b8080fe0d",
       "original_file": "markdown_export/8 1 4 Iconography & Symbol Language 227b227cadd780c68eb0e72b8080fe0d.md",
-      "bytes": 522,
-      "lines": 11,
-      "words": 86
+      "bytes": 756,
+      "lines": 13,
+      "words": 119
     },
     {
       "section": "8.1.5",
@@ -6177,9 +6065,9 @@
       "file": "docs/game_design_document/08_02_00_00_00_00_00__art-style-reference.md",
       "source_id": "21fb227cadd780ddac96f157a87de643",
       "original_file": "markdown_export/8 2 Art Style Reference 21fb227cadd780ddac96f157a87de643.md",
-      "bytes": 1928,
-      "lines": 43,
-      "words": 250
+      "bytes": 1742,
+      "lines": 39,
+      "words": 241
     },
     {
       "section": "8.2.1",
@@ -6317,9 +6205,9 @@
       "file": "docs/game_design_document/08_04_00_00_00_00_00__environment-design-and-procedural-tools.md",
       "source_id": "21fb227cadd7803fa7bbffca11cf114a",
       "original_file": "markdown_export/8 4 Environment Design & Procedural Tools 21fb227cadd7803fa7bbffca11cf114a.md",
-      "bytes": 2270,
-      "lines": 44,
-      "words": 299
+      "bytes": 2443,
+      "lines": 46,
+      "words": 320
     },
     {
       "section": "8.4.1",
@@ -6438,28 +6326,14 @@
       "sort_key": "0008.0007",
       "top_section": 8,
       "depth": 2,
-      "title": "Iconography, Fonts & Symbol Systems",
-      "first_heading": "8.7 Iconography, Fonts & Symbol Systems",
-      "file": "docs/game_design_document/08_07_00_00_00_00_00__iconography-fonts-and-symbol-systems.md",
-      "source_id": "215b227cadd780d9bc95d643834f71d8",
-      "original_file": "markdown_export/8 7 Iconography, Fonts & Symbol Systems 215b227cadd780d9bc95d643834f71d8.md",
-      "bytes": 433,
-      "lines": 14,
-      "words": 37
-    },
-    {
-      "section": "8.7",
-      "sort_key": "0008.0007",
-      "top_section": 8,
-      "depth": 2,
       "title": "Procedural & AI Tools Summary",
       "first_heading": "8.7 Procedural & AI Tools Summary",
       "file": "docs/game_design_document/08_07_00_00_00_00_00__procedural-and-ai-tools-summary.md",
       "source_id": "21fb227cadd780a6b249f309d4680876",
       "original_file": "markdown_export/8 7 Procedural & AI Tools Summary 21fb227cadd780a6b249f309d4680876.md",
-      "bytes": 1512,
-      "lines": 22,
-      "words": 211
+      "bytes": 1692,
+      "lines": 26,
+      "words": 220
     },
     {
       "section": "8.7.1",
@@ -6474,34 +6348,6 @@
       "bytes": 143,
       "lines": 5,
       "words": 23
-    },
-    {
-      "section": "8.7.1",
-      "sort_key": "0008.0007.0001",
-      "top_section": 8,
-      "depth": 3,
-      "title": "Procedural Tools Used",
-      "first_heading": "8.7.1 Procedural Tools Used",
-      "file": "docs/game_design_document/08_07_01_00_00_00_00__procedural-tools-used.md",
-      "source_id": "226b227cadd780ada365cf842f2d1feb",
-      "original_file": "markdown_export/8 7 1 Procedural Tools Used 226b227cadd780ada365cf842f2d1feb.md",
-      "bytes": 86,
-      "lines": 4,
-      "words": 13
-    },
-    {
-      "section": "8.7.2",
-      "sort_key": "0008.0007.0002",
-      "top_section": 8,
-      "depth": 3,
-      "title": "AI-Enhanced Design Tools",
-      "first_heading": "8.7.2 AI-Enhanced Design Tools",
-      "file": "docs/game_design_document/08_07_02_00_00_00_00__ai-enhanced-design-tools.md",
-      "source_id": "226b227cadd78084b69dcd0e457bd153",
-      "original_file": "markdown_export/8 7 2 AI-Enhanced Design Tools 226b227cadd78084b69dcd0e457bd153.md",
-      "bytes": 145,
-      "lines": 5,
-      "words": 21
     },
     {
       "section": "8.7.2",
@@ -6532,20 +6378,6 @@
       "words": 21
     },
     {
-      "section": "8.7.3",
-      "sort_key": "0008.0007.0003",
-      "top_section": 8,
-      "depth": 3,
-      "title": "Texture & Material Authoring",
-      "first_heading": "8.7.3 Texture & Material Authoring",
-      "file": "docs/game_design_document/08_07_03_00_00_00_00__texture-and-material-authoring.md",
-      "source_id": "226b227cadd780f8815cc3db551f9c82",
-      "original_file": "markdown_export/8 7 3 Texture & Material Authoring 226b227cadd780f8815cc3db551f9c82.md",
-      "bytes": 129,
-      "lines": 5,
-      "words": 18
-    },
-    {
       "section": "8.7.4",
       "sort_key": "0008.0007.0004",
       "top_section": 8,
@@ -6558,6 +6390,34 @@
       "bytes": 107,
       "lines": 4,
       "words": 15
+    },
+    {
+      "section": "8.7.5",
+      "sort_key": "0008.0007.0005",
+      "top_section": 8,
+      "depth": 3,
+      "title": "AI-Enhanced Design Tools",
+      "first_heading": "8.7.5 AI-Enhanced Design Tools",
+      "file": "docs/game_design_document/08_07_05_00_00_00_00__ai-enhanced-design-tools.md",
+      "source_id": "226b227cadd78084b69dcd0e457bd153",
+      "original_file": "markdown_export/8 7 2 AI-Enhanced Design Tools 226b227cadd78084b69dcd0e457bd153.md",
+      "bytes": 145,
+      "lines": 5,
+      "words": 21
+    },
+    {
+      "section": "8.7.6",
+      "sort_key": "0008.0007.0006",
+      "top_section": 8,
+      "depth": 3,
+      "title": "Texture & Material Authoring",
+      "first_heading": "8.7.6 Texture & Material Authoring",
+      "file": "docs/game_design_document/08_07_06_00_00_00_00__texture-and-material-authoring.md",
+      "source_id": "226b227cadd780f8815cc3db551f9c82",
+      "original_file": "markdown_export/8 7 3 Texture & Material Authoring 226b227cadd780f8815cc3db551f9c82.md",
+      "bytes": 129,
+      "lines": 5,
+      "words": 18
     },
     {
       "section": "8.8",
@@ -8151,7 +8011,7 @@
       "file": "docs/game_design_document/12_02_00_00_00_00_00__crowdfunding-and-support-platforms.md",
       "source_id": "227b227cadd780fca3bdc99366269911",
       "original_file": "markdown_export/12 2 Crowdfunding & Support Platforms 227b227cadd780fca3bdc99366269911.md",
-      "bytes": 435,
+      "bytes": 437,
       "lines": 14,
       "words": 25
     },
@@ -8487,9 +8347,9 @@
       "file": "docs/game_design_document/12_06_00_00_00_00_00__marketing-and-outreach.md",
       "source_id": "227b227cadd780249b07f2ee60e174e7",
       "original_file": "markdown_export/12 6 Marketing & Outreach 227b227cadd780249b07f2ee60e174e7.md",
-      "bytes": 556,
-      "lines": 14,
-      "words": 36
+      "bytes": 610,
+      "lines": 16,
+      "words": 38
     },
     {
       "section": "12.6.1",
@@ -8576,6 +8436,20 @@
       "words": 7
     },
     {
+      "section": "12.6.7",
+      "sort_key": "0012.0006.0007",
+      "top_section": 12,
+      "depth": 3,
+      "title": "Substack",
+      "first_heading": "12.6.7 Substack",
+      "file": "docs/game_design_document/12_06_07_00_00_00_00__substack.md",
+      "source_id": "220b227cadd7809eb590caea204e9e41",
+      "original_file": "markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41.md",
+      "bytes": 3840,
+      "lines": 107,
+      "words": 590
+    },
+    {
       "section": "12.7",
       "sort_key": "0012.0007",
       "top_section": 12,
@@ -8602,20 +8476,6 @@
       "bytes": 88,
       "lines": 4,
       "words": 11
-    },
-    {
-      "section": "12.8",
-      "sort_key": "0012.0008",
-      "top_section": 12,
-      "depth": 2,
-      "title": "Substack",
-      "first_heading": "12.8 Substack",
-      "file": "docs/game_design_document/12_08_00_00_00_00_00__substack.md",
-      "source_id": "220b227cadd7809eb590caea204e9e41",
-      "original_file": "markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41.md",
-      "bytes": 3838,
-      "lines": 107,
-      "words": 590
     },
     {
       "section": "13",

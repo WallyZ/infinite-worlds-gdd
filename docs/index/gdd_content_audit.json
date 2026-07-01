@@ -17,16 +17,16 @@
     "Appendix and Reference"
   ],
   "summary": {
-    "markdown_files": 658,
-    "total_words": 98105.0,
+    "markdown_files": 648,
+    "total_words": 98208.0,
     "target_areas": 12,
-    "duplicate_section_numbers": 12,
+    "duplicate_section_numbers": 0,
     "orphaned_sections": 0,
     "duplicate_title_groups": 4,
     "exact_content_duplicate_groups": 0,
     "similar_title_candidates": 4,
-    "incomplete_or_stub_candidates": 520,
-    "removal_or_merge_candidates": 318,
+    "incomplete_or_stub_candidates": 509,
+    "removal_or_merge_candidates": 312,
     "non_markdown_assets": 8
   },
   "target_area_inventory": [
@@ -68,8 +68,8 @@
     },
     {
       "target_area": "World and Simulation",
-      "files": 51,
-      "words": 10640.0,
+      "files": 49,
+      "words": 10742.0,
       "current_top_sections": [
         2,
         3,
@@ -80,13 +80,13 @@
         11,
         13
       ],
-      "stub_or_thin": 38,
+      "stub_or_thin": 35,
       "duplicate_title_groups": 0
     },
     {
       "target_area": "Magic and Supernatural Systems",
-      "files": 101,
-      "words": 8011.0,
+      "files": 100,
+      "words": 8004.0,
       "current_top_sections": [
         3,
         4,
@@ -99,7 +99,7 @@
         11,
         15
       ],
-      "stub_or_thin": 86,
+      "stub_or_thin": 85,
       "duplicate_title_groups": 0
     },
     {
@@ -135,8 +135,8 @@
     },
     {
       "target_area": "AI, NPCs, and Factions",
-      "files": 78,
-      "words": 11082.0,
+      "files": 77,
+      "words": 11074.0,
       "current_top_sections": [
         2,
         3,
@@ -149,7 +149,7 @@
         11,
         12
       ],
-      "stub_or_thin": 63,
+      "stub_or_thin": 62,
       "duplicate_title_groups": 0
     },
     {
@@ -167,8 +167,8 @@
     },
     {
       "target_area": "Art, Audio, UI, and UX",
-      "files": 69,
-      "words": 7180.0,
+      "files": 66,
+      "words": 7219.0,
       "current_top_sections": [
         2,
         3,
@@ -183,13 +183,13 @@
         12,
         15
       ],
-      "stub_or_thin": 58,
+      "stub_or_thin": 55,
       "duplicate_title_groups": 0
     },
     {
       "target_area": "Technical, Tooling, and QA",
-      "files": 42,
-      "words": 9057.0,
+      "files": 40,
+      "words": 9067.0,
       "current_top_sections": [
         3,
         4,
@@ -203,13 +203,13 @@
         14,
         15
       ],
-      "stub_or_thin": 27,
+      "stub_or_thin": 25,
       "duplicate_title_groups": 0
     },
     {
       "target_area": "Production, Community, and Publishing",
       "files": 42,
-      "words": 9120.0,
+      "words": 9122.0,
       "current_top_sections": [
         3,
         11,
@@ -221,8 +221,8 @@
     },
     {
       "target_area": "Appendix and Reference",
-      "files": 27,
-      "words": 2127.0,
+      "files": 26,
+      "words": 2092.0,
       "current_top_sections": [
         3,
         5,
@@ -231,7 +231,7 @@
         9,
         15
       ],
-      "stub_or_thin": 21,
+      "stub_or_thin": 20,
       "duplicate_title_groups": 0
     }
   ],
@@ -303,23 +303,23 @@
     {
       "top_section": 3,
       "title": "Simulation & World Systems",
-      "files": 103,
-      "words": 16467.0,
+      "files": 98,
+      "words": 16547.0,
       "target_area_breakdown": [
         {
           "target_area": "World and Simulation",
-          "files": 40,
-          "words": 10364.0
+          "files": 38,
+          "words": 10466.0
         },
         {
           "target_area": "Magic and Supernatural Systems",
-          "files": 23,
-          "words": 2463.0
+          "files": 22,
+          "words": 2456.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
-          "files": 10,
-          "words": 2295.0
+          "files": 9,
+          "words": 2287.0
         },
         {
           "target_area": "Combat and Encounter Systems",
@@ -348,8 +348,8 @@
         },
         {
           "target_area": "Technical, Tooling, and QA",
-          "files": 3,
-          "words": 59.0
+          "files": 2,
+          "words": 52.0
         },
         {
           "target_area": "Appendix and Reference",
@@ -563,23 +563,23 @@
     {
       "top_section": 8,
       "title": "Art & Visual Design",
-      "files": 48,
-      "words": 6084.0,
+      "files": 43,
+      "words": 6105.0,
       "target_area_breakdown": [
         {
           "target_area": "Art, Audio, UI, and UX",
-          "files": 30,
-          "words": 4897.0
+          "files": 27,
+          "words": 4936.0
         },
         {
           "target_area": "Technical, Tooling, and QA",
-          "files": 6,
-          "words": 577.0
+          "files": 5,
+          "words": 594.0
         },
         {
           "target_area": "Appendix and Reference",
-          "files": 4,
-          "words": 388.0
+          "files": 3,
+          "words": 353.0
         },
         {
           "target_area": "Magic and Supernatural Systems",
@@ -746,12 +746,12 @@
       "top_section": 12,
       "title": "Community & Monetization",
       "files": 36,
-      "words": 5674.0,
+      "words": 5676.0,
       "target_area_breakdown": [
         {
           "target_area": "Production, Community, and Publishing",
           "files": 31,
-          "words": 5046.0
+          "words": 5048.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -845,152 +845,7 @@
       ]
     }
   ],
-  "duplicate_section_numbers": [
-    {
-      "section": "3.4.5",
-      "count": 2,
-      "titles": [
-        "NPC & Faction Reactions to Contagion",
-        "Treatments: Alchemy, Rituals, Herbs, Surgery"
-      ],
-      "files": [
-        "docs/game_design_document/03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md",
-        "docs/game_design_document/03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md"
-      ]
-    },
-    {
-      "section": "3.12.1",
-      "count": 2,
-      "titles": [
-        "Cave Systems, Ancient Ruins & Tectonics",
-        "World Persists Without Player Input"
-      ],
-      "files": [
-        "docs/game_design_document/03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
-        "docs/game_design_document/03_12_01_00_00_00_00__world-persists-without-player-input.md"
-      ]
-    },
-    {
-      "section": "3.12.2",
-      "count": 2,
-      "titles": [
-        "Fungal, Crystalline & Subterranean Life",
-        "Systems Interact Autonomously"
-      ],
-      "files": [
-        "docs/game_design_document/03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
-        "docs/game_design_document/03_12_02_00_00_00_00__systems-interact-autonomously.md"
-      ]
-    },
-    {
-      "section": "3.12.3",
-      "count": 2,
-      "titles": [
-        "Server/Local Performance & Memory Optimization",
-        "Underworld Physics & Mythic Layers"
-      ],
-      "files": [
-        "docs/game_design_document/03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md",
-        "docs/game_design_document/03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md"
-      ]
-    },
-    {
-      "section": "8.1.1",
-      "count": 2,
-      "titles": [
-        "Core Themes & Emotional Pillars",
-        "Visual Tone & World Mood"
-      ],
-      "files": [
-        "docs/game_design_document/08_01_01_00_00_00_00__core-themes-and-emotional-pillars.md",
-        "docs/game_design_document/08_01_01_00_00_00_00__visual-tone-and-world-mood.md"
-      ]
-    },
-    {
-      "section": "8.1.2",
-      "count": 2,
-      "titles": [
-        "Color Palette",
-        "Key Visual References"
-      ],
-      "files": [
-        "docs/game_design_document/08_01_02_00_00_00_00__color-palette.md",
-        "docs/game_design_document/08_01_02_00_00_00_00__key-visual-references.md"
-      ]
-    },
-    {
-      "section": "8.1.3",
-      "count": 2,
-      "titles": [
-        "Visual Tone & Art Style",
-        "VR Aesthetic Design Considerations"
-      ],
-      "files": [
-        "docs/game_design_document/08_01_03_00_00_00_00__visual-tone-and-art-style.md",
-        "docs/game_design_document/08_01_03_00_00_00_00__vr-aesthetic-design-considerations.md"
-      ]
-    },
-    {
-      "section": "8.7",
-      "count": 2,
-      "titles": [
-        "Iconography, Fonts & Symbol Systems",
-        "Procedural & AI Tools Summary"
-      ],
-      "files": [
-        "docs/game_design_document/08_07_00_00_00_00_00__iconography-fonts-and-symbol-systems.md",
-        "docs/game_design_document/08_07_00_00_00_00_00__procedural-and-ai-tools-summary.md"
-      ]
-    },
-    {
-      "section": "8.7.1",
-      "count": 2,
-      "titles": [
-        "Magic & Spell VFX",
-        "Procedural Tools Used"
-      ],
-      "files": [
-        "docs/game_design_document/08_07_01_00_00_00_00__magic-and-spell-vfx.md",
-        "docs/game_design_document/08_07_01_00_00_00_00__procedural-tools-used.md"
-      ]
-    },
-    {
-      "section": "8.7.2",
-      "count": 2,
-      "titles": [
-        "AI-Enhanced Design Tools",
-        "Planar/Anomalous Effects"
-      ],
-      "files": [
-        "docs/game_design_document/08_07_02_00_00_00_00__ai-enhanced-design-tools.md",
-        "docs/game_design_document/08_07_02_00_00_00_00__planar-anomalous-effects.md"
-      ]
-    },
-    {
-      "section": "8.7.3",
-      "count": 2,
-      "titles": [
-        "Atmosphere & Emotion",
-        "Texture & Material Authoring"
-      ],
-      "files": [
-        "docs/game_design_document/08_07_03_00_00_00_00__atmosphere-and-emotion.md",
-        "docs/game_design_document/08_07_03_00_00_00_00__texture-and-material-authoring.md"
-      ]
-    },
-    {
-      "section": "12.8",
-      "count": 2,
-      "titles": [
-        "AI-Powered Lore Expansion Toolkits",
-        "Substack"
-      ],
-      "files": [
-        "docs/game_design_document/12_08_00_00_00_00_00__ai-powered-lore-expansion-toolkits.md",
-        "docs/game_design_document/12_08_00_00_00_00_00__substack.md"
-      ]
-    }
-  ],
+  "duplicate_section_numbers": [],
   "orphaned_sections": [],
   "duplicate_title_groups": [
     {
@@ -1219,17 +1074,6 @@
       "title": "Magical Resource Nodes",
       "file": "docs/game_design_document/03_09_03_00_00_00_00__magical-resource-nodes.md",
       "target_area": "Items, Crafting, and Settlement",
-      "words": 5,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.2",
-      "title": "Systems Interact Autonomously",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__systems-interact-autonomously.md",
-      "target_area": "World and Simulation",
       "words": 5,
       "flags": [
         "stub-20-words-or-less",
@@ -1732,17 +1576,6 @@
       ]
     },
     {
-      "section": "3.4.5",
-      "title": "Treatments: Alchemy, Rituals, Herbs, Surgery",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "3.5.2",
       "title": "Behavioral Ecology & Spawn Conditions",
       "file": "docs/game_design_document/03_05_02_00_00_00_00__behavioral-ecology-and-spawn-conditions.md",
@@ -1875,20 +1708,9 @@
       ]
     },
     {
-      "section": "3.12.1",
-      "title": "World Persists Without Player Input",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__world-persists-without-player-input.md",
-      "target_area": "World and Simulation",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.2",
+      "section": "3.13.2",
       "title": "Fungal, Crystalline & Subterranean Life",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
+      "file": "docs/game_design_document/03_13_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
       "target_area": "World and Simulation",
       "words": 7,
       "flags": [
@@ -1897,20 +1719,9 @@
       ]
     },
     {
-      "section": "3.12.3",
-      "title": "Server/Local Performance & Memory Optimization",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.3",
+      "section": "3.13.3",
       "title": "Underworld Physics & Mythic Layers",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
+      "file": "docs/game_design_document/03_13_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
       "target_area": "Narrative, Lore, and Quests",
       "words": 7,
       "flags": [
@@ -2359,17 +2170,6 @@
       ]
     },
     {
-      "section": "3.4.5",
-      "title": "NPC & Faction Reactions to Contagion",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md",
-      "target_area": "AI, NPCs, and Factions",
-      "words": 8,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "3.4.6",
       "title": "VR Feedback: Auditory, Visual, Proprioceptive Responses",
       "file": "docs/game_design_document/03_04_06_00_00_00_00__vr-feedback-auditory-visual-proprioceptive-responses.md",
@@ -2458,9 +2258,9 @@
       ]
     },
     {
-      "section": "3.12.1",
+      "section": "3.13.1",
       "title": "Cave Systems, Ancient Ruins & Tectonics",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
+      "file": "docs/game_design_document/03_13_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
       "target_area": "World and Simulation",
       "words": 8,
       "flags": [
@@ -3310,16 +3110,6 @@
       ]
     },
     {
-      "section": "8.7.1",
-      "title": "Procedural Tools Used",
-      "file": "docs/game_design_document/08_07_01_00_00_00_00__procedural-tools-used.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 13,
-      "flags": [
-        "stub-20-words-or-less"
-      ]
-    },
-    {
       "section": "10.6.3",
       "title": "Interface Customization",
       "file": "docs/game_design_document/10_06_03_00_00_00_00__interface-customization.md",
@@ -3893,9 +3683,9 @@
       ]
     },
     {
-      "section": "8.7.3",
+      "section": "8.7.6",
       "title": "Texture & Material Authoring",
-      "file": "docs/game_design_document/08_07_03_00_00_00_00__texture-and-material-authoring.md",
+      "file": "docs/game_design_document/08_07_06_00_00_00_00__texture-and-material-authoring.md",
       "target_area": "Art, Audio, UI, and UX",
       "words": 18,
       "flags": [
@@ -4244,20 +4034,20 @@
       ]
     },
     {
-      "section": "8.7.2",
-      "title": "AI-Enhanced Design Tools",
-      "file": "docs/game_design_document/08_07_02_00_00_00_00__ai-enhanced-design-tools.md",
-      "target_area": "Technical, Tooling, and QA",
+      "section": "8.7.3",
+      "title": "Atmosphere & Emotion",
+      "file": "docs/game_design_document/08_07_03_00_00_00_00__atmosphere-and-emotion.md",
+      "target_area": "AI, NPCs, and Factions",
       "words": 21,
       "flags": [
         "thin-75-words-or-less"
       ]
     },
     {
-      "section": "8.7.3",
-      "title": "Atmosphere & Emotion",
-      "file": "docs/game_design_document/08_07_03_00_00_00_00__atmosphere-and-emotion.md",
-      "target_area": "AI, NPCs, and Factions",
+      "section": "8.7.5",
+      "title": "AI-Enhanced Design Tools",
+      "file": "docs/game_design_document/08_07_05_00_00_00_00__ai-enhanced-design-tools.md",
+      "target_area": "Technical, Tooling, and QA",
       "words": 21,
       "flags": [
         "thin-75-words-or-less"
@@ -4425,16 +4215,6 @@
       "title": "Enemy Schedules & Patrols",
       "file": "docs/game_design_document/07_04_03_00_00_00_00__enemy-schedules-and-patrols.md",
       "target_area": "Combat and Encounter Systems",
-      "words": 22,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "8.1.3",
-      "title": "VR Aesthetic Design Considerations",
-      "file": "docs/game_design_document/08_01_03_00_00_00_00__vr-aesthetic-design-considerations.md",
-      "target_area": "Art, Audio, UI, and UX",
       "words": 22,
       "flags": [
         "thin-75-words-or-less"
@@ -4908,16 +4688,6 @@
       ]
     },
     {
-      "section": "8.1.2",
-      "title": "Key Visual References",
-      "file": "docs/game_design_document/08_01_02_00_00_00_00__key-visual-references.md",
-      "target_area": "Appendix and Reference",
-      "words": 26,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
-    },
-    {
       "section": "13.8",
       "title": "Input Mapping & Rebinding",
       "file": "docs/game_design_document/13_08_00_00_00_00_00__input-mapping-and-rebinding.md",
@@ -5233,16 +5003,6 @@
       "section": "6.1.2",
       "title": "Material Tiers & Properties",
       "file": "docs/game_design_document/06_01_02_00_00_00_00__material-tiers-and-properties.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 30,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "8.1.1",
-      "title": "Visual Tone & World Mood",
-      "file": "docs/game_design_document/08_01_01_00_00_00_00__visual-tone-and-world-mood.md",
       "target_area": "Art, Audio, UI, and UX",
       "words": 30,
       "flags": [
@@ -5636,18 +5396,6 @@
       ]
     },
     {
-      "section": "12.6",
-      "title": "Marketing & Outreach",
-      "file": "docs/game_design_document/12_06_00_00_00_00_00__marketing-and-outreach.md",
-      "target_area": "Production, Community, and Publishing",
-      "words": 36,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "14.2",
       "title": "Team Structure & Tools",
       "file": "docs/game_design_document/14_02_00_00_00_00_00__team-structure-and-tools.md",
@@ -5710,17 +5458,6 @@
       ]
     },
     {
-      "section": "8.7",
-      "title": "Iconography, Fonts & Symbol Systems",
-      "file": "docs/game_design_document/08_07_00_00_00_00_00__iconography-fonts-and-symbol-systems.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 37,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
-      ]
-    },
-    {
       "section": "15.11",
       "title": "Item & Entity Database",
       "file": "docs/game_design_document/15_11_00_00_00_00_00__item-and-entity-database.md",
@@ -5738,6 +5475,18 @@
       "words": 38,
       "flags": [
         "thin-75-words-or-less"
+      ]
+    },
+    {
+      "section": "12.6",
+      "title": "Marketing & Outreach",
+      "file": "docs/game_design_document/12_06_00_00_00_00_00__marketing-and-outreach.md",
+      "target_area": "Production, Community, and Publishing",
+      "words": 38,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -6290,17 +6039,6 @@
       ]
     },
     {
-      "section": "3.4",
-      "title": "Disease, Poison & Afflictions",
-      "file": "docs/game_design_document/03_04_00_00_00_00_00__disease-poison-and-afflictions.md",
-      "target_area": "World and Simulation",
-      "words": 66,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
-      ]
-    },
-    {
       "section": "4.6.5",
       "title": "Risk & Immersion Design",
       "file": "docs/game_design_document/04_06_05_00_00_00_00__risk-and-immersion-design.md",
@@ -6308,6 +6046,18 @@
       "words": 66,
       "flags": [
         "thin-75-words-or-less"
+      ]
+    },
+    {
+      "section": "8",
+      "title": "Art & Visual Design",
+      "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
+      "target_area": "Art, Audio, UI, and UX",
+      "words": 66,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -6392,18 +6142,6 @@
       "words": 72,
       "flags": [
         "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "8",
-      "title": "Art & Visual Design",
-      "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 72,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -6675,15 +6413,6 @@
       "title": "Magical Resource Nodes",
       "file": "docs/game_design_document/03_09_03_00_00_00_00__magical-resource-nodes.md",
       "target_area": "Items, Crafting, and Settlement",
-      "words": 5,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "3.12.2",
-      "title": "Systems Interact Autonomously",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__systems-interact-autonomously.md",
-      "target_area": "World and Simulation",
       "words": 5,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
@@ -7094,15 +6823,6 @@
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
     },
     {
-      "section": "3.4.5",
-      "title": "Treatments: Alchemy, Rituals, Herbs, Surgery",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 7,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
       "section": "3.5.2",
       "title": "Behavioral Ecology & Spawn Conditions",
       "file": "docs/game_design_document/03_05_02_00_00_00_00__behavioral-ecology-and-spawn-conditions.md",
@@ -7211,36 +6931,18 @@
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
     },
     {
-      "section": "3.12.1",
-      "title": "World Persists Without Player Input",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__world-persists-without-player-input.md",
-      "target_area": "World and Simulation",
-      "words": 7,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "3.12.2",
+      "section": "3.13.2",
       "title": "Fungal, Crystalline & Subterranean Life",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
+      "file": "docs/game_design_document/03_13_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
       "target_area": "World and Simulation",
       "words": 7,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
     },
     {
-      "section": "3.12.3",
-      "title": "Server/Local Performance & Memory Optimization",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 7,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "3.12.3",
+      "section": "3.13.3",
       "title": "Underworld Physics & Mythic Layers",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
+      "file": "docs/game_design_document/03_13_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
       "target_area": "Narrative, Lore, and Quests",
       "words": 7,
       "recommended_action": "merge-or-remove-after-parent-absorption",
@@ -7607,15 +7309,6 @@
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
     },
     {
-      "section": "3.4.5",
-      "title": "NPC & Faction Reactions to Contagion",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md",
-      "target_area": "AI, NPCs, and Factions",
-      "words": 8,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
       "section": "3.4.6",
       "title": "VR Feedback: Auditory, Visual, Proprioceptive Responses",
       "file": "docs/game_design_document/03_04_06_00_00_00_00__vr-feedback-auditory-visual-proprioceptive-responses.md",
@@ -7688,9 +7381,9 @@
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
     },
     {
-      "section": "3.12.1",
+      "section": "3.13.1",
       "title": "Cave Systems, Ancient Ruins & Tectonics",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
+      "file": "docs/game_design_document/03_13_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
       "target_area": "World and Simulation",
       "words": 8,
       "recommended_action": "merge-or-remove-after-parent-absorption",
@@ -8408,15 +8101,6 @@
       "reason": "stub-20-words-or-less"
     },
     {
-      "section": "8.7.1",
-      "title": "Procedural Tools Used",
-      "file": "docs/game_design_document/08_07_01_00_00_00_00__procedural-tools-used.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 13,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less"
-    },
-    {
       "section": "10.6.3",
       "title": "Interface Customization",
       "file": "docs/game_design_document/10_06_03_00_00_00_00__interface-customization.md",
@@ -8930,9 +8614,9 @@
       "reason": "stub-20-words-or-less"
     },
     {
-      "section": "8.7.3",
+      "section": "8.7.6",
       "title": "Texture & Material Authoring",
-      "file": "docs/game_design_document/08_07_03_00_00_00_00__texture-and-material-authoring.md",
+      "file": "docs/game_design_document/08_07_06_00_00_00_00__texture-and-material-authoring.md",
       "target_area": "Art, Audio, UI, and UX",
       "words": 18,
       "recommended_action": "merge-or-remove-after-parent-absorption",
@@ -9353,20 +9037,20 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
-      "section": "12.6",
-      "title": "Marketing & Outreach",
-      "file": "docs/game_design_document/12_06_00_00_00_00_00__marketing-and-outreach.md",
-      "target_area": "Production, Community, and Publishing",
-      "words": 36,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
       "section": "2.3",
       "title": "Exploration, Discovery & Player–World Interaction",
       "file": "docs/game_design_document/02_03_00_00_00_00_00__exploration-discovery-and-playerworld-interaction.md",
       "target_area": "Player Core Rules and Experience",
       "words": 37,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
+      "section": "12.6",
+      "title": "Marketing & Outreach",
+      "file": "docs/game_design_document/12_06_00_00_00_00_00__marketing-and-outreach.md",
+      "target_area": "Production, Community, and Publishing",
+      "words": 38,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
@@ -9434,6 +9118,15 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
+      "section": "8",
+      "title": "Art & Visual Design",
+      "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
+      "target_area": "Art, Audio, UI, and UX",
+      "words": 66,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
       "section": "10",
       "title": "UI, UX & Immersion",
       "file": "docs/game_design_document/10_00_00_00_00_00_00__ui-ux-and-immersion.md",
@@ -9447,15 +9140,6 @@
       "title": "Game Design Document (GDD) Infinite Worlds",
       "file": "docs/game_design_document/00_00_00_00_00_00_00__game-design-document-gdd-infinite-worlds.md",
       "target_area": "Design Control and Overview",
-      "words": 72,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "8",
-      "title": "Art & Visual Design",
-      "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
-      "target_area": "Art, Audio, UI, and UX",
       "words": 72,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
@@ -10526,11 +10210,8 @@
       "title": "Disease, Poison & Afflictions",
       "file": "docs/game_design_document/03_04_00_00_00_00_00__disease-poison-and-afflictions.md",
       "target_area": "World and Simulation",
-      "words": 66,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
-      ]
+      "words": 114,
+      "flags": []
     },
     {
       "section": "3.4.1",
@@ -10570,28 +10251,6 @@
       "title": "Mutation & Evolution in Pathogens",
       "file": "docs/game_design_document/03_04_04_00_00_00_00__mutation-and-evolution-in-pathogens.md",
       "target_area": "World and Simulation",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.4.5",
-      "title": "NPC & Faction Reactions to Contagion",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md",
-      "target_area": "AI, NPCs, and Factions",
-      "words": 8,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.4.5",
-      "title": "Treatments: Alchemy, Rituals, Herbs, Surgery",
-      "file": "docs/game_design_document/03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md",
-      "target_area": "Magic and Supernatural Systems",
       "words": 7,
       "flags": [
         "stub-20-words-or-less",
@@ -11218,89 +10877,7 @@
       "title": "Persistent World Simulation",
       "file": "docs/game_design_document/03_12_00_00_00_00_00__persistent-world-simulation.md",
       "target_area": "World and Simulation",
-      "words": 674,
-      "flags": []
-    },
-    {
-      "section": "3.12.1",
-      "title": "Cave Systems, Ancient Ruins & Tectonics",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
-      "target_area": "World and Simulation",
-      "words": 8,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.1",
-      "title": "World Persists Without Player Input",
-      "file": "docs/game_design_document/03_12_01_00_00_00_00__world-persists-without-player-input.md",
-      "target_area": "World and Simulation",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.2",
-      "title": "Fungal, Crystalline & Subterranean Life",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
-      "target_area": "World and Simulation",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.2",
-      "title": "Systems Interact Autonomously",
-      "file": "docs/game_design_document/03_12_02_00_00_00_00__systems-interact-autonomously.md",
-      "target_area": "World and Simulation",
-      "words": 5,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.3",
-      "title": "Server/Local Performance & Memory Optimization",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.3",
-      "title": "Underworld Physics & Mythic Layers",
-      "file": "docs/game_design_document/03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
-      "target_area": "Narrative, Lore, and Quests",
-      "words": 7,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "3.12.4",
-      "title": "Procedural Dungeon Design & Emergent Ruins",
-      "file": "docs/game_design_document/03_12_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md",
-      "target_area": "World and Simulation",
-      "words": 865,
-      "flags": []
-    },
-    {
-      "section": "3.12.5",
-      "title": "Underworld Factions & Mechanics",
-      "file": "docs/game_design_document/03_12_05_00_00_00_00__underworld-factions-and-mechanics.md",
-      "target_area": "AI, NPCs, and Factions",
-      "words": 811,
+      "words": 740,
       "flags": []
     },
     {
@@ -11309,6 +10886,55 @@
       "file": "docs/game_design_document/03_13_00_00_00_00_00__underworld-and-subsurface-realms.md",
       "target_area": "World and Simulation",
       "words": 749,
+      "flags": []
+    },
+    {
+      "section": "3.13.1",
+      "title": "Cave Systems, Ancient Ruins & Tectonics",
+      "file": "docs/game_design_document/03_13_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md",
+      "target_area": "World and Simulation",
+      "words": 8,
+      "flags": [
+        "stub-20-words-or-less",
+        "heading-only-or-nearly-empty"
+      ]
+    },
+    {
+      "section": "3.13.2",
+      "title": "Fungal, Crystalline & Subterranean Life",
+      "file": "docs/game_design_document/03_13_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md",
+      "target_area": "World and Simulation",
+      "words": 7,
+      "flags": [
+        "stub-20-words-or-less",
+        "heading-only-or-nearly-empty"
+      ]
+    },
+    {
+      "section": "3.13.3",
+      "title": "Underworld Physics & Mythic Layers",
+      "file": "docs/game_design_document/03_13_03_00_00_00_00__underworld-physics-and-mythic-layers.md",
+      "target_area": "Narrative, Lore, and Quests",
+      "words": 7,
+      "flags": [
+        "stub-20-words-or-less",
+        "heading-only-or-nearly-empty"
+      ]
+    },
+    {
+      "section": "3.13.4",
+      "title": "Procedural Dungeon Design & Emergent Ruins",
+      "file": "docs/game_design_document/03_13_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md",
+      "target_area": "World and Simulation",
+      "words": 865,
+      "flags": []
+    },
+    {
+      "section": "3.13.5",
+      "title": "Underworld Factions & Mechanics",
+      "file": "docs/game_design_document/03_13_05_00_00_00_00__underworld-factions-and-mechanics.md",
+      "target_area": "AI, NPCs, and Factions",
+      "words": 811,
       "flags": []
     },
     {
@@ -13727,7 +13353,7 @@
       "title": "Art & Visual Design",
       "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 72,
+      "words": 66,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -13753,16 +13379,6 @@
       "flags": []
     },
     {
-      "section": "8.1.1",
-      "title": "Visual Tone & World Mood",
-      "file": "docs/game_design_document/08_01_01_00_00_00_00__visual-tone-and-world-mood.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 30,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
-    },
-    {
       "section": "8.1.2",
       "title": "Color Palette",
       "file": "docs/game_design_document/08_01_02_00_00_00_00__color-palette.md",
@@ -13771,39 +13387,19 @@
       "flags": []
     },
     {
-      "section": "8.1.2",
-      "title": "Key Visual References",
-      "file": "docs/game_design_document/08_01_02_00_00_00_00__key-visual-references.md",
-      "target_area": "Appendix and Reference",
-      "words": 26,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
-    },
-    {
       "section": "8.1.3",
       "title": "Visual Tone & Art Style",
       "file": "docs/game_design_document/08_01_03_00_00_00_00__visual-tone-and-art-style.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 84,
+      "words": 185,
       "flags": []
-    },
-    {
-      "section": "8.1.3",
-      "title": "VR Aesthetic Design Considerations",
-      "file": "docs/game_design_document/08_01_03_00_00_00_00__vr-aesthetic-design-considerations.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 22,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
     },
     {
       "section": "8.1.4",
       "title": "Iconography & Symbol Language",
       "file": "docs/game_design_document/08_01_04_00_00_00_00__iconography-and-symbol-language.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 86,
+      "words": 119,
       "flags": []
     },
     {
@@ -13839,7 +13435,7 @@
       "title": "Art Style Reference",
       "file": "docs/game_design_document/08_02_00_00_00_00_00__art-style-reference.md",
       "target_area": "Appendix and Reference",
-      "words": 250,
+      "words": 241,
       "flags": []
     },
     {
@@ -13935,7 +13531,7 @@
       "title": "Environment Design & Procedural Tools",
       "file": "docs/game_design_document/08_04_00_00_00_00_00__environment-design-and-procedural-tools.md",
       "target_area": "Technical, Tooling, and QA",
-      "words": 299,
+      "words": 320,
       "flags": []
     },
     {
@@ -14016,21 +13612,10 @@
     },
     {
       "section": "8.7",
-      "title": "Iconography, Fonts & Symbol Systems",
-      "file": "docs/game_design_document/08_07_00_00_00_00_00__iconography-fonts-and-symbol-systems.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 37,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
-      ]
-    },
-    {
-      "section": "8.7",
       "title": "Procedural & AI Tools Summary",
       "file": "docs/game_design_document/08_07_00_00_00_00_00__procedural-and-ai-tools-summary.md",
       "target_area": "Technical, Tooling, and QA",
-      "words": 211,
+      "words": 220,
       "flags": []
     },
     {
@@ -14039,26 +13624,6 @@
       "file": "docs/game_design_document/08_07_01_00_00_00_00__magic-and-spell-vfx.md",
       "target_area": "Art, Audio, UI, and UX",
       "words": 23,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "8.7.1",
-      "title": "Procedural Tools Used",
-      "file": "docs/game_design_document/08_07_01_00_00_00_00__procedural-tools-used.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 13,
-      "flags": [
-        "stub-20-words-or-less"
-      ]
-    },
-    {
-      "section": "8.7.2",
-      "title": "AI-Enhanced Design Tools",
-      "file": "docs/game_design_document/08_07_02_00_00_00_00__ai-enhanced-design-tools.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 21,
       "flags": [
         "thin-75-words-or-less"
       ]
@@ -14084,21 +13649,31 @@
       ]
     },
     {
-      "section": "8.7.3",
-      "title": "Texture & Material Authoring",
-      "file": "docs/game_design_document/08_07_03_00_00_00_00__texture-and-material-authoring.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 18,
-      "flags": [
-        "stub-20-words-or-less"
-      ]
-    },
-    {
       "section": "8.7.4",
       "title": "Damage, Decay & Corruption",
       "file": "docs/game_design_document/08_07_04_00_00_00_00__damage-decay-and-corruption.md",
       "target_area": "Art, Audio, UI, and UX",
       "words": 15,
+      "flags": [
+        "stub-20-words-or-less"
+      ]
+    },
+    {
+      "section": "8.7.5",
+      "title": "AI-Enhanced Design Tools",
+      "file": "docs/game_design_document/08_07_05_00_00_00_00__ai-enhanced-design-tools.md",
+      "target_area": "Technical, Tooling, and QA",
+      "words": 21,
+      "flags": [
+        "thin-75-words-or-less"
+      ]
+    },
+    {
+      "section": "8.7.6",
+      "title": "Texture & Material Authoring",
+      "file": "docs/game_design_document/08_07_06_00_00_00_00__texture-and-material-authoring.md",
+      "target_area": "Art, Audio, UI, and UX",
+      "words": 18,
       "flags": [
         "stub-20-words-or-less"
       ]
@@ -15470,7 +15045,7 @@
       "title": "Marketing & Outreach",
       "file": "docs/game_design_document/12_06_00_00_00_00_00__marketing-and-outreach.md",
       "target_area": "Production, Community, and Publishing",
-      "words": 36,
+      "words": 38,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -15542,6 +15117,14 @@
       ]
     },
     {
+      "section": "12.6.7",
+      "title": "Substack",
+      "file": "docs/game_design_document/12_06_07_00_00_00_00__substack.md",
+      "target_area": "Production, Community, and Publishing",
+      "words": 590,
+      "flags": []
+    },
+    {
       "section": "12.7",
       "title": "In-Game Community Integration",
       "file": "docs/game_design_document/12_07_00_00_00_00_00__in-game-community-integration.md",
@@ -15561,14 +15144,6 @@
         "stub-20-words-or-less",
         "heading-only-or-nearly-empty"
       ]
-    },
-    {
-      "section": "12.8",
-      "title": "Substack",
-      "file": "docs/game_design_document/12_08_00_00_00_00_00__substack.md",
-      "target_area": "Production, Community, and Publishing",
-      "words": 590,
-      "flags": []
     },
     {
       "section": "13",

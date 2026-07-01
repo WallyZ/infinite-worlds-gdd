@@ -35,8 +35,4 @@ A *hyper-realistic base* grounded in physical accuracy, layered with *stylized f
 
 Core vision for how the world should look and feel.
 
-[8.1.1 Visual Tone & World Mood](08_01_01_00_00_00_00__visual-tone-and-world-mood.md)
-
-[8.1.2 Key Visual References](08_01_02_00_00_00_00__key-visual-references.md)
-
-[8.1.3 VR Aesthetic Design Considerations](08_01_03_00_00_00_00__vr-aesthetic-design-considerations.md)
+[8.1.3 Visual Tone & Art Style](08_01_03_00_00_00_00__visual-tone-and-art-style.md)

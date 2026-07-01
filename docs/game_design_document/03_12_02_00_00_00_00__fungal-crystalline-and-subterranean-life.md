@@ -1,1 +1,0 @@
-# 3.12.2 Fungal, Crystalline & Subterranean Life

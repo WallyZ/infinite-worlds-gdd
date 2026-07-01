@@ -12,8 +12,10 @@ Expand survival into illness, corruption, madness—afflictions that persist acr
 
 [3.4.4 Mutation & Evolution in Pathogens](03_04_04_00_00_00_00__mutation-and-evolution-in-pathogens.md)
 
-[3.4.5 Treatments: Alchemy, Rituals, Herbs, Surgery](03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md)
+## Treatment and Social Response Notes
 
-[3.4.5 NPC & Faction Reactions to Contagion](03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md)
+- Treatments should cover alchemy, rituals, herbs, surgery, quarantine, and recovery support.
+- NPC and faction reactions to contagion should include fear, stigma, triage, travel restrictions, trade impacts, religious responses, and opportunistic exploitation.
+- These notes absorb the former duplicate-number stubs `3.4.5 Treatments: Alchemy, Rituals, Herbs, Surgery` and `3.4.5 NPC & Faction Reactions to Contagion`.
 
 [3.4.6 VR Feedback: Auditory, Visual, Proprioceptive Responses](03_04_06_00_00_00_00__vr-feedback-auditory-visual-proprioceptive-responses.md)
