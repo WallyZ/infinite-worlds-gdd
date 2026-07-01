@@ -41,6 +41,7 @@ try {
 
     Assert-RepoPath "README.md"
     Assert-RepoPath "AGENTS.md"
+    Assert-RepoPath ".editorconfig"
     Assert-RepoPath ".gitignore"
     Assert-RepoPath "docs\game_design_document"
     Assert-RepoPath "docs\CODEX_GDD_NAVIGATION.md"
@@ -56,6 +57,7 @@ try {
     Assert-RepoPath "docs\index\gdd_filename_migration.json"
     Assert-RepoPath "scripts\build-gdd-index.ps1"
     Assert-RepoPath "scripts\build-gdd-content-audit.ps1"
+    Assert-RepoPath "scripts\markdown_format_guard.py"
     Assert-RepoPath "scripts\codex-verify.ps1"
 
     $markdownFiles = Get-ChildItem -LiteralPath (Join-Path $repoRoot "docs\game_design_document") -File -Filter "*.md" -ErrorAction Stop
@@ -71,6 +73,22 @@ try {
     $legacyMergedPath = Join-Path $repoRoot "merged_gdd.txt"
     if (Test-Path -LiteralPath $legacyMergedPath) {
         throw "merged_gdd.txt should not be present. Use docs\index\GDD_SOURCE_INDEX.md for broad keyword search."
+    }
+
+    Write-VerifyLine "markdown format guard started"
+    $markdownGuard = Join-Path $repoRoot "scripts\markdown_format_guard.py"
+    $markdownGuardTargets = @(
+        (Join-Path $repoRoot "README.md"),
+        (Join-Path $repoRoot "AGENTS.md"),
+        (Join-Path $repoRoot "docs")
+    )
+    $markdownOutput = & python $markdownGuard --check @markdownGuardTargets 2>&1
+    $markdownExit = $LASTEXITCODE
+    foreach ($line in $markdownOutput) {
+        Write-VerifyLine "$line"
+    }
+    if ($markdownExit -ne 0) {
+        throw "Markdown format guard failed with exit code $markdownExit. Run python scripts\markdown_format_guard.py --fix README.md AGENTS.md docs."
     }
 
     Write-VerifyLine "gdd index freshness check started"
@@ -104,6 +122,7 @@ try {
     }
 
     Write-VerifyLine "checked Markdown files: $($markdownFiles.Count)"
+    Write-VerifyLine "checked Markdown format guard"
     Write-VerifyLine "checked GDD filename standard"
     Write-VerifyLine "checked GDD source index full-text snapshot"
     Write-VerifyLine "checked GDD index freshness"

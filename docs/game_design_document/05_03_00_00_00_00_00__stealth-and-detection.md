@@ -88,7 +88,7 @@ if (CanSmell(PlayerScent)) {
 ```
 
 > Each of these can trigger different behaviors:
-> 
+>
 - Vision: Raise weapon, alert call
 - Hearing: Turn toward sound, investigate
 - Smell: Start tracking or set an ambush
@@ -116,7 +116,7 @@ if (CanSmell(PlayerScent)) {
 - A predator with bad vision and excellent smell is **upwind** of you
 
 > It smells you before it sees or hears you, and starts circling to find your trail.
-> 
+>
 
 [5.3.1 Stealth Core Systems](05_03_01_00_00_00_00__stealth-core-systems.md)
 

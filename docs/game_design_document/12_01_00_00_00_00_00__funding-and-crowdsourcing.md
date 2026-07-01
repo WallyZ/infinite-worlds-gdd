@@ -84,7 +84,7 @@ Frame your game not just as entertainment but as:
 ## 🧠 Example Pitch Summary for a Grant
 
 > “Infinite Worlds is an immersive VR sandbox RPG that transforms traditional gameplay into real-world learning. Players uncover practical skills such as navigation, survival techniques, crafting, and plant identification. Built with accessibility and deep engagement in mind, the game leverages spatial learning and procedural discovery to offer a novel approach to experiential education through interactive fantasy storytelling.”
-> 
+>
 
 - Transparent monetization goals (support sustainability, empower creativity)
 - Avoidance of exploitative practices (no FOMO, pay-to-win, etc.)

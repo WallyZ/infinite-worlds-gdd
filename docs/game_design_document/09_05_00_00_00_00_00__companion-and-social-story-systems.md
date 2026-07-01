@@ -31,7 +31,7 @@ Each NPC holds **ethical stances** and **cultural values** that may evolve over 
     - Pragmatism ↔ Idealism
 
 > Example: A pragmatic, low-agreeableness mercenary may tolerate cruelty for survival—until it clashes with their trauma from a past betrayal.
-> 
+>
 
 ### 2. 🔄 Dynamic Behavior Modeling
 
@@ -225,10 +225,10 @@ These values range from **-100 (hostile)** to **+100 (deep bond)** and change ba
 | **Serelith** | +25 R / -10 T / +20 A | -30 R / -30 T / -30 A | +5 R / +5 T / +20 A | – | +40 R / +20 T / +30 A |
 
 > Legend:
-> 
-> 
+>
+>
 > R = Respect | T = Trust | A = Affinity
-> 
+>
 
 ---
 
@@ -353,9 +353,9 @@ EVENT: Player chooses to burn a village.
 - Relationships and emotions stored as **weighted variables with decay over time**
     - Old events fade unless re-triggered or reinforced
 - Integration with dialogue and quest systems via **dynamic tags**
-    
+
     *(e.g., dialogue lines change based on trust level or recent betrayal)*
-    
+
 
 **Pseudocode system** for tracking and updating **NPC relationship values** over time. This is designed to be **modular**, extensible, and easily integrated into most game engines (Unity, Unreal, Godot, or custom).
 
@@ -771,7 +771,7 @@ Boran->ReactToEvent("Revain", "PLAYER_BETRAYED", 1.0f);
 - **Behavioral modeling:** NPCs weigh outcomes based on previous interactions, reputation, or current incentives.
 
 > Example: An NPC might cooperate with the player if trust is high, but betray if their needs aren't being met or they’re incentivized by a rival faction.
-> 
+>
 
 ---
 

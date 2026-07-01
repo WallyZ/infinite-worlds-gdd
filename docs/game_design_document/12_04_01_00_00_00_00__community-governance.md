@@ -79,40 +79,40 @@ Mods don’t need to match a specific canon — instead, they must:
 ### 🔁 **Recommended Mod Categories for Review**
 
 - **New Spells & Psionics**
-    
+
     Must adhere to the player’s effort system, gesture/voice casting, and affect fatigue or mental focus
-    
+
 - **New Skills or Knowledge Trees**
-    
+
     Must fit into progression through experimentation, tomes, or NPC teaching
-    
+
 - **Creatures, Monsters, and Ecosystems**
-    
+
     Must integrate with ecology simulation, AI awareness, and physical interactions
-    
+
 - **Equipment & Craftables**
-    
+
     Must balance with survival pacing, tool degradation, and crafting realism
-    
+
 - **Biomes & Worldgen Presets**
-    
+
     Must remain within high-fantasy, quasi-realistic parameters (e.g., no vaporwave desert planets unless lore-justified)
-    
+
 
 ### 🧑‍⚖️ **Future Ideas (Optional Enhancements)**
 
 - **Weighted Voting by Mod Install Base + Feedback**
-    
+
     Helps elevate useful mods that fit within aesthetic & gameplay norms
-    
+
 - **Player “Lore Tastes” Profiles**
-    
+
     Auto-suggest mods based on player preferences (e.g., grounded realism, surreal myth, dark fantasy)
-    
+
 - **Self-Hosted "Mini-Councils"**
-    
+
     Player groups or server hosts can adopt the tagging framework to curate their own trusted lists
-    
+
 
 ---
 

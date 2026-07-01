@@ -1,6 +1,6 @@
 # 3.1.2 Biome Diversity & Composition (climate, altitude, terrain types)
 
-### 
+###
 
 Biomes in *Infinite Worlds* are more than visual backdrops—they are **living, reactive systems** shaped by climate logic, evolutionary pressures, and environmental storytelling. Each biome offers unique **ecological, sensory, and gameplay challenges**, emphasizing realism and systemic coherence.
 

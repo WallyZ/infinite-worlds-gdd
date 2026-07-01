@@ -23,12 +23,12 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.4 – Combat System
-> 
-> 
+>
+>
 > Section 4.5 – Magic & Abilities
-> 
+>
 > Section 7.2 – Visual & Audio Feedback Loops
-> 
+>
 
 ---
 
@@ -45,12 +45,12 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.5 – Magic Schools
-> 
-> 
+>
+>
 > Section 5.2 – Combat Progression & Specializations
-> 
+>
 > Section 6.1 – Skills System (if magic is tied to learning & feedback)
-> 
+>
 
 ---
 
@@ -67,10 +67,10 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 2.4.1 – Diegetic Interface Design
-> 
-> 
+>
+>
 > Section 4.3 – Immersive Control Schemes
-> 
+>
 
 ---
 
@@ -90,12 +90,12 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.6 – Equipment & Crafting Systems
-> 
-> 
+>
+>
 > Section 3.4 – Material Simulation & Properties
-> 
+>
 > Section 7.3 – Legendary or Unique Gear Systems
-> 
+>
 
 ---
 
@@ -115,10 +115,10 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.4 – Enemy Design & Combat AI
-> 
-> 
+>
+>
 > Section 3.6 – Dynamic AI Pathfinding & Perception
-> 
+>
 
 ---
 
@@ -134,10 +134,10 @@ Destiny's fireteam classes (Titan, Hunter, Warlock) **encourage different playst
 ### GDD Use:
 
 > Section 5.1 – Player Progression & Class Archetypes
-> 
-> 
+>
+>
 > Section 1.5 – Player Psychology & Meaningful Play
-> 
+>
 
 ---
 
@@ -157,10 +157,10 @@ Destiny's fireteam classes (Titan, Hunter, Warlock) **encourage different playst
 ### GDD Use:
 
 > Section 3.2 – World Building & Topography
-> 
-> 
+>
+>
 > Section 4.2 – Exploration & Movement
-> 
+>
 
 ---
 

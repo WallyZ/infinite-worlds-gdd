@@ -8,7 +8,7 @@
     - New faction ideologies ("The Redeemed Path" movement founded by your martyrdom)
 
 > Implementation Tip:
-> 
-> 
+>
+>
 > Create a **Cultural Event Generator** tied to major player flags (died heroically, cured plague, burned sacred tree, etc.)
 >

@@ -165,7 +165,7 @@ void Tick(float DeltaTime)
 - `CalculateVisibility(...)` – factors in clothing, camo, light, environment.
 - `GetMovementNoise(...)` – considers footwear, movement type, gear.
 - `PlayerClothing` struct or class with fields:
-    
+
     ```cpp
     cpp
     CopyEdit
@@ -177,7 +177,7 @@ void Tick(float DeltaTime)
     };
     
     ```
-    
+
 - `FocusTarget(FVector Target)` – stores AI focus or destination.
 
 ## 🔄 **AI Behavioral States Based on Sense**
@@ -220,10 +220,10 @@ Compare **Blueprints** vs **Behavior Trees (BTs)** specifically for this kind of
 ## ✅ Recommended Hybrid Approach (Best of Both Worlds)
 
 > 🔧 Do sensing (vision/hearing/smell) in Blueprints or C++
-> 
-> 
+>
+>
 > 🧠 **Drive decision-making in the Behavior Tree based on those results**
-> 
+>
 
 This keeps your detection logic modular, testable, and adjustable without spaghetti BT logic.
 
@@ -250,7 +250,7 @@ You could do this in:
 ### 🧠 Behavior Tree Handles:
 
 - **Deciding what to do based on perception states**:
-    
+
     ```
     text
     CopyEdit
@@ -260,7 +260,7 @@ You could do this in:
     ELSE → Idle or Patrol
     
     ```
-    
+
 - The BT stays **clean**, readable, and logic-driven, while the complex calculations are offloaded.
 
 ---

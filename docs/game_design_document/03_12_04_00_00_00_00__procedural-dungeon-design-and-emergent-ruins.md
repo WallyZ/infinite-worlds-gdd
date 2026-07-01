@@ -1,9 +1,9 @@
 # 3.12.4 Procedural Dungeon Design & Emergent Ruins
 
-## 
+##
 
 > Dungeons in Infinite Worlds are living, reactive spaces shaped by culture, decay, and natural law. They evolve over time, respond to the player, and maintain their own internal logic — physically, ecologically, historically, and spiritually. Every dungeon tells a story through its layout, resources, creatures, and anomalies.
-> 
+>
 
 ---
 
@@ -15,7 +15,7 @@ Dungeons begin with purpose — they aren’t just containers for loot.
 - **Current state:** Overgrown, flooded, desecrated, inhabited, cursed, ruptured
 
 > Example: A temple buried by volcanic ash is now the breeding ground of obsidian-skinned salamanders and fever-ridden fungal cultists.
-> 
+>
 
 ---
 
@@ -29,7 +29,7 @@ Anchor the dungeon in believable systems:
 - How does air circulation or light work?
 
 > Goblin latrines emit sulfur fumes that can be ignited. A buried oasis room provides clean water — and is fiercely guarded.
-> 
+>
 
 ---
 
@@ -43,7 +43,7 @@ Creatures aren’t static — they have relationships, routines, and needs.
 - Reaction to change: patrols, alarms, escapes, reinforcements
 
 > Disrupting a kobold fungus farm causes famine; survivors try to parley or retreat into spider-infested tunnels.
-> 
+>
 
 ---
 
@@ -56,7 +56,7 @@ Underground spaces breathe. Build tension through rhythm and perception.
 - Echoes, footsteps, smells, or flickering shadows give clues
 
 > A tolling bell marks the start of a cult’s ceremony — giving players 5 minutes to intervene or avoid a massive summoning.
-> 
+>
 
 ---
 
@@ -70,7 +70,7 @@ Player actions and internal systems change the dungeon:
 - Magical anomalies grow or become unstable
 
 > After players shatter a cursed statue, shadow vines begin growing throughout the complex, corrupting nearby life.
-> 
+>
 
 ---
 
@@ -84,7 +84,7 @@ Let the space itself speak.
 - Real objects with use, decay, and meaning — not just props
 
 > A toppled throne, stained with dried blood, rests beside a fresh grave dug by children’s hands.
-> 
+>
 
 ---
 
@@ -97,7 +97,7 @@ Encounters change dynamically based on player behavior.
 - New rituals, summoned beings, or hostages appear if time passes
 
 > After the PCs burn the shaman’s scrolls, he traps a party member behind an illusory wall and begins a blood ritual in desperation.
-> 
+>
 
 ---
 
@@ -111,7 +111,7 @@ Dungeons reward curiosity, not just aggression.
 - Language decoding, memory triggers, or shared dreams
 
 > A blind, ancient troll offers safe passage in exchange for whispered stories of the surface world.
-> 
+>
 
 ---
 
@@ -125,7 +125,7 @@ Use procedural systems to create meaningful variation:
 - **Conflict seeds**: inter-faction tensions, sealed portals, cursed objects
 
 > Dungeon seed: "Sunken Refuge of the Oracle" → Procedurally spawns water-damaged archives, spirit-haunted pools, and hydrophobic torch puzzles.
-> 
+>
 
 ---
 
@@ -139,7 +139,7 @@ Support deep embodied navigation and physical exploration.
 - Tactile rituals: drawing runes, aligning crystals, bloodletting or sacrifice mechanics
 
 > To open a sealed chamber, players must balance on a swaying platform while reaching through flame to grasp a relic, triggering a tactile feedback riddle.
-> 
+>
 
 ---
 

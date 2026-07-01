@@ -31,6 +31,7 @@ Canonical implementation plans, normalized design briefs, QA specs, and Unreal p
 - `docs/index/gdd_filename_migration.json`: old export filenames mapped to current source names.
 - `scripts/build-gdd-index.ps1`: regenerates or checks the source index.
 - `scripts/build-gdd-content-audit.ps1`: regenerates or checks the content audit.
+- `scripts/markdown_format_guard.py`: repo-kit Markdown whitespace/fence/frontmatter guard.
 - `scripts/codex-verify.ps1`: source package verification.
 
 ## Codex Search Workflow
@@ -51,4 +52,4 @@ Use:
 .\scripts\codex-verify.ps1
 ```
 
-The verifier checks that expected source folders/files exist, Markdown filenames follow the repo standard, generated indexes and audits are fresh, the legacy root `merged_gdd.txt` file is absent, and logs are written under `.codex-cache\logs\`.
+The verifier checks that expected source folders/files exist, Markdown formatting follows the repo-kit guard, Markdown filenames follow the repo standard, generated indexes and audits are fresh, the legacy root `merged_gdd.txt` file is absent, and logs are written under `.codex-cache\logs\`.

@@ -105,7 +105,7 @@ Every psion starts with 1–3 **latent potential abilities** (chosen secretly by
 - Critical success/failure in related mental or sensory rolls
 
 > 🧠 Example: After barely surviving an assassination attempt, the PC suddenly hears the thoughts of the assassin—triggering Telereceive.
-> 
+>
 
 ---
 
@@ -139,7 +139,7 @@ Each time you **successfully use a power**, **under strain**, or **in a novel wa
 | Using a power creatively | +1 GP |
 
 > 💡 Optional Rule: You can only earn GP for a specific power once per session, but can earn GP in multiple disciplines.
-> 
+>
 
 ---
 
@@ -223,7 +223,7 @@ CopyEdit
 | Critical success/failure | RNG-based outcome | +1 |
 
 > Example: During a high-stakes stealth mission, the player uses Mind Reading to detect a traitor. The game flags “use under pressure + critical success” → +2 GP to that power.
-> 
+>
 
 ---
 
@@ -284,7 +284,7 @@ Instead of menus floating in a void, the player interacts with **in-world object
 - **Runes, tattoos, or veins glowing on the hands/arms** when a power is active or evolving.
 
 > 🔮 Example: After using "Telekinesis" in a high-stress moment, your hand glows briefly with a subtle fractal pulse — signaling growth. Later, in your mindspace (safe room), you interact with a 3D skill tree by moving your hands and channeling focus.
-> 
+>
 
 ---
 
@@ -297,7 +297,7 @@ Use **hand gestures** or **gaze direction** to indicate:
 - **Skill inspection** (e.g., stare at a symbol or raise your hand to see detailed info float in space)
 
 > 🧠 Bonus: When powers grow, haptics on controllers could thrum gently with ascending pitch, giving physical feedback to internal growth.
-> 
+>
 
 ---
 
@@ -310,7 +310,7 @@ If some HUD is required, integrate it naturally:
 - **Heat map-style visual overlays** in the environment to show emotional or psychic intensity.
 
 > Example: When using Clairsentience, faint spectral outlines of enemies appear through walls. If you just leveled the power, the outlines become crisper, and a soft whisper sound cues the evolution.
-> 
+>
 
 ---
 
@@ -323,7 +323,7 @@ Tie progression to environmental and emotional cues:
 - **Mindscape rooms**: An inner sanctum players visit in dreams or meditations, where the psionic tree or neural web grows in 3D.
 
 > This neural web could be an actual VR interface, like a branching coral structure, each node representing a skill. Players walk around it or interact by grabbing and inspecting nodes.
-> 
+>
 
 ---
 
@@ -346,7 +346,7 @@ When you have enough GP to evolve:
 - The game might **enter a short dream or trance sequence**, where the player *chooses a new branch* or *channels their growth* using hand movements or emotional choices.
 
 > 🧬 Example: You enter a translucent sphere of memory, floating in VR. In front of you: 3 potential new evolutions. You reach out, touch one, and the entire sphere pulses as your power is reborn.
-> 
+>
 
 ---
 
@@ -396,27 +396,27 @@ Keep the pieces loosely coupled so you can extend or swap any part.
 ### 2️⃣ Blueprint Event Flow (excerpt)
 
 1. **Gesture → Power Use**
-    
+
     `BP_VRPawn::Input_TKGesture`
-    
+
     → **BPI_PsionicGestures.ActivatePower("Telekinesis")**
-    
+
     → `BP_PsionicPowerComponent::TryActivate(FContext = Stress)`
-    
+
     → **OnPowerUsed** (Dispatcher, passes *Context*)
-    
+
 2. **Growth Points**
-    
+
     `BP_PsionicSubsystem::RouteGrowth` receives event, adds GP;
-    
+
     if `GP >= Thresholds[State]` → calls `Power->EvolvePower()`.
-    
+
 3. **UI & FX**
-    
+
     `BP_HandFX` responds to **OnPowerUsed** ⇒ glow + haptic.
-    
+
     `BP_MindspaceActor` listens to **OnPowerEvolved** ⇒ pulses node, spawns `BP_EvolutionPrompt` in front of player.
-    
+
 
 ---
 

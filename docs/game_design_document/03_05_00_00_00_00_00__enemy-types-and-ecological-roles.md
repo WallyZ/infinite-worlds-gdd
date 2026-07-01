@@ -35,31 +35,31 @@ In addition to their taxonomy, enemies are classified by combat and narrative **
 | **Bosses / World Threats** | Rare, often narrative-centered entities. Possess custom mechanics, multiple phases, or unique environmental interactions. Require full strategic focus and often mark turning points in the story. |
 
 > Example: A Fiendish Elite may be a demon cult priest capable of summoning lesser imps and weakening party morale, while a Beast Mini-Boss might be a territorial wyvern guarding a sacred glade.
-> 
+>
 
 ---
 
 ### 🧠 **Design Purpose and Gameplay Impact**
 
 - **Narrative Resonance**
-    
+
     Each creature type embodies **themes and moral tensions** (e.g., order vs. chaos, nature vs. civilization, life vs. undeath). Encounters become meaningful through lore and player decisions, not just stats.
-    
+
 - **Tactical Diversity**
-    
+
     Creatures vary not only by strength but by **behavior, terrain usage, elemental affinity, and AI complexity**. For instance:
-    
+
     - **Oozes** restrict movement and visibility.
     - **Giants** use shockwaves and terrain destruction.
     - **Fey** use illusions, confusion, or persuasion.
 - **Player Anticipation**
-    
+
     Recognizing creature types and roles helps players **learn behaviors, prepare tools, and plan tactics**. They come to anticipate that undead may rise again, or that constructs can’t be reasoned with.
-    
+
 - **Procedural Encounter Variety**
-    
+
     The modular nature of enemy types + roles allows the procedural engine to generate meaningful, themed encounters across diverse biomes and narrative contexts.
-    
+
 
 Tension scaling system tied to world events
 

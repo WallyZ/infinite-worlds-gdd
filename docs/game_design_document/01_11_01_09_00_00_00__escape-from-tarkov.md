@@ -29,7 +29,7 @@
 Each raid in EFT is a **self-contained survival mission**. You drop into a map with gear, loot as much as you can, and must extract before time runs out or you die.
 
 > If you die, everything you brought is lost (unless insured and retrieved).
-> 
+>
 
 **🧠 Lesson for Infinite Worlds:**
 
@@ -116,9 +116,9 @@ EFT tracks skill improvements like:
 - Metabolism
 - Strength
 - Weapon familiarity
-    
+
     ...but they grow through use and feel organic.
-    
+
 
 **🧠 Lesson:**
 

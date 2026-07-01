@@ -1,6 +1,6 @@
 # 12. Community & Monetization
 
-## 
+##
 
 ### 🪙 Currencies
 

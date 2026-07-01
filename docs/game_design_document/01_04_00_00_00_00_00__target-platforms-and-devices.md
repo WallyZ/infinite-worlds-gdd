@@ -124,7 +124,7 @@ Your *Infinite Worlds* now supports:
 - Structured plans for integrating future XR hardware
 
 > Info best suited for sections:
-> 
+>
 > - "Haptics Integration & Profiles" (NEW Section 4.x)
 > - "1.5 Design Philosophy" → add "Hardware Expansion Philosophy"
 > - Appendix: "Supported Hardware Matrix" (detailed comparison table)

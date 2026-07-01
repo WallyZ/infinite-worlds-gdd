@@ -25,9 +25,9 @@
 ## 🧠 Technical Specifications
 
 - **Game Engine:** Unreal Engine 5.6
-    
+
     Leveraging Nanite and Lumen for high-fidelity visuals while maintaining scalable performance for VR.
-    
+
 - **Programming Languages & Systems:**
     - **Blueprints** for rapid iteration and VR interaction systems
     - **C++** for performance-critical systems like AI, procedural generation, and simulation

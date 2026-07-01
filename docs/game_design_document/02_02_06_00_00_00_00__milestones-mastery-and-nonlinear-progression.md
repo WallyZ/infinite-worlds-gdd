@@ -30,9 +30,9 @@ Examples:
 - Levels are replaced by skill mastery and social impact
 - They may spread word (or lies) about you.
 - Your reputation impacts access, trust, and relationships. |
-    
+
     | **World Impact** | The world **remembers and evolves**:
-    
+
 - Cities rise or fall.
 - Wars break out.
 - Ecosystems change.

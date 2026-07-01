@@ -1,7 +1,7 @@
 # 4.6 Astral Navigation & Celestial Runeships
 
 > “To sail the stars is to read the soul of the world — not through force, but through resonance, will, and ancient understanding.”
-> 
+>
 
 ---
 

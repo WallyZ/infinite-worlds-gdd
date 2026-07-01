@@ -2,14 +2,14 @@
 
 ### **Define Your Roadmap**
 
-**a. Document Core Features:**  
+**a. Document Core Features:**
 Create a design document that lists every mechanic (e.g., basic VR setup, teleportation, hand physics, PCG, etc.) along with their dependencies. This document becomes your “north star” and helps you visualize the final product. You can group these features by categories such as:
 
 - **Core Gameplay:** VR environment, player locomotion, primary interactions.
 - **Advanced Interactions:** Realistic hand physics, avatar animations, complex puzzles.
 - **Optimization & Polish:** Performance tweaks, lighting with Lumen, fine-tuning VR comfort.
 
-**b. Prioritize Features:**  
+**b. Prioritize Features:**
 Prioritize by what’s essential for a Minimum Viable Product (MVP) versus what can be iterated later. Early sprints should concentrate on core VR setup and essential mechanics (teleportation, basic interactions), then gradually layer in the advanced features.
 
 ### 2. **Organize Your Timeline with Agile Sprints**
@@ -25,7 +25,7 @@ Prioritize by what’s essential for a Minimum Viable Product (MVP) versus what 
 - **Day 2:** Implement the teleportation mechanic through Blueprints, then test for smooth operation.
 - **Day 3:** Create a simple grab-and-release interaction and verify in VR preview.
 
-**b. Multi-Day Sprints for Larger Tasks:**  
+**b. Multi-Day Sprints for Larger Tasks:**
 Break projects like advanced VR hand physics or PCG into several days. Each day should end with a small, demonstrable part of the feature.
 
 *Example for Advanced VR Hand Physics:*
@@ -39,22 +39,22 @@ Repeat similar cycles for each multi-day mechanic, incorporating mid-sprint revi
 
 ### 3. **Integration and Iterative Testing**
 
-**a. Standalone Testing:**  
+**a. Standalone Testing:**
 Before integration, ensure that each mechanic works in isolation. For instance, test your teleportation without interference from hand physics or PCG elements.
 
-**b. Layered Integration:**  
+**b. Layered Integration:**
 Once individual features are stable, begin integrating them into a sandbox version of your game project. This may involve:
 
 - Merging your Blueprint modules into a singular immersive level.
 - Testing how multiple systems interact (e.g., does the grab function interfere with teleportation?).
 - Collating user feedback during playtests to check for VR comfort and performance consistency.
 
-**c. Regular Milestones:**  
+**c. Regular Milestones:**
 Schedule milestones after every major integration phase (every 2–3 weeks). At these points, review overall game performance, the coherence of the mechanics, and potential risks to performance in a VR environment. Adjust your backlog accordingly.
 
 ### 4. **Use Project Management Tools**
 
-**a. Kanban Boards or Agile Tools:**  
+**a. Kanban Boards or Agile Tools:**
 Tools like Trello, Jira, or even a simple spreadsheet can help you keep track of tasks, their status, and dependencies. Create columns for:
 
 - **To Do:** All mechanics and related subtasks
@@ -62,7 +62,7 @@ Tools like Trello, Jira, or even a simple spreadsheet can help you keep track of
 - **Testing/Review:** Features waiting for integration testing
 - **Complete:** Tasks that have been integrated and verified
 
-**b. Time Estimations & Buffers:**  
+**b. Time Estimations & Buffers:**
 Estimate the effort for each task and add a buffer time (10–20%) to account for unexpected challenges. For multi-day tasks, review at the end of each day and adjust your sprint plan as needed.
 
 ### 5. **Feedback & Iteration**

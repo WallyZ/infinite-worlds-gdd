@@ -1,6 +1,6 @@
 # 7.1.3 Personality Modeling
 
-### 
+###
 
 [🧠](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 

@@ -814,6 +814,7 @@ Original export: `markdown_export/0 Game Design Document (GDD) Infinite Worlds 2
 [15. Appendices](15_00_00_00_00_00_00__appendices.md)
 
 ##
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/00_00_00_00_00_00_00__game-design-document-gdd-infinite-worlds.md -->
 
 ### 1 - Game Overview
@@ -849,6 +850,7 @@ It’s both a **mission statement and a compass** for all other sections.
 [1.10 Creative Influences & Inspirations](01_10_00_00_00_00_00__creative-influences-and-inspirations.md)
 
 [1.11 Character Identity & Progression](01_11_00_00_00_00_00__character-identity-and-progression.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_00_00_00_00_00_00__game-overview.md -->
 
 ### 1.1 - Game Summary
@@ -884,6 +886,7 @@ At its core, *Infinite Worlds* is a place where **the intimate and the epic inte
 [1.1.2 Genre & Gameplay Loop](01_01_02_00_00_00_00__genre-and-gameplay-loop.md)
 
 [1.1.3 Unique Selling Points (USPs)](1%201%203%20Unique%20Selling%20Points%20(USPs)%20225b227cadd780a096bce6b01b0e6b22.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_01_00_00_00_00_00__game-summary.md -->
 
 ### 1.1.1 - Elevator/Marketing Pitch
@@ -919,6 +922,7 @@ This isn’t a story you’re given—it’s one you etch into stone, souls, and
 ### 🔍 Tagline or Header
 
 Write your legend across centuries.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_01_01_00_00_00_00__elevator-marketing-pitch.md -->
 
 ### 1.1.2 - Genre & Gameplay Loop
@@ -941,7 +945,7 @@ Original export: `markdown_export/1 1 2 Genre & Gameplay Loop 225b227cadd78049b0
 ### 🔄 **Gameplay Loop Summary**
 
 > You awaken alone in a vast, unfamiliar land. No quests. No map markers. Just your wits, your senses, and a living world that doesn't wait for you.
-> 
+>
 
 **Moment-to-moment gameplay:**
 
@@ -959,10 +963,11 @@ Original export: `markdown_export/1 1 2 Genre & Gameplay Loop 225b227cadd78049b0
 - Reclaim forgotten knowledge, seek out echoes of your past life, or confront consequences you set in motion generations ago.
 
 > Infinite Worlds is not just about survival—it’s about significance.
-> 
-> 
+>
+>
 > One life. Infinite echoes.
 >
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_01_02_00_00_00_00__genre-and-gameplay-loop.md -->
 
 ### 1.1.3 - Unique Selling Points (USPs)
@@ -1065,6 +1070,7 @@ Built natively for VR with:
 - Diegetic UI
 
 Also fully playable in **flat-screen mode** using mouse gestures, voice input, and immersion-focused controls. No feature disparity—just different ways to engage.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_01_03_00_00_00_00__unique-selling-points-usps.md -->
 
 ### 1.2 - Vision Statement & Core Pillars
@@ -1082,6 +1088,7 @@ Original export: `markdown_export/1 2 Vision Statement & Core Pillars 215b227cad
 [1.2.3 Player Transformation Goals (what players should gain beyond fun)](1%202%203%20Player%20Transformation%20Goals%20(what%20players%20sh%20225b227cadd780a59c51c5477f5898e3.md)
 
 [1.2.4 Making Games that Stand Out](01_02_04_00_00_00_00__making-games-that-stand-out.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md -->
 
 ### 1.2.1 - High-level Vision
@@ -1153,6 +1160,7 @@ There is no HUD. Maps must be sketched, journals written, and knowledge remember
 ### 🤝 Social Memory & Living NPCs
 
 NPCs have memory, personality, and politics. They remember what you’ve done, form relationships, carry grudges, and pass on stories. You’re part of a world where your reputation shapes history and society responds in kind.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_02_01_00_00_00_00__high-level-vision.md -->
 
 ### 1.2.2 - Emotional & Experiential Goals
@@ -1162,6 +1170,7 @@ Original export: `markdown_export/1 2 2 Emotional & Experiential Goals 225b227ca
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/01_02_02_00_00_00_00__emotional-and-experiential-goals.md -->
 # 1.2.2 Emotional & Experiential Goals
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_02_02_00_00_00_00__emotional-and-experiential-goals.md -->
 
 ### 1.2.3 - Player Transformation Goals (what players should gain beyond fun)
@@ -1171,6 +1180,7 @@ Original export: `markdown_export/1 2 3 Player Transformation Goals (what player
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/01_02_03_00_00_00_00__player-transformation-goals-what-players-should-gain-beyond-fun.md -->
 # 1.2.3 Player Transformation Goals (what players should gain beyond fun)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_02_03_00_00_00_00__player-transformation-goals-what-players-should-gain-beyond-fun.md -->
 
 ### 1.2.4 - Making Games that Stand Out
@@ -1188,39 +1198,39 @@ Here’s a two-part dive: first a full summary of Nick Popovich’s “Making Ga
 Part 1: “Making Games That Stand Out and Survive” (Nick Popovich, GDC 2019)[^1^]
 
 1. Attention Is Your Currency
-    
+
     • Players don’t buy games—they trade you their most precious resource: *time*.
-    
+
     • With thousands of titles launched every month, your first job is to *grab* a few seconds of attention[^1^].
-    
+
 2. Sell It with a GIF
-    
+
     • A single looping GIF must convey three things:
-    
+
     1. The **core gameplay loop** (“what you do every 30 seconds”).
     2. The **killer app** (“what makes it unique”).
     3. The **emotional hook** (“how it feels”).
     • Examples: Spelunky’s cave-diving peril; Superhot’s time-bending freeze; Rocket League’s car-soccer mashup[^1^].
 3. Stay Relevant with Ongoing Engagement
-    
+
     • **Early Access & Feedback**: let passionate fans into your build, listen, iterate.
-    
+
     • **Regular Content Drops**: seasons, events, live ops—give players reasons to return.
-    
+
     • **Community Fuel**: fan art features, social-media spotlights and Twitch integrations keep your audience invested[^1^].
-    
+
 4. Give Players a “Place to Call Home”
-    
+
     • Design a low-stress hub (base, ranch, village) where players can unwind, customize and feel ownership.
-    
+
     • Balance core loop stress (combat, puzzles) with restful loops (decorating, farming, socializing) to broaden appeal[^1^].
-    
+
 5. Find Your Voice & Vision
-    
+
     • It’s not enough to imitate—your game must *say* something with its mechanics, art and tone.
-    
+
     • Cultivate a distinctive aesthetic or narrative twist that resonates emotionally and makes you *memorable*[^1^].
-    
+
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -1306,6 +1316,7 @@ about **vision, distinctiveness, or core values** behind the game
 - My approach to long-term value and depth
 - Inspiration, innovation, or legacy
 - Design goals that break conventions (e.g., "one life", real skill learning, presence)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_02_04_00_00_00_00__making-games-that-stand-out.md -->
 
 ### 1.3 - Death & Permanence: One Life, Echoing Through Eternity
@@ -1332,6 +1343,7 @@ This system transforms death from punishment into **meaningful presence**, makin
 [1.3.6 Sample Pseudocode for a Legacy Trigger System](01_03_06_00_00_00_00__sample-pseudocode-for-a-legacy-trigger-system.md)
 
 [1.3.7 MVP → Full Vision Implementation Roadmap](01_03_07_00_00_00_00__mvp-full-vision-implementation-roadmap.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_00_00_00_00_00__death-and-permanence-one-life-echoing-through-eternity.md -->
 
 ### 1.3.1 - Emotional & Narrative Intent
@@ -1350,6 +1362,7 @@ Original export: `markdown_export/1 3 1 Emotional & Narrative Intent 226b227cadd
 | **Inspiration for New Characters** | World shifts, inherited quests, ancestry visions |
 
 Death becomes a **passing of the torch** — not a game over.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_01_00_00_00_00__emotional-and-narrative-intent.md -->
 
 ### 1.3.2 - Core Systems Overview (Player Impact → Legacy)
@@ -1367,6 +1380,7 @@ Original export: `markdown_export/1 3 2 Core Systems Overview (Player Impact →
 | Lead a rebellion | Town shifts government, a statue is raised |
 | Die protecting a village | A festival is later held in your honor |
 | Fail to act | Disease spreads, your name is cursed in local folklore |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_02_00_00_00_00__core-systems-overview-player-impact-legacy.md -->
 
 ### 1.3.3 - Mechanical Systems of Legacy
@@ -1384,6 +1398,7 @@ Original export: `markdown_export/1 3 3 Mechanical Systems of Legacy 227b227cadd
 [1.3.3.3 Object & Artifact Memory](01_03_03_03_00_00_00__object-and-artifact-memory.md)
 
 [1.3.3.4 Legacy Mechanics for New Characters](01_03_03_04_00_00_00__legacy-mechanics-for-new-characters.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_03_00_00_00_00__mechanical-systems-of-legacy.md -->
 
 ### 1.3.3.1 - NPC Memory & Reputation System
@@ -1399,10 +1414,11 @@ Original export: `markdown_export/1 3 3 1 NPC Memory & Reputation System 227b227
 - Uses a **Reputation/Emotion Ledger** with emotional weights (love, fear, gratitude, shame)
 
 > Blueprint Concept:
-> 
-> 
+>
+>
 > Each important NPC has a "Legacy Memory Component" → a struct storing key interactions, outcomes, and final emotional state toward the player.
 >
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_03_01_00_00_00__npc-memory-and-reputation-system.md -->
 
 ### 1.3.3.2 - Cultural Memory System
@@ -1421,10 +1437,11 @@ Original export: `markdown_export/1 3 3 2 Cultural Memory System 227b227cadd7800
     - New faction ideologies ("The Redeemed Path" movement founded by your martyrdom)
 
 > Implementation Tip:
-> 
-> 
+>
+>
 > Create a **Cultural Event Generator** tied to major player flags (died heroically, cured plague, burned sacred tree, etc.)
 >
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_03_02_00_00_00__cultural-memory-system.md -->
 
 ### 1.3.3.3 - Object & Artifact Memory
@@ -1441,6 +1458,7 @@ Original export: `markdown_export/1 3 3 3 Object & Artifact Memory 227b227cadd78
 
 > VR Hook: Holding these items gives a haptic pulse or triggers an ancestral echo vision (ghostly flashback scene in VR)
 >
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_03_03_00_00_00__object-and-artifact-memory.md -->
 
 ### 1.3.3.4 - Legacy Mechanics for New Characters
@@ -1460,6 +1478,7 @@ When starting a new life:
 
 > Optional spiritual lore: The soul fragments but leaves resonance behind. Sometimes, it whispers.
 >
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_03_04_00_00_00__legacy-mechanics-for-new-characters.md -->
 
 ### 1.3.4 - AI & World Reaction Systems
@@ -1476,6 +1495,7 @@ Original export: `markdown_export/1 3 4 AI & World Reaction Systems 227b227cadd7
     - Your unresolved conflicts
     - NPC grief or revenge arcs
     - Environmental scars (burned cities, unhealed blight zones)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_04_00_00_00_00__ai-and-world-reaction-systems.md -->
 
 ### 1.3.5 - VR-Specific Enhancements
@@ -1489,6 +1509,7 @@ Original export: `markdown_export/1 3 5 VR-Specific Enhancements 227b227cadd7802
 - **Haptic Feedback on Death**: A slow “heartbeat fade” as your body fails
 - **Death Memory Vision**: Final memory POV echoes — last conversation, last person you saw
 - **Memory Shrines**: Physical altars you can kneel at, with glowing echoes of yourself acting out a key scene (VR touch interaction triggers it)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_05_00_00_00_00__vr-specific-enhancements.md -->
 
 ### 1.3.6 - Sample Pseudocode for a Legacy Trigger System
@@ -1516,6 +1537,7 @@ if HeroicDeath:
     TriggerFestivalEventInLinkedTowns()
 
 ```
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_06_00_00_00_00__sample-pseudocode-for-a-legacy-trigger-system.md -->
 
 ### 1.3.7 - MVP → Full Vision Implementation Roadmap
@@ -1532,6 +1554,7 @@ Original export: `markdown_export/1 3 7 MVP → Full Vision Implementation Roadm
 | 🔵 Tier 2 | Legacy quests, memory shrines, cultural artifacts, successor characters |
 | 🟣 Tier 3 | Emergent ideologies, dynamic religion/faction offshoots, dream memories for new players |
 | ⚫ Tier 4 | VR ancestral flashbacks, real-time bard stories, full myth generation system |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_03_07_00_00_00_00__mvp-full-vision-implementation-roadmap.md -->
 
 ### 1.4 - Target Platforms & Devices
@@ -1666,12 +1689,13 @@ Your *Infinite Worlds* now supports:
 - Structured plans for integrating future XR hardware
 
 > Info best suited for sections:
-> 
+>
 > - "Haptics Integration & Profiles" (NEW Section 4.x)
 > - "1.5 Design Philosophy" → add "Hardware Expansion Philosophy"
 > - Appendix: "Supported Hardware Matrix" (detailed comparison table)
 
 Let me know if you want these moved into those new sections or turned into implementation modules.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_04_00_00_00_00_00__target-platforms-and-devices.md -->
 
 ### 1.5 - Immersion & Fun Philosophy
@@ -1778,6 +1802,7 @@ Fun is a delicate dance between **challenge**, **reward**, and **flow**. Realism
 - Learning by Doing (Real-world skill transfer and curiosity loops)
 
 ```
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_05_00_00_00_00_00__immersion-and-fun-philosophy.md -->
 
 ### 1.6 - Design Philosophies
@@ -1799,6 +1824,7 @@ Original export: `markdown_export/1 6 Design Philosophies 221b227cadd780319658ee
 [**1.6.5 Presence, Wonder and World-Soul Connection**](01_06_05_00_00_00_00__presence-wonder-and-world-soul-connection.md)
 
 [1.6.6 Hardware Expansion Philosophy](01_06_06_00_00_00_00__hardware-expansion-philosophy.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_06_00_00_00_00_00__design-philosophies.md -->
 
 ### 1.6.1 - Player Autonomy & Meaningful Choice
@@ -1839,55 +1865,55 @@ Enable players to initiate their own goals, shape their experiences, and experie
 ### 3. Designer Responsibilities
 
 - **Abdicate Authorship Where Appropriate**
-    
+
     Allow players to surprise you. Script frameworks, but leave space for emergent play [pure.tue.nl](https://pure.tue.nl/ws/files/3895781/784813.pdf?utm_source=chatgpt.com).
-    
+
 - **Zone of Proximal Autonomy**
-    
+
     Begin with gentle guidance and progressively widen player options—aiding autonomy as competence grows [selfdeterminationtheory.org+15pure.tue.nl+15reddit.com+15](https://pure.tue.nl/ws/files/3895781/784813.pdf?utm_source=chatgpt.com).
-    
+
 - **Mechanic Feedback Alignment**
-    
+
     Align interface, audio, and narrative feedback to choices—reinforcing that player action matters [en.wikipedia.org+12usv.edu+12arxiv.org+12](https://usv.edu/blog/understanding-player-motivation-in-game-design/?utm_source=chatgpt.com).
-    
+
 - **Multiple Valid Solutions**
-    
+
     Provide flexible challenges solvable via different styles: combat, diplomacy, stealth, crafting, etc .
-    
+
 
 ---
 
 ### 4. In-Game Examples
 
 - **Emergent Sims (e.g., Deus Ex, Dishonored):**
-    
+
     Offer intact systems and tools—players craft solutions (stealth, brute force, hacking) and dynamically influence world response [gamerslearn.com+3en.wikipedia.org+3en.wikipedia.org+3](https://en.wikipedia.org/wiki/Emergent_gameplay?utm_source=chatgpt.com).
-    
+
 - **Branching Narrative (e.g., Visual Novels):**
-    
+
     Permit diverse outcomes and character arcs based on meaningful dialogue and morality choices [en.wikipedia.org+1usv.edu+1](https://en.wikipedia.org/wiki/Nonlinear_gameplay?utm_source=chatgpt.com).
-    
+
 - **Sandbox Worlds (e.g., Minecraft, Stellaris):**
-    
+
     Player-defined objectives supported by robust systems that yield emergent narratives and personal stories.
-    
+
 
 ---
 
 ### 5. Benefits of Player Autonomy
 
 - **Increased Engagement & Motivation:**
-    
+
     Satisfying autonomy enhances investment in gameplay and supports sustained motivation per SDT [en.wikipedia.org+15usv.edu+15reddit.com+15](https://usv.edu/blog/understanding-player-motivation-in-game-design/?utm_source=chatgpt.com).
-    
+
 - **Emergent Narrative & Replayability:**
-    
+
     Diverse play patterns create unique experiences that encourage replay and creative expression.
-    
+
 - **Player Ownership & Emotional Resonance:**
-    
+
     When players author their own goals and struggle with real consequences, experiences feel more personal and rewarding.
-    
+
 
 ---
 
@@ -1904,21 +1930,21 @@ Enable players to initiate their own goals, shape their experiences, and experie
 ### 7. Integrating Player Autonomy in Our GDD
 
 - **Core Loop Elements:**
-    
+
     *Decision → Systemic Reaction → Feedback → New Options*
-    
+
 - **Mechanics Required:**
     - Branch tracker for player decisions
     - Procedural system responses (e.g., AI adapting to playstyle)
     - Choice-impact UI layer (e.g., flags, world state indicators)
 - **Narrative Structure:**
-    
+
     Modular scenario design with optional side arcs, each evolving based on player agency.
-    
+
 - **Progression Design:**
-    
+
     Unlock systems that expand autonomy over time—new skills, tools, areas—based on player-driven criteria.
-    
+
 
 ---
 
@@ -1935,6 +1961,7 @@ Enable players to initiate their own goals, shape their experiences, and experie
 ## 📌 Summary
 
 Player autonomy is not just about *more choices*—it’s about empowering players to author their own experiences in a coherent, feedback-rich world. By scaffolding choice, designing for emergence, and reacting dynamically to player actions, we create games that feel alive, personal, and meaningful.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_06_01_00_00_00_00__player-autonomy-and-meaningful-choice.md -->
 
 ### 1.6.2 - Player Psychology & Growth
@@ -2000,6 +2027,7 @@ Original export: `markdown_export/1 6 2 Player Psychology & Growth 21db227cadd78
     - Players rely on intuition (System 1) for snap judgments; System 2 kicks in when patterns break. Designing elegant dissonance moments could amplify engagement.
 - **UX psychology research**
     - Consistency, feedback, and perceived agency are top drivers of engagement. Strong affordances in your grab mechanic and consistent insight feedback could build deep trust.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_06_02_00_00_00_00__player-psychology-and-growth.md -->
 
 ### 1.6.3 - Rewiring Assumptions & Mindsets
@@ -2043,17 +2071,17 @@ CBT is a structured, evidence-based approach that identifies and challenges nega
 **Key CBT Techniques:**
 
 - **Thought Recording:**
-    
+
     Keep a diary where you log specific negative thoughts, the situations in which they occur, and your emotional responses. This helps in spotting recurring distortions.
-    
+
 - **Socratic Questioning:**
-    
+
     Challenge those negative thoughts by asking questions like: "What is the evidence for this thought?" or "Can I see an alternative perspective?" This method leads to cognitive restructuring.
-    
+
 - **Behavioral Experiments:**
-    
+
     Design small experiments to test the predictions of your negative thoughts. For example, if you assume you’ll fail at a task, plan a small project to challenge that assumption and record the outcome.
-    
+
 
 **Implementation:**
 
@@ -2073,17 +2101,17 @@ Neuroplasticity is the brain's ability to reorganize itself by forming new neura
 **Techniques Include:**
 
 - **Learning New Skills:**
-    
+
     Challenge yourself to learn something new—such as a new language, musical instrument, or even novel software. Such activities stimulate brain regions associated with memory, attention, and problem-solving [^4^].
-    
+
 - **Playing Video Games:**
-    
+
     Certain video games can improve motor coordination, visual recognition, and problem-solving abilities. Not only do they provide fun, but they also offer a unique form of cognitive training that encourages resilience and adaptability [^5^].
-    
+
 - **Creative Activities:**
-    
+
     Artistic endeavors, like drawing, writing, or even improvisational activities, can establish fresh networks in the brain. Creativity forces you to think outside the box, which disrupts habitual thought patterns.
-    
+
 
 **Implementation:**
 
@@ -2263,6 +2291,7 @@ Each reflective entry could be reviewed by an in-game mentor character, who prov
 Integrating these mental rewiring strategies into your game design encourages players to adopt healthier thought patterns and behaviors naturally. By embedding mindfulness, cognitive restructuring, learning, physical activity, and reflection into both the mechanics and the narrative, your game can become not just a source of entertainment but also a transformative tool. It’s about creating an experience where every quest, challenge, or reflective moment serves as a catalyst for personal growth.
 
 What aspects of these integrations resonate most with your game development vision? Would you like to explore deeper mechanics for a particular technique or dive into balancing these elements to ensure they’re fun as well as meaningful?
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_06_03_00_00_00_00__rewiring-assumptions-and-mindsets.md -->
 
 ### 1.6.4 - Critical Thinking & Deep Learning
@@ -2285,9 +2314,9 @@ Players solve layered problems through explicit steps:
 - **List assumptions**.
 - **Test multiple solution paths**.
 - **Reflect** on outcomes.
-    
+
     This mirrors algorithmic thinking research [learning.com+4library.iated.org+4en.wikipedia.org+4](https://library.iated.org/view/ATANASOVA2019STU?utm_source=chatgpt.com)[youtube.com](https://www.youtube.com/watch?v=yq8x73p1SfM&utm_source=chatgpt.com)[en.wikipedia.org](https://en.wikipedia.org/wiki/Six_Thinking_Hats?utm_source=chatgpt.com)[learning.com+3arxiv.org+3sciencedirect.com+3](https://arxiv.org/abs/2408.01263?utm_source=chatgpt.com).
-    
+
 
 ### 2. **Narrative vs. Analytical Mode**
 
@@ -2295,9 +2324,9 @@ Players choose between intuitive "story" answers and deliberate algorithmic solu
 
 - Immediate intuitive option vs. slower systematic choice.
 - Scenes compare resulting outcomes and errors.
-    
+
     Raises awareness of biased storytelling mental models.
-    
+
 
 ### 3. **Socratic Mentor NPC**
 
@@ -2327,14 +2356,14 @@ Thomas Jefferson’s Secret to Learning Anything Deeply
 
 ## 1. What Jefferson (and Cognitive Science) Teach Us about “Deep Learning”
 
-**A. Jefferson’s Habits**  
-• Mind-Palace Library  
-  – He built a “rolling collection” of thousands of books—his “little mountains”—and mentally mapped them for quick lookup.  
-• Active Note-Taking & Self-Quizzing  
-  – Every evening he’d copy passages into a “Commonplace Book,” then test himself on their arguments.  
-• Dialogues with Self  
-  – He’d explain new ideas out loud as if teaching an invisible student—precursor to the “Feynman Technique.”  
-• Cross-Pollination  
+**A. Jefferson’s Habits**
+• Mind-Palace Library
+  – He built a “rolling collection” of thousands of books—his “little mountains”—and mentally mapped them for quick lookup.
+• Active Note-Taking & Self-Quizzing
+  – Every evening he’d copy passages into a “Commonplace Book,” then test himself on their arguments.
+• Dialogues with Self
+  – He’d explain new ideas out loud as if teaching an invisible student—precursor to the “Feynman Technique.”
+• Cross-Pollination
   – He’d jump from architecture → agriculture → political theory → natural history, forcing his brain to make novel connections.
 
 **B. Modern Memory Science (Make It Stick, Moonwalking with Einstein, et al.)**
@@ -2400,6 +2429,7 @@ Below are modular ideas—you can cherry-pick one, combine two, or layer them al
 - If they struggle with “Dream-Web Glyphs,” spawn extra mini-quests to reinforce that concept.
 • Procedural Hint System
 - Hints scale with failure count: first a subtle echo in the environment, then a semi-complete glyph overlay via Insight Burst.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_06_04_00_00_00_00__critical-thinking-and-deep-learning.md -->
 
 ### 1.6.5 - Presence, Wonder and World-Soul Connection
@@ -2553,6 +2583,7 @@ Rather than speeding players toward objectives, this system **rewards stillness,
 - **Data Tracking**:
     - Log awe triggers and reflection completions to personalize future events.
     - Adaptive systems that notice which awe triggers resonate with the player most.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_06_05_00_00_00_00__presence-wonder-and-world-soul-connection.md -->
 
 ### 1.6.6 - Hardware Expansion Philosophy
@@ -2562,6 +2593,7 @@ Original export: `markdown_export/1 6 6 Hardware Expansion Philosophy 22fb227cad
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/01_06_06_00_00_00_00__hardware-expansion-philosophy.md -->
 # 1.6.6 Hardware Expansion Philosophy
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_06_06_00_00_00_00__hardware-expansion-philosophy.md -->
 
 ### 1.7 - Ethical & Emotional Frameworks
@@ -2579,6 +2611,7 @@ Original export: `markdown_export/1 7 Ethical & Emotional Frameworks 223b227cadd
 [**1.7.3 Forgiveness & Redemption**](01_07_03_00_00_00_00__forgiveness-and-redemption.md)
 
 [**1.7.4 Inner Transformation over Outer Success**](01_07_04_00_00_00_00__inner-transformation-over-outer-success.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_07_00_00_00_00_00__ethical-and-emotional-frameworks.md -->
 
 ### 1.7.1 - Service & Compassion: Learning Empathy Through Action
@@ -2655,12 +2688,12 @@ Empathy is taught through **experience, not lectures**—players must observe, l
 Example:
 
 > NPC: “I’m just tired of pretending I’m okay…”
-> 
-> 
+>
+>
 > Bad reply: “Just tell me what happened.”
-> 
+>
 > Good reply: *“It sounds like you’ve been holding a lot inside.”*
-> 
+>
 
 ---
 
@@ -2726,7 +2759,7 @@ Each of these roles teaches **emotional labor as valuable gameplay**, not passiv
 Example:
 
 > “Why did you think she needed help? Did she ask for it? Or were you trying to feel helpful?”
-> 
+>
 
 ---
 
@@ -2767,6 +2800,7 @@ Empathy isn’t mandatory—but ignoring it shapes the world:
     - Eye-tracking and facial recognition for mirroring.
     - Haptics for emotional resonance (heartbeat during intense moments).
     - Breath-based empathy meditation sequences or sync rituals.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_07_01_00_00_00_00__service-and-compassion-learning-empathy-through-action.md -->
 
 ### 1.7.2 - Stewardship & Responsibility
@@ -2937,6 +2971,7 @@ Example:
     - Planting trees or healing ground done with **slow, ritual gestures**.
     - Haptics and sound used for ecosystem feedback (e.g., birds return, air changes tone).
     - Building a **sensory connection** to nature, not just a visual one.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_07_02_00_00_00_00__stewardship-and-responsibility.md -->
 
 ### 1.7.3 - Forgiveness & Redemption
@@ -3138,6 +3173,7 @@ CopyEdit
 Failure → Reflection → Acknowledgment → Ritual/Action → Forgiveness → Personal Transformation → World Feedback
 
 ```
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_07_03_00_00_00_00__forgiveness-and-redemption.md -->
 
 ### 1.7.4 - Inner Transformation over Outer Success
@@ -3311,6 +3347,7 @@ Adopting a path is **not required**, but doing so shifts player perspective, dre
     - Guided breathing/movement during meditation.
     - Visceral dream sequences using shifting gravity, scale, lighting.
     - Voice-recognition rituals (player *speaks aloud* affirmations or vows).
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_07_04_00_00_00_00__inner-transformation-over-outer-success.md -->
 
 ### 1.8 - Audience & Player Archetypes
@@ -3331,6 +3368,7 @@ Original export: `markdown_export/1 8 Audience & Player Archetypes 225b227cadd78
 - Players craving **exploration without handholding**, **meaningful survival**, and **consequence-rich simulation**
 - VR enthusiasts who value **physical skill expression**, **diegetic systems**, and **real-time interaction**
 - Roleplayers, storytellers, system-driven gamers, and anyone fascinated by **emergent fantasy worlds**
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_08_00_00_00_00_00__audience-and-player-archetypes.md -->
 
 ### 1.9 - Development Goals & Long-Term Vision
@@ -3342,6 +3380,7 @@ Original export: `markdown_export/1 9 Development Goals & Long-Term Vision 227b2
 # 1.9 Development Goals & Long-Term Vision
 
 (How the game grows — DLCs, AI integration, open modding, co-op/social elements)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_09_00_00_00_00_00__development-goals-and-long-term-vision.md -->
 
 ### 1.10 - Creative Influences & Inspirations
@@ -3359,6 +3398,7 @@ Original export: `markdown_export/1 10 Creative Influences & Inspirations 227b22
 [1.10.3 Books & Literature](01_10_03_00_00_00_00__books-and-literature.md)
 
 [1.10.4 Mythologies, Philosophies & Real-World Systems](01_10_04_00_00_00_00__mythologies-philosophies-and-real-world-systems.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_10_00_00_00_00_00__creative-influences-and-inspirations.md -->
 
 ### 1.10.1 - Games
@@ -3397,6 +3437,7 @@ Original export: `markdown_export/1 10 1 Games 227b227cadd780fc9c52c01a5f476251.
 [1.11.1.10 Ultima Online](01_11_01_10_00_00_00__ultima-online.md)
 
 [1.11.1.11 Arma 3](01_11_01_11_00_00_00__arma-3.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_10_01_00_00_00_00__games.md -->
 
 ### 1.10.2 - Movies & Series
@@ -3587,6 +3628,7 @@ These are movies with *moments* that can inspire the **feel of the Riders of the
 | **Gandalf's fall at Moria** | Let emotional, irreversible moments have real consequences—possibly tied to player memory, NPC loss, or permanent changes in the world |
 | **Lothlórien time distortion** | Implement **time-stilled zones** where movement, sound, and visual tempo changes (slowed particles, elongated shadows) |
 | **Meeting Galadriel** | NPCs of deep power should **see into the player**, not just talk at them—use gaze tracking or silence in VR to emphasize presence |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_10_02_00_00_00_00__movies-and-series.md -->
 
 ### 1.10.3 - Books & Literature
@@ -3616,7 +3658,7 @@ These are foundational works that explore magic, myth, and deeply layered cultur
 | **The Broken Sword** | Poul Anderson | Dark Norse myth-inspired tale with fae, doom, and consequence-laden magic |
 
 > 🔍 Use for: ancient mythologies, divine intervention, morally ambiguous magic, linguistic magic (names), non-human psychology.
-> 
+>
 
 ---
 
@@ -3633,7 +3675,7 @@ For psionics, astral navigation, and consciousness-expanding metaphysics:
 | **The Invisibles** | Grant Morrison (graphic novel) | Reality hacking, psychic rebellion, layered time and control systems |
 
 > 🔍 Use for: inner power mechanics, dream worlds, altered states, psionic schools, and mentor–student inner journeys.
-> 
+>
 
 ---
 
@@ -3650,7 +3692,7 @@ These books focus on knowledge, skill development, and surviving a world by lear
 | **The Foxfire Book** (series) | Eliot Wigginton & students | Appalachian survival, crafts, blacksmithing, farming, oral knowledge systems |
 
 > 🔍 Use for: in-game skill-as-knowledge systems, survival mechanics, NPC mentorship arcs, plant and crafting design.
-> 
+>
 
 ---
 
@@ -3667,7 +3709,7 @@ If your astral and celestial navigation mechanics echo *Spelljammer* or dreamwal
 | **Sandman** (graphic novels) | Neil Gaiman | Dream realms, archetypes, metaphysical pantheons, emotional stakes of cosmic entities |
 
 > 🔍 Use for: navigating space by symbols or emotion, dealing with gods/dreams, exploring player-driven realities.
-> 
+>
 
 ---
 
@@ -3684,7 +3726,7 @@ These go deeper into moral systems, psychology, and critical thinking—perfect 
 | **The Prophet** | Kahlil Gibran | Wisdom distilled into poetic truth; useful for ritual texts, NPC scripts, and sacred philosophy |
 
 > 🔍 Use for: ethical choice systems, narrative consequence, belief mechanics, emotional resonance.
-> 
+>
 
 ---
 
@@ -3697,6 +3739,7 @@ These can fuel your rituals, items, NPC cultures, and magical realism:
 - **Norse Mythology** – Neil Gaiman (or the original Eddas)
 - **The Golden Bough** – James Frazer
 - **The Kybalion** – Three Initiates (Hermetic principles)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_10_03_00_00_00_00__books-and-literature.md -->
 
 ### 1.10.4 - Mythologies, Philosophies & Real-World Systems
@@ -3766,6 +3809,7 @@ Below is a curated list across **3 categories**—each entry includes **design p
 - **Skill Trees:** Psionics, alchemy, healing, and crafting can each be based on real esoteric systems (e.g., Hermetic ritual, Ayurveda, Taoist transmutation).
 - **NPC Mentors:** Different mentors could follow Stoic, Buddhist, or Shamanic paths—teaching players different attitudes and power forms.
 - **Quests & Trials:** Use mythic story structures (e.g., Hero's Journey, Rebirth, Soul Retrieval) for emotional arcs and transformation.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_10_04_00_00_00_00__mythologies-philosophies-and-real-world-systems.md -->
 
 ### 1.11 - Character Identity & Progression
@@ -3791,6 +3835,7 @@ This system is designed to ensure:
 [1.11.2 Memory & Identity Reconstruction](01_11_02_00_00_00_00__memory-and-identity-reconstruction.md)
 
 [1.11.3 Learning as Remembering & Practicing](01_11_03_00_00_00_00__learning-as-remembering-and-practicing.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_00_00_00_00_00__character-identity-and-progression.md -->
 
 ### 1.11.1 - Foundational Figure & Mentor System
@@ -3887,6 +3932,7 @@ Mentors continue to shape the experience throughout the game in layered, evolvin
 | Narrative replayability | Different mentors lead to different world interpretations and outcomes |
 | Immersive inner voice | Mentor echoes become part of the player’s internal narrative |
 | Long-term growth reflection | Mentor system evolves with player actions and choices |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_00_00_00_00__foundational-figure-and-mentor-system.md -->
 
 ### 1.11.1.1 - Minecraft
@@ -4010,21 +4056,21 @@ Here’s how to translate Minecraft’s **philosophy** into your **immersive, re
 ### ✅ Key Opportunities for *Infinite Worlds*
 
 1. **Realism Replacing Abstraction**
-    
+
     Where Minecraft uses blocks, you use physics and volumetric materials. Where Minecraft uses XP bars, you use player-observable skill growth (faster sword form, more stable potion reaction).
-    
+
 2. **Emotional & Narrative Consequence**
-    
+
     Minecraft’s permadeath mode is popular—but your emotional systems, NPC memory, and realistic death elevate it. Build systems where actions are remembered by others or history is recorded physically.
-    
+
 3. **Education Through Experience**
-    
+
     Minecraft is used in schools. You can go further—actually teaching edible plant identification, metalworking theory, or logic through game systems. Let VR motion mimic real techniques.
-    
+
 4. **Cooperative Emergence**
-    
+
     Minecraft players build together—your players can research together, run experiments, enact rituals, or craft collaboratively in VR. Use body language, shared tools, and rituals to deepen presence.
-    
+
 
 ---
 
@@ -4043,6 +4089,7 @@ Minecraft’s lasting appeal is built on:
 ---
 
 Would you like a visual comparison chart or a breakdown for your Game Design Document next?
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_01_00_00_00__minecraft.md -->
 
 ### 1.11.1.2 - The Elder Scrolls III: Morrowind
@@ -4204,6 +4251,7 @@ Original export: `markdown_export/1 11 1 2 The Elder Scrolls III Morrowind 228b2
 - **Emotional NPC AI:** NPCs remember past insults, compliments, trades—expand Morrowind’s static dialogue.
 - **In-World Physics-Based Crafting:** Replace abstract menus with tactile systems—potion brewing, blacksmithing, rune carving.
 - **Magic + Culture Integration:** Let each magic system have roots in lore, philosophy, and cosmology, like Morrowind’s Great Houses.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_02_00_00_00__the-elder-scrolls-iii-morrowind.md -->
 
 ### 1.11.1.3 - Project Zomboid
@@ -4388,6 +4436,7 @@ This is directly useful for your emotionally reactive AI and immersive social sy
 - Provide in-world, immersive learning paths
 - Let players build and reclaim—not just survive
 - Add dynamic AI factions and sociopolitical layers that evolve without a player present
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_03_00_00_00__project-zomboid.md -->
 
 ### 1.11.1.4 - Dwarf Fortress
@@ -4418,7 +4467,7 @@ Original export: `markdown_export/1 11 1 4 Dwarf Fortress 228b227cadd780569ff9c2
     - **Persistent entities**: Heroes, monsters, political families, gods, and demons.
 
 > Entire legends are created procedurally, forming a living mythos before the player even begins.
-> 
+>
 
 **🧠 Lesson for Infinite Worlds:**
 
@@ -4588,6 +4637,7 @@ This fits directly with your “one life, infinite consequences” principle.
 - Player expressiveness in interactions (especially in VR)
 - Balance between simulation detail and performance
 - Making invisible systems tangible and learnable through play
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_04_00_00_00__dwarf-fortress.md -->
 
 ### 1.11.1.5 - Kingdom Come: Deliverance
@@ -4796,6 +4846,7 @@ Original export: `markdown_export/1 11 1 5 Kingdom Come Deliverance 228b227cadd7
 - Deeper AI simulation: relationships, memory, rivalries
 - VR-specific adaptations for inventory, alchemy, books, combat
 - Expand realism to include **symbolic or magical realism** rather than strict historicity
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_05_00_00_00__kingdom-come-deliverance.md -->
 
 ### 1.11.1.6 - Kingdom Come: Deliverance 2
@@ -4898,6 +4949,7 @@ Original export: `markdown_export/1 11 1 6 Kingdom Come Deliverance 2 22ab227cad
 - Narrative richness and world reactivity
 
 For *Infinite Worlds*, borrow its drive for realism but deliver it through **immersive VR systems**, **bodily interaction**, and **emergent world responsiveness**.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_06_00_00_00__kingdom-come-deliverance-2.md -->
 
 ### 1.11.1.7 - RimWorld
@@ -5102,6 +5154,7 @@ This would dramatically deepen your simulation of religious systems and societal
 - Translate RimWorld’s complexity into **VR-native physicality and tactility**
 - Replace menus with embodied systems (spellcrafting with hand gestures, cooking by touch)
 - Add **emotional and spiritual layers** to AI/NPCs—joy, fear, reverence, suspicion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_07_00_00_00__rimworld.md -->
 
 ### 1.11.1.8 - Destiny & Destiny 2
@@ -5135,12 +5188,12 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.4 – Combat System
-> 
-> 
+>
+>
 > Section 4.5 – Magic & Abilities
-> 
+>
 > Section 7.2 – Visual & Audio Feedback Loops
-> 
+>
 
 ---
 
@@ -5157,12 +5210,12 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.5 – Magic Schools
-> 
-> 
+>
+>
 > Section 5.2 – Combat Progression & Specializations
-> 
+>
 > Section 6.1 – Skills System (if magic is tied to learning & feedback)
-> 
+>
 
 ---
 
@@ -5179,10 +5232,10 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 2.4.1 – Diegetic Interface Design
-> 
-> 
+>
+>
 > Section 4.3 – Immersive Control Schemes
-> 
+>
 
 ---
 
@@ -5202,12 +5255,12 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.6 – Equipment & Crafting Systems
-> 
-> 
+>
+>
 > Section 3.4 – Material Simulation & Properties
-> 
+>
 > Section 7.3 – Legendary or Unique Gear Systems
-> 
+>
 
 ---
 
@@ -5227,10 +5280,10 @@ Here's a breakdown of what *can* be adapted or reimagined for your VR fantasy sa
 ### GDD Use:
 
 > Section 4.4 – Enemy Design & Combat AI
-> 
-> 
+>
+>
 > Section 3.6 – Dynamic AI Pathfinding & Perception
-> 
+>
 
 ---
 
@@ -5246,10 +5299,10 @@ Destiny's fireteam classes (Titan, Hunter, Warlock) **encourage different playst
 ### GDD Use:
 
 > Section 5.1 – Player Progression & Class Archetypes
-> 
-> 
+>
+>
 > Section 1.5 – Player Psychology & Meaningful Play
-> 
+>
 
 ---
 
@@ -5269,10 +5322,10 @@ Destiny's fireteam classes (Titan, Hunter, Warlock) **encourage different playst
 ### GDD Use:
 
 > Section 3.2 – World Building & Topography
-> 
-> 
+>
+>
 > Section 4.2 – Exploration & Movement
-> 
+>
 
 ---
 
@@ -5304,6 +5357,7 @@ Would you like me to:
 - Help you write GDD sections based on these inspirations?
 
 Let me know what you'd like to tackle first!
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_08_00_00_00__destiny-and-destiny-2.md -->
 
 ### 1.11.1.9 - Escape from Tarkov
@@ -5343,7 +5397,7 @@ Original export: `markdown_export/1 11 1 9 Escape from Tarkov 22ab227cadd780fe94
 Each raid in EFT is a **self-contained survival mission**. You drop into a map with gear, loot as much as you can, and must extract before time runs out or you die.
 
 > If you die, everything you brought is lost (unless insured and retrieved).
-> 
+>
 
 **🧠 Lesson for Infinite Worlds:**
 
@@ -5430,9 +5484,9 @@ EFT tracks skill improvements like:
 - Metabolism
 - Strength
 - Weapon familiarity
-    
+
     ...but they grow through use and feel organic.
-    
+
 
 **🧠 Lesson:**
 
@@ -5498,6 +5552,7 @@ EFT’s opaque mechanics (no official loot maps, recipes, meta) push players to:
 | **Sound-Aware AI** | Monsters respond to magical noise, heartbeat, footsteps |
 | **Extraction Drama** | Getting home with stolen secrets, haunted relics, or living memories |
 | **Diegetic Learning** | Runes, rituals, and star paths require real interpretation, not UI hints |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_09_00_00_00__escape-from-tarkov.md -->
 
 ### 1.11.1.10 - Ultima Online
@@ -5599,6 +5654,7 @@ Original export: `markdown_export/1 11 1 10 Ultima Online 22ab227cadd780b193dbd3
 - **Faction & Reputation Web**: PvP/interaction zones with consequences (trust, bounties) but avenues for reconciliation.
 - **Emergent Event Toolkit**: Enable large-scale events (raids, festivals, ambushes) driven by player groups.
 - **Lore Embedding**: Player actions leave artifacts or records others can uncover later (secret altars, ruined camps).
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_10_00_00_00__ultima-online.md -->
 
 ### 1.11.1.11 - Arma 3
@@ -5612,29 +5668,29 @@ Original export: `markdown_export/1 11 1 11 Arma 3 22ab227cadd78009a416f6436d81c
 ## 🎯 Why Arma 3 Has Endured
 
 1. **Platform, Not Just a Game**
-    
+
     Arma 3 provides a robust sandbox with built-in mission (scenario) editors and mod support. Instead of selling experiences, Bohemia Interactive gives players tools to **create theirs** [pcgamer.com+14mmohuts.com+14reddit.com+14](https://mmohuts.com/news/arma-iii-launch-review/?utm_source=chatgpt.com).
-    
+
 2. **Massive, Detailed Sandbox Maps**
-    
+
     Maps like Altis and Stratis span hundreds of km² with varied terrain and ecosystems—supporting diverse emergent gameplay [docslib.org+3en.wikipedia.org+3gamercentral.gg+3](https://en.wikipedia.org/wiki/Arma_3?utm_source=chatgpt.com).
-    
+
 3. **Hardcore Realism + Tactical Depth**
-    
+
     Ballistics, vehicle physics, stamina, inventory, localized damage, and fatigue create **high-stakes immersion** [gamercentral.gg](https://gamercentral.gg/arma-3-review/?utm_source=chatgpt.com)[gamefront.com](https://www.gamefront.com/games/gamingtoday/article/e3-2011-arma-iii-preview?utm_source=chatgpt.com).
-    
+
 4. **Community & Modding Ecosystem**
-    
+
     A massive modding base—Zeus, Eden Editor, and Steam Workshop—has spawned thousands of ongoing community-made scenarios and full-scale conversions (e.g., DayZ, Wasteland, Altis Life) [herenfil845.weebly.com+15pixelenemy.com+15mmohuts.com+15](https://pixelenemy.com/arma-iii-review-realism-under-fire/?utm_source=chatgpt.com)[reddit.com+3mmos.com+3en.wikipedia.org+3](https://mmos.com/review/arma-3/nggallery/page/2?utm_source=chatgpt.com).
-    
+
 5. **Learning-Curve Yet Welcoming Community**
-    
+
     Though complex, veteran players frequently mentor newcomers, fostering an open learning environment .
-    
+
 6. **Consistent Developer Support**
-    
+
     Arma 3 has seen 20+ significant updates and expansions over 10+ years—addressing performance, content, and mod support [reddit.com+3reddit.com+3reddit.com+3](https://www.reddit.com/r/arma/comments/1i0iof9?utm_source=chatgpt.com)[herenfil845.weebly.com+15en.wikipedia.org+15docslib.org+15](https://en.wikipedia.org/wiki/Arma_3?utm_source=chatgpt.com).
-    
+
 
 ---
 
@@ -5700,6 +5756,7 @@ Deliver updates that open new realms, magic folds, NPC cultures, or player-made 
 - Arma 3 is great because it's a **long-term platform**—not just a game.
 - Players stay due to **tools**, **community**, and **tactical authenticity**.
 - *Infinite Worlds* should likewise enable **creation**, **emergence**, **craft**, and **collaboration**, but through **immersive VR systems** and **magical worldbuilding**.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_01_11_00_00_00__arma-3.md -->
 
 ### 1.11.2 - Memory & Identity Reconstruction
@@ -5734,6 +5791,7 @@ This system is not about uncovering forgotten memories but about **bridging the 
 [1.11.2.4 Guided Recall Without Amnesia](01_11_02_04_00_00_00__guided-recall-without-amnesia.md)
 
 [1.11.2.5 No Stat Trees—Only Lived Skills](01_11_02_05_00_00_00__no-stat-treesonly-lived-skills.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_02_00_00_00_00__memory-and-identity-reconstruction.md -->
 
 ### 1.11.2.1 - Skill Familiarity Through Exposure
@@ -5751,6 +5809,7 @@ When the player first encounters tools, environments, or practices their charact
 - **Interaction prompts** reflect confidence or hesitation:
     - “You move as if you’ve done this before…”
     - “Your fingers fumble—this is not your craft.”
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_02_01_00_00_00__skill-familiarity-through-exposure.md -->
 
 ### 1.11.2.2 - Natural Practice Spaces & Role Cues
@@ -5766,6 +5825,7 @@ Instead of tutorials, players encounter:
 - **Cultural routines**: blacksmithing at a forge, cooking over a fire, or sparring with local guards—all framed as regular, diegetic parts of the world.
 - **Social reinforcement**: NPCs greet the player according to their role (e.g., “Back to the forge already?” or “Show us that wild trick you pulled last solstice!”).
 - **Visual and tactile VR cues** that simulate body memory: certain tools or actions feel more familiar or confident in VR based on the character’s background.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_02_02_00_00_00__natural-practice-spaces-and-role-cues.md -->
 
 ### 1.11.2.3 - Identity Markers & Cultural Anchors
@@ -5781,6 +5841,7 @@ To help the player connect with their character’s sense of place and purpose:
 - **Heirlooms, clothing, scars, tattoos**, and personal effects indicate background and skills (e.g., a ceremonial blade, weathered spellbook, or scarred palms).
 - **Language comprehension**, tone recognition, and symbolic fluency emerge organically. For example:
     - Runes may *feel* readable even if the player doesn’t consciously understand them—eventually unlocking intuitive usage through repeated interaction.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_02_03_00_00_00__identity-markers-and-cultural-anchors.md -->
 
 ### 1.11.2.4 - Guided Recall Without Amnesia
@@ -5798,6 +5859,7 @@ This is done through:
 - **Dream reflections** and **meditative states** that replay formative experiences as metaphor—not literal memories.
 - **Mentor reflections**: “You were always good with your hands... Remember when you rebuilt the loom blindfolded?”
 - **Cultural rituals** that make the player *reenact* moments their character would have performed before (e.g., preparing a burial or solving a logic riddle in a rite of passage).
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_02_04_00_00_00__guided-recall-without-amnesia.md -->
 
 ### 1.11.2.5 - No Stat Trees—Only Lived Skills
@@ -5813,6 +5875,7 @@ Players never “unlock” skills—they demonstrate them.
 - **Skill effectiveness** improves through applied repetition.
 - **Efficiency and nuance** (like performing something faster, more elegantly, or under pressure) emerge through player practice.
 - **Failure states** are interpreted as gaps in player knowledge, not the character’s. The world invites *study, rehearsal, or observation*.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_02_05_00_00_00__no-stat-treesonly-lived-skills.md -->
 
 ### 1.11.3 - Learning as Remembering & Practicing
@@ -5836,6 +5899,7 @@ In *Infinite Worlds*, the learning process is not about gaining abilities from n
 [1.11.3.4 Guided Practice Spaces & Simulation Zones](01_11_03_04_00_00_00__guided-practice-spaces-and-simulation-zones.md)
 
 [1.11.3.5 Sensory and Embodied Feedback (VR Emphasis)](1%2011%203%205%20Sensory%20and%20Embodied%20Feedback%20(VR%20Emphasi%2022eb227cadd78082829ac6fe5bffb142.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_03_00_00_00_00__learning-as-remembering-and-practicing.md -->
 
 ### 1.11.3.1 - Knowledge is Present, Not Gated
@@ -5854,6 +5918,7 @@ All core skills the character "knows" are **available from the beginning**, but 
 
 > Example: Your character may have known a regional martial art in their youth. The player doesn't need to unlock it—they just need to choose to practice with a staff, and the correct grip and movement patterns emerge in muscle memory.
 >
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_03_01_00_00_00__knowledge-is-present-not-gated.md -->
 
 ### 1.11.3.2 - Practice as Reclamation
@@ -5875,6 +5940,7 @@ Players aren’t told *“You’ve leveled up swordsmanship”*, but feel it thr
 - Less stamina loss on swings.
 - Cleaner follow-through on attacks.
 - NPCs reacting with increasing respect or curiosity.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_03_02_00_00_00__practice-as-reclamation.md -->
 
 ### 1.11.3.3 - Skill Exposure, Not Skill Unlocking
@@ -5892,6 +5958,7 @@ Key mechanisms include:
 - **Hands-on experimentation**: Using objects your character is familiar with reveals contextual affordances. A trained weaver will know how to tension a loom without instruction.
 - **NPC reinforcement**: Peers may react to your actions with approval or critique. ("Ah, you haven’t forgotten your grandmother’s knotwork.")
 - **Mentor reflection**: Used to confirm progress. ("You’ve remembered the third breath in the pattern. Good.")
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_03_03_00_00_00__skill-exposure-not-skill-unlocking.md -->
 
 ### 1.11.3.4 - Guided Practice Spaces & Simulation Zones
@@ -5915,6 +5982,7 @@ These spaces are:
 - Diegetic (in-world, not menu-based).
 - Optional but rewarding for careful players.
 - Thematically relevant (e.g., ancient memory domes or ancestor-echo chambers).
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_03_04_00_00_00__guided-practice-spaces-and-simulation-zones.md -->
 
 ### 1.11.3.5 - Sensory and Embodied Feedback (VR Emphasis)
@@ -5932,6 +6000,7 @@ In VR, skills become increasingly embodied through:
 - **Environmental responses**: Objects respond more intuitively when handled correctly—knives bite deeper, spells stabilize faster, etc.
 
 Over time, this creates a **non-verbal feedback loop** where the *player feels the character’s competence*.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/01_11_03_05_00_00_00__sensory-and-embodied-feedback-vr-emphasis.md -->
 
 ### 2 - Core Gameplay Systems
@@ -5949,6 +6018,7 @@ Original export: `markdown_export/2 Core Gameplay Systems 212b227cadd78068b22dde
 [2.3 Exploration, Discovery & Player–World Interaction](02_03_00_00_00_00_00__exploration-discovery-and-playerworld-interaction.md)
 
 [2.4 Consequences & Memory Systems](02_04_00_00_00_00_00__consequences-and-memory-systems.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_00_00_00_00_00_00__core-gameplay-systems.md -->
 
 ### 2.1 - Movement, Interaction & Sensory Immersion
@@ -6067,6 +6137,7 @@ Below are proposed diagrams and visual interfaces to support intuitive, immersiv
 [2.1.5 Immersive Feedback Systems (Visual, Audio, Haptics)](2%201%205%20Immersive%20Feedback%20Systems%20(Visual,%20Audio,%20H%20220b227cadd780e0854cdbf8cbde9594.md)
 
 [2.1.6 Posture, Balance & Fatigue Simulation](02_01_06_00_00_00_00__posture-balance-and-fatigue-simulation.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_00_00_00_00_00__movement-interaction-and-sensory-immersion.md -->
 
 ### 2.1.1 - Full-Body VR Movement & Physicality
@@ -6084,6 +6155,7 @@ Stamina, exertion, and effort-based interaction
 Crawling, prone, leaning, crouching, jumping
 
 Environmental constraints (tight spaces, overhangs)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_01_00_00_00_00__full-body-vr-movement-and-physicality.md -->
 
 ### 2.1.2 - Environmental Navigation: Climbing, Swimming, Crawling, Flying
@@ -6098,6 +6170,7 @@ Original export: `markdown_export/2 1 2 Environmental Navigation Climbing, Swimm
 - Buoyancy, resistance, breath control, current
 - Wingsuits, magical levitation, realistic physics balance
 - Environmental hazards (cold water, high winds, lava)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_02_00_00_00_00__environmental-navigation-climbing-swimming-crawling-flying.md -->
 
 ### 2.1.2.13.1.1 - Blueprint and C++
@@ -6327,6 +6400,7 @@ public:
 | Physics in Ethereal | Gravity toggle, ghost movement, phasing walls |
 
 [2.1.2.13.1.1.1 Sample Ghost NPC Blueprint Setup](02_01_02_13_01_01_01__sample-ghost-npc-blueprint-setup.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_02_13_01_01_00__blueprint-and-c-plus-plus.md -->
 
 ### 2.1.2.13.1.1.1 - Sample Ghost NPC Blueprint Setup
@@ -6504,6 +6578,7 @@ BP_GhostNPC
 └── FloatingPawnMovement
 
 ```
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_02_13_01_01_01__sample-ghost-npc-blueprint-setup.md -->
 
 ### 2.1.3 - Environmental Interaction
@@ -6518,6 +6593,7 @@ Original export: `markdown_export/2 1 3 Environmental Interaction 225b227cadd780
 - Force, leverage, friction, weight & balance systems
 - Realistic doors, containers, ropes, pulleys
 - Gesture-based interactions (rubbing, tying, striking)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_03_00_00_00_00__environmental-interaction.md -->
 
 ### 2.1.4 - VR to K&M Fallback Controls
@@ -6650,9 +6726,10 @@ void UInteractionComponent::TickComponent(...) {
 ### 🧩 Final Thoughts
 
 > The goal is not to mimic VR perfectly, but to preserve intention, rhythm, and feel.
-> 
+>
 
 Where VR is about physicality and space, KB&M is about timing, cursor flow, and tactile responsiveness through feedback. Focus on clarity, responsiveness, and intuitive metaphors over 1:1 fidelity.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_04_00_00_00_00__vr-to-k-and-m-fallback-controls.md -->
 
 ### 2.1.5 - Immersive Feedback Systems (Visual, Audio, Haptics)
@@ -6667,6 +6744,7 @@ Original export: `markdown_export/2 1 5 Immersive Feedback Systems (Visual, Audi
 - Visual focus, body feedback (limb fatigue, cold shivering)
 - Response to pain, threat, awe, or emotional stimuli
 - Customizable sensory profiles
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_05_00_00_00_00__immersive-feedback-systems-visual-audio-haptics.md -->
 
 ### 2.1.6 - Posture, Balance & Fatigue Simulation
@@ -6680,6 +6758,7 @@ Original export: `markdown_export/2 1 6 Posture, Balance & Fatigue Simulation 21
 - Encumbrance, overuse injuries, joint stress
 - Realistic motion penalties and feedback
 - Micro-adjustments for immersion without exhaustion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_01_06_00_00_00_00__posture-balance-and-fatigue-simulation.md -->
 
 ### 2.2 - Player Growth, Skills & Learning
@@ -6701,6 +6780,7 @@ Original export: `markdown_export/2 2 Player Growth, Skills & Learning 220b227ca
 [2.2.5 Motivation, Reputation & Identity](02_02_05_00_00_00_00__motivation-reputation-and-identity.md)
 
 [2.2.6 Milestones, Mastery & Nonlinear Progression](02_02_06_00_00_00_00__milestones-mastery-and-nonlinear-progression.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_00_00_00_00_00__player-growth-skills-and-learning.md -->
 
 ### 2.2.1 - Skills, Subskills & Insight Bursts
@@ -6714,6 +6794,7 @@ Original export: `markdown_export/2 2 1 Skills, Subskills & Insight Bursts 220b2
 - Core skill tree with nested real-world subskills
 - Insight Bursts: moments of sudden comprehension
 - Hybrid of experiential + theoretical learning
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_01_00_00_00_00__skills-subskills-and-insight-bursts.md -->
 
 ### 2.2.2 - Combat Mechanics (VR-Specific)
@@ -6733,6 +6814,7 @@ Original export: `markdown_export/2 2 2 Combat Mechanics (VR-Specific) 227b227ca
 | Grappling | Use two-handed grab mechanics + physics | Inspired by *Blade & Sorcery*, but with auto-safety limits |
 
 [2.2.2.1 Motion Safety Design](02_02_02_01_00_00_00__motion-safety-design.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_02_00_00_00_00__combat-mechanics-vr-specific.md -->
 
 ### 2.2.2.1 - Motion Safety Design
@@ -6746,6 +6828,7 @@ Original export: `markdown_export/2 2 2 1 Motion Safety Design 227b227cadd78053a
 - Covers what moves are prohibited for safety
 - Lists substitutions with player feedback strategies
 - Includes fail-safe detection (e.g., warning systems for near-miss kicks)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_02_01_00_00_00__motion-safety-design.md -->
 
 ### 2.2.3 - Archetypes & Playstyle Reflection
@@ -6759,6 +6842,7 @@ Original export: `markdown_export/2 2 3 Archetypes & Playstyle Reflection 220b22
 - Organic role evolution based on how the player plays
 - Non-class system; emergent identity over forced builds
 - Philosophical alignment, ethical tension
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_03_00_00_00_00__archetypes-and-playstyle-reflection.md -->
 
 ### 2.2.4 - Discovery Tiers & Knowledge Transfer
@@ -6772,6 +6856,7 @@ Original export: `markdown_export/2 2 4 Discovery Tiers & Knowledge Transfer 222
 - Gradual identification: plants, materials, languages
 - Real-world info revealed over time (e.g. taxonomy)
 - Experimentation, trial-and-error, synthesis
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_04_00_00_00_00__discovery-tiers-and-knowledge-transfer.md -->
 
 ### 2.2.5 - Motivation, Reputation & Identity
@@ -6785,6 +6870,7 @@ Original export: `markdown_export/2 2 5 Motivation, Reputation & Identity 225b22
 - NPCs respond to player knowledge, reputation, and consistency
 - Motivation Systems: curiosity, fear, love, guilt, purpose
 - Roleplaying inner life as a mechanic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_05_00_00_00_00__motivation-reputation-and-identity.md -->
 
 ### 2.2.6 - Milestones, Mastery & Nonlinear Progression
@@ -6825,9 +6911,9 @@ Examples:
 - Levels are replaced by skill mastery and social impact
 - They may spread word (or lies) about you.
 - Your reputation impacts access, trust, and relationships. |
-    
+
     | **World Impact** | The world **remembers and evolves**:
-    
+
 - Cities rise or fall.
 - Wars break out.
 - Ecosystems change.
@@ -6836,6 +6922,7 @@ Examples:
 - Major life events tracked (first shelter, lost companion)
 - Flexible objectives based on curiosity or survival
 - Mastery vs. novelty: mental plasticity vs. specialization
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_02_06_00_00_00_00__milestones-mastery-and-nonlinear-progression.md -->
 
 ### 2.3 - Exploration, Discovery & Player–World Interaction
@@ -6855,6 +6942,7 @@ Original export: `markdown_export/2 3 Exploration, Discovery & Player–World In
 [2.3.4 Curiosity Systems & Emergent Surprise](02_03_04_00_00_00_00__curiosity-systems-and-emergent-surprise.md)
 
 [2.3.5 World Response & Hidden Depths](02_03_05_00_00_00_00__world-response-and-hidden-depths.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_03_00_00_00_00_00__exploration-discovery-and-playerworld-interaction.md -->
 
 ### 2.3.1 - Biomes, Weather & Reactivity
@@ -6868,6 +6956,7 @@ Original export: `markdown_export/2 3 1 Biomes, Weather & Reactivity 220b227cadd
 - Dynamic biomes with layered systems: microclimates, seasons
 - Natural reactivity to fire, erosion, pollution, footprints
 - Discovery of species behavior, migration, adaptation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_03_01_00_00_00_00__biomes-weather-and-reactivity.md -->
 
 ### 2.3.2 - Foraging, Tracking, Observation & Clue Gathering
@@ -6881,6 +6970,7 @@ Original export: `markdown_export/2 3 2 Foraging, Tracking, Observation & Clue G
 - Realistic plant ID, animal tracking, weather signs
 - Observation systems (like "look closely" in TTRPGs)
 - Layered world clues: broken branches, ash piles, singing birds
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_03_02_00_00_00_00__foraging-tracking-observation-and-clue-gathering.md -->
 
 ### 2.3.3 - Mapping, Journals & Player-Created Knowledge
@@ -6894,6 +6984,7 @@ Original export: `markdown_export/2 3 3 Mapping, Journals & Player-Created Knowl
 - Manual map drawing, annotation, sketching
 - In-game journals with sketching, transcribing, tagging
 - Collaborative knowledge (library, carvings, signs)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_03_03_00_00_00_00__mapping-journals-and-player-created-knowledge.md -->
 
 ### 2.3.4 - Curiosity Systems & Emergent Surprise
@@ -6907,6 +6998,7 @@ Original export: `markdown_export/2 3 4 Curiosity Systems & Emergent Surprise 22
 - Systems that reward asking questions, not just finding loot
 - NPC hints, landscape cues, dreams, or music leading to secrets
 - World “speaks” through patterns — not tutorials
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_03_04_00_00_00_00__curiosity-systems-and-emergent-surprise.md -->
 
 ### 2.3.5 - World Response & Hidden Depths
@@ -6920,6 +7012,7 @@ Original export: `markdown_export/2 3 5 World Response & Hidden Depths 225b227ca
 - Discovery alters the world: naming, mastery, mythologizing
 - Reactivity based on *how* something is discovered
 - Some mysteries resist explanation — maintain awe
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_03_05_00_00_00_00__world-response-and-hidden-depths.md -->
 
 ### 2.4 - Consequences & Memory Systems
@@ -6939,6 +7032,7 @@ The emotional and narrative gravity of permanence, built into mechanics.
 [2.4.2 Persistent History & NPC Memory](02_04_02_00_00_00_00__persistent-history-and-npc-memory.md)
 
 [2.4.3 Lifepath Systems & Generational Storytelling](02_04_03_00_00_00_00__lifepath-systems-and-generational-storytelling.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_04_00_00_00_00_00__consequences-and-memory-systems.md -->
 
 ### 2.4.1 - Permadeath, Mortality & Legacy
@@ -6952,6 +7046,7 @@ Original export: `markdown_export/2 4 1 Permadeath, Mortality & Legacy 225b227ca
 - Player death is final: body remains, artifacts persist
 - Create myths, graves, relics for future players/NPCs
 - “Ghosts” of players shape the world’s future behavior
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_04_01_00_00_00_00__permadeath-mortality-and-legacy.md -->
 
 ### 2.4.2 - Persistent History & NPC Memory
@@ -6965,6 +7060,7 @@ Original export: `markdown_export/2 4 2 Persistent History & NPC Memory 225b227c
 - NPCs remember specific deeds, patterns, failures
 - NPCs or factions evolve in response to player actions
 - History books, oral tales, cave paintings, ritual reenactments
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_04_02_00_00_00_00__persistent-history-and-npc-memory.md -->
 
 ### 2.4.3 - Lifepath Systems & Generational Storytelling
@@ -6978,6 +7074,7 @@ Original export: `markdown_export/2 4 3 Lifepath Systems & Generational Storytel
 - Optional: Players pass knowledge to descendants
 - Influence others even after death (legacies, blueprints, journals)
 - Play another character who remembers your old self
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/02_04_03_00_00_00_00__lifepath-systems-and-generational-storytelling.md -->
 
 ### 3 - Simulation & World Systems
@@ -7142,6 +7239,7 @@ Include: Weather systems, cave networks, dynamic encounters
 [3.15 Adventure Hooks & Emergent Opportunities](03_15_00_00_00_00_00__adventure-hooks-and-emergent-opportunities.md)
 
 [3.16 Learning & Knowledge Progression](03_16_00_00_00_00_00__learning-and-knowledge-progression.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_00_00_00_00_00_00__simulation-and-world-systems.md -->
 
 ### 3.1 - World Generation & Biomes
@@ -7241,6 +7339,7 @@ Original export: `markdown_export/3 1 World Generation & Biomes 21db227cadd78033
 [3.1.2 Biome Diversity & Composition (climate, altitude, terrain types)](3%201%202%20Biome%20Diversity%20&%20Composition%20(climate,%20alti%20214b227cadd780b7b2c2ee275a280ae6.md)
 
 [3.1.3 Navigation, Landmarks & Orientation (natural and artificial)](3%201%203%20Navigation,%20Landmarks%20&%20Orientation%20(natural%20214b227cadd780098439eadd4bfae768.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_01_00_00_00_00_00__world-generation-and-biomes.md -->
 
 ### 3.1.1 - Procedural Terrain & Seed Rules
@@ -7250,6 +7349,7 @@ Original export: `markdown_export/3 1 1 Procedural Terrain & Seed Rules 225b227c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_01_01_00_00_00_00__procedural-terrain-and-seed-rules.md -->
 # 3.1.1 Procedural Terrain & Seed Rules
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_01_01_00_00_00_00__procedural-terrain-and-seed-rules.md -->
 
 ### 3.1.2 - Biome Diversity & Composition (climate, altitude, terrain types)
@@ -7260,7 +7360,7 @@ Original export: `markdown_export/3 1 2 Biome Diversity & Composition (climate, 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_01_02_00_00_00_00__biome-diversity-and-composition-climate-altitude-terrain-types.md -->
 # 3.1.2 Biome Diversity & Composition (climate, altitude, terrain types)
 
-### 
+###
 
 Biomes in *Infinite Worlds* are more than visual backdrops—they are **living, reactive systems** shaped by climate logic, evolutionary pressures, and environmental storytelling. Each biome offers unique **ecological, sensory, and gameplay challenges**, emphasizing realism and systemic coherence.
 
@@ -7367,6 +7467,7 @@ The *Mire of Silent Teeth* is a drowned expanse of ancient forest overtaken by c
 - **Faction Influence**:
     - The **Boneflower Cult** tends sacred orchid groves and views the swamp as a divine judge.
     - **Mirewardens**, independent guides with local knowledge, barter secrets for protection or companionship.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_01_02_00_00_00_00__biome-diversity-and-composition-climate-altitude-terrain-types.md -->
 
 ### 3.1.3 - Navigation, Landmarks & Orientation (natural and artificial)
@@ -7378,6 +7479,7 @@ Original export: `markdown_export/3 1 3 Navigation, Landmarks & Orientation (nat
 # 3.1.3 Navigation, Landmarks & Orientation (natural and artificial)
 
 How do players find their way? Tall peaks, unique soundscapes, magical auroras, or smell-based cues in VR? This helps tie immersion directly to memory and gameplay flow.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_01_03_00_00_00_00__navigation-landmarks-and-orientation-natural-and-artificial.md -->
 
 ### 3.2 - Time, Weather & Ecology
@@ -7401,6 +7503,7 @@ Time influences both the world and its inhabitants in profound ways.
 [3.2.2 **Weather, Climate, and Natural Disasters**](03_02_02_00_00_00_00__weather-climate-and-natural-disasters.md)
 
 [3.2.3 Celestial Mechanics: Moons, Eclipses, Magic Tides](03_02_03_00_00_00_00__celestial-mechanics-moons-eclipses-magic-tides.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_02_00_00_00_00_00__time-weather-and-ecology.md -->
 
 ### 3.2.1 - Time Cycles: Day/Night, Lunar Phases, Seasonal Shifts
@@ -7410,6 +7513,7 @@ Original export: `markdown_export/3 2 1 Time Cycles Day Night, Lunar Phases, Sea
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_02_01_00_00_00_00__time-cycles-day-night-lunar-phases-seasonal-shifts.md -->
 # 3.2.1 Time Cycles: Day/Night, Lunar Phases, Seasonal Shifts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_02_01_00_00_00_00__time-cycles-day-night-lunar-phases-seasonal-shifts.md -->
 
 ### 3.2.2 - Weather, Climate, and Natural Disasters
@@ -7427,6 +7531,7 @@ Weather and climate are procedurally driven with realistic mechanics and consequ
 - **Natural Disasters**: Volcanic eruptions, droughts, earthquakes, blizzards, and magical equivalents.
 - **Gameplay Effect**: Visibility, mobility, NPC behavior, and even spellcasting or technology can be affected.
 - **TTRPG Tie-In**: Similar to terrain/weather impact rules in *Pathfinder* or *Forbidden Lands* where weather defines travel outcomes.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_02_02_00_00_00_00__weather-climate-and-natural-disasters.md -->
 
 ### 3.2.3 - Celestial Mechanics: Moons, Eclipses, Magic Tides
@@ -7436,6 +7541,7 @@ Original export: `markdown_export/3 2 3 Celestial Mechanics Moons, Eclipses, Mag
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_02_03_00_00_00_00__celestial-mechanics-moons-eclipses-magic-tides.md -->
 # 3.2.3 Celestial Mechanics: Moons, Eclipses, Magic Tides
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_02_03_00_00_00_00__celestial-mechanics-moons-eclipses-magic-tides.md -->
 
 ### 3.3 - Ecosystems: Flora, Fauna, Microbes & Food Webs
@@ -7516,6 +7622,7 @@ If you’re curious about simulating more intricate ecosystem mechanics or integ
 [3.3.4 Magical or Psionic Ecosystems](03_03_04_00_00_00_00__magical-or-psionic-ecosystems.md)
 
 [3.3.5 Mutation, Evolution & Adaptation](03_03_05_00_00_00_00__mutation-evolution-and-adaptation.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_03_00_00_00_00_00__ecosystems-flora-fauna-microbes-and-food-webs.md -->
 
 ### 3.3.1 - Species Behaviors, Life Cycles & Territory
@@ -7544,6 +7651,7 @@ The ecosystem reacts to player interactions, fostering **complex food chains, bi
 - **Player Influence on Ecosystems:** **Overhunting, deforestation, or magical alterations** may permanently shift the balance of regions, leading to **extinction events or invasive species outbreaks**.
 
 Dig deeper into predator-prey loops, migration patterns, and how gameplay mechanics (e.g., hunting, farming, magic pollution) alter the balance. Useful if you integrate survival or ecosystem restoration elements.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_03_01_00_00_00_00__species-behaviors-life-cycles-and-territory.md -->
 
 ### 3.3.2 - Predator-Prey Balance & Ecological Cascades
@@ -7560,6 +7668,7 @@ Fauna and flora are part of interconnected ecological chains.
 - **Seasonal Shifts**: Migration, reproduction, and behavior change across seasons.
 - **Player Impact**: Overharvesting or introducing species can disrupt balance (e.g., invasive species, extinction).
 - **TTRPG Angle**: Similar to hex-based wilderness survival games, players must think ecologically rather than just tactically.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_03_02_00_00_00_00__predator-prey-balance-and-ecological-cascades.md -->
 
 ### 3.3.3 - Microbial Life & Environmental Dependencies
@@ -7569,6 +7678,7 @@ Original export: `markdown_export/3 3 3 Microbial Life & Environmental Dependenc
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_03_03_00_00_00_00__microbial-life-and-environmental-dependencies.md -->
 # 3.3.3 Microbial Life & Environmental Dependencies
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_03_03_00_00_00_00__microbial-life-and-environmental-dependencies.md -->
 
 ### 3.3.4 - Magical or Psionic Ecosystems
@@ -7580,6 +7690,7 @@ Original export: `markdown_export/3 3 4 Magical or Psionic Ecosystems 214b227cad
 # 3.3.4 Magical or Psionic Ecosystems
 
 Describe how magical forces shape the terrain—floating isles, stormfront boundaries, ley line convergence zones. How could they impact traversal, combat zones, and crafting ingredient rarity.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_03_04_00_00_00_00__magical-or-psionic-ecosystems.md -->
 
 ### 3.3.5 - Mutation, Evolution & Adaptation
@@ -7589,6 +7700,7 @@ Original export: `markdown_export/3 3 5 Mutation, Evolution & Adaptation 225b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_03_05_00_00_00_00__mutation-evolution-and-adaptation.md -->
 # 3.3.5 Mutation, Evolution & Adaptation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_03_05_00_00_00_00__mutation-evolution-and-adaptation.md -->
 
 ### 3.4 - Disease, Poison & Afflictions
@@ -7616,6 +7728,7 @@ Expand survival into illness, corruption, madness—afflictions that persist acr
 [3.4.5 NPC & Faction Reactions to Contagion](03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md)
 
 [3.4.6 VR Feedback: Auditory, Visual, Proprioceptive Responses](03_04_06_00_00_00_00__vr-feedback-auditory-visual-proprioceptive-responses.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_00_00_00_00_00__disease-poison-and-afflictions.md -->
 
 ### 3.4.1 - Physical Afflictions: Disease, Poison, Toxins
@@ -7625,6 +7738,7 @@ Original export: `markdown_export/3 4 1 Physical Afflictions Disease, Poison, To
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_04_01_00_00_00_00__physical-afflictions-disease-poison-toxins.md -->
 # 3.4.1 Physical Afflictions: Disease, Poison, Toxins
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_01_00_00_00_00__physical-afflictions-disease-poison-toxins.md -->
 
 ### 3.4.2 - Mental Afflictions: Fear, Madness, PTSD
@@ -7634,6 +7748,7 @@ Original export: `markdown_export/3 4 2 Mental Afflictions Fear, Madness, PTSD 2
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_04_02_00_00_00_00__mental-afflictions-fear-madness-ptsd.md -->
 # 3.4.2 Mental Afflictions: Fear, Madness, PTSD
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_02_00_00_00_00__mental-afflictions-fear-madness-ptsd.md -->
 
 ### 3.4.3 - Spread Simulation: Vectors, Environments, Carriers
@@ -7643,6 +7758,7 @@ Original export: `markdown_export/3 4 3 Spread Simulation Vectors, Environments,
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_04_03_00_00_00_00__spread-simulation-vectors-environments-carriers.md -->
 # 3.4.3 Spread Simulation: Vectors, Environments, Carriers
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_03_00_00_00_00__spread-simulation-vectors-environments-carriers.md -->
 
 ### 3.4.4 - Mutation & Evolution in Pathogens
@@ -7652,6 +7768,7 @@ Original export: `markdown_export/3 4 4 Mutation & Evolution in Pathogens 225b22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_04_04_00_00_00_00__mutation-and-evolution-in-pathogens.md -->
 # 3.4.4 Mutation & Evolution in Pathogens
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_04_00_00_00_00__mutation-and-evolution-in-pathogens.md -->
 
 ### 3.4.5 - NPC & Faction Reactions to Contagion
@@ -7661,6 +7778,7 @@ Original export: `markdown_export/3 4 5 NPC & Faction Reactions to Contagion 21d
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md -->
 # 3.4.5 NPC & Faction Reactions to Contagion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_05_00_00_00_00__npc-and-faction-reactions-to-contagion.md -->
 
 ### 3.4.5 - Treatments: Alchemy, Rituals, Herbs, Surgery
@@ -7670,6 +7788,7 @@ Original export: `markdown_export/3 4 5 Treatments Alchemy, Rituals, Herbs, Surg
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md -->
 # 3.4.5 Treatments: Alchemy, Rituals, Herbs, Surgery
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_05_00_00_00_00__treatments-alchemy-rituals-herbs-surgery.md -->
 
 ### 3.4.6 - VR Feedback: Auditory, Visual, Proprioceptive Responses
@@ -7679,6 +7798,7 @@ Original export: `markdown_export/3 4 6 VR Feedback Auditory, Visual, Propriocep
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_04_06_00_00_00_00__vr-feedback-auditory-visual-proprioceptive-responses.md -->
 # 3.4.6 VR Feedback: Auditory, Visual, Proprioceptive Responses
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_04_06_00_00_00_00__vr-feedback-auditory-visual-proprioceptive-responses.md -->
 
 ### 3.5 - Enemy Types & Ecological Roles
@@ -7724,31 +7844,31 @@ In addition to their taxonomy, enemies are classified by combat and narrative **
 | **Bosses / World Threats** | Rare, often narrative-centered entities. Possess custom mechanics, multiple phases, or unique environmental interactions. Require full strategic focus and often mark turning points in the story. |
 
 > Example: A Fiendish Elite may be a demon cult priest capable of summoning lesser imps and weakening party morale, while a Beast Mini-Boss might be a territorial wyvern guarding a sacred glade.
-> 
+>
 
 ---
 
 ### 🧠 **Design Purpose and Gameplay Impact**
 
 - **Narrative Resonance**
-    
+
     Each creature type embodies **themes and moral tensions** (e.g., order vs. chaos, nature vs. civilization, life vs. undeath). Encounters become meaningful through lore and player decisions, not just stats.
-    
+
 - **Tactical Diversity**
-    
+
     Creatures vary not only by strength but by **behavior, terrain usage, elemental affinity, and AI complexity**. For instance:
-    
+
     - **Oozes** restrict movement and visibility.
     - **Giants** use shockwaves and terrain destruction.
     - **Fey** use illusions, confusion, or persuasion.
 - **Player Anticipation**
-    
+
     Recognizing creature types and roles helps players **learn behaviors, prepare tools, and plan tactics**. They come to anticipate that undead may rise again, or that constructs can’t be reasoned with.
-    
+
 - **Procedural Encounter Variety**
-    
+
     The modular nature of enemy types + roles allows the procedural engine to generate meaningful, themed encounters across diverse biomes and narrative contexts.
-    
+
 
 Tension scaling system tied to world events
 
@@ -7770,6 +7890,7 @@ Tension scaling system tied to world events
 [3.5.4 Adaptive Enemies (learn and evolve from player actions)](3%205%204%20Adaptive%20Enemies%20(learn%20and%20evolve%20from%20play%20225b227cadd780cb87bfe57f4b07f61e.md)
 
 [3.5.5 Enemy Encyclopedia & Tracking (player-curated or learned)](3%205%205%20Enemy%20Encyclopedia%20&%20Tracking%20(player-curate%20225b227cadd780c2a19dccd0f39156c2.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_00_00_00_00_00__enemy-types-and-ecological-roles.md -->
 
 ### 3.5.1 - Enemy Classification: Wildlife, Constructs, Aberrations, etc
@@ -7781,6 +7902,7 @@ Original export: `markdown_export/3 5 1 Enemy Classification Wildlife, Construct
 # 3.5.1 Enemy Classification: Wildlife, Constructs, Aberrations, etc
 
 [3.5.1.1 Species Data Definitions](03_05_01_01_00_00_00__species-data-definitions.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_01_00_00_00_00__enemy-classification-wildlife-constructs-aberrations-etc.md -->
 
 ### 3.5.1.1 - Species Data Definitions
@@ -7795,22 +7917,22 @@ High-level architecture plus concrete Blueprint & C++ recipes for a “living ec
 
 ## 1. Core Concepts & Data Architecture
 
-1.1   Data-Driven Species Definitions  
-    • Use a DataTable (`CSV` or `JSON`) keyed by `FName SpeciesID`  
-    • Columns:  
-      – `ParentSpeciesID` (for inheritance)  
-      – `ReproductionType` (Sexual, Asexual)  
-      – `LitterSizeMin/Max`, `MaturityAge`  
-      – `MaxLifespan`, `GestationTime`  
-      – `DietType` (Herbivore, Carnivore, Omnivore, Energy, Matter)  
-      – `PreferredEnvTags` (Tags: Forest, Wetland, Rocky…)  
-      – `AggressionLevel` (0–1 float)  
+1.1   Data-Driven Species Definitions
+    • Use a DataTable (`CSV` or `JSON`) keyed by `FName SpeciesID`
+    • Columns:
+      – `ParentSpeciesID` (for inheritance)
+      – `ReproductionType` (Sexual, Asexual)
+      – `LitterSizeMin/Max`, `MaturityAge`
+      – `MaxLifespan`, `GestationTime`
+      – `DietType` (Herbivore, Carnivore, Omnivore, Energy, Matter)
+      – `PreferredEnvTags` (Tags: Forest, Wetland, Rocky…)
+      – `AggressionLevel` (0–1 float)
       – `ParentalCare` (None, Minimal, Extended)
 
-1.2   Runtime Tracking by `AEcosystemManager`  
-    • Singleton Actor placed in World  
-    • Holds lists: `TSet<AAnimalBase*> AllAnimals;`  
-    • Per-tick or timed update: population counts, carrying capacity checks  
+1.2   Runtime Tracking by `AEcosystemManager`
+    • Singleton Actor placed in World
+    • Holds lists: `TSet<AAnimalBase*> AllAnimals;`
+    • Per-tick or timed update: population counts, carrying capacity checks
     • Exposes EQS/Volumes to steer where births/spreads happen
 
 ## 2. `AAnimalBase` C++ Class Outline
@@ -7845,13 +7967,13 @@ public:
   UPROPERTY() ULifeCycleComponent* LifeCycleComp;
   UPROPERTY() UBehaviorComponent* BehaviorComp;
   UPROPERTY() UReproductionComponent* ReproComp;
-  
+
   virtual void BeginPlay() override;
   virtual void Tick(float Delta) override;
 };`
 
-**Key Modules (as ActorComponents)**  
- • `ULifeCycleComponent`  
+**Key Modules (as ActorComponents)**
+ • `ULifeCycleComponent`
     – Tracks `Age`, flips `bIsAdult`, kills at `MaxLifespan`
 
 - `UReproductionComponent` – When adult & conditions met (`bHasMateNearby`, resource levels, season), spawns child Actors via `AEcosystemManager->SpawnAnimal()`
@@ -7859,13 +7981,13 @@ public:
 
 ## 3. Blueprint Patterns
 
-3.1   Spawning Children  
+3.1   Spawning Children
 • In Blueprint: call `Event Custom: OnCanReproduce` → `Spawn Animal Actor from Class` with same `SpeciesID` → set `Mother/Father` → register with `EcosystemManager`
 
-3.2   Environment Queries (EQS)  
+3.2   Environment Queries (EQS)
 • Use EQS to find suitable patch volumes by `PreferredEnvTags` → returns array of `FVector` → move there to forage, nest, birth
 
-3.3   Population Control  
+3.3   Population Control
 • On reproduction, `EcosystemManager` checks:
 
 blueprint
@@ -7873,8 +7995,8 @@ blueprint
 `if (PopulationOfSpecies < MaxPerArea && TotalPlantsNearby > LitterSize) AllowBirth;
 else DelayNextBirth();`
 
-3.4   Tracking Death & Overpopulation  
-• On death (`Health<=0` or old age), unregister from manager  
+3.4   Tracking Death & Overpopulation
+• On death (`Health<=0` or old age), unregister from manager
 • Manager periodically runs logistic growth check:
 
 math
@@ -7885,12 +8007,12 @@ math
 
 ## 4. Habitat & Resources
 
-4.1   Plant & Matter/Energy Eaters  
-• Create `AResourceNode` Actors (e.g., berry bush, magical ley line) with `GRR_ResourceComponent` storing `ResourceAmount`  
+4.1   Plant & Matter/Energy Eaters
+• Create `AResourceNode` Actors (e.g., berry bush, magical ley line) with `GRR_ResourceComponent` storing `ResourceAmount`
 • Herbivores query nearest nodes via EQS, consume resource → node’s `ResourceAmount -= IntakeRate`
 
-4.2   Predator-Prey Links  
-• On spawn, each animal’s `BehaviorComp` can register into manager’s Kd-tree or `TMap<SpeciesID, TArray<AAnimalBase*>>`  
+4.2   Predator-Prey Links
+• On spawn, each animal’s `BehaviorComp` can register into manager’s Kd-tree or `TMap<SpeciesID, TArray<AAnimalBase*>>`
 • When hunting: `EQS_FindClosest(PreySpeciesID)` → chase & attack
 
 ## 5. Performance & Tuning
@@ -7907,29 +8029,30 @@ math
 
 ## 7. Free 5.6-Specific Learning Links
 
-- C++ ActorComponent Patterns: 
-• EQS for Ecology: 
-• Population & Logistics Tutorial (community): 
-• Behavior Trees w/ dynamic targets: 
-• DataTables & CSV import: 
+- C++ ActorComponent Patterns:
+• EQS for Ecology:
+• Population & Logistics Tutorial (community):
+• Behavior Trees w/ dynamic targets:
+• DataTables & CSV import:
 • VR Performance (for many Actors):
-    
+
     https://docs.unrealengine.com/5.0/en-US/creating-actors-and-components-in-unreal-engine/
-    
+
     https://dev.epicgames.com/documentation/en-us/unreal-engine/environment-query-system
-    
+
     https://kumiyama.com/unreal-ecosystem-tutorial/
-    
+
     https://docs.unrealengine.com/5.0/en-US/behavior-tree-overview-in-unreal-engine/
-    
+
     https://docs.unrealengine.com/5.0/en-US/working-with-tables-in-unreal-engine/
-    
+
     https://www.unrealengine.com/en-US/onlinelearning-courses/optimizing-your-game-for-performance
-    
+
 
 By combining a **data-driven** species database, a **manager** to oversee births/deaths, and **modular components** for lifecycle, reproduction and behavior, you’ll end up with a truly organic ecosystem—one that can collapse, explode or self-regulate based on in-world conditions.
 
 [3.5.1.1.1 Species Data](03_05_01_01_01_00_00__species-data.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_01_01_00_00_00__species-data-definitions.md -->
 
 ### 3.5.1.1.1 - Species Data
@@ -9623,6 +9746,7 @@ Original export: `markdown_export/3 5 1 1 1 Species Data 225b227cadd7802cadc5fc9
 "Notes":""
 }
 ]
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_01_01_01_00_00__species-data.md -->
 
 ### 3.5.2 - Behavioral Ecology & Spawn Conditions
@@ -9632,6 +9756,7 @@ Original export: `markdown_export/3 5 2 Behavioral Ecology & Spawn Conditions 22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_05_02_00_00_00_00__behavioral-ecology-and-spawn-conditions.md -->
 # 3.5.2 Behavioral Ecology & Spawn Conditions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_02_00_00_00_00__behavioral-ecology-and-spawn-conditions.md -->
 
 ### 3.5.3 - Enemy Social Systems (hives, packs, lone predators)
@@ -9641,6 +9766,7 @@ Original export: `markdown_export/3 5 3 Enemy Social Systems (hives, packs, lone
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_05_03_00_00_00_00__enemy-social-systems-hives-packs-lone-predators.md -->
 # 3.5.3 Enemy Social Systems (hives, packs, lone predators)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_03_00_00_00_00__enemy-social-systems-hives-packs-lone-predators.md -->
 
 ### 3.5.4 - Adaptive Enemies (learn and evolve from player actions)
@@ -9650,6 +9776,7 @@ Original export: `markdown_export/3 5 4 Adaptive Enemies (learn and evolve from 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_05_04_00_00_00_00__adaptive-enemies-learn-and-evolve-from-player-actions.md -->
 # 3.5.4 Adaptive Enemies (learn and evolve from player actions)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_04_00_00_00_00__adaptive-enemies-learn-and-evolve-from-player-actions.md -->
 
 ### 3.5.5 - Enemy Encyclopedia & Tracking (player-curated or learned)
@@ -9659,6 +9786,7 @@ Original export: `markdown_export/3 5 5 Enemy Encyclopedia & Tracking (player-cu
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_05_05_00_00_00_00__enemy-encyclopedia-and-tracking-player-curated-or-learned.md -->
 # 3.5.5 Enemy Encyclopedia & Tracking (player-curated or learned)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_05_05_00_00_00_00__enemy-encyclopedia-and-tracking-player-curated-or-learned.md -->
 
 ### 3.6 - Settlements, Construction & Civilization Logic
@@ -9680,6 +9808,7 @@ Work out systems to generate semi-random, realistic and believable towns, outpos
 [3.6.4 NPC Daily Life Simulation (cross-reference AI)](3%206%204%20NPC%20Daily%20Life%20Simulation%20(cross-reference%20A%20225b227cadd7807099fcfb18df7af633.md)
 
 [3.6.5 Enemy Encyclopedia & Tracking (player-curated or learned)](3%206%205%20Enemy%20Encyclopedia%20&%20Tracking%20(player-curate%20225b227cadd7801f85f2e95d8cb98179.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_06_00_00_00_00_00__settlements-construction-and-civilization-logic.md -->
 
 ### 3.6.1 - NPC Settlement Growth: Farming, Resting, Jobs
@@ -9693,6 +9822,7 @@ Original export: `markdown_export/3 6 1 NPC Settlement Growth Farming, Resting, 
 - Sound, lighting, and line-of-sight systems
 - NPC sensory awareness and suspicion thresholds
 - Disguises, distraction items, and hiding mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_06_01_00_00_00_00__npc-settlement-growth-farming-resting-jobs.md -->
 
 ### 3.6.2 - Player Construction Systems (structures, defenses, style)
@@ -9702,6 +9832,7 @@ Original export: `markdown_export/3 6 2 Player Construction Systems (structures,
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_06_02_00_00_00_00__player-construction-systems-structures-defenses-style.md -->
 # 3.6.2 Player Construction Systems (structures, defenses, style)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_06_02_00_00_00_00__player-construction-systems-structures-defenses-style.md -->
 
 ### 3.6.3 - Environmental Adaptation in Architecture
@@ -9711,6 +9842,7 @@ Original export: `markdown_export/3 6 3 Environmental Adaptation in Architecture
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_06_03_00_00_00_00__environmental-adaptation-in-architecture.md -->
 # 3.6.3 Environmental Adaptation in Architecture
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_06_03_00_00_00_00__environmental-adaptation-in-architecture.md -->
 
 ### 3.6.4 - NPC Daily Life Simulation (cross-reference AI)
@@ -9720,6 +9852,7 @@ Original export: `markdown_export/3 6 4 NPC Daily Life Simulation (cross-referen
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_06_04_00_00_00_00__npc-daily-life-simulation-cross-reference-ai.md -->
 # 3.6.4 NPC Daily Life Simulation (cross-reference AI)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_06_04_00_00_00_00__npc-daily-life-simulation-cross-reference-ai.md -->
 
 ### 3.6.5 - Enemy Encyclopedia & Tracking (player-curated or learned)
@@ -9729,6 +9862,7 @@ Original export: `markdown_export/3 6 5 Enemy Encyclopedia & Tracking (player-cu
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_06_05_00_00_00_00__enemy-encyclopedia-and-tracking-player-curated-or-learned.md -->
 # 3.6.5 Enemy Encyclopedia & Tracking (player-curated or learned)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_06_05_00_00_00_00__enemy-encyclopedia-and-tracking-player-curated-or-learned.md -->
 
 ### 3.7 - Civilization Simulation
@@ -9759,6 +9893,7 @@ Civilizations evolve in response to their environment, technology, and social de
 [3.7.6 Inter-Civilizational Conflict & Diplomacy](03_07_06_00_00_00_00__inter-civilizational-conflict-and-diplomacy.md)
 
 [3.7.7 Impact of the Player on Civilizational History](03_07_07_00_00_00_00__impact-of-the-player-on-civilizational-history.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_00_00_00_00_00__civilization-simulation.md -->
 
 ### 3.7.1 - Faction Evolution: Birth, Collapse, Adaptation
@@ -9768,6 +9903,7 @@ Original export: `markdown_export/3 7 1 Faction Evolution Birth, Collapse, Adapt
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_07_01_00_00_00_00__faction-evolution-birth-collapse-adaptation.md -->
 # 3.7.1 Faction Evolution: Birth, Collapse, Adaptation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_01_00_00_00_00__faction-evolution-birth-collapse-adaptation.md -->
 
 ### 3.7.2 - Cultural Drift & Identity Over Time
@@ -9777,6 +9913,7 @@ Original export: `markdown_export/3 7 2 Cultural Drift & Identity Over Time 225b
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_07_02_00_00_00_00__cultural-drift-and-identity-over-time.md -->
 # 3.7.2 Cultural Drift & Identity Over Time
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_02_00_00_00_00__cultural-drift-and-identity-over-time.md -->
 
 ### 3.7.3 - Technological and Magical Advancement Trees
@@ -9786,6 +9923,7 @@ Original export: `markdown_export/3 7 3 Technological and Magical Advancement Tr
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_07_03_00_00_00_00__technological-and-magical-advancement-trees.md -->
 # 3.7.3 Technological and Magical Advancement Trees
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_03_00_00_00_00__technological-and-magical-advancement-trees.md -->
 
 ### 3.7.4 - Religion, Philosophy & Social Structures
@@ -9795,6 +9933,7 @@ Original export: `markdown_export/3 7 4 Religion, Philosophy & Social Structures
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_07_04_00_00_00_00__religion-philosophy-and-social-structures.md -->
 # 3.7.4 Religion, Philosophy & Social Structures
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_04_00_00_00_00__religion-philosophy-and-social-structures.md -->
 
 ### 3.7.5 - Political Systems, Law & Crime
@@ -9804,6 +9943,7 @@ Original export: `markdown_export/3 7 5 Political Systems, Law & Crime 226b227ca
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_07_05_00_00_00_00__political-systems-law-and-crime.md -->
 # 3.7.5 Political Systems, Law & Crime
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_05_00_00_00_00__political-systems-law-and-crime.md -->
 
 ### 3.7.6 - Inter-Civilizational Conflict & Diplomacy
@@ -9813,6 +9953,7 @@ Original export: `markdown_export/3 7 6 Inter-Civilizational Conflict & Diplomac
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_07_06_00_00_00_00__inter-civilizational-conflict-and-diplomacy.md -->
 # 3.7.6 Inter-Civilizational Conflict & Diplomacy
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_06_00_00_00_00__inter-civilizational-conflict-and-diplomacy.md -->
 
 ### 3.7.7 - Impact of the Player on Civilizational History
@@ -9822,6 +9963,7 @@ Original export: `markdown_export/3 7 7 Impact of the Player on Civilizational H
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_07_07_00_00_00_00__impact-of-the-player-on-civilizational-history.md -->
 # 3.7.7 Impact of the Player on Civilizational History
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_07_07_00_00_00_00__impact-of-the-player-on-civilizational-history.md -->
 
 ### 3.8 - Economic Simulation & Trade Networks
@@ -9843,6 +9985,7 @@ Economies develop, fluctuate, and respond to world conditions.
 [3.8.4 Transportation Infrastructure (caravans, teleport hubs)](3%208%204%20Transportation%20Infrastructure%20(caravans,%20tel%20226b227cadd780ab982eeb91f0ee3ca0.md)
 
 [3.8.5 Local vs Global Markets](03_08_05_00_00_00_00__local-vs-global-markets.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_08_00_00_00_00_00__economic-simulation-and-trade-networks.md -->
 
 ### 3.8.1 - NPC & Player-Driven Supply & Demand
@@ -9852,6 +9995,7 @@ Original export: `markdown_export/3 8 1 NPC & Player-Driven Supply & Demand 226b
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_08_01_00_00_00_00__npc-and-player-driven-supply-and-demand.md -->
 # 3.8.1 NPC & Player-Driven Supply & Demand
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_08_01_00_00_00_00__npc-and-player-driven-supply-and-demand.md -->
 
 ### 3.8.2 - Regional Resources & Trade Routes
@@ -9861,6 +10005,7 @@ Original export: `markdown_export/3 8 2 Regional Resources & Trade Routes 226b22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_08_02_00_00_00_00__regional-resources-and-trade-routes.md -->
 # 3.8.2 Regional Resources & Trade Routes
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_08_02_00_00_00_00__regional-resources-and-trade-routes.md -->
 
 ### 3.8.3 - Dynamic Pricing, Hoarding, Scarcity, and Inflation
@@ -9870,6 +10015,7 @@ Original export: `markdown_export/3 8 3 Dynamic Pricing, Hoarding, Scarcity, and
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_08_03_00_00_00_00__dynamic-pricing-hoarding-scarcity-and-inflation.md -->
 # 3.8.3 Dynamic Pricing, Hoarding, Scarcity, and Inflation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_08_03_00_00_00_00__dynamic-pricing-hoarding-scarcity-and-inflation.md -->
 
 ### 3.8.4 - Transportation Infrastructure (caravans, teleport hubs)
@@ -9879,6 +10025,7 @@ Original export: `markdown_export/3 8 4 Transportation Infrastructure (caravans,
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_08_04_00_00_00_00__transportation-infrastructure-caravans-teleport-hubs.md -->
 # 3.8.4 Transportation Infrastructure (caravans, teleport hubs)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_08_04_00_00_00_00__transportation-infrastructure-caravans-teleport-hubs.md -->
 
 ### 3.8.5 - Local vs Global Markets
@@ -9888,6 +10035,7 @@ Original export: `markdown_export/3 8 5 Local vs Global Markets 226b227cadd780c8
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_08_05_00_00_00_00__local-vs-global-markets.md -->
 # 3.8.5 Local vs Global Markets
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_08_05_00_00_00_00__local-vs-global-markets.md -->
 
 ### 3.9 - Magical Ecology & Anomalies
@@ -9912,6 +10060,7 @@ Magic and psionics aren’t abstract forces — they have real environmental and
 [3.9.3 Magical Resource Nodes](03_09_03_00_00_00_00__magical-resource-nodes.md)
 
 [3.9.4 Consequences of Spellcasting on Environment](03_09_04_00_00_00_00__consequences-of-spellcasting-on-environment.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_09_00_00_00_00_00__magical-ecology-and-anomalies.md -->
 
 ### 3.9.1 - Magical Contamination Zones
@@ -9921,6 +10070,7 @@ Original export: `markdown_export/3 9 1 Magical Contamination Zones 226b227cadd7
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_09_01_00_00_00_00__magical-contamination-zones.md -->
 # 3.9.1 Magical Contamination Zones
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_09_01_00_00_00_00__magical-contamination-zones.md -->
 
 ### 3.9.2 - Wild Magic Storms & Planar Rifts
@@ -9930,6 +10080,7 @@ Original export: `markdown_export/3 9 2 Wild Magic Storms & Planar Rifts 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_09_02_00_00_00_00__wild-magic-storms-and-planar-rifts.md -->
 # 3.9.2 Wild Magic Storms & Planar Rifts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_09_02_00_00_00_00__wild-magic-storms-and-planar-rifts.md -->
 
 ### 3.9.3 - Magical Resource Nodes
@@ -9939,6 +10090,7 @@ Original export: `markdown_export/3 9 3 Magical Resource Nodes 226b227cadd780219
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_09_03_00_00_00_00__magical-resource-nodes.md -->
 # 3.9.3 Magical Resource Nodes
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_09_03_00_00_00_00__magical-resource-nodes.md -->
 
 ### 3.9.4 - Consequences of Spellcasting on Environment
@@ -9948,6 +10100,7 @@ Original export: `markdown_export/3 9 4 Consequences of Spellcasting on Environm
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_09_04_00_00_00_00__consequences-of-spellcasting-on-environment.md -->
 # 3.9.4 Consequences of Spellcasting on Environment
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_09_04_00_00_00_00__consequences-of-spellcasting-on-environment.md -->
 
 ### 3.10 - World Physics & Planar Systems
@@ -10081,6 +10234,7 @@ Just as tabletop GMs often warn players “this world doesn’t work like yours,
 [3.10.15 Planar Travel & Access Mechanics](03_10_15_00_00_00_00__planar-travel-and-access-mechanics.md)
 
 [3.10.16 Planar Influence on Ecosystems, Magic, and NPCs](03_10_16_00_00_00_00__planar-influence-on-ecosystems-magic-and-npcs.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_00_00_00_00_00__world-physics-and-planar-systems.md -->
 
 ### 3.10.1 - Physical Laws & Environmental Interactions
@@ -10090,6 +10244,7 @@ Original export: `markdown_export/3 10 1 Physical Laws & Environmental Interacti
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_10_01_00_00_00_00__physical-laws-and-environmental-interactions.md -->
 # 3.10.1 Physical Laws & Environmental Interactions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_01_00_00_00_00__physical-laws-and-environmental-interactions.md -->
 
 ### 3.10.2 - Magical Laws & Aether Mechanics
@@ -10099,6 +10254,7 @@ Original export: `markdown_export/3 10 2 Magical Laws & Aether Mechanics 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_10_02_00_00_00_00__magical-laws-and-aether-mechanics.md -->
 # 3.10.2 Magical Laws & Aether Mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_02_00_00_00_00__magical-laws-and-aether-mechanics.md -->
 
 ### 3.10.3 - Dimensional Anchors & Veil Mechanics
@@ -10108,6 +10264,7 @@ Original export: `markdown_export/3 10 3 Dimensional Anchors & Veil Mechanics 22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_10_03_00_00_00_00__dimensional-anchors-and-veil-mechanics.md -->
 # 3.10.3 Dimensional Anchors & Veil Mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_03_00_00_00_00__dimensional-anchors-and-veil-mechanics.md -->
 
 ### 3.10.4 - Planar Intersections & Rifts
@@ -10117,6 +10274,7 @@ Original export: `markdown_export/3 10 4 Planar Intersections & Rifts 226b227cad
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_10_04_00_00_00_00__planar-intersections-and-rifts.md -->
 # 3.10.4 Planar Intersections & Rifts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_04_00_00_00_00__planar-intersections-and-rifts.md -->
 
 ### 3.10.5 - Ethereal Plane
@@ -10202,7 +10360,7 @@ This realm is **not entirely visible**, **not fully tangible**, and **not bound 
 | **Environmental Rifts** | Natural or magical tears in reality allow unstable access. |
 
 > Note: Entering the Ethereal Plane often consumes effort or focus, and players cannot carry large quantities of matter unless equipped with proper gear (ghost-thread bags, phase sheaths).
-> 
+>
 
 ---
 
@@ -10267,6 +10425,7 @@ To support the **broader planar system**, design the Ethereal Plane as a **templ
 Each uses the same **modular layer framework**, allowing devs to create new planar zones with unique overlays, physics, and AI as the world expands.
 
 [2.1.2.13.1.1 Blueprint and C++](02_01_02_13_01_01_00__blueprint-and-c-plus-plus.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_05_00_00_00_00__ethereal-plane.md -->
 
 ### 3.10.6 - Astral Plane
@@ -10280,6 +10439,7 @@ Original export: `markdown_export/3 10 6 Astral Plane 226b227cadd78022aab0edef95
 - The space between worlds; a silvery void of thought and spirit
 - Travel route between outer planes, home of lost souls, psionics
 - Timeless and thought-responsive
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_06_00_00_00_00__astral-plane.md -->
 
 ### 3.10.7 - Shadowfell (Plane of Shadow)
@@ -10293,6 +10453,7 @@ Original export: `markdown_export/3 10 7 Shadowfell (Plane of Shadow) 226b227cad
 - A dark, decayed reflection of the Material Plane
 - Depressing, full of undead, memory loss, and shadow creatures
 - Used in stealth, necromancy, or psychological horror
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_07_00_00_00_00__shadowfell-plane-of-shadow.md -->
 
 ### 3.10.8 - Feywild (Plane of Faerie)
@@ -10306,6 +10467,7 @@ Original export: `markdown_export/3 10 8 Feywild (Plane of Faerie) 226b227cadd78
 - A vibrant, surreal version of the Material Plane
 - Time behaves oddly, emotion alters reality
 - Inhabited by archfey, spirits, primal beings
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_08_00_00_00_00__feywild-plane-of-faerie.md -->
 
 ### 3.10.9 - Dreaming Realm
@@ -10319,6 +10481,7 @@ Original export: `markdown_export/3 10 9 Dreaming Realm 226b227cadd78028b6dad46a
 - Formed by the subconscious of all creatures
 - Shared lucid dreaming, emotional storms, nightmare entities
 - May be linked to prophecy or psionics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_09_00_00_00_00__dreaming-realm.md -->
 
 ### 3.10.10 - Elemental Planes (Fire, Air, Water, Earth)
@@ -10335,6 +10498,7 @@ Original export: `markdown_export/3 10 10 Elemental Planes (Fire, Air, Water, Ea
     - Ice (Air + Water)
     - Ooze (Water + Earth)
     - Smoke (Air + Fire)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_10_00_00_00_00__elemental-planes-fire-air-water-earth.md -->
 
 ### 3.10.11 - Positive and Negative Energy Planes
@@ -10352,6 +10516,7 @@ Original export: `markdown_export/3 10 11 Positive and Negative Energy Planes 22
 ### ✧ **Negative Energy Plane**
 
 - Entropy, decay, death energy — often dangerous, fuels necromancy
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_11_00_00_00_00__positive-and-negative-energy-planes.md -->
 
 ### 3.10.12 - Outer Planes (Heavens, Hells, etc.)
@@ -10378,6 +10543,7 @@ These are abstract realms tied to **gods, philosophies, and alignment**.
     - Full of demons, devils, punishment, domination
 
 These planes often host the **afterlives of mortals**, the homes of **gods**, and are the source of **divine and infernal magic**.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_12_00_00_00_00__outer-planes-heavens-hells-etc.md -->
 
 ### 3.10.13 - Far Realm
@@ -10505,6 +10671,7 @@ The **Far Realm** is a non-Euclidean, extradimensional plane that lies **beyond 
 - **4.7 Magical Consequences** (Corruption risk from rituals)
 - **3.4.2 Mental Afflictions** (Madness, amnesia, disassociation)
 - **3.10.12 Planar Overlap Events** (Far Realm “leaks” into other realms)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_13_00_00_00_00__far-realm.md -->
 
 ### 3.10.14 - Astral Sea & Void Travel
@@ -10534,6 +10701,7 @@ cross-reference:
 [3.10.14.4 Astral Encounters & Creatures](03_10_14_04_00_00_00__astral-encounters-and-creatures.md)
 
 [3.10.14.5 Narrative Anchors: Myths, Tombs & Cosmic Ruins](03_10_14_05_00_00_00__narrative-anchors-myths-tombs-and-cosmic-ruins.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_14_00_00_00_00__astral-sea-and-void-travel.md -->
 
 ### 3.10.14.1 - Voidcraft Design & Shipbuilding
@@ -10550,6 +10718,7 @@ Original export: `markdown_export/3 10 14 1 Voidcraft Design & Shipbuilding 227b
 - Modular layouts: helm, living quarters, shield runes, spell batteries
 - Enchanted sails, glyph engines, bound elementals for movement
 - Can include **ritual rooms**, **summoning circles**, or **planar beacons**
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_14_01_00_00_00__voidcraft-design-and-shipbuilding.md -->
 
 ### 3.10.14.2 - Navigators, Wayfinding & Spell Helms
@@ -10569,6 +10738,7 @@ Original export: `markdown_export/3 10 14 2 Navigators, Wayfinding & Spell Helms
 - **Speed**:
     - Normal movement = weeks of travel across dream-space
     - **Planar currents** or shortcut rituals reduce time, with risk
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_14_02_00_00_00__navigators-wayfinding-and-spell-helms.md -->
 
 ### 3.10.14.3 - Planar Currents, Risk & Travel Time
@@ -10578,6 +10748,7 @@ Original export: `markdown_export/3 10 14 3 Planar Currents, Risk & Travel Time 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_10_14_03_00_00_00__planar-currents-risk-and-travel-time.md -->
 # 3.10.14.3 Planar Currents, Risk & Travel Time
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_14_03_00_00_00__planar-currents-risk-and-travel-time.md -->
 
 ### 3.10.14.4 - Astral Encounters & Creatures
@@ -10591,6 +10762,7 @@ Original export: `markdown_export/3 10 14 4 Astral Encounters & Creatures 227b22
 **Encounters**:
 
 - Drifting horrors, astral scavengers, ethereal pirates, thoughtstorms
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_14_04_00_00_00__astral-encounters-and-creatures.md -->
 
 ### 3.10.14.5 - Narrative Anchors: Myths, Tombs & Cosmic Ruins
@@ -10605,6 +10777,7 @@ Original export: `markdown_export/3 10 14 5 Narrative Anchors Myths, Tombs & Cos
 - **Living Planets & Gods**: Cultures that worship their ships or crew their planets
 - **Player Memory Echoes**: Traveling far enough echoes through time or pulls in alternate self-timelines
 - **Forbidden Portals**: Stellar vaults that require myth fragments or sacrifice to open
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_14_05_00_00_00__narrative-anchors-myths-tombs-and-cosmic-ruins.md -->
 
 ### 3.10.15 - Planar Travel & Access Mechanics
@@ -10616,6 +10789,7 @@ Original export: `markdown_export/3 10 15 Planar Travel & Access Mechanics 226b2
 # 3.10.15 Planar Travel & Access Mechanics
 
 rituals, thresholds, magical portals, traumatic near-death events
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_15_00_00_00_00__planar-travel-and-access-mechanics.md -->
 
 ### 3.10.16 - Planar Influence on Ecosystems, Magic, and NPCs
@@ -10630,6 +10804,7 @@ Original export: `markdown_export/3 10 16 Planar Influence on Ecosystems, Magic,
 - NPCs born near Shadowfell show altered traits
 - Weather responds to the nearby Feywild bleed
 - Magic is distorted near Astral conduits
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_10_16_00_00_00_00__planar-influence-on-ecosystems-magic-and-npcs.md -->
 
 ### 3.11 - Terrain Deformation & Environmental Impact
@@ -10652,6 +10827,7 @@ The environment is not static and responds to natural forces and player actions.
 [3.11.2 Excavation, Collapse, and Erosion](03_11_02_00_00_00_00__excavation-collapse-and-erosion.md)
 
 [3.11.3 Long-Term Effects of Warfare, Magic, or Industry](03_11_03_00_00_00_00__long-term-effects-of-warfare-magic-or-industry.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_11_00_00_00_00_00__terrain-deformation-and-environmental-impact.md -->
 
 ### 3.11.1 - Fire, Flood, Corruption Spread Systems
@@ -10661,6 +10837,7 @@ Original export: `markdown_export/3 11 1 Fire, Flood, Corruption Spread Systems 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_11_01_00_00_00_00__fire-flood-corruption-spread-systems.md -->
 # 3.11.1 Fire, Flood, Corruption Spread Systems
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_11_01_00_00_00_00__fire-flood-corruption-spread-systems.md -->
 
 ### 3.11.2 - Excavation, Collapse, and Erosion
@@ -10670,6 +10847,7 @@ Original export: `markdown_export/3 11 2 Excavation, Collapse, and Erosion 226b2
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_11_02_00_00_00_00__excavation-collapse-and-erosion.md -->
 # 3.11.2 Excavation, Collapse, and Erosion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_11_02_00_00_00_00__excavation-collapse-and-erosion.md -->
 
 ### 3.11.3 - Long-Term Effects of Warfare, Magic, or Industry
@@ -10679,6 +10857,7 @@ Original export: `markdown_export/3 11 3 Long-Term Effects of Warfare, Magic, or
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_11_03_00_00_00_00__long-term-effects-of-warfare-magic-or-industry.md -->
 # 3.11.3 Long-Term Effects of Warfare, Magic, or Industry
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_11_03_00_00_00_00__long-term-effects-of-warfare-magic-or-industry.md -->
 
 ### 3.12 - Persistent World Simulation
@@ -10744,6 +10923,7 @@ The world of *Infinite Worlds* operates under a deep simulation framework, suppo
 [3.12.2 Systems Interact Autonomously](03_12_02_00_00_00_00__systems-interact-autonomously.md)
 
 [3.12.3 Server/Local Performance & Memory Optimization](03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_00_00_00_00_00__persistent-world-simulation.md -->
 
 ### 3.12.1 - Cave Systems, Ancient Ruins & Tectonics
@@ -10753,6 +10933,7 @@ Original export: `markdown_export/3 12 1 Cave Systems, Ancient Ruins & Tectonics
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md -->
 # 3.12.1 Cave Systems, Ancient Ruins & Tectonics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_01_00_00_00_00__cave-systems-ancient-ruins-and-tectonics.md -->
 
 ### 3.12.1 - World Persists Without Player Input
@@ -10762,6 +10943,7 @@ Original export: `markdown_export/3 12 1 World Persists Without Player Input 226
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_12_01_00_00_00_00__world-persists-without-player-input.md -->
 # 3.12.1 World Persists Without Player Input
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_01_00_00_00_00__world-persists-without-player-input.md -->
 
 ### 3.12.2 - Fungal, Crystalline & Subterranean Life
@@ -10771,6 +10953,7 @@ Original export: `markdown_export/3 12 2 Fungal, Crystalline & Subterranean Life
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md -->
 # 3.12.2 Fungal, Crystalline & Subterranean Life
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_02_00_00_00_00__fungal-crystalline-and-subterranean-life.md -->
 
 ### 3.12.2 - Systems Interact Autonomously
@@ -10780,6 +10963,7 @@ Original export: `markdown_export/3 12 2 Systems Interact Autonomously 226b227ca
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_12_02_00_00_00_00__systems-interact-autonomously.md -->
 # 3.12.2 Systems Interact Autonomously
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_02_00_00_00_00__systems-interact-autonomously.md -->
 
 ### 3.12.3 - Server/Local Performance & Memory Optimization
@@ -10789,6 +10973,7 @@ Original export: `markdown_export/3 12 3 Server Local Performance & Memory Optim
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md -->
 # 3.12.3 Server/Local Performance & Memory Optimization
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_03_00_00_00_00__server-local-performance-and-memory-optimization.md -->
 
 ### 3.12.3 - Underworld Physics & Mythic Layers
@@ -10798,6 +10983,7 @@ Original export: `markdown_export/3 12 3 Underworld Physics & Mythic Layers 225b
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md -->
 # 3.12.3 Underworld Physics & Mythic Layers
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md -->
 
 ### 3.12.4 - Procedural Dungeon Design & Emergent Ruins
@@ -10808,10 +10994,10 @@ Original export: `markdown_export/3 12 4 Procedural Dungeon Design & Emergent Ru
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_12_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md -->
 # 3.12.4 Procedural Dungeon Design & Emergent Ruins
 
-## 
+##
 
 > Dungeons in Infinite Worlds are living, reactive spaces shaped by culture, decay, and natural law. They evolve over time, respond to the player, and maintain their own internal logic — physically, ecologically, historically, and spiritually. Every dungeon tells a story through its layout, resources, creatures, and anomalies.
-> 
+>
 
 ---
 
@@ -10823,7 +11009,7 @@ Dungeons begin with purpose — they aren’t just containers for loot.
 - **Current state:** Overgrown, flooded, desecrated, inhabited, cursed, ruptured
 
 > Example: A temple buried by volcanic ash is now the breeding ground of obsidian-skinned salamanders and fever-ridden fungal cultists.
-> 
+>
 
 ---
 
@@ -10837,7 +11023,7 @@ Anchor the dungeon in believable systems:
 - How does air circulation or light work?
 
 > Goblin latrines emit sulfur fumes that can be ignited. A buried oasis room provides clean water — and is fiercely guarded.
-> 
+>
 
 ---
 
@@ -10851,7 +11037,7 @@ Creatures aren’t static — they have relationships, routines, and needs.
 - Reaction to change: patrols, alarms, escapes, reinforcements
 
 > Disrupting a kobold fungus farm causes famine; survivors try to parley or retreat into spider-infested tunnels.
-> 
+>
 
 ---
 
@@ -10864,7 +11050,7 @@ Underground spaces breathe. Build tension through rhythm and perception.
 - Echoes, footsteps, smells, or flickering shadows give clues
 
 > A tolling bell marks the start of a cult’s ceremony — giving players 5 minutes to intervene or avoid a massive summoning.
-> 
+>
 
 ---
 
@@ -10878,7 +11064,7 @@ Player actions and internal systems change the dungeon:
 - Magical anomalies grow or become unstable
 
 > After players shatter a cursed statue, shadow vines begin growing throughout the complex, corrupting nearby life.
-> 
+>
 
 ---
 
@@ -10892,7 +11078,7 @@ Let the space itself speak.
 - Real objects with use, decay, and meaning — not just props
 
 > A toppled throne, stained with dried blood, rests beside a fresh grave dug by children’s hands.
-> 
+>
 
 ---
 
@@ -10905,7 +11091,7 @@ Encounters change dynamically based on player behavior.
 - New rituals, summoned beings, or hostages appear if time passes
 
 > After the PCs burn the shaman’s scrolls, he traps a party member behind an illusory wall and begins a blood ritual in desperation.
-> 
+>
 
 ---
 
@@ -10919,7 +11105,7 @@ Dungeons reward curiosity, not just aggression.
 - Language decoding, memory triggers, or shared dreams
 
 > A blind, ancient troll offers safe passage in exchange for whispered stories of the surface world.
-> 
+>
 
 ---
 
@@ -10933,7 +11119,7 @@ Use procedural systems to create meaningful variation:
 - **Conflict seeds**: inter-faction tensions, sealed portals, cursed objects
 
 > Dungeon seed: "Sunken Refuge of the Oracle" → Procedurally spawns water-damaged archives, spirit-haunted pools, and hydrophobic torch puzzles.
-> 
+>
 
 ---
 
@@ -10947,7 +11133,7 @@ Support deep embodied navigation and physical exploration.
 - Tactile rituals: drawing runes, aligning crystals, bloodletting or sacrifice mechanics
 
 > To open a sealed chamber, players must balance on a swaying platform while reaching through flame to grasp a relic, triggering a tactile feedback riddle.
-> 
+>
 
 ---
 
@@ -10963,6 +11149,7 @@ Support deep embodied navigation and physical exploration.
 | Change | What happens when the dungeon is disturbed, damaged, or left alone? |
 | Storytelling | What is told through visuals, layout, ruins, artifacts, and NPC behavior? |
 | VR Immersion | How do spatial logic, manipulation, and physical exploration feel in the body? |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_04_00_00_00_00__procedural-dungeon-design-and-emergent-ruins.md -->
 
 ### 3.12.5 - Underworld Factions & Mechanics
@@ -11083,6 +11270,7 @@ Each Underworld faction has:
 - **Envoy**: Gain special diplomatic options, travel privileges.
 - **Traitor/Spy**: Join one to betray from within—certain spells or psionics only unlock this way.
 - **Ascendant**: Merge with the faction permanently—gain new identity/class, lose old allegiances, gain access to mythic tier powers.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_12_05_00_00_00_00__underworld-factions-and-mechanics.md -->
 
 ### 3.13 - Underworld & Subsurface Realms
@@ -11183,6 +11371,7 @@ Include societies (e.g., ancient worm-kin empires), ecosystem inversion (lumines
 [3.12.5 Underworld Factions & Mechanics](03_12_05_00_00_00_00__underworld-factions-and-mechanics.md)
 
 [3.12.3 Underworld Physics & Mythic Layers](03_12_03_00_00_00_00__underworld-physics-and-mythic-layers.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_13_00_00_00_00_00__underworld-and-subsurface-realms.md -->
 
 ### 3.14 - Cultural Memory & Environmental Storytelling
@@ -11207,6 +11396,7 @@ Cultural memory and oral tradition shape how societies understand their world.
 [3.14.3 Environmental Clues: Bones, Shrines, Graffiti, Ruins](03_14_03_00_00_00_00__environmental-clues-bones-shrines-graffiti-ruins.md)
 
 [3.14.4 Procedural Culture Generation](03_14_04_00_00_00_00__procedural-culture-generation.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_14_00_00_00_00_00__cultural-memory-and-environmental-storytelling.md -->
 
 ### 3.14.1 - Myth, Legend & Symbolism
@@ -11216,6 +11406,7 @@ Original export: `markdown_export/3 14 1 Myth, Legend & Symbolism 226b227cadd780
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_14_01_00_00_00_00__myth-legend-and-symbolism.md -->
 # 3.14.1 Myth, Legend & Symbolism
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_14_01_00_00_00_00__myth-legend-and-symbolism.md -->
 
 ### 3.14.2 - Player Actions Becoming Lore
@@ -11225,6 +11416,7 @@ Original export: `markdown_export/3 14 2 Player Actions Becoming Lore 226b227cad
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_14_02_00_00_00_00__player-actions-becoming-lore.md -->
 # 3.14.2 Player Actions Becoming Lore
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_14_02_00_00_00_00__player-actions-becoming-lore.md -->
 
 ### 3.14.3 - Environmental Clues: Bones, Shrines, Graffiti, Ruins
@@ -11238,6 +11430,7 @@ Original export: `markdown_export/3 14 3 Environmental Clues Bones, Shrines, Gra
 **Environmental Storytelling**
 
 Dead campsites, broken siege engines, graffiti on ruins—embed narrative clues in the worldspace without dialogue. Especially critical in VR, where players notice details at their own pace.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_14_03_00_00_00_00__environmental-clues-bones-shrines-graffiti-ruins.md -->
 
 ### 3.14.4 - Procedural Culture Generation
@@ -11247,6 +11440,7 @@ Original export: `markdown_export/3 14 4 Procedural Culture Generation 226b227ca
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_14_04_00_00_00_00__procedural-culture-generation.md -->
 # 3.14.4 Procedural Culture Generation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_14_04_00_00_00_00__procedural-culture-generation.md -->
 
 ### 3.15 - Adventure Hooks & Emergent Opportunities
@@ -11408,6 +11602,7 @@ Here’s a categorized batch of ideas you can expand from:
 [3.15.2 Interfacing with Simulation: Clues, Myths, Maps](03_15_02_00_00_00_00__interfacing-with-simulation-clues-myths-maps.md)
 
 [3.15.3 Persistent Impact of Player Curiosity or Neglect](03_15_03_00_00_00_00__persistent-impact-of-player-curiosity-or-neglect.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_15_00_00_00_00_00__adventure-hooks-and-emergent-opportunities.md -->
 
 ### 3.15.1 - Dynamically Generated Events & Discoveries
@@ -11417,6 +11612,7 @@ Original export: `markdown_export/3 15 1 Dynamically Generated Events & Discover
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_15_01_00_00_00_00__dynamically-generated-events-and-discoveries.md -->
 # 3.15.1 Dynamically Generated Events & Discoveries
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_15_01_00_00_00_00__dynamically-generated-events-and-discoveries.md -->
 
 ### 3.15.2 - Interfacing with Simulation: Clues, Myths, Maps
@@ -11426,6 +11622,7 @@ Original export: `markdown_export/3 15 2 Interfacing with Simulation Clues, Myth
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_15_02_00_00_00_00__interfacing-with-simulation-clues-myths-maps.md -->
 # 3.15.2 Interfacing with Simulation: Clues, Myths, Maps
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_15_02_00_00_00_00__interfacing-with-simulation-clues-myths-maps.md -->
 
 ### 3.15.3 - Persistent Impact of Player Curiosity or Neglect
@@ -11435,6 +11632,7 @@ Original export: `markdown_export/3 15 3 Persistent Impact of Player Curiosity o
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/03_15_03_00_00_00_00__persistent-impact-of-player-curiosity-or-neglect.md -->
 # 3.15.3 Persistent Impact of Player Curiosity or Neglect
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_15_03_00_00_00_00__persistent-impact-of-player-curiosity-or-neglect.md -->
 
 ### 3.16 - Learning & Knowledge Progression
@@ -11446,6 +11644,7 @@ Original export: `markdown_export/3 16 Learning & Knowledge Progression 229b227c
 # 3.16 Learning & Knowledge Progression
 
 [3.16.1 Learning Through Mentorship](03_16_01_00_00_00_00__learning-through-mentorship.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_16_00_00_00_00_00__learning-and-knowledge-progression.md -->
 
 ### 3.16.1 - Learning Through Mentorship
@@ -11461,6 +11660,7 @@ Detail:
 - Diegetic, in-world training sequences
 - Mentor-taught skills as mini VR tutorials
 - Other teachers as systems-based NPCs who support skill learning
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/03_16_01_00_00_00_00__learning-through-mentorship.md -->
 
 ### 4 - Magic, Psionics & Ritual Systems
@@ -11482,6 +11682,7 @@ Original export: `markdown_export/4 Magic, Psionics & Ritual Systems 220b227cadd
 [4.5 Dream, Memory, and Soul Magic](04_05_00_00_00_00_00__dream-memory-and-soul-magic.md)
 
 [4.6 Astral Navigation & Celestial Runeships](04_06_00_00_00_00_00__astral-navigation-and-celestial-runeships.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_00_00_00_00_00_00__magic-psionics-and-ritual-systems.md -->
 
 ### 4.1 - Spellcasting Systems & Philosophies
@@ -11580,6 +11781,7 @@ Combine gesture + voice spell system into one blueprint system
 [4.1.7 Planar & Environmental Influence on Magic](04_01_07_00_00_00_00__planar-and-environmental-influence-on-magic.md)
 
 [4.1.8 Magical AI Behavior](04_01_08_00_00_00_00__magical-ai-behavior.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_00_00_00_00_00__spellcasting-systems-and-philosophies.md -->
 
 ### 4.1.1 - Magic Practitioner Archetypes
@@ -11604,6 +11806,7 @@ Original export: `markdown_export/4 1 1 Magic Practitioner Archetypes 216b227cad
 [4.1.1.5 Bound Magi (item-based casters)](4%201%201%205%20Bound%20Magi%20(item-based%20casters)%20226b227cadd780ebad46d20bf19483a2.md)
 
 [4.1.1.6 Planespeaker (magic rooted in planar alignment)](4%201%201%206%20Planespeaker%20(magic%20rooted%20in%20planar%20align%20226b227cadd78041821fff4b1e498bff.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_01_00_00_00_00__magic-practitioner-archetypes.md -->
 
 ### 4.1.1.1 - Hermetic Wizardry
@@ -11613,6 +11816,7 @@ Original export: `markdown_export/4 1 1 1 Hermetic Wizardry 21eb227cadd7805db66a
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_01_01_00_00_00__hermetic-wizardry.md -->
 # 4.1.1.1 Hermetic Wizardry
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_01_01_00_00_00__hermetic-wizardry.md -->
 
 ### 4.1.1.2 - Spirit Medium
@@ -11622,6 +11826,7 @@ Original export: `markdown_export/4 1 1 2 Spirit Medium 21eb227cadd78008875bc189
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_01_02_00_00_00__spirit-medium.md -->
 # 4.1.1.2 Spirit Medium
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_01_02_00_00_00__spirit-medium.md -->
 
 ### 4.1.1.3 - Ritual Alchemist
@@ -11631,6 +11836,7 @@ Original export: `markdown_export/4 1 1 3 Ritual Alchemist 21eb227cadd780968243d
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_01_03_00_00_00__ritual-alchemist.md -->
 # 4.1.1.3 Ritual Alchemist
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_01_03_00_00_00__ritual-alchemist.md -->
 
 ### 4.1.1.4 - Wild Channeler
@@ -11640,6 +11846,7 @@ Original export: `markdown_export/4 1 1 4 Wild Channeler 21eb227cadd780b3bc4ef35
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_01_04_00_00_00__wild-channeler.md -->
 # 4.1.1.4 Wild Channeler
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_01_04_00_00_00__wild-channeler.md -->
 
 ### 4.1.1.5 - Bound Magi (item-based casters)
@@ -11649,6 +11856,7 @@ Original export: `markdown_export/4 1 1 5 Bound Magi (item-based casters) 226b22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_01_05_00_00_00__bound-magi-item-based-casters.md -->
 # 4.1.1.5 Bound Magi (item-based casters)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_01_05_00_00_00__bound-magi-item-based-casters.md -->
 
 ### 4.1.1.6 - Planespeaker (magic rooted in planar alignment)
@@ -11658,6 +11866,7 @@ Original export: `markdown_export/4 1 1 6 Planespeaker (magic rooted in planar a
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_01_06_00_00_00__planespeaker-magic-rooted-in-planar-alignment.md -->
 # 4.1.1.6 Planespeaker (magic rooted in planar alignment)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_01_06_00_00_00__planespeaker-magic-rooted-in-planar-alignment.md -->
 
 ### 4.1.2 - Magic Schools & Disciplines
@@ -11742,6 +11951,7 @@ Some practitioners transcend a single Discipline, combining elements into hybrid
 [4.1.2.8 Illusion – Perception, Belief, Dreamwork](04_01_02_08_00_00_00__illusion-perception-belief-dreamwork.md)
 
 [4.1.2.9 Psionic-Magical Hybrids (Overlap with Section 4.3)](4%201%202%209%20Psionic-Magical%20Hybrids%20(Overlap%20with%20Sect%20226b227cadd7809dba0ed0535070edbb.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_00_00_00_00__magic-schools-and-disciplines.md -->
 
 ### 4.1.2.1 - Evocation - The Art of Elemental Force
@@ -11812,6 +12022,7 @@ The manipulation of raw elemental energies—fire, ice, lightning, acid, and mor
 - **Sample Effects:** Fireball, Chain Lightning, Force Wave, Ice Lance
 - **Risks:** Overchanneling can ignite surroundings or rupture internal organs; misuse causes deafness, burns, or knockback injuries.
 - **Sources of Power:** Elemental nodes, heat differentials, charged storm clouds.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_01_00_00_00__evocation-the-art-of-elemental-force.md -->
 
 ### 4.1.2.2 - Divination – Seeing Through Time and Soul
@@ -11821,6 +12032,7 @@ Original export: `markdown_export/4 1 2 2 Divination – Seeing Through Time and
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_02_02_00_00_00__divination-seeing-through-time-and-soul.md -->
 # 4.1.2.2 Divination – Seeing Through Time and Soul
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_02_00_00_00__divination-seeing-through-time-and-soul.md -->
 
 ### 4.1.2.3 - Necromancy – Spirit, Decay & Memory
@@ -11836,6 +12048,7 @@ The manipulation of life force, death energy, and the thin boundary between worl
 - **Sample Effects:** Raise Skeleton, Spirit Speech, Life Drain, Death Sense
 - **Ethical Nuance:** Varies by culture; some consider necromancy sacred (ancestral communion), others taboo.
 - **Dangers:** Sanity erosion, spiritual possession, social ostracism, diseases from corpse exposure.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_03_00_00_00__necromancy-spirit-decay-and-memory.md -->
 
 ### 4.1.2.4 - Transmutation – Shape, Form, and Flow
@@ -11845,6 +12058,7 @@ Original export: `markdown_export/4 1 2 4 Transmutation – Shape, Form, and Flo
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_02_04_00_00_00__transmutation-shape-form-and-flow.md -->
 # 4.1.2.4 Transmutation – Shape, Form, and Flow
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_04_00_00_00__transmutation-shape-form-and-flow.md -->
 
 ### 4.1.2.5 - Abjuration – Warding, Protection, Binding
@@ -11860,6 +12074,7 @@ A defensive school focused on negation—blocking, absorbing, or redirecting har
 - **Sample Effects:** Arcane Shield, Banish Undead, Magic Ward, Dispel Hex
 - **Risks:** Overprotection can interfere with natural senses or trap energies within; backlash from failed banishments can tear rifts.
 - **Channeling Mediums:** Salt circles, runed stones, counterglyphs, bound spirits.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_05_00_00_00__abjuration-warding-protection-binding.md -->
 
 ### 4.1.2.6 - Enchantment – Mind, Emotion, Influence
@@ -11875,6 +12090,7 @@ Blending magic with craftsmanship, Artificers embed magic into tools, weapons, o
 - **Sample Effects:** Enchanted Blade, Animated Armor, Magelights, Golem Creation
 - **Special Materials:** Mageglass, enchanted alloys, soul batteries, runic circuits.
 - **Failures:** Unstable enchantments may explode or fail catastrophically under stress.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_06_00_00_00__enchantment-mind-emotion-influence.md -->
 
 ### 4.1.2.7 - Conjuration – Summoning, Portals, Manifestation
@@ -11884,6 +12100,7 @@ Original export: `markdown_export/4 1 2 7 Conjuration – Summoning, Portals, Ma
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_02_07_00_00_00__conjuration-summoning-portals-manifestation.md -->
 # 4.1.2.7 Conjuration – Summoning, Portals, Manifestation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_07_00_00_00__conjuration-summoning-portals-manifestation.md -->
 
 ### 4.1.2.8 - Illusion – Perception, Belief, Dreamwork
@@ -11899,6 +12116,7 @@ Illusionists bend the senses, not the world—manipulating light, sound, thought
 - **Sample Effects:** Invisibility, Phantasmal Terrain, Sound Cloak, Masked Presence
 - **Risks:** Repeated exposure may disassociate caster from reality; targets may experience psychic backlash when illusions break violently.
 - **Tools:** Mirrors, prisms, mnemonic tokens, symbolic veils.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_08_00_00_00__illusion-perception-belief-dreamwork.md -->
 
 ### 4.1.2.9 - Psionic-Magical Hybrids (Overlap with Section 4.3)
@@ -11908,6 +12126,7 @@ Original export: `markdown_export/4 1 2 9 Psionic-Magical Hybrids (Overlap with 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_02_09_00_00_00__psionic-magical-hybrids-overlap-with-section-4-3.md -->
 # 4.1.2.9 Psionic-Magical Hybrids (Overlap with Section 4.3)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_02_09_00_00_00__psionic-magical-hybrids-overlap-with-section-4-3.md -->
 
 ### 4.1.3 - Magic Resource System
@@ -11923,6 +12142,7 @@ Original export: `markdown_export/4 1 3 Magic Resource System 21eb227cadd7800bad
 [4.1.3.2 Ritual Components & Cost](04_01_03_02_00_00_00__ritual-components-and-cost.md)
 
 [4.1.3.3 Emotional or Moral Cost (e.g., corruption, spiritual stain)](4%201%203%203%20Emotional%20or%20Moral%20Cost%20(e%20g%20,%20corruption,%20226b227cadd7801dbc5eeafcbb948cea.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_03_00_00_00_00__magic-resource-system.md -->
 
 ### 4.1.3.1 - Mana, Essence, Life-force
@@ -11932,6 +12152,7 @@ Original export: `markdown_export/4 1 3 1 Mana, Essence, Life-force 226b227cadd7
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_03_01_00_00_00__mana-essence-life-force.md -->
 # 4.1.3.1 Mana, Essence, Life-force
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_03_01_00_00_00__mana-essence-life-force.md -->
 
 ### 4.1.3.2 - Ritual Components & Cost
@@ -11941,6 +12162,7 @@ Original export: `markdown_export/4 1 3 2 Ritual Components & Cost 226b227cadd78
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_03_02_00_00_00__ritual-components-and-cost.md -->
 # 4.1.3.2 Ritual Components & Cost
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_03_02_00_00_00__ritual-components-and-cost.md -->
 
 ### 4.1.3.3 - Emotional or Moral Cost (e.g., corruption, spiritual stain)
@@ -11950,6 +12172,7 @@ Original export: `markdown_export/4 1 3 3 Emotional or Moral Cost (e g , corrupt
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_03_03_00_00_00__emotional-or-moral-cost-e-g-corruption-spiritual-stain.md -->
 # 4.1.3.3 Emotional or Moral Cost (e.g., corruption, spiritual stain)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_03_03_00_00_00__emotional-or-moral-cost-e-g-corruption-spiritual-stain.md -->
 
 ### 4.1.4 - Spellcasting Input Systems
@@ -11967,6 +12190,7 @@ Original export: `markdown_export/4 1 4 Spellcasting Input Systems 21eb227cadd78
 [4.1.4.3 Spoken Word, Breath, and Intonation](04_01_04_03_00_00_00__spoken-word-breath-and-intonation.md)
 
 [4.1.4.4 Multi-step Cast Chains (e.g., draw + chant + gesture + release)](4%201%204%204%20Multi-step%20Cast%20Chains%20(e%20g%20,%20draw%20+%20chant%20226b227cadd78035a664dc3cec802ba5.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_04_00_00_00_00__spellcasting-input-systems.md -->
 
 ### 4.1.4.1 - Gesture-Based VR Spellcasting
@@ -11976,6 +12200,7 @@ Original export: `markdown_export/4 1 4 1 Gesture-Based VR Spellcasting 226b227c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_04_01_00_00_00__gesture-based-vr-spellcasting.md -->
 # 4.1.4.1 Gesture-Based VR Spellcasting
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_04_01_00_00_00__gesture-based-vr-spellcasting.md -->
 
 ### 4.1.4.2 - Symbolic / Rune Mechanics
@@ -11985,6 +12210,7 @@ Original export: `markdown_export/4 1 4 2 Symbolic Rune Mechanics 226b227cadd780
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_04_02_00_00_00__symbolic-rune-mechanics.md -->
 # 4.1.4.2 Symbolic / Rune Mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_04_02_00_00_00__symbolic-rune-mechanics.md -->
 
 ### 4.1.4.3 - Spoken Word, Breath, and Intonation
@@ -11994,6 +12220,7 @@ Original export: `markdown_export/4 1 4 3 Spoken Word, Breath, and Intonation 22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_04_03_00_00_00__spoken-word-breath-and-intonation.md -->
 # 4.1.4.3 Spoken Word, Breath, and Intonation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_04_03_00_00_00__spoken-word-breath-and-intonation.md -->
 
 ### 4.1.4.4 - Multi-step Cast Chains (e.g., draw + chant + gesture + release)
@@ -12003,6 +12230,7 @@ Original export: `markdown_export/4 1 4 4 Multi-step Cast Chains (e g , draw + c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_04_04_00_00_00__multi-step-cast-chains-e-g-draw-plus-chant-plus-gesture-plus-release.md -->
 # 4.1.4.4 Multi-step Cast Chains (e.g., draw + chant + gesture + release)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_04_04_00_00_00__multi-step-cast-chains-e-g-draw-plus-chant-plus-gesture-plus-release.md -->
 
 ### 4.1.5 - Magical Experimentation
@@ -12018,6 +12246,7 @@ Original export: `markdown_export/4 1 5 Magical Experimentation 21eb227cadd78050
 [4.1.5.2 Combining Ingredients, Gestures & Environments](04_01_05_02_00_00_00__combining-ingredients-gestures-and-environments.md)
 
 [4.1.5.3 Recording & Sharing Spells via Grimoire or Guild](04_01_05_03_00_00_00__recording-and-sharing-spells-via-grimoire-or-guild.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_05_00_00_00_00__magical-experimentation.md -->
 
 ### 4.1.5.1 - Spell Discovery Through Practice
@@ -12027,6 +12256,7 @@ Original export: `markdown_export/4 1 5 1 Spell Discovery Through Practice 226b2
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_05_01_00_00_00__spell-discovery-through-practice.md -->
 # 4.1.5.1 Spell Discovery Through Practice
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_05_01_00_00_00__spell-discovery-through-practice.md -->
 
 ### 4.1.5.2 - Combining Ingredients, Gestures & Environments
@@ -12036,6 +12266,7 @@ Original export: `markdown_export/4 1 5 2 Combining Ingredients, Gestures & Envi
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_05_02_00_00_00__combining-ingredients-gestures-and-environments.md -->
 # 4.1.5.2 Combining Ingredients, Gestures & Environments
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_05_02_00_00_00__combining-ingredients-gestures-and-environments.md -->
 
 ### 4.1.5.3 - Recording & Sharing Spells via Grimoire or Guild
@@ -12045,6 +12276,7 @@ Original export: `markdown_export/4 1 5 3 Recording & Sharing Spells via Grimoir
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_05_03_00_00_00__recording-and-sharing-spells-via-grimoire-or-guild.md -->
 # 4.1.5.3 Recording & Sharing Spells via Grimoire or Guild
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_05_03_00_00_00__recording-and-sharing-spells-via-grimoire-or-guild.md -->
 
 ### 4.1.6 - Magical Consequences
@@ -12060,6 +12292,7 @@ Original export: `markdown_export/4 1 6 Magical Consequences 21eb227cadd78095976
 [4.1.6.2 Spiritual Corruption & Madness](04_01_06_02_00_00_00__spiritual-corruption-and-madness.md)
 
 [4.1.6.3 Environmental Blowback (e.g., magic pollution or storms)](4%201%206%203%20Environmental%20Blowback%20(e%20g%20,%20magic%20pollut%20226b227cadd780a8bd9ef86ff922683d.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_06_00_00_00_00__magical-consequences.md -->
 
 ### 4.1.6.1 - Instability, Backlash & Overcasting
@@ -12069,6 +12302,7 @@ Original export: `markdown_export/4 1 6 1 Instability, Backlash & Overcasting 22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_06_01_00_00_00__instability-backlash-and-overcasting.md -->
 # 4.1.6.1 Instability, Backlash & Overcasting
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_06_01_00_00_00__instability-backlash-and-overcasting.md -->
 
 ### 4.1.6.2 - Spiritual Corruption & Madness
@@ -12078,6 +12312,7 @@ Original export: `markdown_export/4 1 6 2 Spiritual Corruption & Madness 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_06_02_00_00_00__spiritual-corruption-and-madness.md -->
 # 4.1.6.2 Spiritual Corruption & Madness
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_06_02_00_00_00__spiritual-corruption-and-madness.md -->
 
 ### 4.1.6.3 - Environmental Blowback (e.g., magic pollution or storms)
@@ -12087,6 +12322,7 @@ Original export: `markdown_export/4 1 6 3 Environmental Blowback (e g , magic po
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_06_03_00_00_00__environmental-blowback-e-g-magic-pollution-or-storms.md -->
 # 4.1.6.3 Environmental Blowback (e.g., magic pollution or storms)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_06_03_00_00_00__environmental-blowback-e-g-magic-pollution-or-storms.md -->
 
 ### 4.1.7 - Planar & Environmental Influence on Magic
@@ -12100,6 +12336,7 @@ Original export: `markdown_export/4 1 7 Planar & Environmental Influence on Magi
 [4.1.7.1 Magic in Shadowfell vs Feywild](04_01_07_01_00_00_00__magic-in-shadowfell-vs-feywild.md)
 
 [4.1.7.2 Magic during Lunar Events, Star Alignments, etc.](04_01_07_02_00_00_00__magic-during-lunar-events-star-alignments-etc.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_07_00_00_00_00__planar-and-environmental-influence-on-magic.md -->
 
 ### 4.1.7.1 - Magic in Shadowfell vs Feywild
@@ -12109,6 +12346,7 @@ Original export: `markdown_export/4 1 7 1 Magic in Shadowfell vs Feywild 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_07_01_00_00_00__magic-in-shadowfell-vs-feywild.md -->
 # 4.1.7.1 Magic in Shadowfell vs Feywild
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_07_01_00_00_00__magic-in-shadowfell-vs-feywild.md -->
 
 ### 4.1.7.2 - Magic during Lunar Events, Star Alignments, etc.
@@ -12118,6 +12356,7 @@ Original export: `markdown_export/4 1 7 2 Magic during Lunar Events, Star Alignm
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_07_02_00_00_00__magic-during-lunar-events-star-alignments-etc.md -->
 # 4.1.7.2 Magic during Lunar Events, Star Alignments, etc.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_07_02_00_00_00__magic-during-lunar-events-star-alignments-etc.md -->
 
 ### 4.1.8 - Magical AI Behavior
@@ -12131,6 +12370,7 @@ Original export: `markdown_export/4 1 8 Magical AI Behavior 226b227cadd780788cf9
 [4.1.8.1 NPC Spellcasters, Familiars & Summons](04_01_08_01_00_00_00__npc-spellcasters-familiars-and-summons.md)
 
 [4.1.8.2 Ritual Defense Logic (e.g., mages defending altars)](4%201%208%202%20Ritual%20Defense%20Logic%20(e%20g%20,%20mages%20defendin%20226b227cadd7802381b6d42a3fcb921a.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_08_00_00_00_00__magical-ai-behavior.md -->
 
 ### 4.1.8.1 - NPC Spellcasters, Familiars & Summons
@@ -12140,6 +12380,7 @@ Original export: `markdown_export/4 1 8 1 NPC Spellcasters, Familiars & Summons 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_08_01_00_00_00__npc-spellcasters-familiars-and-summons.md -->
 # 4.1.8.1 NPC Spellcasters, Familiars & Summons
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_08_01_00_00_00__npc-spellcasters-familiars-and-summons.md -->
 
 ### 4.1.8.2 - Ritual Defense Logic (e.g., mages defending altars)
@@ -12149,6 +12390,7 @@ Original export: `markdown_export/4 1 8 2 Ritual Defense Logic (e g , mages defe
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_01_08_02_00_00_00__ritual-defense-logic-e-g-mages-defending-altars.md -->
 # 4.1.8.2 Ritual Defense Logic (e.g., mages defending altars)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_01_08_02_00_00_00__ritual-defense-logic-e-g-mages-defending-altars.md -->
 
 ### 4.2 - Psionics: Mental & Soul Powers
@@ -12264,7 +12506,7 @@ Every psion starts with 1–3 **latent potential abilities** (chosen secretly by
 - Critical success/failure in related mental or sensory rolls
 
 > 🧠 Example: After barely surviving an assassination attempt, the PC suddenly hears the thoughts of the assassin—triggering Telereceive.
-> 
+>
 
 ---
 
@@ -12298,7 +12540,7 @@ Each time you **successfully use a power**, **under strain**, or **in a novel wa
 | Using a power creatively | +1 GP |
 
 > 💡 Optional Rule: You can only earn GP for a specific power once per session, but can earn GP in multiple disciplines.
-> 
+>
 
 ---
 
@@ -12382,7 +12624,7 @@ CopyEdit
 | Critical success/failure | RNG-based outcome | +1 |
 
 > Example: During a high-stakes stealth mission, the player uses Mind Reading to detect a traitor. The game flags “use under pressure + critical success” → +2 GP to that power.
-> 
+>
 
 ---
 
@@ -12443,7 +12685,7 @@ Instead of menus floating in a void, the player interacts with **in-world object
 - **Runes, tattoos, or veins glowing on the hands/arms** when a power is active or evolving.
 
 > 🔮 Example: After using "Telekinesis" in a high-stress moment, your hand glows briefly with a subtle fractal pulse — signaling growth. Later, in your mindspace (safe room), you interact with a 3D skill tree by moving your hands and channeling focus.
-> 
+>
 
 ---
 
@@ -12456,7 +12698,7 @@ Use **hand gestures** or **gaze direction** to indicate:
 - **Skill inspection** (e.g., stare at a symbol or raise your hand to see detailed info float in space)
 
 > 🧠 Bonus: When powers grow, haptics on controllers could thrum gently with ascending pitch, giving physical feedback to internal growth.
-> 
+>
 
 ---
 
@@ -12469,7 +12711,7 @@ If some HUD is required, integrate it naturally:
 - **Heat map-style visual overlays** in the environment to show emotional or psychic intensity.
 
 > Example: When using Clairsentience, faint spectral outlines of enemies appear through walls. If you just leveled the power, the outlines become crisper, and a soft whisper sound cues the evolution.
-> 
+>
 
 ---
 
@@ -12482,7 +12724,7 @@ Tie progression to environmental and emotional cues:
 - **Mindscape rooms**: An inner sanctum players visit in dreams or meditations, where the psionic tree or neural web grows in 3D.
 
 > This neural web could be an actual VR interface, like a branching coral structure, each node representing a skill. Players walk around it or interact by grabbing and inspecting nodes.
-> 
+>
 
 ---
 
@@ -12505,7 +12747,7 @@ When you have enough GP to evolve:
 - The game might **enter a short dream or trance sequence**, where the player *chooses a new branch* or *channels their growth* using hand movements or emotional choices.
 
 > 🧬 Example: You enter a translucent sphere of memory, floating in VR. In front of you: 3 potential new evolutions. You reach out, touch one, and the entire sphere pulses as your power is reborn.
-> 
+>
 
 ---
 
@@ -12555,27 +12797,27 @@ Keep the pieces loosely coupled so you can extend or swap any part.
 ### 2️⃣ Blueprint Event Flow (excerpt)
 
 1. **Gesture → Power Use**
-    
+
     `BP_VRPawn::Input_TKGesture`
-    
+
     → **BPI_PsionicGestures.ActivatePower("Telekinesis")**
-    
+
     → `BP_PsionicPowerComponent::TryActivate(FContext = Stress)`
-    
+
     → **OnPowerUsed** (Dispatcher, passes *Context*)
-    
+
 2. **Growth Points**
-    
+
     `BP_PsionicSubsystem::RouteGrowth` receives event, adds GP;
-    
+
     if `GP >= Thresholds[State]` → calls `Power->EvolvePower()`.
-    
+
 3. **UI & FX**
-    
+
     `BP_HandFX` responds to **OnPowerUsed** ⇒ glow + haptic.
-    
+
     `BP_MindspaceActor` listens to **OnPowerEvolved** ⇒ pulses node, spawns `BP_EvolutionPrompt` in front of player.
-    
+
 
 ---
 
@@ -12615,6 +12857,7 @@ Keep the pieces loosely coupled so you can extend or swap any part.
 [4.2.4 Sanity & Feedback Mechanics](04_02_04_00_00_00_00__sanity-and-feedback-mechanics.md)
 
 [4.2.5 Psionic Discipline Archetypes](04_02_05_00_00_00_00__psionic-discipline-archetypes.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_00_00_00_00_00__psionics-mental-and-soul-powers.md -->
 
 ### 4.2.1 - Overview & Separation from Magic
@@ -12624,6 +12867,7 @@ Original export: `markdown_export/4 2 1 Overview & Separation from Magic 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_01_00_00_00_00__overview-and-separation-from-magic.md -->
 # 4.2.1 Overview & Separation from Magic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_01_00_00_00_00__overview-and-separation-from-magic.md -->
 
 ### 4.2.2 - Power Source: Mind, Emotion, Will
@@ -12633,6 +12877,7 @@ Original export: `markdown_export/4 2 2 Power Source Mind, Emotion, Will 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_02_00_00_00_00__power-source-mind-emotion-will.md -->
 # 4.2.2 Power Source: Mind, Emotion, Will
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_02_00_00_00_00__power-source-mind-emotion-will.md -->
 
 ### 4.2.3 - Core Psionic Abilities (Telepathy, Psychometry, etc.)
@@ -12642,6 +12887,7 @@ Original export: `markdown_export/4 2 3 Core Psionic Abilities (Telepathy, Psych
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_03_00_00_00_00__core-psionic-abilities-telepathy-psychometry-etc.md -->
 # 4.2.3 Core Psionic Abilities (Telepathy, Psychometry, etc.)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_03_00_00_00_00__core-psionic-abilities-telepathy-psychometry-etc.md -->
 
 ### 4.2.4 - Sanity & Feedback Mechanics
@@ -12651,6 +12897,7 @@ Original export: `markdown_export/4 2 4 Sanity & Feedback Mechanics 226b227cadd7
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_04_00_00_00_00__sanity-and-feedback-mechanics.md -->
 # 4.2.4 Sanity & Feedback Mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_04_00_00_00_00__sanity-and-feedback-mechanics.md -->
 
 ### 4.2.5 - Psionic Discipline Archetypes
@@ -12668,6 +12915,7 @@ Original export: `markdown_export/4 2 5 Psionic Discipline Archetypes 226b227cad
 [4.2.5.3 Psychic Surgeon (Healing or Manipulation)](4%202%205%203%20Psychic%20Surgeon%20(Healing%20or%20Manipulation)%20226b227cadd780fdb260cb78252b7f22.md)
 
 [4.2.5.4 Astral Nomad (Dreamwalker, Etherstepper)](4%202%205%204%20Astral%20Nomad%20(Dreamwalker,%20Etherstepper)%20226b227cadd780ed92eecc0bbb9e4fe4.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_05_00_00_00_00__psionic-discipline-archetypes.md -->
 
 ### 4.2.5.1 - Seer (Precognition)
@@ -12677,6 +12925,7 @@ Original export: `markdown_export/4 2 5 1 Seer (Precognition) 226b227cadd780f199
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_05_01_00_00_00__seer-precognition.md -->
 # 4.2.5.1 Seer (Precognition)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_05_01_00_00_00__seer-precognition.md -->
 
 ### 4.2.5.2 - Mindblade (Mental Weaponry)
@@ -12686,6 +12935,7 @@ Original export: `markdown_export/4 2 5 2 Mindblade (Mental Weaponry) 226b227cad
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_05_02_00_00_00__mindblade-mental-weaponry.md -->
 # 4.2.5.2 Mindblade (Mental Weaponry)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_05_02_00_00_00__mindblade-mental-weaponry.md -->
 
 ### 4.2.5.3 - Psychic Surgeon (Healing or Manipulation)
@@ -12695,6 +12945,7 @@ Original export: `markdown_export/4 2 5 3 Psychic Surgeon (Healing or Manipulati
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_05_03_00_00_00__psychic-surgeon-healing-or-manipulation.md -->
 # 4.2.5.3 Psychic Surgeon (Healing or Manipulation)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_05_03_00_00_00__psychic-surgeon-healing-or-manipulation.md -->
 
 ### 4.2.5.4 - Astral Nomad (Dreamwalker, Etherstepper)
@@ -12704,6 +12955,7 @@ Original export: `markdown_export/4 2 5 4 Astral Nomad (Dreamwalker, Ethersteppe
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_02_05_04_00_00_00__astral-nomad-dreamwalker-etherstepper.md -->
 # 4.2.5.4 Astral Nomad (Dreamwalker, Etherstepper)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_02_05_04_00_00_00__astral-nomad-dreamwalker-etherstepper.md -->
 
 ### 4.3 - Rituals, Language & Symbol Systems
@@ -12727,6 +12979,7 @@ Symbolic drawing, incantation, or material rituals.
 [4.3.5 Ritual Failure, Interruption & Corruption](04_03_05_00_00_00_00__ritual-failure-interruption-and-corruption.md)
 
 [4.3.6 Long-Term Effects & Environmental Impact](04_03_06_00_00_00_00__long-term-effects-and-environmental-impact.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_03_00_00_00_00_00__rituals-language-and-symbol-systems.md -->
 
 ### 4.3.1 - Ritual Structure (Circle, Time, Components)
@@ -12736,6 +12989,7 @@ Original export: `markdown_export/4 3 1 Ritual Structure (Circle, Time, Componen
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_03_01_00_00_00_00__ritual-structure-circle-time-components.md -->
 # 4.3.1 Ritual Structure (Circle, Time, Components)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_03_01_00_00_00_00__ritual-structure-circle-time-components.md -->
 
 ### 4.3.2 - Ritual Magic vs. Spellcasting
@@ -12745,6 +12999,7 @@ Original export: `markdown_export/4 3 2 Ritual Magic vs Spellcasting 226b227cadd
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_03_02_00_00_00_00__ritual-magic-vs-spellcasting.md -->
 # 4.3.2 Ritual Magic vs. Spellcasting
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_03_02_00_00_00_00__ritual-magic-vs-spellcasting.md -->
 
 ### 4.3.3 - Magical Language & Spoken Symbols
@@ -12754,6 +13009,7 @@ Original export: `markdown_export/4 3 3 Magical Language & Spoken Symbols 226b22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_03_03_00_00_00_00__magical-language-and-spoken-symbols.md -->
 # 4.3.3 Magical Language & Spoken Symbols
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_03_03_00_00_00_00__magical-language-and-spoken-symbols.md -->
 
 ### 4.3.4 - Ritual Infrastructure (Totems, Altars, Ley Anchors)
@@ -12763,6 +13019,7 @@ Original export: `markdown_export/4 3 4 Ritual Infrastructure (Totems, Altars, L
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_03_04_00_00_00_00__ritual-infrastructure-totems-altars-ley-anchors.md -->
 # 4.3.4 Ritual Infrastructure (Totems, Altars, Ley Anchors)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_03_04_00_00_00_00__ritual-infrastructure-totems-altars-ley-anchors.md -->
 
 ### 4.3.5 - Ritual Failure, Interruption & Corruption
@@ -12772,6 +13029,7 @@ Original export: `markdown_export/4 3 5 Ritual Failure, Interruption & Corruptio
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_03_05_00_00_00_00__ritual-failure-interruption-and-corruption.md -->
 # 4.3.5 Ritual Failure, Interruption & Corruption
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_03_05_00_00_00_00__ritual-failure-interruption-and-corruption.md -->
 
 ### 4.3.6 - Long-Term Effects & Environmental Impact
@@ -12781,6 +13039,7 @@ Original export: `markdown_export/4 3 6 Long-Term Effects & Environmental Impact
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_03_06_00_00_00_00__long-term-effects-and-environmental-impact.md -->
 # 4.3.6 Long-Term Effects & Environmental Impact
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_03_06_00_00_00_00__long-term-effects-and-environmental-impact.md -->
 
 ### 4.4 - Magical Items & Artifacts
@@ -12800,6 +13059,7 @@ Original export: `markdown_export/4 4 Magical Items & Artifacts 225b227cadd780a9
 [4.4.4 Sentient Items, Ancestral Items, Planar-Born Tools](04_04_04_00_00_00_00__sentient-items-ancestral-items-planar-born-tools.md)
 
 [4.4.5 Crafting Artifacts (tied to Ritual Systems)](4%204%205%20Crafting%20Artifacts%20(tied%20to%20Ritual%20Systems)%20226b227cadd780e7a6f5cd6de7d91efd.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_04_00_00_00_00_00__magical-items-and-artifacts.md -->
 
 ### 4.4.1 - Artifact Discovery & Attunement
@@ -12809,6 +13069,7 @@ Original export: `markdown_export/4 4 1 Artifact Discovery & Attunement 226b227c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_04_01_00_00_00_00__artifact-discovery-and-attunement.md -->
 # 4.4.1 Artifact Discovery & Attunement
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_04_01_00_00_00_00__artifact-discovery-and-attunement.md -->
 
 ### 4.4.2 - Item-Bound Spells & Channeling
@@ -12818,6 +13079,7 @@ Original export: `markdown_export/4 4 2 Item-Bound Spells & Channeling 226b227ca
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_04_02_00_00_00_00__item-bound-spells-and-channeling.md -->
 # 4.4.2 Item-Bound Spells & Channeling
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_04_02_00_00_00_00__item-bound-spells-and-channeling.md -->
 
 ### 4.4.3 - Legacy-Based Artifact Evolution
@@ -12827,6 +13089,7 @@ Original export: `markdown_export/4 4 3 Legacy-Based Artifact Evolution 226b227c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_04_03_00_00_00_00__legacy-based-artifact-evolution.md -->
 # 4.4.3 Legacy-Based Artifact Evolution
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_04_03_00_00_00_00__legacy-based-artifact-evolution.md -->
 
 ### 4.4.4 - Sentient Items, Ancestral Items, Planar-Born Tools
@@ -12836,6 +13099,7 @@ Original export: `markdown_export/4 4 4 Sentient Items, Ancestral Items, Planar-
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_04_04_00_00_00_00__sentient-items-ancestral-items-planar-born-tools.md -->
 # 4.4.4 Sentient Items, Ancestral Items, Planar-Born Tools
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_04_04_00_00_00_00__sentient-items-ancestral-items-planar-born-tools.md -->
 
 ### 4.4.5 - Crafting Artifacts (tied to Ritual Systems)
@@ -12845,6 +13109,7 @@ Original export: `markdown_export/4 4 5 Crafting Artifacts (tied to Ritual Syste
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_04_05_00_00_00_00__crafting-artifacts-tied-to-ritual-systems.md -->
 # 4.4.5 Crafting Artifacts (tied to Ritual Systems)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_04_05_00_00_00_00__crafting-artifacts-tied-to-ritual-systems.md -->
 
 ### 4.5 - Dream, Memory, and Soul Magic
@@ -12862,6 +13127,7 @@ Original export: `markdown_export/4 5 Dream, Memory, and Soul Magic 226b227cadd7
 [4.5.3 Soul Binding, Resurrection, or Fragmentation](04_05_03_00_00_00_00__soul-binding-resurrection-or-fragmentation.md)
 
 [4.5.4 Ancestral Echoes & Legacy Visions (links to 1.3)](4%205%204%20Ancestral%20Echoes%20&%20Legacy%20Visions%20(links%20to%20%20226b227cadd780b4a81be40a385e5f08.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_05_00_00_00_00_00__dream-memory-and-soul-magic.md -->
 
 ### 4.5.1 - Dreamwalking & Memory Intrusion
@@ -12871,6 +13137,7 @@ Original export: `markdown_export/4 5 1 Dreamwalking & Memory Intrusion 226b227c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_05_01_00_00_00_00__dreamwalking-and-memory-intrusion.md -->
 # 4.5.1 Dreamwalking & Memory Intrusion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_05_01_00_00_00_00__dreamwalking-and-memory-intrusion.md -->
 
 ### 4.5.2 - Magic of Emotion, Guilt, and Repression
@@ -12880,6 +13147,7 @@ Original export: `markdown_export/4 5 2 Magic of Emotion, Guilt, and Repression 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_05_02_00_00_00_00__magic-of-emotion-guilt-and-repression.md -->
 # 4.5.2 Magic of Emotion, Guilt, and Repression
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_05_02_00_00_00_00__magic-of-emotion-guilt-and-repression.md -->
 
 ### 4.5.3 - Soul Binding, Resurrection, or Fragmentation
@@ -12889,6 +13157,7 @@ Original export: `markdown_export/4 5 3 Soul Binding, Resurrection, or Fragmenta
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_05_03_00_00_00_00__soul-binding-resurrection-or-fragmentation.md -->
 # 4.5.3 Soul Binding, Resurrection, or Fragmentation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_05_03_00_00_00_00__soul-binding-resurrection-or-fragmentation.md -->
 
 ### 4.5.4 - Ancestral Echoes & Legacy Visions (links to 1.3)
@@ -12898,6 +13167,7 @@ Original export: `markdown_export/4 5 4 Ancestral Echoes & Legacy Visions (links
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/04_05_04_00_00_00_00__ancestral-echoes-and-legacy-visions-links-to-1-3.md -->
 # 4.5.4 Ancestral Echoes & Legacy Visions (links to 1.3)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_05_04_00_00_00_00__ancestral-echoes-and-legacy-visions-links-to-1-3.md -->
 
 ### 4.6 - Astral Navigation & Celestial Runeships
@@ -12909,7 +13179,7 @@ Original export: `markdown_export/4 6 Astral Navigation & Celestial Runeships 22
 # 4.6 Astral Navigation & Celestial Runeships
 
 > “To sail the stars is to read the soul of the world — not through force, but through resonance, will, and ancient understanding.”
-> 
+>
 
 ---
 
@@ -12936,6 +13206,7 @@ This system enables **non-technological space travel** that still demands **real
 [4.6.6 Skill Integration](04_06_06_00_00_00_00__skill-integration.md)
 
 [4.6.7 Narrative Potential](04_06_07_00_00_00_00__narrative-potential.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_00_00_00_00_00__astral-navigation-and-celestial-runeships.md -->
 
 ### 4.6.1 - Core Components
@@ -12960,6 +13231,7 @@ Original export: `markdown_export/4 6 1 Core Components 228b227cadd780e8a452ff4d
 - Sacred geometry
 - Mnemonic star maps
 - Alchemy and numerology
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_01_00_00_00_00__core-components.md -->
 
 ### 4.6.2 - Celestial Runeships (The Vessel)
@@ -12971,7 +13243,7 @@ Original export: `markdown_export/4 6 2 Celestial Runeships (The Vessel) 228b227
 # 4.6.2 Celestial Runeships (The Vessel)
 
 > Each Runeship is a unique, semi-living construct attuned to astral forces and built with ritual precision.
-> 
+>
 
 **Crafting Requirements:**
 
@@ -12993,6 +13265,7 @@ Original export: `markdown_export/4 6 2 Celestial Runeships (The Vessel) 228b227
 - Gravity and breathable air via soulfield envelope
 - Responds to pilot’s emotional state, making player mindset and intent matter
 - Requires **co-pilot or navigator** for longer journeys
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_02_00_00_00_00__celestial-runeships-the-vessel.md -->
 
 ### 4.6.3 - Spelljammer Elements Adapted
@@ -13018,6 +13291,7 @@ Original export: `markdown_export/4 6 3 Spelljammer Elements Adapted 228b227cadd
         - Astral alignment
         - Sacred phrase
         - Planetary permission (NPC factions, divine rites)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_03_00_00_00_00__spelljammer-elements-adapted.md -->
 
 ### 4.6.4 - Gameplay Mechanics in VR
@@ -13044,6 +13318,7 @@ Original export: `markdown_export/4 6 4 Gameplay Mechanics in VR 228b227cadd7801
 | **Aether Veil** | Deep travel across sky currents; harder to navigate |
 | **Planar Threads** | Hidden dimensional routes; require dreamwalking or soul-travel |
 | **Celestial Landing** | Piloting down to surface through turbulence and gravity wells |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_04_00_00_00_00__gameplay-mechanics-in-vr.md -->
 
 ### 4.6.5 - Risk & Immersion Design
@@ -13058,6 +13333,7 @@ Original export: `markdown_export/4 6 5 Risk & Immersion Design 228b227cadd780df
 - **Psychic storms:** Manifest illusions based on your fears and memories
 - **Star Beasts / Astral Leviathans:** Travel is not safe — requires preparation and vigilance
 - **Runeship Maintenance:** Damage must be repaired using rare materials and ritual repair (VR-compatible minigames)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_05_00_00_00_00__risk-and-immersion-design.md -->
 
 ### 4.6.6 - Skill Integration
@@ -13077,6 +13353,7 @@ Your space travel is **deeply integrated with the knowledge and skill system**:
 | Breathwork / Meditation | Astral state access, focus during storms |
 | Alchemy | Runemetal crafting and shield harmonics |
 | Mythology & Lore | Unlock hidden threads, ancient ruins, star-lost cities |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_06_00_00_00_00__skill-integration.md -->
 
 ### 4.6.7 - Narrative Potential
@@ -13090,6 +13367,7 @@ Original export: `markdown_export/4 6 7 Narrative Potential 228b227cadd780b3b2f2
 - **Ancient Astral Civilizations**: Discover star-born ruins, memory-echoes, or demi-gods lost in time
 - **Factional Politics**: Competing astral guilds, rogue skyfarers, divine enforcers
 - **Mythic Journeys**: Travel through constellations to unlock lost aspects of yourself or the world
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/04_06_07_00_00_00_00__narrative-potential.md -->
 
 ### 5 - Combat and Detection Systems
@@ -13119,6 +13397,7 @@ Original export: `markdown_export/5 Combat and Detection Systems 220b227cadd7801
 [5.9 Spectacle & Sensory Feedback](05_09_00_00_00_00_00__spectacle-and-sensory-feedback.md)
 
 [5.10 Factions & Tactics](05_10_00_00_00_00_00__factions-and-tactics.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_00_00_00_00_00_00__combat-and-detection-systems.md -->
 
 ### 5.1 - Core Combat Systems
@@ -13138,6 +13417,7 @@ Covers fundamental principles of combat - physical, magic and mental - across al
 [5.1.3 Psionic Combat](05_01_03_00_00_00_00__psionic-combat.md)
 
 [5.1.4 Hybrid Combat Styles](05_01_04_00_00_00_00__hybrid-combat-styles.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_00_00_00_00_00__core-combat-systems.md -->
 
 ### 5.1.1 - Physical Combat
@@ -13296,6 +13576,7 @@ Include: Stamina system, dismemberment, armor types
 [5.1.1.4 Grappling, Blocking, and Locational Damage](05_01_01_04_00_00_00__grappling-blocking-and-locational-damage.md)
 
 [5.1.1.5 Player Locomotion & Full-Body Awareness](05_01_01_05_00_00_00__player-locomotion-and-full-body-awareness.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_01_00_00_00_00__physical-combat.md -->
 
 ### 5.1.1.1 - Melee & Martial Systems (VR & Flat-Screen Mechanics)
@@ -13305,6 +13586,7 @@ Original export: `markdown_export/5 1 1 1 Melee & Martial Systems (VR & Flat-Scr
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_01_01_00_00_00__melee-and-martial-systems-vr-and-flat-screen-mechanics.md -->
 # 5.1.1.1 Melee & Martial Systems (VR & Flat-Screen Mechanics)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_01_01_00_00_00__melee-and-martial-systems-vr-and-flat-screen-mechanics.md -->
 
 ### 5.1.1.2 - Ranged Weapons & Projectile Physics
@@ -13314,6 +13596,7 @@ Original export: `markdown_export/5 1 1 2 Ranged Weapons & Projectile Physics 22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_01_02_00_00_00__ranged-weapons-and-projectile-physics.md -->
 # 5.1.1.2 Ranged Weapons & Projectile Physics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_01_02_00_00_00__ranged-weapons-and-projectile-physics.md -->
 
 ### 5.1.1.3 - Stamina, Fatigue & Pain Simulation
@@ -13323,6 +13606,7 @@ Original export: `markdown_export/5 1 1 3 Stamina, Fatigue & Pain Simulation 226
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_01_03_00_00_00__stamina-fatigue-and-pain-simulation.md -->
 # 5.1.1.3 Stamina, Fatigue & Pain Simulation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_01_03_00_00_00__stamina-fatigue-and-pain-simulation.md -->
 
 ### 5.1.1.4 - Grappling, Blocking, and Locational Damage
@@ -13332,6 +13616,7 @@ Original export: `markdown_export/5 1 1 4 Grappling, Blocking, and Locational Da
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_01_04_00_00_00__grappling-blocking-and-locational-damage.md -->
 # 5.1.1.4 Grappling, Blocking, and Locational Damage
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_01_04_00_00_00__grappling-blocking-and-locational-damage.md -->
 
 ### 5.1.1.5 - Player Locomotion & Full-Body Awareness
@@ -13344,6 +13629,7 @@ Original export: `markdown_export/5 1 1 5 Player Locomotion & Full-Body Awarenes
 
 - Describes body presence, input mapping, fall prevention
 - Covers how foot placement, weight shifting, and posture are interpreted safely
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_01_05_00_00_00__player-locomotion-and-full-body-awareness.md -->
 
 ### 5.1.2 - Magic Combat
@@ -13388,6 +13674,7 @@ Magic is immersive and diegetic. Players use **gestures, voice incantations**, a
 [5.1.2.3 Spell Duels & Counterspells](05_01_02_03_00_00_00__spell-duels-and-counterspells.md)
 
 [5.1.2.4 Elemental Interactions & Terrain Effects](05_01_02_04_00_00_00__elemental-interactions-and-terrain-effects.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_02_00_00_00_00__magic-combat.md -->
 
 ### 5.1.2.1 - Spell Timing & Interruption
@@ -13397,6 +13684,7 @@ Original export: `markdown_export/5 1 2 1 Spell Timing & Interruption 226b227cad
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_02_01_00_00_00__spell-timing-and-interruption.md -->
 # 5.1.2.1 Spell Timing & Interruption
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_02_01_00_00_00__spell-timing-and-interruption.md -->
 
 ### 5.1.2.2 - Area Effects, Friendly Fire, Volatility
@@ -13406,6 +13694,7 @@ Original export: `markdown_export/5 1 2 2 Area Effects, Friendly Fire, Volatilit
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_02_02_00_00_00__area-effects-friendly-fire-volatility.md -->
 # 5.1.2.2 Area Effects, Friendly Fire, Volatility
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_02_02_00_00_00__area-effects-friendly-fire-volatility.md -->
 
 ### 5.1.2.3 - Spell Duels & Counterspells
@@ -13415,6 +13704,7 @@ Original export: `markdown_export/5 1 2 3 Spell Duels & Counterspells 226b227cad
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_02_03_00_00_00__spell-duels-and-counterspells.md -->
 # 5.1.2.3 Spell Duels & Counterspells
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_02_03_00_00_00__spell-duels-and-counterspells.md -->
 
 ### 5.1.2.4 - Elemental Interactions & Terrain Effects
@@ -13424,6 +13714,7 @@ Original export: `markdown_export/5 1 2 4 Elemental Interactions & Terrain Effec
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_02_04_00_00_00__elemental-interactions-and-terrain-effects.md -->
 # 5.1.2.4 Elemental Interactions & Terrain Effects
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_02_04_00_00_00__elemental-interactions-and-terrain-effects.md -->
 
 ### 5.1.3 - Psionic Combat
@@ -13459,6 +13750,7 @@ Psionics focus on **mind-over-matter** abilities. They require mental discipline
 [5.1.3.2 Psychic Overload, Sanity Damage](05_01_03_02_00_00_00__psychic-overload-sanity-damage.md)
 
 [5.1.3.3 Counter-psionics & Mental Fortitude](05_01_03_03_00_00_00__counter-psionics-and-mental-fortitude.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_03_00_00_00_00__psionic-combat.md -->
 
 ### 5.1.3.1 - Mental Invasions & Thought Control
@@ -13468,6 +13760,7 @@ Original export: `markdown_export/5 1 3 1 Mental Invasions & Thought Control 226
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_03_01_00_00_00__mental-invasions-and-thought-control.md -->
 # 5.1.3.1 Mental Invasions & Thought Control
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_03_01_00_00_00__mental-invasions-and-thought-control.md -->
 
 ### 5.1.3.2 - Psychic Overload, Sanity Damage
@@ -13477,6 +13770,7 @@ Original export: `markdown_export/5 1 3 2 Psychic Overload, Sanity Damage 226b22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_03_02_00_00_00__psychic-overload-sanity-damage.md -->
 # 5.1.3.2 Psychic Overload, Sanity Damage
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_03_02_00_00_00__psychic-overload-sanity-damage.md -->
 
 ### 5.1.3.3 - Counter-psionics & Mental Fortitude
@@ -13486,6 +13780,7 @@ Original export: `markdown_export/5 1 3 3 Counter-psionics & Mental Fortitude 22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_03_03_00_00_00__counter-psionics-and-mental-fortitude.md -->
 # 5.1.3.3 Counter-psionics & Mental Fortitude
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_03_03_00_00_00__counter-psionics-and-mental-fortitude.md -->
 
 ### 5.1.4 - Hybrid Combat Styles
@@ -13518,6 +13813,7 @@ These styles combine aspects of physical, magical, and psionic systems for uniqu
 [5.1.4.2 Psionic Infusion & Psychic Weaponry](05_01_04_02_00_00_00__psionic-infusion-and-psychic-weaponry.md)
 
 [5.1.4.3 Adaptive Combat (Real-time switching, stances, dual-focus)](5%201%204%203%20Adaptive%20Combat%20(Real-time%20switching,%20stan%20226b227cadd7802cbb10f76c44858bb8.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_04_00_00_00_00__hybrid-combat-styles.md -->
 
 ### 5.1.4.1 - Magic + Weapon Integration (Spellblades, War Priests)
@@ -13527,6 +13823,7 @@ Original export: `markdown_export/5 1 4 1 Magic + Weapon Integration (Spellblade
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_04_01_00_00_00__magic-plus-weapon-integration-spellblades-war-priests.md -->
 # 5.1.4.1 Magic + Weapon Integration (Spellblades, War Priests)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_04_01_00_00_00__magic-plus-weapon-integration-spellblades-war-priests.md -->
 
 ### 5.1.4.2 - Psionic Infusion & Psychic Weaponry
@@ -13536,6 +13833,7 @@ Original export: `markdown_export/5 1 4 2 Psionic Infusion & Psychic Weaponry 22
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_04_02_00_00_00__psionic-infusion-and-psychic-weaponry.md -->
 # 5.1.4.2 Psionic Infusion & Psychic Weaponry
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_04_02_00_00_00__psionic-infusion-and-psychic-weaponry.md -->
 
 ### 5.1.4.3 - Adaptive Combat (Real-time switching, stances, dual-focus)
@@ -13545,6 +13843,7 @@ Original export: `markdown_export/5 1 4 3 Adaptive Combat (Real-time switching, 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_01_04_03_00_00_00__adaptive-combat-real-time-switching-stances-dual-focus.md -->
 # 5.1.4.3 Adaptive Combat (Real-time switching, stances, dual-focus)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_01_04_03_00_00_00__adaptive-combat-real-time-switching-stances-dual-focus.md -->
 
 ### 5.2 - Combat AI & Reactive Behaviors
@@ -13578,6 +13877,7 @@ NPC companions demonstrate **emergent, personality-driven behavior** during comb
 [5.2.2 Emotionally Influenced Decisions](05_02_02_00_00_00_00__emotionally-influenced-decisions.md)
 
 [5.2.3 Adaptive Learning & Habit Formation](05_02_03_00_00_00_00__adaptive-learning-and-habit-formation.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_02_00_00_00_00_00__combat-ai-and-reactive-behaviors.md -->
 
 ### 5.2.1 - Combat AI Logic
@@ -13606,6 +13906,7 @@ Enemies in *Infinite Worlds* use emergent tactics. They don’t just charge blin
 [5.2.1.2 Memory, Line-of-Sight & Hearing-Based Decisions](05_02_01_02_00_00_00__memory-line-of-sight-and-hearing-based-decisions.md)
 
 [5.2.1.3 Group Coordination & Squad Roles](05_02_01_03_00_00_00__group-coordination-and-squad-roles.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_02_01_00_00_00_00__combat-ai-logic.md -->
 
 ### 5.2.1.1 - Flocking, Cover-Seeking, Terrain Use
@@ -13615,6 +13916,7 @@ Original export: `markdown_export/5 2 1 1 Flocking, Cover-Seeking, Terrain Use 2
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_02_01_01_00_00_00__flocking-cover-seeking-terrain-use.md -->
 # 5.2.1.1 Flocking, Cover-Seeking, Terrain Use
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_02_01_01_00_00_00__flocking-cover-seeking-terrain-use.md -->
 
 ### 5.2.1.2 - Memory, Line-of-Sight & Hearing-Based Decisions
@@ -13624,6 +13926,7 @@ Original export: `markdown_export/5 2 1 2 Memory, Line-of-Sight & Hearing-Based 
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_02_01_02_00_00_00__memory-line-of-sight-and-hearing-based-decisions.md -->
 # 5.2.1.2 Memory, Line-of-Sight & Hearing-Based Decisions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_02_01_02_00_00_00__memory-line-of-sight-and-hearing-based-decisions.md -->
 
 ### 5.2.1.3 - Group Coordination & Squad Roles
@@ -13633,6 +13936,7 @@ Original export: `markdown_export/5 2 1 3 Group Coordination & Squad Roles 226b2
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_02_01_03_00_00_00__group-coordination-and-squad-roles.md -->
 # 5.2.1.3 Group Coordination & Squad Roles
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_02_01_03_00_00_00__group-coordination-and-squad-roles.md -->
 
 ### 5.2.2 - Emotionally Influenced Decisions
@@ -13645,6 +13949,7 @@ Original export: `markdown_export/5 2 2 Emotionally Influenced Decisions 226b227
 
 - Fear, Loyalty, Anger, Greed, Hunger, Religious Zeal, Survival Instinct
 - Mental health & morale under pressure
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_02_02_00_00_00_00__emotionally-influenced-decisions.md -->
 
 ### 5.2.3 - Adaptive Learning & Habit Formation
@@ -13657,6 +13962,7 @@ Original export: `markdown_export/5 2 3 Adaptive Learning & Habit Formation 226b
 
 - AI responds differently if a player always uses fire, stealth, etc.
 - Enemies warn each other or set traps based on previous encounters
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_02_03_00_00_00_00__adaptive-learning-and-habit-formation.md -->
 
 ### 5.3 - Stealth & Detection
@@ -13755,7 +14061,7 @@ if (CanSmell(PlayerScent)) {
 ```
 
 > Each of these can trigger different behaviors:
-> 
+>
 - Vision: Raise weapon, alert call
 - Hearing: Turn toward sound, investigate
 - Smell: Start tracking or set an ambush
@@ -13783,13 +14089,14 @@ if (CanSmell(PlayerScent)) {
 - A predator with bad vision and excellent smell is **upwind** of you
 
 > It smells you before it sees or hears you, and starts circling to find your trail.
-> 
+>
 
 [5.3.1 Stealth Core Systems](05_03_01_00_00_00_00__stealth-core-systems.md)
 
 [5.3.2 Detection Logic](05_03_02_00_00_00_00__detection-logic.md)
 
 [5.3.3 Pseudocode Examples](05_03_03_00_00_00_00__pseudocode-examples.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_00_00_00_00_00__stealth-and-detection.md -->
 
 ### 5.3.1 - Stealth Core Systems
@@ -13805,6 +14112,7 @@ Original export: `markdown_export/5 3 1 Stealth Core Systems 226b227cadd780ed8ce
 [5.3.1.2 Movement Noise & Surface Types](05_03_01_02_00_00_00__movement-noise-and-surface-types.md)
 
 [5.3.1.3 Cover, Disguise, and Distraction Mechanics](05_03_01_03_00_00_00__cover-disguise-and-distraction-mechanics.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_01_00_00_00_00__stealth-core-systems.md -->
 
 ### 5.3.1.1 - Light Levels & Camouflage
@@ -13814,6 +14122,7 @@ Original export: `markdown_export/5 3 1 1 Light Levels & Camouflage 226b227cadd7
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_03_01_01_00_00_00__light-levels-and-camouflage.md -->
 # 5.3.1.1 Light Levels & Camouflage
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_01_01_00_00_00__light-levels-and-camouflage.md -->
 
 ### 5.3.1.2 - Movement Noise & Surface Types
@@ -13823,6 +14132,7 @@ Original export: `markdown_export/5 3 1 2 Movement Noise & Surface Types 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_03_01_02_00_00_00__movement-noise-and-surface-types.md -->
 # 5.3.1.2 Movement Noise & Surface Types
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_01_02_00_00_00__movement-noise-and-surface-types.md -->
 
 ### 5.3.1.3 - Cover, Disguise, and Distraction Mechanics
@@ -13832,6 +14142,7 @@ Original export: `markdown_export/5 3 1 3 Cover, Disguise, and Distraction Mecha
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_03_01_03_00_00_00__cover-disguise-and-distraction-mechanics.md -->
 # 5.3.1.3 Cover, Disguise, and Distraction Mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_01_03_00_00_00__cover-disguise-and-distraction-mechanics.md -->
 
 ### 5.3.2 - Detection Logic
@@ -13847,6 +14158,7 @@ Original export: `markdown_export/5 3 2 Detection Logic 226b227cadd780a0914dd015
 [5.3.2.2 Audio System (decibel simulation, echo, dampening)](5%203%202%202%20Audio%20System%20(decibel%20simulation,%20echo,%20da%2021db227cadd78034a8e5d494c549b124.md)
 
 [5.3.2.3 Odor System (wind, proximity, species-specific smells)](5%203%202%203%20Odor%20System%20(wind,%20proximity,%20species-spec%2021db227cadd78006a208fc3da19c500e.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_02_00_00_00_00__detection-logic.md -->
 
 ### 5.3.2.1 - Vision System (angle, range, obstructions)
@@ -13856,6 +14168,7 @@ Original export: `markdown_export/5 3 2 1 Vision System (angle, range, obstructi
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_03_02_01_00_00_00__vision-system-angle-range-obstructions.md -->
 # 5.3.2.1 Vision System (angle, range, obstructions)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_02_01_00_00_00__vision-system-angle-range-obstructions.md -->
 
 ### 5.3.2.2 - Audio System (decibel simulation, echo, dampening)
@@ -13865,6 +14178,7 @@ Original export: `markdown_export/5 3 2 2 Audio System (decibel simulation, echo
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_03_02_02_00_00_00__audio-system-decibel-simulation-echo-dampening.md -->
 # 5.3.2.2 Audio System (decibel simulation, echo, dampening)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_02_02_00_00_00__audio-system-decibel-simulation-echo-dampening.md -->
 
 ### 5.3.2.3 - Odor System (wind, proximity, species-specific smells)
@@ -13874,6 +14188,7 @@ Original export: `markdown_export/5 3 2 3 Odor System (wind, proximity, species-
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_03_02_03_00_00_00__odor-system-wind-proximity-species-specific-smells.md -->
 # 5.3.2.3 Odor System (wind, proximity, species-specific smells)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_02_03_00_00_00__odor-system-wind-proximity-species-specific-smells.md -->
 
 ### 5.3.3 - Pseudocode Examples
@@ -13889,6 +14204,7 @@ Original export: `markdown_export/5 3 3 Pseudocode Examples 226b227cadd78019ac3a
 - Noise Event Spawner (Footstep + Sound Type + Surface Tag)
 
 [5.3.3.1 Independent Vision, Audio & Odor Detection Detailed Pseudocode](05_03_03_01_00_00_00__independent-vision-audio-and-odor-detection-detailed-pseudocode.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_03_00_00_00_00__pseudocode-examples.md -->
 
 ### 5.3.3.1 - Independent Vision, Audio & Odor Detection Detailed Pseudocode
@@ -14064,7 +14380,7 @@ void Tick(float DeltaTime)
 - `CalculateVisibility(...)` – factors in clothing, camo, light, environment.
 - `GetMovementNoise(...)` – considers footwear, movement type, gear.
 - `PlayerClothing` struct or class with fields:
-    
+
     ```cpp
     cpp
     CopyEdit
@@ -14076,7 +14392,7 @@ void Tick(float DeltaTime)
     };
     
     ```
-    
+
 - `FocusTarget(FVector Target)` – stores AI focus or destination.
 
 ## 🔄 **AI Behavioral States Based on Sense**
@@ -14119,10 +14435,10 @@ Compare **Blueprints** vs **Behavior Trees (BTs)** specifically for this kind of
 ## ✅ Recommended Hybrid Approach (Best of Both Worlds)
 
 > 🔧 Do sensing (vision/hearing/smell) in Blueprints or C++
-> 
-> 
+>
+>
 > 🧠 **Drive decision-making in the Behavior Tree based on those results**
-> 
+>
 
 This keeps your detection logic modular, testable, and adjustable without spaghetti BT logic.
 
@@ -14149,7 +14465,7 @@ You could do this in:
 ### 🧠 Behavior Tree Handles:
 
 - **Deciding what to do based on perception states**:
-    
+
     ```
     text
     CopyEdit
@@ -14159,7 +14475,7 @@ You could do this in:
     ELSE → Idle or Patrol
     
     ```
-    
+
 - The BT stays **clean**, readable, and logic-driven, while the complex calculations are offloaded.
 
 ---
@@ -14195,6 +14511,7 @@ You could do this in:
 ---
 
 ###
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_03_03_01_00_00_00__independent-vision-audio-and-odor-detection-detailed-pseudocode.md -->
 
 ### 5.4 - Status Effects & Tactical Conditions
@@ -14214,6 +14531,7 @@ Affects player/enemy performance and strategy.
 [5.4.3 Mental Conditions](05_04_03_00_00_00_00__mental-conditions.md)
 
 [5.4.4 Recovery & Stabilization Systems](05_04_04_00_00_00_00__recovery-and-stabilization-systems.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_04_00_00_00_00_00__status-effects-and-tactical-conditions.md -->
 
 ### 5.4.1 - Physical Conditions
@@ -14225,6 +14543,7 @@ Original export: `markdown_export/5 4 1 Physical Conditions 226b227cadd780a4a014
 # 5.4.1 Physical Conditions
 
 Bleeding, Crippling, Fractures, Fatigue
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_04_01_00_00_00_00__physical-conditions.md -->
 
 ### 5.4.2 - Magical Conditions
@@ -14236,6 +14555,7 @@ Original export: `markdown_export/5 4 2 Magical Conditions 226b227cadd780418365d
 # 5.4.2 Magical Conditions
 
 Burning, Freezing, Entangled, Silenced
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_04_02_00_00_00_00__magical-conditions.md -->
 
 ### 5.4.3 - Mental Conditions
@@ -14247,6 +14567,7 @@ Original export: `markdown_export/5 4 3 Mental Conditions 226b227cadd780f59099c2
 # 5.4.3 Mental Conditions
 
 Fear, Panic, Disorientation, Hallucinations, Psionic Fractures
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_04_03_00_00_00_00__mental-conditions.md -->
 
 ### 5.4.4 - Recovery & Stabilization Systems
@@ -14256,6 +14577,7 @@ Original export: `markdown_export/5 4 4 Recovery & Stabilization Systems 226b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_04_04_00_00_00_00__recovery-and-stabilization-systems.md -->
 # 5.4.4 Recovery & Stabilization Systems
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_04_04_00_00_00_00__recovery-and-stabilization-systems.md -->
 
 ### 5.5 - Enemy Design & Behavior
@@ -14284,6 +14606,7 @@ How enemy types are constructed, how they think, and how they evolve.
 [5.5.4 Planar/Corrupted Variants](05_05_04_00_00_00_00__planar-corrupted-variants.md)
 
 [5.5.5 Creature Ecology-Based AI](05_05_05_00_00_00_00__creature-ecology-based-ai.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_05_00_00_00_00_00__enemy-design-and-behavior.md -->
 
 ### 5.5.1 - Enemy Roles (Tank, Swarm, Controller, etc.)
@@ -14293,6 +14616,7 @@ Original export: `markdown_export/5 5 1 Enemy Roles (Tank, Swarm, Controller, et
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_05_01_00_00_00_00__enemy-roles-tank-swarm-controller-etc.md -->
 # 5.5.1 Enemy Roles (Tank, Swarm, Controller, etc.)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_05_01_00_00_00_00__enemy-roles-tank-swarm-controller-etc.md -->
 
 ### 5.5.2 - Behavioral Templates & Faction Intelligence
@@ -14302,6 +14626,7 @@ Original export: `markdown_export/5 5 2 Behavioral Templates & Faction Intellige
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_05_02_00_00_00_00__behavioral-templates-and-faction-intelligence.md -->
 # 5.5.2 Behavioral Templates & Faction Intelligence
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_05_02_00_00_00_00__behavioral-templates-and-faction-intelligence.md -->
 
 ### 5.5.3 - Unique Boss Mechanics
@@ -14311,6 +14636,7 @@ Original export: `markdown_export/5 5 3 Unique Boss Mechanics 226b227cadd7802caa
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_05_03_00_00_00_00__unique-boss-mechanics.md -->
 # 5.5.3 Unique Boss Mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_05_03_00_00_00_00__unique-boss-mechanics.md -->
 
 ### 5.5.4 - Planar/Corrupted Variants
@@ -14320,6 +14646,7 @@ Original export: `markdown_export/5 5 4 Planar Corrupted Variants 226b227cadd780
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/05_05_04_00_00_00_00__planar-corrupted-variants.md -->
 # 5.5.4 Planar/Corrupted Variants
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_05_04_00_00_00_00__planar-corrupted-variants.md -->
 
 ### 5.5.5 - Creature Ecology-Based AI
@@ -14331,6 +14658,7 @@ Original export: `markdown_export/5 5 5 Creature Ecology-Based AI 226b227cadd780
 # 5.5.5 Creature Ecology-Based AI
 
 Predators vs. Pack Hunters vs. Defenders vs. Opportunists
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_05_05_00_00_00_00__creature-ecology-based-ai.md -->
 
 ### 5.6 - Weapons & Weapon Categories
@@ -14348,6 +14676,7 @@ All wieldable physical and magical implements, their types, customization, and r
 [5.6.2 Weapon Properties](05_06_02_00_00_00_00__weapon-properties.md)
 
 [5.6.3 Weapon Customization](05_06_03_00_00_00_00__weapon-customization.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_06_00_00_00_00_00__weapons-and-weapon-categories.md -->
 
 ### 5.6.1 - Weapon Types
@@ -14361,6 +14690,7 @@ Original export: `markdown_export/5 6 1 Weapon Types 226b227cadd780e1b1d5eef1003
 - Melee: Daggers, Swords, Axes, Spears, Hammers
 - Ranged: Bows, Crossbows, Throwing, Firearms (if applicable)
 - Exotic: Whips, Chains, Polearms, Elemental Weapons
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_06_01_00_00_00_00__weapon-types.md -->
 
 ### 5.6.2 - Weapon Properties
@@ -14373,6 +14703,7 @@ Original export: `markdown_export/5 6 2 Weapon Properties 226b227cadd7809db3d2e7
 
 - Reach, Speed, Weight, Material, Attunement
 - VR-specific physics properties (grip, inertia, haptic force)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_06_02_00_00_00_00__weapon-properties.md -->
 
 ### 5.6.3 - Weapon Customization
@@ -14386,6 +14717,7 @@ Original export: `markdown_export/5 6 3 Weapon Customization 226b227cadd78090b06
 - Modular crafting (from Section 6)
 - Enchantments (from Section 4)
 - Wear & Durability (from Simulation section)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_06_03_00_00_00_00__weapon-customization.md -->
 
 ### 5.7 - Armor & Equipment
@@ -14409,6 +14741,7 @@ Defensive and tactical gear that influences survivability, mobility, and sensory
 [5.7.3 Shield Mechanics](05_07_03_00_00_00_00__shield-mechanics.md)
 
 [5.7.4 Equipment Slots & Weight System](05_07_04_00_00_00_00__equipment-slots-and-weight-system.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_07_00_00_00_00_00__armor-and-equipment.md -->
 
 ### 5.7.1 - Armor Types
@@ -14420,6 +14753,7 @@ Original export: `markdown_export/5 7 1 Armor Types 226b227cadd780ddb657f46db9d2
 # 5.7.1 Armor Types
 
 Light, Medium, Heavy, Ritual Robes, Psionic Gear
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_07_01_00_00_00_00__armor-types.md -->
 
 ### 5.7.2 - Armor Stats & Traits
@@ -14431,6 +14765,7 @@ Original export: `markdown_export/5 7 2 Armor Stats & Traits 226b227cadd780d0b26
 # 5.7.2 Armor Stats & Traits
 
 Damage Reduction, Movement Penalty, Noise Level, Heat Retention
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_07_02_00_00_00_00__armor-stats-and-traits.md -->
 
 ### 5.7.3 - Shield Mechanics
@@ -14442,6 +14777,7 @@ Original export: `markdown_export/5 7 3 Shield Mechanics 226b227cadd7805bacd9e96
 # 5.7.3 Shield Mechanics
 
 Parrying, Bashing, Blocking, Spell Reflecting
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_07_03_00_00_00_00__shield-mechanics.md -->
 
 ### 5.7.4 - Equipment Slots & Weight System
@@ -14454,6 +14790,7 @@ Original export: `markdown_export/5 7 4 Equipment Slots & Weight System 226b227c
 
 - Encumbrance Simulation
 - Inventory realism vs gameplay convenience
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_07_04_00_00_00_00__equipment-slots-and-weight-system.md -->
 
 ### 5.8 - Combat Tutorials & Onboarding (especially for VR)
@@ -14465,6 +14802,7 @@ Original export: `markdown_export/5 8 Combat Tutorials & Onboarding (especially 
 # 5.8 Combat Tutorials & Onboarding (especially for VR)
 
 Teaching physical combat, ranged aiming, spell timing, etc.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_08_00_00_00_00_00__combat-tutorials-and-onboarding-especially-for-vr.md -->
 
 ### 5.9 - Spectacle & Sensory Feedback
@@ -14476,6 +14814,7 @@ Original export: `markdown_export/5 9 Spectacle & Sensory Feedback 226b227cadd78
 # 5.9 Spectacle & Sensory Feedback
 
 VR enhancements: screen shake, rumble, spatial audio
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_09_00_00_00_00_00__spectacle-and-sensory-feedback.md -->
 
 ### 5.10 - Factions & Tactics
@@ -14487,6 +14826,7 @@ Original export: `markdown_export/5 10 Factions & Tactics 226b227cadd780748d28d8
 # 5.10 Factions & Tactics
 
 How different groups (e.g. necromancer cults, guards, rebels) have unique combat patterns and detection logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/05_10_00_00_00_00_00__factions-and-tactics.md -->
 
 ### 6 - Crafting, Construction & Settlement
@@ -14512,6 +14852,7 @@ Original export: `markdown_export/6 Crafting, Construction & Settlement 220b227c
 [6.7 Repair, Maintenance & Decay](06_07_00_00_00_00_00__repair-maintenance-and-decay.md)
 
 [6.8 Environmental Crafting & Traps](06_08_00_00_00_00_00__environmental-crafting-and-traps.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_00_00_00_00_00_00__crafting-construction-and-settlement.md -->
 
 ### 6.1 - Core Crafting Systems
@@ -14531,6 +14872,7 @@ Covers crafting logic, stations, tools, and skill interactions.
 [6.1.3 Crafting Skill Tiers](06_01_03_00_00_00_00__crafting-skill-tiers.md)
 
 [6.1.4 Customization & Quality Tiers](06_01_04_00_00_00_00__customization-and-quality-tiers.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_01_00_00_00_00_00__core-crafting-systems.md -->
 
 ### 6.1.1 - Hands-On Crafting
@@ -14544,6 +14886,7 @@ Original export: `markdown_export/6 1 1 Hands-On Crafting 222b227cadd780a6bddcc5
 - VR-immersive object manipulation (e.g. grip, rotate, hammer, file)
 - Flat-screen equivalent systems
 - Crafting mini-games tied to player skill (e.g., forging, mixing)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_01_01_00_00_00_00__hands-on-crafting.md -->
 
 ### 6.1.2 - Material Tiers & Properties
@@ -14557,6 +14900,7 @@ Original export: `markdown_export/6 1 2 Material Tiers & Properties 222b227cadd7
 - Common → Rare → Legendary → Magical
 - Material qualities: hardness, essence, flexibility, memory, corruption
 - Regionality & scarcity (biomes, planar zones, ruins)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_01_02_00_00_00_00__material-tiers-and-properties.md -->
 
 ### 6.1.3 - Crafting Skill Tiers
@@ -14569,6 +14913,7 @@ Original export: `markdown_export/6 1 3 Crafting Skill Tiers 226b227cadd780799ac
 
 - Player learning curves (beginner tools → masterwork techniques)
 - Skill-tree unlocks or insight-burst crafting
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_01_03_00_00_00_00__crafting-skill-tiers.md -->
 
 ### 6.1.4 - Customization & Quality Tiers
@@ -14581,6 +14926,7 @@ Original export: `markdown_export/6 1 4 Customization & Quality Tiers 226b227cad
 
 - Variables: durability, balance, aesthetic, energy efficiency
 - Artisan marks & personalization (names, runes, stories)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_01_04_00_00_00_00__customization-and-quality-tiers.md -->
 
 ### 6.2 - Weapons, Armor & Equipment Crafting
@@ -14598,6 +14944,7 @@ Covers the creation of functional gear with tactical or magical value.
 [6.2.2 Armor Crafting](06_02_02_00_00_00_00__armor-crafting.md)
 
 [6.2.3 Tools & Equipment](06_02_03_00_00_00_00__tools-and-equipment.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_02_00_00_00_00_00__weapons-armor-and-equipment-crafting.md -->
 
 ### 6.2.1 - Weapon Crafting
@@ -14610,6 +14957,7 @@ Original export: `markdown_export/6 2 1 Weapon Crafting 226b227cadd7808dadccc8ef
 
 - Blade shape, hilt types, balance weight, multi-material fusion
 - Planar-infused or psionic weapon forging
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_02_01_00_00_00_00__weapon-crafting.md -->
 
 ### 6.2.2 - Armor Crafting
@@ -14622,6 +14970,7 @@ Original export: `markdown_export/6 2 2 Armor Crafting 226b227cadd780f98733df7a9
 
 - Layered materials (e.g., fur + bone + enchanted steel)
 - Ergonomics for VR weight simulation & freedom of movement
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_02_02_00_00_00_00__armor-crafting.md -->
 
 ### 6.2.3 - Tools & Equipment
@@ -14634,6 +14983,7 @@ Original export: `markdown_export/6 2 3 Tools & Equipment 226b227cadd780ca9709f6
 
 - Crafting hammers, picks, flensing knives, chisels, tongs
 - Psionic crafting foci, alchemical dispensers, magical workbenches
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_02_03_00_00_00_00__tools-and-equipment.md -->
 
 ### 6.3 - Alchemical, Magical and Ritual Crafting
@@ -14653,6 +15003,7 @@ Systems that blur physical and metaphysical creation.
 [6.3.3 Psionic/Mental Crafting](06_03_03_00_00_00_00__psionic-mental-crafting.md)
 
 [6.3.4 Ritual Tools & Components](06_03_04_00_00_00_00__ritual-tools-and-components.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_03_00_00_00_00_00__alchemical-magical-and-ritual-crafting.md -->
 
 ### 6.3.1 - Alchemical Brewing & Potioncraft
@@ -14665,6 +15016,7 @@ Original export: `markdown_export/6 3 1 Alchemical Brewing & Potioncraft 226b227
 
 - Heating, distillation, fermentation, catalyst binding
 - Effects based on timing, ingredients, and environmental conditions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_03_01_00_00_00_00__alchemical-brewing-and-potioncraft.md -->
 
 ### 6.3.2 - Rune-Carving, Infusions, & Magical Enchanting
@@ -14677,6 +15029,7 @@ Original export: `markdown_export/6 3 2 Rune-Carving, Infusions, & Magical Encha
 
 - Symbol systems, ritual circle work, ley alignment
 - Risk of backlash, resonance errors, instability
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_03_02_00_00_00_00__rune-carving-infusions-and-magical-enchanting.md -->
 
 ### 6.3.3 - Psionic/Mental Crafting
@@ -14689,6 +15042,7 @@ Original export: `markdown_export/6 3 3 Psionic Mental Crafting 226b227cadd780c0
 
 - Manifesting constructs or augmenting materials via will
 - Mental attunement or dreamcrafting mechanics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_03_03_00_00_00_00__psionic-mental-crafting.md -->
 
 ### 6.3.4 - Ritual Tools & Components
@@ -14701,6 +15055,7 @@ Original export: `markdown_export/6 3 4 Ritual Tools & Components 226b227cadd780
 
 - Candles, bones, sacred threads, memory crystals
 - Influenced by spiritual alignment and regional anomalies
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_03_04_00_00_00_00__ritual-tools-and-components.md -->
 
 ### 6.4 - Building & Settlement Construction
@@ -14722,6 +15077,7 @@ Building everything from tents to full-scale settlements — by hand or with lab
 [6.4.4 Persistent Settlements & NPC Labor](06_04_04_00_00_00_00__persistent-settlements-and-npc-labor.md)
 
 [6.4.5 Construction AI & Pathing Considerations](06_04_05_00_00_00_00__construction-ai-and-pathing-considerations.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_04_00_00_00_00_00__building-and-settlement-construction.md -->
 
 ### 6.4.1 - Modular Building
@@ -14734,6 +15090,7 @@ Original export: `markdown_export/6 4 1 Modular Building 226b227cadd780589257d3e
 
 - Grid & freeform options, snap-points, structure integrity
 - Natural materials (mud, wood, stone) vs. refined (brick, obsidian, enchanted glass)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_04_01_00_00_00_00__modular-building.md -->
 
 ### 6.4.2 - Structural Logic & Engineering
@@ -14746,6 +15103,7 @@ Original export: `markdown_export/6 4 2 Structural Logic & Engineering 226b227ca
 
 - Load-bearing logic, slope calculations, erosion/weathering
 - Physics-based collapses or modular damage
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_04_02_00_00_00_00__structural-logic-and-engineering.md -->
 
 ### 6.4.3 - Workshop & Station Building
@@ -14758,6 +15116,7 @@ Original export: `markdown_export/6 4 3 Workshop & Station Building 226b227cadd7
 
 - Blacksmith forge, loom, ritual lab, distillery, greenhouse
 - Powered by fuel, mana, psionic focus, or labor
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_04_03_00_00_00_00__workshop-and-station-building.md -->
 
 ### 6.4.4 - Persistent Settlements & NPC Labor
@@ -14771,6 +15130,7 @@ Original export: `markdown_export/6 4 4 Persistent Settlements & NPC Labor 226b2
 - Assigning AI jobs: farmer, cook, builder, alchemist
 - Rest, storage, hunger, morale, taxation
 - Time-of-day systems, rest zones, patrol logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_04_04_00_00_00_00__persistent-settlements-and-npc-labor.md -->
 
 ### 6.4.5 - Construction AI & Pathing Considerations
@@ -14783,6 +15143,7 @@ Original export: `markdown_export/6 4 5 Construction AI & Pathing Considerations
 
 - NPCs need access, rest zones, stockpiles
 - Player-facing error prevention (structural feedback, ghost previews)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_04_05_00_00_00_00__construction-ai-and-pathing-considerations.md -->
 
 ### 6.5 - Creature Interaction Systems
@@ -14806,6 +15167,7 @@ Systems for interacting with the natural world through hunting, taming, and trai
 [6.5.2 Taming & Domestication](06_05_02_00_00_00_00__taming-and-domestication.md)
 
 [6.5.3 Breeding, Training & Lifecycle Management](06_05_03_00_00_00_00__breeding-training-and-lifecycle-management.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_05_00_00_00_00_00__creature-interaction-systems.md -->
 
 ### 6.5.1 - Hunting, Tracking & Harvesting
@@ -14818,6 +15180,7 @@ Original export: `markdown_export/6 5 1 Hunting, Tracking & Harvesting 226b227ca
 
 - Tracks, scat, blood trails, broken branches
 - Ecosystem impact, overhunting risk
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_05_01_00_00_00_00__hunting-tracking-and-harvesting.md -->
 
 ### 6.5.2 - Taming & Domestication
@@ -14831,6 +15194,7 @@ Original export: `markdown_export/6 5 2 Taming & Domestication 226b227cadd7808b8
 - Behavioral learning curve, trust-building
 - VR gestures and voice commands
 - Use in farming, transport, or combat
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_05_02_00_00_00_00__taming-and-domestication.md -->
 
 ### 6.5.3 - Breeding, Training & Lifecycle Management
@@ -14843,6 +15207,7 @@ Original export: `markdown_export/6 5 3 Breeding, Training & Lifecycle Managemen
 
 - Creature lifespans, traits inheritance
 - Mutation via exposure to magic/planar forces
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_05_03_00_00_00_00__breeding-training-and-lifecycle-management.md -->
 
 ### 6.6 - Crafting Systems Integration
@@ -14860,6 +15225,7 @@ How crafting ties into the larger game world.
 [6.6.2 NPC Crafters, Trainers & Guilds](06_06_02_00_00_00_00__npc-crafters-trainers-and-guilds.md)
 
 [6.6.3 Blueprints, Recipes & Discovery](06_06_03_00_00_00_00__blueprints-recipes-and-discovery.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_06_00_00_00_00_00__crafting-systems-integration.md -->
 
 ### 6.6.1 - Crafting & Simulation Interactions
@@ -14871,6 +15237,7 @@ Original export: `markdown_export/6 6 1 Crafting & Simulation Interactions 226b2
 # 6.6.1 Crafting & Simulation Interactions
 
 Temperature, humidity, altitude, time of day, ley lines
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_06_01_00_00_00_00__crafting-and-simulation-interactions.md -->
 
 ### 6.6.2 - NPC Crafters, Trainers & Guilds
@@ -14883,6 +15250,7 @@ Original export: `markdown_export/6 6 2 NPC Crafters, Trainers & Guilds 226b227c
 
 - Teaching through action, apprenticeship systems
 - Commissions, marketplace dynamics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_06_02_00_00_00_00__npc-crafters-trainers-and-guilds.md -->
 
 ### 6.6.3 - Blueprints, Recipes & Discovery
@@ -14895,6 +15263,7 @@ Original export: `markdown_export/6 6 3 Blueprints, Recipes & Discovery 226b227c
 
 - Reverse engineering, inspiration, copying from tomes
 - Failures as learning events (broken items with useful traits)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_06_03_00_00_00_00__blueprints-recipes-and-discovery.md -->
 
 ### 6.7 - Repair, Maintenance & Decay
@@ -14907,6 +15276,7 @@ Original export: `markdown_export/6 7 Repair, Maintenance & Decay 226b227cadd780
 
 - Items degrade based on use, weather, storage
 - Rituals, kits, and NPCs for upkeep
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_07_00_00_00_00_00__repair-maintenance-and-decay.md -->
 
 ### 6.8 - Environmental Crafting & Traps
@@ -14919,6 +15289,7 @@ Original export: `markdown_export/6 8 Environmental Crafting & Traps 226b227cadd
 
 - Set snares, deadfalls, ritual wards
 - Camouflaged hideouts, portable shelters
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/06_08_00_00_00_00_00__environmental-crafting-and-traps.md -->
 
 ### 7 - Artificial Intelligence
@@ -14944,6 +15315,7 @@ Original export: `markdown_export/7 Artificial Intelligence 220b227cadd78084b437
 [7.6 Internal Conflict Systems](07_06_00_00_00_00_00__internal-conflict-systems.md)
 
 [7.7 AI Debug View for Devs](07_07_00_00_00_00_00__ai-debug-view-for-devs.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_00_00_00_00_00_00__artificial-intelligence.md -->
 
 ### 7.1 - Core Simulation & Internal Modeling
@@ -14973,6 +15345,7 @@ Original export: `markdown_export/7 1 Core Simulation & Internal Modeling 21fb22
 [7.1.9 AI-Driven Needs-Based Quests](07_01_09_00_00_00_00__ai-driven-needs-based-quests.md)
 
 [7.1.10 Imitation, Learning & Social Mimicry](07_01_10_00_00_00_00__imitation-learning-and-social-mimicry.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_00_00_00_00_00__core-simulation-and-internal-modeling.md -->
 
 ### 7.1.1 - Multi-Layered NPC Modeling
@@ -14986,6 +15359,7 @@ Original export: `markdown_export/7 1 1 Multi-Layered NPC Modeling 21db227cadd78
 - Physical (fatigue, pain, stamina)
 - Emotional (mood, stress, social comfort)
 - Mental (focus, clarity, distractions)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_01_00_00_00_00__multi-layered-npc-modeling.md -->
 
 ### 7.1.2 - Routine & Needs Simulation
@@ -15010,6 +15384,7 @@ Original export: `markdown_export/7 1 2 Routine & Needs Simulation 21db227cadd78
 [7.1.2.5 Housing, Property & Personal Spaces](07_01_02_05_00_00_00__housing-property-and-personal-spaces.md)
 
 [7.1.2.6 Events & Rituals](07_01_02_06_00_00_00__events-and-rituals.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_02_00_00_00_00__routine-and-needs-simulation.md -->
 
 ### 7.1.2.1 - Needs & Motivation Simulation
@@ -15021,6 +15396,7 @@ Original export: `markdown_export/7 1 2 1 Needs & Motivation Simulation 227b227c
 # 7.1.2.1 Needs & Motivation Simulation
 
 Details needs, autonomy, and emotional modeling of NPCs and optionally players.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_02_01_00_00_00__needs-and-motivation-simulation.md -->
 
 ### 7.1.2.2 - Schedules, Routines & World Choreography
@@ -15032,6 +15408,7 @@ Original export: `markdown_export/7 1 2 2 Schedules, Routines & World Choreograp
 # 7.1.2.2 Schedules, Routines & World Choreography
 
 Describes how NPCs live full lives whether the player is around or not.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_02_02_00_00_00__schedules-routines-and-world-choreography.md -->
 
 ### 7.1.2.3 - Relationship Systems
@@ -15043,6 +15420,7 @@ Original export: `markdown_export/7 1 2 3 Relationship Systems 227b227cadd780398
 # 7.1.2.3 Relationship Systems
 
 Covers emotional bonds, status changes, romance, rivalries, family, betrayal, loyalty.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_02_03_00_00_00__relationship-systems.md -->
 
 ### 7.1.2.4 - Roleplay Support
@@ -15054,6 +15432,7 @@ Original export: `markdown_export/7 1 2 4 Roleplay Support 227b227cadd7805e9039d
 # 7.1.2.4 Roleplay Support
 
 Explains player customization, identity development, expressive gestures, text/writing support.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_02_04_00_00_00__roleplay-support.md -->
 
 ### 7.1.2.5 - Housing, Property & Personal Spaces
@@ -15065,6 +15444,7 @@ Original export: `markdown_export/7 1 2 5 Housing, Property & Personal Spaces 22
 # 7.1.2.5 Housing, Property & Personal Spaces
 
 Includes acquisition, customization, physical interactions, family/legacy potential.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_02_05_00_00_00__housing-property-and-personal-spaces.md -->
 
 ### 7.1.2.6 - Events & Rituals
@@ -15076,6 +15456,7 @@ Original export: `markdown_export/7 1 2 6 Events & Rituals 227b227cadd7801db545d
 # 7.1.2.6 Events & Rituals
 
 Covers time-based cultural or personal events that deepen RP and immersion.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_02_06_00_00_00__events-and-rituals.md -->
 
 ### 7.1.3 - Personality Modeling
@@ -15086,7 +15467,7 @@ Original export: `markdown_export/7 1 3 Personality Modeling 21bb227cadd780f389d
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/07_01_03_00_00_00_00__personality-modeling.md -->
 # 7.1.3 Personality Modeling
 
-### 
+###
 
 [🧠](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
@@ -15100,6 +15481,7 @@ A stoic knight and mischievous thief may despise each other at first but warm ov
 
 - Trait-based system (e.g., stubborn, generous, cautious)
 - Personality changes through trauma, aging, rituals, social influence
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_03_00_00_00_00__personality-modeling.md -->
 
 ### 7.1.4 - Memory & Recognition Systems
@@ -15116,6 +15498,7 @@ Original export: `markdown_export/7 1 4 Memory & Recognition Systems 21db227cadd
 - NPCs **remember actions**: favors, slights, alliances, insults.
 - Memory affects behavior dynamically — from **rumors in towns** to acts of vengeance.
 - Long-term memory may decay, distort, or be manipulated (e.g. by magic, propaganda).
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_04_00_00_00_00__memory-and-recognition-systems.md -->
 
 ### 7.1.5 - Reflective & Thought Systems
@@ -15133,6 +15516,7 @@ Original export: `markdown_export/7 1 5 Reflective & Thought Systems 21bb227cadd
 - These actions influence **mental state**, future social responses, and character development.
 - Internal self-talk, opinion formulation
 - Predictions about others’ behavior (“He may betray me.”)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_05_00_00_00_00__reflective-and-thought-systems.md -->
 
 ### 7.1.6 - Mood & Emotional Atmosphere
@@ -15145,6 +15529,7 @@ Original export: `markdown_export/7 1 6 Mood & Emotional Atmosphere 21bb227cadd7
 
 - NPCs respond to music, lighting, blood, corpses, social energy
 - Emotional contagion (fear spreads, joy uplifts)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_06_00_00_00_00__mood-and-emotional-atmosphere.md -->
 
 ### 7.1.7 - Environmental Storytelling & Social Echoes
@@ -15163,6 +15548,7 @@ Original export: `markdown_export/7 1 7 Environmental Storytelling & Social Echo
 - Companion reactions to locations/events create **layered social feedback**.
 - Traces of past events: torn tents, blood trails, burned meals
 - Shared memory: “The last time the guards came, they left us no food.”
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_07_00_00_00_00__environmental-storytelling-and-social-echoes.md -->
 
 ### 7.1.8 - World Reactivity & Morale
@@ -15179,6 +15565,7 @@ Original export: `markdown_export/7 1 8 World Reactivity & Morale 21bb227cadd780
 - Reactions can be visual, auditory, or behavioral — from **awkward silence to joyful celebration**.
 - Cities respond to player fame, faction wars, disasters
 - NPC unrest, riots, celebrations
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_08_00_00_00_00__world-reactivity-and-morale.md -->
 
 ### 7.1.9 - AI-Driven Needs-Based Quests
@@ -15190,6 +15577,7 @@ Original export: `markdown_export/7 1 9 AI-Driven Needs-Based Quests 226b227cadd
 # 7.1.9 AI-Driven Needs-Based Quests
 
 Quests emerge from simulated problems: hunger, loneliness, grief, threat
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_09_00_00_00_00__ai-driven-needs-based-quests.md -->
 
 ### 7.1.10 - Imitation, Learning & Social Mimicry
@@ -15202,6 +15590,7 @@ Original export: `markdown_export/7 1 10 Imitation, Learning & Social Mimicry 22
 
 - AI learns behaviors from player (e.g., crafting, movement)
 - Mimicry used for training, rituals, dances, gestures
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_01_10_00_00_00_00__imitation-learning-and-social-mimicry.md -->
 
 ### 7.2 - Dialogue, Expression & Communication
@@ -15223,6 +15612,7 @@ How AI expresses thought and emotion, both written and nonverbal.
 [7.2.4 Dynamic Travel Banter & Companions](07_02_04_00_00_00_00__dynamic-travel-banter-and-companions.md)
 
 [7.2.5 Gesture, Body Language & VR Expression](07_02_05_00_00_00_00__gesture-body-language-and-vr-expression.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_02_00_00_00_00_00__dialogue-expression-and-communication.md -->
 
 ### 7.2.1 - NPC Speech
@@ -15309,52 +15699,52 @@ Below are the steps to achieve this integration:
 ### **1. Bundle All External Components**
 
 - **Compile and Package Llama.cpp:**
-    
+
     Build the llama.cpp binary (or DLL) specifically for your target system (e.g., Windows) and package it within your game’s binaries. This binary will act as your local dialogue processor.
-    
+
 - **Include the Mistral7b Model:**
-    
+
     Place the GGUF-format model file with your game assets. Note that these models can be sizable, so consider your installer’s overall footprint.
-    
+
 - **Set Up StyleTTS2:**
-    
+
     While the demo often runs via a Docker container, for a seamless experience in a packaged game you might consider:
-    
+
     - Running StyleTTS2 natively (if feasible) after compiling it using a similar approach, or
     - Wrapping the Docker-based deployment in a way that it launches automatically from your game’s directory. Alternatively, packaging the necessary executable files from the Docker image (if licensing and technical constraints allow) could work.
 
 ### **2. Integrate With Unreal Engine**
 
 - **For Dialogue Processing:**
-    
+
     Use Unreal Engine’s `FInteractiveProcess` class (or a similar method) to spawn the external processes (the llama.cpp process and the Node script for StyleTTS2 integration) at runtime. Your game sends conversation history as arguments and reads the JSON output to update NPC dialogue.
-    
+
 - **Blueprint and C++ Integration:**
-    
+
     Set up your NPC classes (or an AI manager) in Unreal using Blueprints or C++ so that the external AI components are invoked at the appropriate moments. This creates a “bridge” where the game talks to the AI engine seamlessly.
-    
+
 
 ### **3. Packaging Your Game**
 
 - **Include Additional Non-UFS Files:**
-    
+
     Unreal Engine packaging settings allow you to bundle extra files (like your external binaries and model files) into your installer. In the packaging settings, add the relevant folders/files under “Additional Non-Asset Directories to Package.” This way, when a user installs the game, the required components are placed alongside your main executables.
-    
+
 - **Post-Build Script Integration:**
-    
+
     Create post-build scripts to copy these additional resources into the packaged directory. This ensures that regardless of where your game is installed, all dependencies are in the correct location and accessible at runtime.
-    
+
 
 ### **4. Testing and Optimization**
 
 - **Performance and Stability:**
-    
+
     Because you're running external processes, testing is crucial. Monitor the startup time, potential stutters when spawning the AI processes, and ensure that the integration does not introduce delays or unexpected behavior during gameplay.
-    
+
 - **UI Feedback:**
-    
+
     Consider implementing a UI indicator while the dialogue or voice processing is ongoing, to enhance player experience. This can help manage any latency in generating lengthy dialogue sequences.
-    
+
 
 ### **Resources for Further Reference**
 
@@ -15363,6 +15753,7 @@ Below are the steps to achieve this integration:
 - [**YouTube Tutorial on the Setup**](https://www.youtube.com/watch?v=y45RDrLvpaM) – Offers a visual walkthrough of the integration process in Unreal Engine.
 
 By following these steps, you can fully integrate your local LLM and voice synthesis tools into your VR game’s installation package, ensuring that players have a seamless, immersive experience from the moment they launch your game.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_02_01_00_00_00_00__npc-speech.md -->
 
 ### 7.2.2 - Dialogue Engine
@@ -15392,6 +15783,7 @@ The dialogue system supports **adaptive, reactive conversations** that reflect c
     - Characters remember key events and reference them later, e.g.:
         - “You left me behind in the ruins—why would I trust you now?”
         - “That night by the fire, you said you believed in me. I won’t forget it.”
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_02_02_00_00_00_00__dialogue-engine.md -->
 
 ### 7.2.3 - Campfire & Downtime Behavior
@@ -15420,6 +15812,7 @@ When not in immediate danger, companions express themselves through **organic, a
     - Quiet moments at camp influence the broader **narrative arc** of relationships:
         - New friendships or rivalries may form.
         - Hidden traits or backstories may emerge based on trust and time spent together.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_02_03_00_00_00_00__campfire-and-downtime-behavior.md -->
 
 ### 7.2.4 - Dynamic Travel Banter & Companions
@@ -15435,6 +15828,7 @@ Think *Dragon Age*, *The Witcher 3*, or *Red Dead Redemption 2*:
 - Conversations unfold as the party travels — with **banter, debates, flirting, or silence** based on relationship state.
 - Dialogue reacts to recent events, locations, or emotional context.
 - **Player choices** in dialogue and actions influence tone, frequency, and intensity.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_02_04_00_00_00_00__dynamic-travel-banter-and-companions.md -->
 
 ### 7.2.5 - Gesture, Body Language & VR Expression
@@ -15447,6 +15841,7 @@ Original export: `markdown_export/7 2 5 Gesture, Body Language & VR Expression 2
 
 - Gaze direction, posture, breathing speed
 - VR hand and body mirroring for realism and immersion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_02_05_00_00_00_00__gesture-body-language-and-vr-expression.md -->
 
 ### 7.3 - Social Mechanics, Relationships & Factions
@@ -15534,6 +15929,7 @@ Human-like relationship webs that evolve based on trust, gossip, past behavior, 
     - Support rebels and be exiled from cities
     - Save a child and be honored by their family line
     - Steal and leave behind a legend of infamy
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_00_00_00_00_00__social-mechanics-relationships-and-factions.md -->
 
 ### 7.3.1 - Relationship Simulation
@@ -15551,6 +15947,7 @@ Original export: `markdown_export/7 3 1 Relationship Simulation 21bb227cadd7809a
 - Includes **relationship thresholds** for major turning points (e.g. confessions, betrayal, commitment).
 - Affection, suspicion, rivalry, grudges
 - Layers: public face, inner feelings, hidden motives
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_01_00_00_00_00__relationship-simulation.md -->
 
 ### 7.3.2 - Gossip, Story Propagation, & Social Memory
@@ -15565,6 +15962,7 @@ Original export: `markdown_export/7 3 2 Gossip, Story Propagation, & Social Memo
 - NPCs “retell” distorted stories based on biases
 - Information spreads unevenly through factions and NPC groups
 - NPCs “retell” distorted stories based on biases
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_02_00_00_00_00__gossip-story-propagation-and-social-memory.md -->
 
 ### 7.3.3 - Emotional Contagion & Bias
@@ -15577,6 +15975,7 @@ Original export: `markdown_export/7 3 3 Emotional Contagion & Bias 21db227cadd78
 
 - Groupthink, social pressure, ritual bonding
 - Shared grief or hatred from key events
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_03_00_00_00_00__emotional-contagion-and-bias.md -->
 
 ### 7.3.4 - Reputation & Diplomacy
@@ -15596,6 +15995,7 @@ Original export: `markdown_export/7 3 4 Reputation & Diplomacy 21bb227cadd780efb
 - Adds simulation for **social influence and diplomacy** — players can mediate conflicts, sway elections, or sabotage alliances.
 - Player rep tracked per faction, region, or mythos
 - Diplomacy through behavior, gifts, rituals, or dialogue
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_04_00_00_00_00__reputation-and-diplomacy.md -->
 
 ### 7.3.5 - Companion & Ally Systems
@@ -15625,6 +16025,7 @@ Original export: `markdown_export/7 3 5 Companion & Ally Systems 21bb227cadd7809
     - Confront you.
     - Demand an apology or justification.
     - Abandon or betray you — especially if aligned with a rival faction.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_05_00_00_00_00__companion-and-ally-systems.md -->
 
 ### 7.3.6 - Relationship Progression
@@ -15637,6 +16038,7 @@ Original export: `markdown_export/7 3 6 Relationship Progression 21bb227cadd7806
 
 - Romance, adoption, mentorship, rivalry
 - Unique quests unlocked at thresholds
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_06_00_00_00_00__relationship-progression.md -->
 
 ### 7.3.7 - Narrative Threads Through Companions
@@ -15649,6 +16051,7 @@ Original export: `markdown_export/7 3 7 Narrative Threads Through Companions 21b
 
 - Their personal arcs evolve with world simulation
 - Tie into faction wars, world events, planar intrusions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_07_00_00_00_00__narrative-threads-through-companions.md -->
 
 ### 7.3.8 - Exploration-Based Social Events
@@ -15660,6 +16063,7 @@ Original export: `markdown_export/7 3 8 Exploration-Based Social Events 21bb227c
 # 7.3.8 Exploration-Based Social Events
 
 Triggers based on region, context, memory (e.g., “This reminds me of home.”)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_03_08_00_00_00_00__exploration-based-social-events.md -->
 
 ### 7.4 - Enemy AI, Pathfinding & Combat Behavior
@@ -15679,6 +16083,7 @@ Tactical awareness, dynamic learning, and factional memory in enemies and hostil
 [7.4.3 Enemy Schedules & Patrols](07_04_03_00_00_00_00__enemy-schedules-and-patrols.md)
 
 [7.4.4 Reactive & Psychological Combat Behavior](07_04_04_00_00_00_00__reactive-and-psychological-combat-behavior.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_00_00_00_00_00__enemy-ai-pathfinding-and-combat-behavior.md -->
 
 ### 7.4.1 - Dynamic Navigation & Perception
@@ -15703,6 +16108,7 @@ Original export: `markdown_export/7 4 1 Dynamic Navigation & Perception 223b227c
 [7.4.1.3 Smart Object Interaction (EQS)](7%204%201%203%20Smart%20Object%20Interaction%20(EQS)%20227b227cadd7809ea03cc45a85d55553.md)
 
 [7.4.1.4 Dynamic Obstacle Avoidance (RVO, DetourCrowd, etc.)](7%204%201%204%20Dynamic%20Obstacle%20Avoidance%20(RVO,%20DetourCro%20227b227cadd780fcb5a5e210fc2bde37.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_01_00_00_00_00__dynamic-navigation-and-perception.md -->
 
 ### 7.4.1.1 - Navigation Mesh Integration
@@ -15719,6 +16125,7 @@ Original export: `markdown_export/7 4 1 1 Navigation Mesh Integration 227b227cad
 - **You do not need to predetermine exact paths** — only the environment layout and behavior of obstacles matter.
 
 [7.4.1.1.1 Realistic Pathing Workflow in Unreal (Simplified)](7%204%201%201%201%20Realistic%20Pathing%20Workflow%20in%20Unreal%20(Si%20227b227cadd7804d9a59e46a00d58c1c.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_01_01_00_00_00__navigation-mesh-integration.md -->
 
 ### 7.4.1.1.1 - Realistic Pathing Workflow in Unreal (Simplified)
@@ -15751,6 +16158,7 @@ Original export: `markdown_export/7 4 1 1 1 Realistic Pathing Workflow in Unreal
 | **Local Avoidance (RVO)** | Avoids collisions with moving objects or other characters. |
 | **Crowd Simulation** | Useful for towns or marketplaces — characters reroute smoothly around others. |
 | **Machine Learning (optional)** | Can layer in behaviors learned from player/NPC data, though it’s complex and overkill unless needed. |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_01_01_01_00_00__realistic-pathing-workflow-in-unreal-simplified.md -->
 
 ### 7.4.1.2 - Perception-Driven Rerouting
@@ -15764,6 +16172,7 @@ Original export: `markdown_export/7 4 1 2 Perception-Driven Rerouting 227b227cad
 - NPCs can be given a field of view, line-of-sight checks, and hearing.
 - With this, they can "see" a moving object (like a fallen tree or another NPC) and choose to reroute around it.
 - This creates more **human-like awareness** rather than relying purely on static navigation data.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_01_02_00_00_00__perception-driven-rerouting.md -->
 
 ### 7.4.1.3 - Smart Object Interaction (EQS)
@@ -15777,6 +16186,7 @@ Original export: `markdown_export/7 4 1 3 Smart Object Interaction (EQS) 227b227
 - You can tag objects (like ladders, crawl spaces, doors) as **smart interactables**.
 - NPCs use **EQS (Environment Query System)** to decide how to get past a situation based on context, not pre-scripted logic.
 - Example: Climb a ledge if they can’t walk around it, or knock over a crate to clear a path.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_01_03_00_00_00__smart-object-interaction-eqs.md -->
 
 ### 7.4.1.4 - Dynamic Obstacle Avoidance (RVO, DetourCrowd, etc.)
@@ -15790,6 +16200,7 @@ Original export: `markdown_export/7 4 1 4 Dynamic Obstacle Avoidance (RVO, Detou
 - Unreal supports **Reciprocal Velocity Obstacle (RVO)** based systems for avoiding other agents.
 - **DetourCrowd** lets multiple NPCs avoid each other and dynamically reroute.
 - Avoidance works even with **tight corridors or complex movement patterns**.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_01_04_00_00_00__dynamic-obstacle-avoidance-rvo-detourcrowd-etc.md -->
 
 ### 7.4.2 - Combat Learning
@@ -15802,6 +16213,7 @@ Original export: `markdown_export/7 4 2 Combat Learning 226b227cadd780dda3a8f6a8
 
 - Enemies learn and adapt to player patterns (e.g., fire spam, ambushes)
 - Tactical coordination between ranged, melee, casters
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_02_00_00_00_00__combat-learning.md -->
 
 ### 7.4.3 - Enemy Schedules & Patrols
@@ -15814,6 +16226,7 @@ Original export: `markdown_export/7 4 3 Enemy Schedules & Patrols 226b227cadd780
 
 - Time of day impacts alertness, aggression
 - Rituals, worship, eating, or sleep can be interrupted
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_03_00_00_00_00__enemy-schedules-and-patrols.md -->
 
 ### 7.4.4 - Reactive & Psychological Combat Behavior
@@ -15826,6 +16239,7 @@ Original export: `markdown_export/7 4 4 Reactive & Psychological Combat Behavior
 
 - Fear, vengeance, superstition, honor
 - Berserk rage, strategic retreat, bluffing, hostage-taking
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_04_04_00_00_00_00__reactive-and-psychological-combat-behavior.md -->
 
 ### 7.5 - NPC Life Simulation
@@ -15854,6 +16268,7 @@ AI as part of the world’s living ecosystem.
 [7.5.4 Cultural Encoding](07_05_04_00_00_00_00__cultural-encoding.md)
 
 [7.5.5 NPC-Driven Events](07_05_05_00_00_00_00__npc-driven-events.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_05_00_00_00_00_00__npc-life-simulation.md -->
 
 ### 7.5.1 - Civilian AI
@@ -15866,6 +16281,7 @@ Original export: `markdown_export/7 5 1 Civilian AI 226b227cadd780b9b4a9f27e3dc2
 
 - Merchants, farmers, scholars, travelers with simulated needs
 - Crafting, trade, seasonal work
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_05_01_00_00_00_00__civilian-ai.md -->
 
 ### 7.5.2 - NPC-to-NPC Relationships
@@ -15878,6 +16294,7 @@ Original export: `markdown_export/7 5 2 NPC-to-NPC Relationships 226b227cadd7809
 
 - Love, debt, mentorship, group trauma
 - Spontaneous dialogue between third-party NPCs
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_05_02_00_00_00_00__npc-to-npc-relationships.md -->
 
 ### 7.5.3 - Family, Heritage & Generational Memory
@@ -15890,6 +16307,7 @@ Original export: `markdown_export/7 5 3 Family, Heritage & Generational Memory 2
 
 - Children inherit traits, skills, grudges
 - Oral tradition, ancestral spirits, lineal honor systems
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_05_03_00_00_00_00__family-heritage-and-generational-memory.md -->
 
 ### 7.5.4 - Cultural Encoding
@@ -15902,6 +16320,7 @@ Original export: `markdown_export/7 5 4 Cultural Encoding 226b227cadd78081a9eef1
 
 - Beliefs passed through rituals, books, performances
 - NPC behavior differs wildly across regions/factions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_05_04_00_00_00_00__cultural-encoding.md -->
 
 ### 7.5.5 - NPC-Driven Events
@@ -15913,6 +16332,7 @@ Original export: `markdown_export/7 5 5 NPC-Driven Events 226b227cadd780569d03ea
 # 7.5.5 NPC-Driven Events
 
 Townsfolk organize, celebrate, revolt, or mourn without player input
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_05_05_00_00_00_00__npc-driven-events.md -->
 
 ### 7.6 - Internal Conflict Systems
@@ -15924,6 +16344,7 @@ Original export: `markdown_export/7 6 Internal Conflict Systems 226b227cadd78030
 # 7.6 Internal Conflict Systems
 
 NPCs torn between conflicting duties, beliefs, relationships
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_06_00_00_00_00_00__internal-conflict-systems.md -->
 
 ### 7.7 - AI Debug View for Devs
@@ -15935,6 +16356,7 @@ Original export: `markdown_export/7 7 AI Debug View for Devs 226b227cadd780a7bbc
 # 7.7 AI Debug View for Devs
 
 Inspect current mood, memories, goals, pathing, and social state
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/07_07_00_00_00_00_00__ai-debug-view-for-devs.md -->
 
 ### 8 - Art & Visual Design
@@ -15970,6 +16392,7 @@ Original export: `markdown_export/8 Art & Visual Design 20eb227cadd7802e930bfe8f
 [8.10 Player Customization Art](08_10_00_00_00_00_00__player-customization-art.md)
 
 [8.11 VFX & Sound Design](08_11_00_00_00_00_00__vfx-and-sound-design.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md -->
 
 ### 8.1 - Visual Brand Guide
@@ -15999,6 +16422,7 @@ Original export: `markdown_export/8 1 Visual Brand Guide 227b227cadd78028bb0ae4a
 [8.1.6 Key Art & Trailer Style](08_01_06_00_00_00_00__key-art-and-trailer-style.md)
 
 [8.1.7 Brand Keywords](08_01_07_00_00_00_00__brand-keywords.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_00_00_00_00_00__visual-brand-guide.md -->
 
 ### 8.1.1 - Core Themes & Emotional Pillars
@@ -16017,6 +16441,7 @@ Original export: `markdown_export/8 1 1 Core Themes & Emotional Pillars 227b227c
 | **Immersion & Physicality** | You feel the world—through gesture, sound, light, and texture. |
 | **Living Systems** | Everything is simulated: people, weather, ecosystems, memory, culture. |
 | **Solitude & Connection** | Your story may begin alone, but it weaves into generations of relationships, companions, and spirits. |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_01_00_00_00_00__core-themes-and-emotional-pillars.md -->
 
 ### 8.1.1 - Visual Tone & World Mood
@@ -16029,6 +16454,7 @@ Original export: `markdown_export/8 1 1 Visual Tone & World Mood 226b227cadd7807
 
 - Dreamlike realism, emotional color theory, painterly texture vs. physical detail
 - Magical and planar distortion principles (non-Euclidean logic, shifting hues, surreal glow)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_01_00_00_00_00__visual-tone-and-world-mood.md -->
 
 ### 8.1.2 - Color Palette
@@ -16049,6 +16475,7 @@ Original export: `markdown_export/8 1 2 Color Palette 227b227cadd780cc87a3e17a64
 | **Blood Red** | Sacrifice (#7B1E1E) | Damage, danger, rituals |
 
 You can use **muted natural tones with mystical highlights**—avoid glossy or synthetic colors.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_02_00_00_00_00__color-palette.md -->
 
 ### 8.1.2 - Key Visual References
@@ -16061,6 +16488,7 @@ Original export: `markdown_export/8 1 2 Key Visual References 226b227cadd780a69b
 
 - Real-world nature, spiritual artwork, ancient architecture, mythic symbols
 - Reference works: Moebius, Studio Ghibli, Shadow of the Colossus, Nausicaä, etc.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_02_00_00_00_00__key-visual-references.md -->
 
 ### 8.1.3 - Visual Tone & Art Style
@@ -16076,6 +16504,7 @@ Original export: `markdown_export/8 1 3 Visual Tone & Art Style 227b227cadd780d2
 - **Textures:** Weathered, tactile, handcrafted—wood grain, moss, dust, rust, bone.
 - **UI Style:** Minimal, diegetic when possible. Inscriptional symbols over traditional buttons. Floating parchment UI for menus.
 - **Motion:** Slow, weighty gestures. Realistic physical feedback. Fluid wind, smoke, spirit trails.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_03_00_00_00_00__visual-tone-and-art-style.md -->
 
 ### 8.1.3 - VR Aesthetic Design Considerations
@@ -16088,6 +16517,7 @@ Original export: `markdown_export/8 1 3 VR Aesthetic Design Considerations 226b2
 
 - Readability, eye comfort, object silhouette in 3D
 - Stylization vs realism balance to reduce fatigue
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_03_00_00_00_00__vr-aesthetic-design-considerations.md -->
 
 ### 8.1.4 - Iconography & Symbol Language
@@ -16106,6 +16536,7 @@ Original export: `markdown_export/8 1 4 Iconography & Symbol Language 227b227cad
 | **Language** | Optional symbolic runes with a decipherable logic (for tomes, ruins) |
 
 All icons should feel **ancient yet grounded**, as if carved by real people with spiritual intent.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_04_00_00_00_00__iconography-and-symbol-language.md -->
 
 ### 8.1.5 - Tone of Voice & Text
@@ -16124,6 +16555,7 @@ Original export: `markdown_export/8 1 5 Tone of Voice & Text 227b227cadd780d58a0
 | **Player Messaging** | Encourage curiosity, responsibility, and self-directed action. |
 
 Use the style of *Dark Souls item descriptions*, *Outer Wilds* lore logs, or *Tunic*’s manual—**evocative, not explanatory**.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_05_00_00_00_00__tone-of-voice-and-text.md -->
 
 ### 8.1.6 - Key Art & Trailer Style
@@ -16139,6 +16571,7 @@ Original export: `markdown_export/8 1 6 Key Art & Trailer Style 227b227cadd780f6
 | **Key Art** | Figure standing before vast wilderness or ancient monolith. Fade into ghosts or constellations. |
 | **Trailer Opening** | Fade from black to firelight on hands. Sound of wind. A whisper. A choice. |
 | **Soundtrack** | Orchestral + ambient. Low drums, flutes, whispered voices. No heavy percussion. |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_06_00_00_00_00__key-art-and-trailer-style.md -->
 
 ### 8.1.7 - Brand Keywords
@@ -16153,6 +16586,7 @@ These guide tone across all media and assets:
 
 > 🪨 Ancient • 🌿 Living • 🧬 Simulated • 🕯️ Mystical • 🌀 Interconnected • 🧭 Unscripted • 👣 Earned • 🕊️ Sacred • 🧠 Mindful • 📖 Mythic
 >
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_01_07_00_00_00_00__brand-keywords.md -->
 
 ### 8.2 - Art Style Reference
@@ -16203,6 +16637,7 @@ Core vision for how the world should look and feel.
 [8.1.2 Key Visual References](08_01_02_00_00_00_00__key-visual-references.md)
 
 [8.1.3 VR Aesthetic Design Considerations](08_01_03_00_00_00_00__vr-aesthetic-design-considerations.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_02_00_00_00_00_00__art-style-reference.md -->
 
 ### 8.2.1 - Humanoid Characters
@@ -16214,6 +16649,7 @@ Original export: `markdown_export/8 2 1 Humanoid Characters 226b227cadd780bd8c01
 # 8.2.1 Humanoid Characters
 
 Proportions, expression range, cultural attire, armor design logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_02_01_00_00_00_00__humanoid-characters.md -->
 
 ### 8.2.2 - Creatures & Nonhuman Races
@@ -16226,6 +16662,7 @@ Original export: `markdown_export/8 2 2 Creatures & Nonhuman Races 226b227cadd78
 
 - Anatomical logic, hybrid realism, magical/psionic anatomy
 - Motion styles (slithering, gliding, burrowing, phasing)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_02_02_00_00_00_00__creatures-and-nonhuman-races.md -->
 
 ### 8.2.3 - Animation Style
@@ -16238,6 +16675,7 @@ Original export: `markdown_export/8 2 3 Animation Style 226b227cadd780f8afcbc2dc
 
 - Hand-keyed vs mocap vs procedural
 - Expressive gesture language (especially for companions, NPCs, and ritual)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_02_03_00_00_00_00__animation-style.md -->
 
 ### 8.2.4 - Modular Clothing & Customization Systems
@@ -16250,6 +16688,7 @@ Original export: `markdown_export/8 2 4 Modular Clothing & Customization Systems
 
 - Layering logic (inner, middle, outer)
 - Cultural fashion, functionality, material-based degradation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_02_04_00_00_00_00__modular-clothing-and-customization-systems.md -->
 
 ### 8.3 - Character Design & Animation
@@ -16306,6 +16745,7 @@ Design of player, NPCs, enemies, and creatures for immersion and expression.
 [8.2.3 Animation Style](08_02_03_00_00_00_00__animation-style.md)
 
 [8.2.4 Modular Clothing & Customization Systems](08_02_04_00_00_00_00__modular-clothing-and-customization-systems.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_03_00_00_00_00_00__character-design-and-animation.md -->
 
 ### 8.3.1 - Biome Visual Language
@@ -16318,6 +16758,7 @@ Original export: `markdown_export/8 3 1 Biome Visual Language 226b227cadd780d4ad
 
 - Color palettes, architecture, plant/stone/fungal silhouettes
 - Planar influence: corrupted zones, wild magic, dream realm overlays
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_03_01_00_00_00_00__biome-visual-language.md -->
 
 ### 8.3.2 - Settlement & Culture Design
@@ -16330,6 +16771,7 @@ Original export: `markdown_export/8 3 2 Settlement & Culture Design 226b227cadd7
 
 - Faction-specific architectural language
 - Cultural materials, icon placement, lighting styles
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_03_02_00_00_00_00__settlement-and-culture-design.md -->
 
 ### 8.3.3 - Dungeon, Ruin & Underground Style
@@ -16341,6 +16783,7 @@ Original export: `markdown_export/8 3 3 Dungeon, Ruin & Underground Style 226b22
 # 8.3.3 Dungeon, Ruin & Underground Style
 
 Environmental storytelling through decay, light, clutter, layout
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_03_03_00_00_00_00__dungeon-ruin-and-underground-style.md -->
 
 ### 8.3.4 - Procedural Tools & Terrain Generation
@@ -16353,6 +16796,7 @@ Original export: `markdown_export/8 3 4 Procedural Tools & Terrain Generation 22
 
 - Tile blends, foliage rules, weather & erosion impacts
 - Ruin placement, landmarking, fog-of-war aesthetics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_03_04_00_00_00_00__procedural-tools-and-terrain-generation.md -->
 
 ### 8.4 - Environment Design & Procedural Tools
@@ -16404,6 +16848,7 @@ The look and feel of the living world, both static and dynamic.
 [8.3.3 Dungeon, Ruin & Underground Style](08_03_03_00_00_00_00__dungeon-ruin-and-underground-style.md)
 
 [8.3.4 Procedural Tools & Terrain Generation](08_03_04_00_00_00_00__procedural-tools-and-terrain-generation.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_04_00_00_00_00_00__environment-design-and-procedural-tools.md -->
 
 ### 8.4.1 - Fonts & Typography
@@ -16416,6 +16861,7 @@ Original export: `markdown_export/8 4 1 Fonts & Typography 226b227cadd7800faddfe
 
 - Custom glyph sets for planar languages or magic schools
 - Readability in VR/flat settings
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_04_01_00_00_00_00__fonts-and-typography.md -->
 
 ### 8.4.2 - Icons & World Symbols
@@ -16428,6 +16874,7 @@ Original export: `markdown_export/8 4 2 Icons & World Symbols 226b227cadd780bdb8
 
 - Spell schools, religions, guilds, factions
 - Crafting categories, emotional states, planar indicators
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_04_02_00_00_00_00__icons-and-world-symbols.md -->
 
 ### 8.4.3 - Magical & Ritual Markings
@@ -16440,6 +16887,7 @@ Original export: `markdown_export/8 4 3 Magical & Ritual Markings 226b227cadd780
 
 - Diegetic spell circles, runes, summoning lines
 - Real-world inspirations (alchemy, hermetic, Celtic, Mayan)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_04_03_00_00_00_00__magical-and-ritual-markings.md -->
 
 ### 8.5 - UI/UX (VR-Focused & Diegetic)
@@ -16479,6 +16927,7 @@ How the game world conveys meaning without text.
 [8.4.2 Icons & World Symbols](08_04_02_00_00_00_00__icons-and-world-symbols.md)
 
 [8.4.3 Magical & Ritual Markings](08_04_03_00_00_00_00__magical-and-ritual-markings.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_05_00_00_00_00_00__ui-ux-vr-focused-and-diegetic.md -->
 
 ### 8.5.1 - Diegetic UI Elements
@@ -16491,6 +16940,7 @@ Original export: `markdown_export/8 5 1 Diegetic UI Elements 226b227cadd780fabed
 
 - Scrolls, glowing glyphs, gesture menus, HUD crystals
 - Handwriting, projected illusion UI, wearable artifacts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_05_01_00_00_00_00__diegetic-ui-elements.md -->
 
 ### 8.5.2 - VR-Friendly UX
@@ -16503,6 +16953,7 @@ Original export: `markdown_export/8 5 2 VR-Friendly UX 226b227cadd780b8b5a6f4ab0
 
 - Comfort design: eye tracking, depth layering, animation pacing
 - UI appearance based on in-world skills or items
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_05_02_00_00_00_00__vr-friendly-ux.md -->
 
 ### 8.5.3 - Accessibility UI Adapters
@@ -16514,6 +16965,7 @@ Original export: `markdown_export/8 5 3 Accessibility UI Adapters 226b227cadd780
 # 8.5.3 Accessibility UI Adapters
 
 Scalable contrast, minimal modes, sound-cue alternatives
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_05_03_00_00_00_00__accessibility-ui-adapters.md -->
 
 ### 8.6 - VFX & Particle Systems
@@ -16540,7 +16992,7 @@ Original export: `markdown_export/8 6 VFX & Particle Systems 21fb227cadd78068903
 
 - Reactive VFX tied to world simulation: wind patterns, pollen bursts, seasonal storms, ash from fires
 - Localized events (e.g., forest fire) alter regional lighting, VFX density, and skybox hues
-- 
+-
 
 **🧰 Tools for VFX & Simulation:**
 
@@ -16558,6 +17010,7 @@ Interfaces that feel natural in a VR environment.
 [8.5.2 VR-Friendly UX](08_05_02_00_00_00_00__vr-friendly-ux.md)
 
 [8.5.3 Accessibility UI Adapters](08_05_03_00_00_00_00__accessibility-ui-adapters.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_06_00_00_00_00_00__vfx-and-particle-systems.md -->
 
 ### 8.7 - Iconography, Fonts & Symbol Systems
@@ -16579,6 +17032,7 @@ Tools used for generation, automation, and editing.
 [8.7.2 AI-Enhanced Design Tools](08_07_02_00_00_00_00__ai-enhanced-design-tools.md)
 
 [8.7.3 Texture & Material Authoring](08_07_03_00_00_00_00__texture-and-material-authoring.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_00_00_00_00_00__iconography-fonts-and-symbol-systems.md -->
 
 ### 8.7 - Procedural & AI Tools Summary
@@ -16608,6 +17062,7 @@ Bringing spells, weather, damage, and emotion to life visually.
 [8.7.3 Atmosphere & Emotion](08_07_03_00_00_00_00__atmosphere-and-emotion.md)
 
 [8.7.4 Damage, Decay & Corruption](08_07_04_00_00_00_00__damage-decay-and-corruption.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_00_00_00_00_00__procedural-and-ai-tools-summary.md -->
 
 ### 8.7.1 - Magic & Spell VFX
@@ -16620,6 +17075,7 @@ Original export: `markdown_export/8 7 1 Magic & Spell VFX 226b227cadd78008b976cb
 
 - Modular VFX system for casting, impact, channeling, failure
 - Link to elemental type, intensity, corruption level
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_01_00_00_00_00__magic-and-spell-vfx.md -->
 
 ### 8.7.1 - Procedural Tools Used
@@ -16631,6 +17087,7 @@ Original export: `markdown_export/8 7 1 Procedural Tools Used 226b227cadd780ada3
 # 8.7.1 Procedural Tools Used
 
 Houdini, World Machine, Unreal Foliage + Scatter Tools
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_01_00_00_00_00__procedural-tools-used.md -->
 
 ### 8.7.2 - AI-Enhanced Design Tools
@@ -16643,6 +17100,7 @@ Original export: `markdown_export/8 7 2 AI-Enhanced Design Tools 226b227cadd7808
 
 - ComfyUI workflows, asset upscaling, concept art assist
 - In-world icon generation or dream-maps via psionics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_02_00_00_00_00__ai-enhanced-design-tools.md -->
 
 ### 8.7.2 - Planar/Anomalous Effects
@@ -16654,6 +17112,7 @@ Original export: `markdown_export/8 7 2 Planar Anomalous Effects 226b227cadd7800
 # 8.7.2 Planar/Anomalous Effects
 
 Reality bending, stuttered visuals, memory echoes, mirrored reflections
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_02_00_00_00_00__planar-anomalous-effects.md -->
 
 ### 8.7.3 - Atmosphere & Emotion
@@ -16666,6 +17125,7 @@ Original export: `markdown_export/8 7 3 Atmosphere & Emotion 226b227cadd7809b87c
 
 - Color grading, bloom, fog, ambient movement
 - Emotional filters (trauma haze, clarity boosts, psionic overlays)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_03_00_00_00_00__atmosphere-and-emotion.md -->
 
 ### 8.7.3 - Texture & Material Authoring
@@ -16678,6 +17138,7 @@ Original export: `markdown_export/8 7 3 Texture & Material Authoring 226b227cadd
 
 - Quixel, Substance, custom shaders
 - Biome-responsive weathering (mud, frost, rust, moss)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_03_00_00_00_00__texture-and-material-authoring.md -->
 
 ### 8.7.4 - Damage, Decay & Corruption
@@ -16689,6 +17150,7 @@ Original export: `markdown_export/8 7 4 Damage, Decay & Corruption 226b227cadd78
 # 8.7.4 Damage, Decay & Corruption
 
 Scorch marks, blood decals, spirit leakage, planar instability visuals
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_07_04_00_00_00_00__damage-decay-and-corruption.md -->
 
 ### 8.8 - Art Bible & Asset Documentation
@@ -16730,7 +17192,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ### 1. **Gritty Naturalism**
 
 > "The world feels lived-in, harsh, and grounded in real biology and physics."
-> 
+>
 - Realistic lighting and materials (PBR, subsurface skin, rust, moss).
 - Weathering, grime, and age visible on most surfaces.
 - Environmental storytelling through erosion, decay, growth, and use.
@@ -16743,7 +17205,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ### 2. **Tamed by Time, Not by Man**
 
 > "Nature is dominant—civilization is carved from it, not over it."
-> 
+>
 - Overgrown ruins, encroaching vegetation, twisted roots reclaiming roads.
 - Towns and shelters feel temporary or defiant—fighting nature’s pull.
 - Even “safe” places show signs of the wilderness pushing back (mold, damp wood, critters).
@@ -16755,7 +17217,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ### 3. **Mysticism in the Mundane**
 
 > "Magic exists subtly in the world—woven into its biology and decay."
-> 
+>
 - Bioluminescence in natural flora/fauna, or subtle ambient magical glows.
 - Enchanted items don’t scream neon—they shimmer gently, pulsing like a heartbeat.
 - Spirits, psionics, or ancient tech blend into nature, often mistaken as natural phenomena.
@@ -16767,7 +17229,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ### 4. **Diegetic Immersion**
 
 > "The world is your interface—everything belongs."
-> 
+>
 - In-world UI as scrolls, tomes, magical glyphs, crystal interfaces, or physical gestures.
 - Inventory, maps, spell menus—all diegetic and tangible.
 - Floating or glowing UI elements are anchored by in-game logic (e.g., spirit guides, magical tattoos, talking artifacts).
@@ -16779,7 +17241,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ### 5. **Divergence Through Discovery**
 
 > "As your knowledge grows, the world becomes visually clearer."
-> 
+>
 - Plants, tools, and ingredients look generic at first, gaining detail as player knowledge increases.
 - Alchemical or psionic effects become more vibrant with player mastery.
 - Subtle HUD-like visual cues appear only after deep learning or attunement.
@@ -16791,7 +17253,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ### 6. **Elemental Forces, Unbound**
 
 > "Magic, psionics, and nature are kinetic, volatile, and reactive."
-> 
+>
 - Spells feel like natural forces—fire chars terrain, gravity bends foliage, wind reshapes sand.
 - Psionic effects distort the visual field—ripples, hallucinations, focus lensing.
 - Magical power isn’t clean—it burns, sparks, bleeds, or consumes.
@@ -16803,7 +17265,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ## 7. **Cultural Contrast**
 
 > "Regional identities shape visuals—language, color, armor, craft, climate."
-> 
+>
 - Every region has distinct silhouettes, materials, and decorative logic.
 - Tribal mountain armor differs wildly from coastal merchant gear.
 
@@ -16814,7 +17276,7 @@ Original export: `markdown_export/8 8 Art Bible & Asset Documentation 21fb227cad
 ### 8. **Light as Lore**
 
 > "Color and light carry meaning: they warn, guide, and tempt."
-> 
+>
 - Magical colors have meanings (e.g., blue = tranquility, red = danger, gold = divinity).
 - Ancient places use light and shadow to indicate pathways, power, or danger.
 
@@ -16967,11 +17429,11 @@ Visual Pillars/
 If you're prototyping with AI tools (for internal use, not final art):
 
 - **Midjourney / DALL·E / Firefly / Leonardo.Ai**: Generate prompts like
-    
+
     `“overgrown medieval tower reclaimed by forest, moss, vines, fog, hyperrealistic”`
-    
+
     `“ancient ritual stones with glowing runes, blue bioluminescence, twilight forest”`
-    
+
 - Prompt crafting can help build "theme packs" for your boards quickly and consistently.
 
 ---
@@ -17047,7 +17509,7 @@ If you're prototyping with AI tools (for internal use, not final art):
 Try this prompt in any of the tools above:
 
 > "Moss-covered medieval ruin deep in a foggy forest, bioluminescent vines, broken stone arches, glowing magical symbols, cinematic lighting, ultra-detailed fantasy environment"
-> 
+>
 
 ## 🧱🧠 Free AI Tools for 3D Asset Generation (As of 2025)
 
@@ -17127,6 +17589,7 @@ Try this prompt in any of the tools above:
 [8.8.3 Style Guides](08_08_03_00_00_00_00__style-guides.md)
 
 [8.8.4 Asset Management & Naming Conventions](08_08_04_00_00_00_00__asset-management-and-naming-conventions.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_08_00_00_00_00_00__art-bible-and-asset-documentation.md -->
 
 ### 8.8.1 - Character, Creature & Equipment Sheets
@@ -17138,6 +17601,7 @@ Original export: `markdown_export/8 8 1 Character, Creature & Equipment Sheets 2
 # 8.8.1 Character, Creature & Equipment Sheets
 
 Turnarounds, material callouts, pose charts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_08_01_00_00_00_00__character-creature-and-equipment-sheets.md -->
 
 ### 8.8.2 - Architecture & Biome Guidelines
@@ -17149,6 +17613,7 @@ Original export: `markdown_export/8 8 2 Architecture & Biome Guidelines 226b227c
 # 8.8.2 Architecture & Biome Guidelines
 
 Cultural rulesets, props, climate logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_08_02_00_00_00_00__architecture-and-biome-guidelines.md -->
 
 ### 8.8.3 - Style Guides
@@ -17161,6 +17626,7 @@ Original export: `markdown_export/8 8 3 Style Guides 226b227cadd7809dafb1fb8c87d
 
 - Brush, texture, palette consistency
 - “Don’ts” list to avoid off-tone additions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_08_03_00_00_00_00__style-guides.md -->
 
 ### 8.8.4 - Asset Management & Naming Conventions
@@ -17173,6 +17639,7 @@ Original export: `markdown_export/8 8 4 Asset Management & Naming Conventions 22
 
 - File organization, modular tagging
 - Hierarchy for LODs, VR vs flat vs cinematic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_08_04_00_00_00_00__asset-management-and-naming-conventions.md -->
 
 ### 8.9 - Emotion-Responsive Visual Effects
@@ -17184,6 +17651,7 @@ Original export: `markdown_export/8 9 Emotion-Responsive Visual Effects 226b227c
 # 8.9 Emotion-Responsive Visual Effects
 
 World color or lighting shifts based on fear, love, resolve
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_09_00_00_00_00_00__emotion-responsive-visual-effects.md -->
 
 ### 8.10 - Player Customization Art
@@ -17195,6 +17663,7 @@ Original export: `markdown_export/8 10 Player Customization Art 226b227cadd780e1
 # 8.10 Player Customization Art
 
 Tattoos, banners, ancestral markings, cosmetic choices
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_10_00_00_00_00_00__player-customization-art.md -->
 
 ### 8.11 - VFX & Sound Design
@@ -17252,6 +17721,7 @@ Sound effects will be broken down into the following categories:
 Resources
 
 [https://unison.audio/psychoacoustics/](https://unison.audio/psychoacoustics/)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/08_11_00_00_00_00_00__vfx-and-sound-design.md -->
 
 ### 9 - Narrative & Emergent Storytelling
@@ -17268,39 +17738,39 @@ Original export: `markdown_export/9 Narrative & Emergent Storytelling 20eb227cad
 - **Dialogue System:** This uses an AI system where NPCs maintain their own memories and they will talk to you and respond with a realistic system where every NPC is unique, has different character traits, wants and desires that influence what they respond to and how they respond.
 - **Choices & Consequences:** The world is influenced by your choices and because NPCs can remember what you say and do,
 - Character Progression: First person VR experiences, especially those leveraging realistic combat, are uniquely positioned to benefit from a skill progression system rooted in use and practice. Here’s how such a system could integrate effectively into VR combat:
-    
+
     ### Immersive Skill-Based Evolution
-    
+
     **Real-World Motion and Learning:**
-    
+
     VR gaming already excels at mimicking real-world actions. By tracking your movements—swinging, blocking, parrying, and even footwork—the game can quantify precise aspects of your technique. Over time, each repetition of an action can be calibrated to gradually enhance your in-game combat proficiency, much like muscle memory in real life. For example, a well-executed parry repeatedly would not only fend off an attack but also contribute to improving your weapon-handling precision, reduced recovery lag, or increased counter-strike speed.
-    
+
     **Adaptive Training and Feedback:**
-    
+
     Integrating real-time feedback mechanisms in VR can encourage players to refine their techniques. Imagine a system that detects slight misalignments in your wrist angle when thrusting or swinging a weapon and subtly offers visual or auditory feedback. Such granular feedback fosters a loop of continuous improvement, transforming every encounter—practice or battle—into a learning opportunity. This method reinforces skill progression not through abstract points but genuine practice, much like modern training technologies used in sports.
-    
+
     ### System Design Considerations
-    
+
     **Detailed Tracking and Progress Metrics:**
-    
+
     For an effective progression system, the game must harness precise tracking of your physical movements. Metrics could include swing speed, accuracy, timing, and recovery. Each of these parameters can feed into an evolving combat skill tree where thresholds unlock specific perks. For instance, continuously refining your shield block could eventually result in a special defensive stance or bonus parry abilities.
-    
+
     **Balancing Realism with Game Flow:**
-    
+
     While a gradual, practice-based system is engaging, it’s essential to strike a balance between realistic learning curves and rewarding gameplay. VR sessions can be physically demanding, so progression metrics should account for variability in how players perform on a given day. This might involve adaptive thresholds that recognize occasional performance dips without penalizing ongoing skill development, thereby keeping players motivated.
-    
+
     **Immersive Challenge and Variation:**
-    
+
     In a VR combat system, diversity in enemy behavior and environmental conditions means that the practice is never redundant. A robust system would vary combat scenarios, pushing you to adapt and refine different aspects of your technique. For example, sparring with an agile foe might hone your reflexes and parry timing, whereas facing heavily armored enemies could improve your swing force and endurance. These varied experiences would mimic real-life training regimens, where repetition paired with variation drives holistic growth.
-    
+
     ### Potential Benefits and Implementation
-    
+
     - **Enhanced Immersion:** Skill progression rooted in actual performance makes every combat encounter feel meaningful—you’re not just playing; you’re training and evolving.
     - **Player Agency and Customization:** As players gradually improve, they might unlock unique combat styles or special moves that reflect their personal flair and training preferences. This can enrich a player's sense of agency and encourage mastery.
     - **Social and Competitive Elements:** For multiplayer or competitive VR games, visible improvements in combat skills make matches more dynamic and skill-dependent, fostering a deeper sense of community among players.
-    
+
     Implementing such a system does pose challenges, including ensuring accurate motion tracking, designing intuitive feedback loops, and balancing progression with player fatigue. However, with modern VR hardware and thoughtful game design, these hurdles can be overcome to create a deeply engaging and realistic combat experience.
-    
+
 
 [9.1 Narrative Philosophy & Emotional Foundations](09_01_00_00_00_00_00__narrative-philosophy-and-emotional-foundations.md)
 
@@ -17319,6 +17789,7 @@ Original export: `markdown_export/9 Narrative & Emergent Storytelling 20eb227cad
 [9.8 Internal Monologue & Thought Trees](09_08_00_00_00_00_00__internal-monologue-and-thought-trees.md)
 
 [9.9 Myth-Creation via Player Ritual](09_09_00_00_00_00_00__myth-creation-via-player-ritual.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_00_00_00_00_00_00__narrative-and-emergent-storytelling.md -->
 
 ### 9.1 - Narrative Philosophy & Emotional Foundations
@@ -17398,6 +17869,7 @@ Core principles of your story engine — from mood to myth to morality.
 [9.1.2 Emotional Atmosphere](09_01_02_00_00_00_00__emotional-atmosphere.md)
 
 [9.1.3 Narrative Philosophy](09_01_03_00_00_00_00__narrative-philosophy.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_01_00_00_00_00_00__narrative-philosophy-and-emotional-foundations.md -->
 
 ### 9.1.1 - Emotional Atmosphere: Implement in Engine
@@ -17505,6 +17977,7 @@ Original export: `markdown_export/9 1 1 Emotional Atmosphere Implement in Engine
     - Footsteps echo differently in sacred vs ruined vs cavernous locations.
 
 [emotional_atmosphere_blueprints.txt](emotional_atmosphere_blueprints.txt)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_01_01_00_00_00_00__emotional-atmosphere-implement-in-engine.md -->
 
 ### 9.1.2 - Emotional Atmosphere
@@ -17517,6 +17990,7 @@ Original export: `markdown_export/9 1 2 Emotional Atmosphere 226b227cadd780ee88c
 
 - How space, music, light, and context generate emotion
 - VR-specific enhancements (breath, weather shift, ambient whisper)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_01_02_00_00_00_00__emotional-atmosphere.md -->
 
 ### 9.1.3 - Narrative Philosophy
@@ -17529,6 +18003,7 @@ Original export: `markdown_export/9 1 3 Narrative Philosophy 226b227cadd780a9b39
 
 - Player-as-meaning-maker; sandbox legacy over scripted arcs
 - Focus on symbolic, emotional, experiential storytelling
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_01_03_00_00_00_00__narrative-philosophy.md -->
 
 ### 9.2 - Themes, Tone & Symbolism
@@ -17550,6 +18025,7 @@ Establishes the core emotional and mythic language of the world.
 [9.2.2 Moral & Ethical Tone](09_02_02_00_00_00_00__moral-and-ethical-tone.md)
 
 [9.2.3 Symbolic Layering](09_02_03_00_00_00_00__symbolic-layering.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_02_00_00_00_00_00__themes-tone-and-symbolism.md -->
 
 ### 9.2.1 - Primary Themes
@@ -17561,6 +18037,7 @@ Original export: `markdown_export/9 2 1 Primary Themes 226b227cadd7802db176ddc38
 # 9.2.1 Primary Themes
 
 Transformation, memory, sacrifice, interconnection, legacy
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_02_01_00_00_00_00__primary-themes.md -->
 
 ### 9.2.2 - Moral & Ethical Tone
@@ -17572,6 +18049,7 @@ Original export: `markdown_export/9 2 2 Moral & Ethical Tone 226b227cadd7807a90f
 # 9.2.2 Moral & Ethical Tone
 
 Moral ambiguity, spiritual cost, ethical exploration
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_02_02_00_00_00_00__moral-and-ethical-tone.md -->
 
 ### 9.2.3 - Symbolic Layering
@@ -17584,6 +18062,7 @@ Original export: `markdown_export/9 2 3 Symbolic Layering 226b227cadd7800f98d1c6
 
 - Recurring motifs in architecture, magic, dreams
 - Glyphs, planar geometry, tarot-like archetypes
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_02_03_00_00_00_00__symbolic-layering.md -->
 
 ### 9.3 - World Lore & Mythmaking Foundations
@@ -17607,6 +18086,7 @@ Anchors for world culture, belief, and shared memory.
 [9.3.3 Religion, Faith & Cosmic Forces](09_03_03_00_00_00_00__religion-faith-and-cosmic-forces.md)
 
 [9.3.4 Mythological Ecology](09_03_04_00_00_00_00__mythological-ecology.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_03_00_00_00_00_00__world-lore-and-mythmaking-foundations.md -->
 
 ### 9.3.1 - World Origin & Structure
@@ -17618,6 +18098,7 @@ Original export: `markdown_export/9 3 1 World Origin & Structure 226b227cadd7807
 # 9.3.1 World Origin & Structure
 
 Prime Material & Planes; world trees, cycles, divine echoes
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_03_01_00_00_00_00__world-origin-and-structure.md -->
 
 ### 9.3.2 - Seed Myths & Proto-Cultures
@@ -17630,6 +18111,7 @@ Original export: `markdown_export/9 3 2 Seed Myths & Proto-Cultures 226b227cadd7
 
 - Foundational myths that echo through cultures and planes
 - Procedural variants across biomes and civilizations
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_03_02_00_00_00_00__seed-myths-and-proto-cultures.md -->
 
 ### 9.3.3 - Religion, Faith & Cosmic Forces
@@ -17641,6 +18123,7 @@ Original export: `markdown_export/9 3 3 Religion, Faith & Cosmic Forces 226b227c
 # 9.3.3 Religion, Faith & Cosmic Forces
 
 Dynamic gods, faith ecosystems, rituals that evolve
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_03_03_00_00_00_00__religion-faith-and-cosmic-forces.md -->
 
 ### 9.3.4 - Mythological Ecology
@@ -17652,6 +18135,7 @@ Original export: `markdown_export/9 3 4 Mythological Ecology 226b227cadd780448e4
 # 9.3.4 Mythological Ecology
 
 Lore embedded in animals, landscapes, dreams
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_03_04_00_00_00_00__mythological-ecology.md -->
 
 ### 9.4 - Procedural & Emergent Narrative Systems
@@ -17671,6 +18155,7 @@ Detail how stories and cultures arise dynamically: character goals, legacy ruins
 [9.4.3 World Memory System](09_04_03_00_00_00_00__world-memory-system.md)
 
 [9.4.4 Dynamic Reputation & Story Feedback](09_04_04_00_00_00_00__dynamic-reputation-and-story-feedback.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_04_00_00_00_00_00__procedural-and-emergent-narrative-systems.md -->
 
 ### 9.4.1 - Procedural Narrative Seeding
@@ -17683,6 +18168,7 @@ Original export: `markdown_export/9 4 1 Procedural Narrative Seeding 226b227cadd
 
 - Initial world history, wars, migrations, disasters
 - Culture formation trees (branching myths, values)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_04_01_00_00_00_00__procedural-narrative-seeding.md -->
 
 ### 9.4.2 - Factional & NPC Lore Spread
@@ -17695,6 +18181,7 @@ Original export: `markdown_export/9 4 2 Factional & NPC Lore Spread 226b227cadd7
 
 - NPCs propagate events via gossip, art, rituals
 - Localized legends or biased memory fragments
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_04_02_00_00_00_00__factional-and-npc-lore-spread.md -->
 
 ### 9.4.3 - World Memory System
@@ -17707,6 +18194,7 @@ Original export: `markdown_export/9 4 3 World Memory System 226b227cadd780beb311
 
 - Persistent memory of events: wars, betrayals, miracles
 - Stored in NPC memory, physical locations, artifacts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_04_03_00_00_00_00__world-memory-system.md -->
 
 ### 9.4.4 - Dynamic Reputation & Story Feedback
@@ -17719,6 +18207,7 @@ Original export: `markdown_export/9 4 4 Dynamic Reputation & Story Feedback 226b
 
 - Your deeds shape how the world responds
 - Systems track rumors, nicknames, oral tradition, bards
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_04_04_00_00_00_00__dynamic-reputation-and-story-feedback.md -->
 
 ### 9.5 - Companion & Social Story Systems
@@ -17760,7 +18249,7 @@ Each NPC holds **ethical stances** and **cultural values** that may evolve over 
     - Pragmatism ↔ Idealism
 
 > Example: A pragmatic, low-agreeableness mercenary may tolerate cruelty for survival—until it clashes with their trauma from a past betrayal.
-> 
+>
 
 ### 2. 🔄 Dynamic Behavior Modeling
 
@@ -17954,10 +18443,10 @@ These values range from **-100 (hostile)** to **+100 (deep bond)** and change ba
 | **Serelith** | +25 R / -10 T / +20 A | -30 R / -30 T / -30 A | +5 R / +5 T / +20 A | – | +40 R / +20 T / +30 A |
 
 > Legend:
-> 
-> 
+>
+>
 > R = Respect | T = Trust | A = Affinity
-> 
+>
 
 ---
 
@@ -18082,9 +18571,9 @@ EVENT: Player chooses to burn a village.
 - Relationships and emotions stored as **weighted variables with decay over time**
     - Old events fade unless re-triggered or reinforced
 - Integration with dialogue and quest systems via **dynamic tags**
-    
+
     *(e.g., dialogue lines change based on trust level or recent betrayal)*
-    
+
 
 **Pseudocode system** for tracking and updating **NPC relationship values** over time. This is designed to be **modular**, extensible, and easily integrated into most game engines (Unity, Unreal, Godot, or custom).
 
@@ -18500,7 +18989,7 @@ Boran->ReactToEvent("Revain", "PLAYER_BETRAYED", 1.0f);
 - **Behavioral modeling:** NPCs weigh outcomes based on previous interactions, reputation, or current incentives.
 
 > Example: An NPC might cooperate with the player if trust is high, but betray if their needs aren't being met or they’re incentivized by a rival faction.
-> 
+>
 
 ---
 
@@ -18858,6 +19347,7 @@ In `BeginPlay()` or on relationship events:
 [9.5.2 Dialogue-Informed Memories](09_05_02_00_00_00_00__dialogue-informed-memories.md)
 
 [9.5.3 Campfire, Dream & Conflict Events](09_05_03_00_00_00_00__campfire-dream-and-conflict-events.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_05_00_00_00_00_00__companion-and-social-story-systems.md -->
 
 ### 9.5.1 - Companion Quests & Reflections
@@ -18869,6 +19359,7 @@ Original export: `markdown_export/9 5 1 Companion Quests & Reflections 226b227ca
 # 9.5.1 Companion Quests & Reflections
 
 Emergent story arcs shaped by your shared history
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_05_01_00_00_00_00__companion-quests-and-reflections.md -->
 
 ### 9.5.2 - Dialogue-Informed Memories
@@ -18881,6 +19372,7 @@ Original export: `markdown_export/9 5 2 Dialogue-Informed Memories 226b227cadd78
 
 - NPCs change tone/relationship based on prior speech
 - Memory of tone, keywords, promises
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_05_02_00_00_00_00__dialogue-informed-memories.md -->
 
 ### 9.5.3 - Campfire, Dream & Conflict Events
@@ -18892,6 +19384,7 @@ Original export: `markdown_export/9 5 3 Campfire, Dream & Conflict Events 226b22
 # 9.5.3 Campfire, Dream & Conflict Events
 
 Side-events based on tension, proximity, planar resonance
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_05_03_00_00_00_00__campfire-dream-and-conflict-events.md -->
 
 ### 9.6 - Legendary Deeds & Player-Driven Myth
@@ -18909,6 +19402,7 @@ How player action becomes part of the world's legacy.
 [9.6.2 Living Landmarks](09_06_02_00_00_00_00__living-landmarks.md)
 
 [9.6.3 Death, Sacrifice & Memory Persistence](09_06_03_00_00_00_00__death-sacrifice-and-memory-persistence.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_06_00_00_00_00_00__legendary-deeds-and-player-driven-myth.md -->
 
 ### 9.6.1 - Player-Created Legends
@@ -18920,6 +19414,7 @@ Original export: `markdown_export/9 6 1 Player-Created Legends 226b227cadd7804ab
 # 9.6.1 Player-Created Legends
 
 Notable deeds become tales, rumors, ballads, trials
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_06_01_00_00_00_00__player-created-legends.md -->
 
 ### 9.6.2 - Living Landmarks
@@ -18932,6 +19427,7 @@ Original export: `markdown_export/9 6 2 Living Landmarks 226b227cadd78014af04f4e
 
 - Statues, carvings, cursed battlefields, haunted ruins
 - Ritual echoes — revisiting where things happened alters the present
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_06_02_00_00_00_00__living-landmarks.md -->
 
 ### 9.6.3 - Death, Sacrifice & Memory Persistence
@@ -18944,6 +19440,7 @@ Original export: `markdown_export/9 6 3 Death, Sacrifice & Memory Persistence 22
 
 - Your body, items, or echo can remain in-world
 - Societal or factional remembrance (shrines, curses, art)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_06_03_00_00_00_00__death-sacrifice-and-memory-persistence.md -->
 
 ### 9.7 - Dynamic Narrative Tools & Modularity
@@ -18963,6 +19460,7 @@ Systems enabling devs and modders to expand the emergent narrative framework
 [9.7.3 Memory-Fueled Magic](09_07_03_00_00_00_00__memory-fueled-magic.md)
 
 [9.7.4 Personal Legacy: Mentors, Memories & Emotional Anchors](09_07_04_00_00_00_00__personal-legacy-mentors-memories-and-emotional-anchors.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_07_00_00_00_00_00__dynamic-narrative-tools-and-modularity.md -->
 
 ### 9.7.1 - Story Nodes & World Threads
@@ -18975,6 +19473,7 @@ Original export: `markdown_export/9 7 1 Story Nodes & World Threads 226b227cadd7
 
 - Tools to create procedural or branching narrative arcs
 - World “thread” seeding: minor narrative structures that echo or evolve
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_07_01_00_00_00_00__story-nodes-and-world-threads.md -->
 
 ### 9.7.2 - VR-Integrated Story Moments
@@ -18987,6 +19486,7 @@ Original export: `markdown_export/9 7 2 VR-Integrated Story Moments 226b227cadd7
 
 - Diegetic storytelling: touching objects, reading lips, hearing thoughts
 - Player voice or breathing impacts dreamscapes and flashbacks
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_07_02_00_00_00_00__vr-integrated-story-moments.md -->
 
 ### 9.7.3 - Memory-Fueled Magic
@@ -18998,6 +19498,7 @@ Original export: `markdown_export/9 7 3 Memory-Fueled Magic 226b227cadd78024846e
 # 9.7.3 Memory-Fueled Magic
 
 Spells and powers linked to emotional significance or memory anchoring
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_07_03_00_00_00_00__memory-fueled-magic.md -->
 
 ### 9.7.4 - Personal Legacy: Mentors, Memories & Emotional Anchors
@@ -19013,6 +19514,7 @@ Describe:
 - Narrative role of the mentor: background, loss, return
 - Emotional themes: grief, legacy, transformation
 - Impact on faction/world perception (e.g., people recognizing your mentor)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_07_04_00_00_00_00__personal-legacy-mentors-memories-and-emotional-anchors.md -->
 
 ### 9.8 - Internal Monologue & Thought Trees
@@ -19024,6 +19526,7 @@ Original export: `markdown_export/9 8 Internal Monologue & Thought Trees 21eb227
 # 9.8 Internal Monologue & Thought Trees
 
 Like *Disco Elysium*: player's own mind offers commentary, conflict
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_08_00_00_00_00_00__internal-monologue-and-thought-trees.md -->
 
 ### 9.9 - Myth-Creation via Player Ritual
@@ -19035,6 +19538,7 @@ Original export: `markdown_export/9 9 Myth-Creation via Player Ritual 21eb227cad
 # 9.9 Myth-Creation via Player Ritual
 
 Codify your legend via a ritual — embedding it in stone, memory, or starlight
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/09_09_00_00_00_00_00__myth-creation-via-player-ritual.md -->
 
 ### 10 - UI, UX & Immersion
@@ -19072,6 +19576,7 @@ Original export: `markdown_export/10 UI, UX & Immersion 220b227cadd780d9b90aeba3
 [10.13 QA & Player Experience](10_13_00_00_00_00_00__qa-and-player-experience.md)
 
 [10.14 VR Immersion Systems](10_14_00_00_00_00_00__vr-immersion-systems.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_00_00_00_00_00_00__ui-ux-and-immersion.md -->
 
 ### 10.1 - Player Inventory & Equipment Systems
@@ -19089,6 +19594,7 @@ Inventory is not just a grid — it’s an extension of the player’s body, mem
 [10.1.2 Equipment Logic](10_01_02_00_00_00_00__equipment-logic.md)
 
 [10.1.3 Containers, Bags & Weight](10_01_03_00_00_00_00__containers-bags-and-weight.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_01_00_00_00_00_00__player-inventory-and-equipment-systems.md -->
 
 ### 10.1.1 - VR Inventory Interaction
@@ -19103,6 +19609,7 @@ Original export: `markdown_export/10 1 1 VR Inventory Interaction 227b227cadd780
 - Contextual items: Quick-swap, held items, wearable tools
 - Dual-wield, weight-balance, visible holsters
 - Diegetic interfaces (scrolls, enchanted mirrors, memory crystals)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_01_01_00_00_00_00__vr-inventory-interaction.md -->
 
 ### 10.1.2 - Equipment Logic
@@ -19116,6 +19623,7 @@ Original export: `markdown_export/10 1 2 Equipment Logic 227b227cadd78037a417f5f
 - Layered clothing system (inner, outer, armor, accessories)
 - Environmental influence: wet, muddy, heat-reactive gear
 - Wear and tear, degradation, repair
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_01_02_00_00_00_00__equipment-logic.md -->
 
 ### 10.1.3 - Containers, Bags & Weight
@@ -19129,6 +19637,7 @@ Original export: `markdown_export/10 1 3 Containers, Bags & Weight 227b227cadd78
 - Realistic volume and encumbrance
 - Bag types: Scroll tubes, herbalist satchels, potion racks
 - Inventory management via sorting rituals, tags, or magical compression
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_01_03_00_00_00_00__containers-bags-and-weight.md -->
 
 ### 10.2 - Immersive UI Design Principles
@@ -19148,6 +19657,7 @@ Interfaces that feel like they belong in the world — or disappear entirely.
 [10.2.3 Contextual UIs](10_02_03_00_00_00_00__contextual-uis.md)
 
 [10.2.4 Mentor Interaction Interface](10_02_04_00_00_00_00__mentor-interaction-interface.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_02_00_00_00_00_00__immersive-ui-design-principles.md -->
 
 ### 10.2.1 - Diegetic Interface Systems
@@ -19161,6 +19671,7 @@ Original export: `markdown_export/10 2 1 Diegetic Interface Systems 227b227cadd7
 - Floating glyphs, artifact-bound menus, enchanted tattoos
 - Compass or direction as a wearable, not a HUD
 - Health shown via breathing, posture, vision blur
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_02_01_00_00_00_00__diegetic-interface-systems.md -->
 
 ### 10.2.2 - Fallback UI for Non-VR
@@ -19173,6 +19684,7 @@ Original export: `markdown_export/10 2 2 Fallback UI for Non-VR 227b227cadd780ac
 
 - Keyboard/mouse inventory as parchment grid or timeline-based
 - Toggleable tooltips, UI layering, screen-safe motion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_02_02_00_00_00_00__fallback-ui-for-non-vr.md -->
 
 ### 10.2.3 - Contextual UIs
@@ -19185,6 +19697,7 @@ Original export: `markdown_export/10 2 3 Contextual UIs 227b227cadd780f085a1d227
 
 - Only shown when relevant (e.g., interacting with a forge, speaking to an NPC)
 - Skill-dependent interface complexity (a novice alchemist sees basic info; a master sees real compounds)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_02_03_00_00_00_00__contextual-uis.md -->
 
 ### 10.2.4 - Mentor Interaction Interface
@@ -19200,6 +19713,7 @@ Describe:
 - How mentors guide players via embodied VR interaction (e.g., placing your hands, pointing, ritual gestures)
 - How reminders work without HUD (e.g., dreams, magical whispers, memory visions)
 - How it replaces conventional tutorials
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_02_04_00_00_00_00__mentor-interaction-interface.md -->
 
 ### 10.3 - Feedback & Sensory Systems
@@ -19217,6 +19731,7 @@ How the world talks back to the player across all senses.
 [10.3.2 Audio Feedback](10_03_02_00_00_00_00__audio-feedback.md)
 
 [10.3.3 Visual Feedback](10_03_03_00_00_00_00__visual-feedback.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_03_00_00_00_00_00__feedback-and-sensory-systems.md -->
 
 ### 10.3.1 - Haptic Feedback (VR)
@@ -19229,6 +19744,7 @@ Original export: `markdown_export/10 3 1 Haptic Feedback (VR) 227b227cadd7805183
 
 - Weapon resistance, spell tension, heartbeat pulses
 - Climbing strain, breath pressure, magical resonance
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_03_01_00_00_00_00__haptic-feedback-vr.md -->
 
 ### 10.3.2 - Audio Feedback
@@ -19241,6 +19757,7 @@ Original export: `markdown_export/10 3 2 Audio Feedback 227b227cadd780daae1ac586
 
 - UI sounds blend with world: bag rustle, whispering menu glyphs
 - Emotional cues in voice, music, and environment
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_03_02_00_00_00_00__audio-feedback.md -->
 
 ### 10.3.3 - Visual Feedback
@@ -19253,6 +19770,7 @@ Original export: `markdown_export/10 3 3 Visual Feedback 227b227cadd780af897ada1
 
 - Glow, distortion, or fade based on corruption, damage, hunger, dreamstate
 - Hand trembling, blink speed, pupil dilation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_03_03_00_00_00_00__visual-feedback.md -->
 
 ### 10.4 - Player Comfort & Presence
@@ -19270,6 +19788,7 @@ Reducing VR fatigue and reinforcing emotional/physical presence.
 [10.4.2 Locomotion & Posture Awareness](10_04_02_00_00_00_00__locomotion-and-posture-awareness.md)
 
 [10.4.3 Adaptive Interfaces](10_04_03_00_00_00_00__adaptive-interfaces.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_04_00_00_00_00_00__player-comfort-and-presence.md -->
 
 ### 10.4.1 - VR Comfort Design
@@ -19283,6 +19802,7 @@ Original export: `markdown_export/10 4 1 VR Comfort Design 227b227cadd780ffb373e
 - Snap turning, blink movement, reduced motion blur
 - Player height calibration, gesture-recognition smoothing
 - Dynamic comfort settings based on player anxiety/load
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_04_01_00_00_00_00__vr-comfort-design.md -->
 
 ### 10.4.2 - Locomotion & Posture Awareness
@@ -19295,6 +19815,7 @@ Original export: `markdown_export/10 4 2 Locomotion & Posture Awareness 227b227c
 
 - Stealth systems respond to crouch posture
 - Exhaustion shown via arm heaviness, slowed response
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_04_02_00_00_00_00__locomotion-and-posture-awareness.md -->
 
 ### 10.4.3 - Adaptive Interfaces
@@ -19307,6 +19828,7 @@ Original export: `markdown_export/10 4 3 Adaptive Interfaces 227b227cadd780808fa
 
 - UIs shift position based on gaze, distance, focus
 - Menus follow your hand or emerge from held objects
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_04_03_00_00_00_00__adaptive-interfaces.md -->
 
 ### 10.5 - Communication & Social UX
@@ -19324,6 +19846,7 @@ Interfaces for expression, interaction, and multiplayer potential.
 [10.5.2 Emotional Expression](10_05_02_00_00_00_00__emotional-expression.md)
 
 [10.5.3 Group/Party UI](10_05_03_00_00_00_00__group-party-ui.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_05_00_00_00_00_00__communication-and-social-ux.md -->
 
 ### 10.5.1 - Dialogue & Response Systems
@@ -19336,6 +19859,7 @@ Original export: `markdown_export/10 5 1 Dialogue & Response Systems 227b227cadd
 
 - Gesture, voice, or symbolic choice wheels
 - NPC facial feedback, gaze reaction, body distance
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_05_01_00_00_00_00__dialogue-and-response-systems.md -->
 
 ### 10.5.2 - Emotional Expression
@@ -19348,6 +19872,7 @@ Original export: `markdown_export/10 5 2 Emotional Expression 227b227cadd78007af
 
 - Emotes as body-based actions, not commands
 - Emotional state visualizations (glow, voice tone, posture)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_05_02_00_00_00_00__emotional-expression.md -->
 
 ### 10.5.3 - Group/Party UI
@@ -19360,6 +19885,7 @@ Original export: `markdown_export/10 5 3 Group Party UI 227b227cadd78061bb55eee5
 
 - Minimalist shared status cues: breath pings, magical bond lines
 - Companions glance at what you're looking at, follow gesture cues
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_05_03_00_00_00_00__group-party-ui.md -->
 
 ### 10.6 - Accessibility & Customization
@@ -19377,6 +19903,7 @@ Making the game readable, responsive, and playable for all.
 [10.6.2 Colorblind & Audio Modes](10_06_02_00_00_00_00__colorblind-and-audio-modes.md)
 
 [10.6.3 Interface Customization](10_06_03_00_00_00_00__interface-customization.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_06_00_00_00_00_00__accessibility-and-customization.md -->
 
 ### 10.6.1 - Scalable UI & Readability
@@ -19388,6 +19915,7 @@ Original export: `markdown_export/10 6 1 Scalable UI & Readability 227b227cadd78
 # 10.6.1 Scalable UI & Readability
 
 Font resizing, dyslexia-friendly fonts, simplified icons
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_06_01_00_00_00_00__scalable-ui-and-readability.md -->
 
 ### 10.6.2 - Colorblind & Audio Modes
@@ -19400,6 +19928,7 @@ Original export: `markdown_export/10 6 2 Colorblind & Audio Modes 227b227cadd780
 
 - Alternate lighting and sound cues for puzzles/UI
 - Vibration or color pulse replacement for key audio cues
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_06_02_00_00_00_00__colorblind-and-audio-modes.md -->
 
 ### 10.6.3 - Interface Customization
@@ -19411,6 +19940,7 @@ Original export: `markdown_export/10 6 3 Interface Customization 227b227cadd7802
 # 10.6.3 Interface Customization
 
 Rearranging menus, inventory filters, role-based presets (crafter, adventurer, mage)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_06_03_00_00_00_00__interface-customization.md -->
 
 ### 10.7 - Intuitive Learning UI
@@ -19422,6 +19952,7 @@ Original export: `markdown_export/10 7 Intuitive Learning UI 227b227cadd78073a68
 # 10.7 Intuitive Learning UI
 
 Interfaces teach themselves over time, adapting as you gain knowledge (mystic languages, alchemy complexity)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_07_00_00_00_00_00__intuitive-learning-ui.md -->
 
 ### 10.8 - Ritual UI Framework
@@ -19433,6 +19964,7 @@ Original export: `markdown_export/10 8 Ritual UI Framework 227b227cadd780bbb1eff
 # 10.8 Ritual UI Framework
 
 Create symbolic layouts by hand (runes, placements, circles) as a natural form of UI for crafting/spellcasting
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_08_00_00_00_00_00__ritual-ui-framework.md -->
 
 ### 10.9 - Memory & Journal UI
@@ -19445,6 +19977,7 @@ Original export: `markdown_export/10 9 Memory & Journal UI 227b227cadd780abb66ed
 
 - Dream-journal style interface for events, emotional logs, visions
 - VR memory temple or story garden metaphor
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_09_00_00_00_00_00__memory-and-journal-ui.md -->
 
 ### 10.10 - UI/UX Design
@@ -19460,6 +19993,7 @@ Original export: `markdown_export/10 10 UI UX Design 227b227cadd780ce8ad1c7460bf
 [10.10.2 HUD & Environment UI](10_10_02_00_00_00_00__hud-and-environment-ui.md)
 
 [10.10.3 Interaction Cues](10_10_03_00_00_00_00__interaction-cues.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_10_00_00_00_00_00__ui-ux-design.md -->
 
 ### 10.10.1 - Philosophy
@@ -19475,6 +20009,7 @@ Original export: `markdown_export/10 10 1 Philosophy 227b227cadd780dabdf8ecf5760
 - Leverage **peripheral UI**: place cooldown timers or notifications slightly to the side or on the weapon—don’t block central view.
 - Design **hierarchical menus**: use zoomable menus (bring up a radial menu near hand, then expand into detailed options).
 - Add **interactive cues**: objects glow or slightly animate when grabbable; consider subtle controller vibrations.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_10_01_00_00_00_00__philosophy.md -->
 
 ### 10.10.2 - HUD & Environment UI
@@ -19486,6 +20021,7 @@ Original export: `markdown_export/10 10 2 HUD & Environment UI 227b227cadd780a99
 # 10.10.2 HUD & Environment UI
 
 how core indicators (health, ammo, objectives) are spatially represented.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_10_02_00_00_00_00__hud-and-environment-ui.md -->
 
 ### 10.10.3 - Interaction Cues
@@ -19497,6 +20033,7 @@ Original export: `markdown_export/10 10 3 Interaction Cues 227b227cadd780de9f32c
 # 10.10.3 Interaction Cues
 
 Describe visual/auditory/haptic feedback strategies.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_10_03_00_00_00_00__interaction-cues.md -->
 
 ### 10.11 - Mechanics & Flow
@@ -19510,6 +20047,7 @@ Original export: `markdown_export/10 11 Mechanics & Flow 227b227cadd780baa502cbd
 [10.11.1 Spatial Navigation](10_11_01_00_00_00_00__spatial-navigation.md)
 
 [10.11.2 Menu Systems](10_11_02_00_00_00_00__menu-systems.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_11_00_00_00_00_00__mechanics-and-flow.md -->
 
 ### 10.11.1 - Spatial Navigation
@@ -19521,6 +20059,7 @@ Original export: `markdown_export/10 11 1 Spatial Navigation 227b227cadd7801b95c
 # 10.11.1 Spatial Navigation
 
 Detail how context transitions and teleportation effects work.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_11_01_00_00_00_00__spatial-navigation.md -->
 
 ### 10.11.2 - Menu Systems
@@ -19532,6 +20071,7 @@ Original export: `markdown_export/10 11 2 Menu Systems 227b227cadd78072b4a6e68a6
 # 10.11.2 Menu Systems
 
 Include hierarchical radial/tool menus, zoom behavior.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_11_02_00_00_00_00__menu-systems.md -->
 
 ### 10.12 - Art & Animation
@@ -19543,6 +20083,7 @@ Original export: `markdown_export/10 12 Art & Animation 227b227cadd780759994f29d
 # 10.12 Art & Animation
 
 Outline UI object animations, glow effects, depth styling, and environmental integration.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_12_00_00_00_00_00__art-and-animation.md -->
 
 ### 10.13 - QA & Player Experience
@@ -19554,6 +20095,7 @@ Original export: `markdown_export/10 13 QA & Player Experience 227b227cadd780a49
 # 10.13 QA & Player Experience
 
 Define test scenarios: can players learn spatial UI quickly? Do peripheral elements distract? Are transitions smooth?
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_13_00_00_00_00_00__qa-and-player-experience.md -->
 
 ### 10.14 - VR Immersion Systems
@@ -19565,6 +20107,7 @@ Original export: `markdown_export/10 14 VR Immersion Systems 22ab227cadd780808c2
 # 10.14 VR Immersion Systems
 
 [10.14.1 Mentor Interaction Interface](10_14_01_00_00_00_00__mentor-interaction-interface.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_14_00_00_00_00_00__vr-immersion-systems.md -->
 
 ### 10.14.1 - Mentor Interaction Interface
@@ -19578,6 +20121,7 @@ Original export: `markdown_export/10 14 1 Mentor Interaction Interface 22ab227ca
 - How mentors guide players via embodied VR interaction (e.g., placing your hands, pointing, ritual gestures)
 - How reminders work without HUD (e.g., dreams, magical whispers, memory visions)
 - How it replaces conventional tutorials
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/10_14_01_00_00_00_00__mentor-interaction-interface.md -->
 
 ### 11 - Technical Implementation
@@ -19613,9 +20157,9 @@ Original export: `markdown_export/11 Technical Implementation 216b227cadd7805ab0
 ## 🧠 Technical Specifications
 
 - **Game Engine:** Unreal Engine 5.6
-    
+
     Leveraging Nanite and Lumen for high-fidelity visuals while maintaining scalable performance for VR.
-    
+
 - **Programming Languages & Systems:**
     - **Blueprints** for rapid iteration and VR interaction systems
     - **C++** for performance-critical systems like AI, procedural generation, and simulation
@@ -19655,6 +20199,7 @@ Original export: `markdown_export/11 Technical Implementation 216b227cadd7805ab0
 [11.14 Analytics & Balancing Tools](11_14_00_00_00_00_00__analytics-and-balancing-tools.md)
 
 [11.15 Security, Anti-Cheat & Exploit Protection](11_15_00_00_00_00_00__security-anti-cheat-and-exploit-protection.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_00_00_00_00_00_00__technical-implementation.md -->
 
 ### 11.1 - Modular Architecture
@@ -19669,6 +20214,7 @@ Original export: `markdown_export/11 1 Modular Architecture 21eb227cadd780268b25
 - Plug-and-play system design
 - Layered abstraction: physics, logic, UI, persistence
 - Versioning and compatibility strategy
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_01_00_00_00_00_00__modular-architecture.md -->
 
 ### 11.2 - Gameplay Systems Integration (Blueprint & Pseudocode Modules)
@@ -19702,6 +20248,7 @@ Start writing **pseudocode headers** for key systems: NPC Memory, Detection Logi
 [11.2.8 Player Inventory & VR Hand Interactions](11_02_08_00_00_00_00__player-inventory-and-vr-hand-interactions.md)
 
 [11.2.9 Psionic & Gesture-Based Spellcasting Framework](11_02_09_00_00_00_00__psionic-and-gesture-based-spellcasting-framework.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_00_00_00_00_00__gameplay-systems-integration-blueprint-and-pseudocode-modules.md -->
 
 ### 11.2.1 - World Generation & Biome Simulation
@@ -19711,6 +20258,7 @@ Original export: `markdown_export/11 2 1 World Generation & Biome Simulation 21e
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_01_00_00_00_00__world-generation-and-biome-simulation.md -->
 # 11.2.1 World Generation & Biome Simulation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_01_00_00_00_00__world-generation-and-biome-simulation.md -->
 
 ### 11.2.2 - Skill System & Discovery Progression
@@ -19720,6 +20268,7 @@ Original export: `markdown_export/11 2 2 Skill System & Discovery Progression 21
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_02_00_00_00_00__skill-system-and-discovery-progression.md -->
 # 11.2.2 Skill System & Discovery Progression
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_02_00_00_00_00__skill-system-and-discovery-progression.md -->
 
 ### 11.2.3 - Ghost Phase / Plane Visibility Logic
@@ -19729,6 +20278,7 @@ Original export: `markdown_export/11 2 3 Ghost Phase Plane Visibility Logic 21eb
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_03_00_00_00_00__ghost-phase-plane-visibility-logic.md -->
 # 11.2.3 Ghost Phase / Plane Visibility Logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_03_00_00_00_00__ghost-phase-plane-visibility-logic.md -->
 
 ### 11.2.4 - Stealth Detection (vision/audio/odor)
@@ -19738,6 +20288,7 @@ Original export: `markdown_export/11 2 4 Stealth Detection (vision audio odor) 2
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_04_00_00_00_00__stealth-detection-vision-audio-odor.md -->
 # 11.2.4 Stealth Detection (vision/audio/odor)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_04_00_00_00_00__stealth-detection-vision-audio-odor.md -->
 
 ### 11.2.5 - Emotion Simulation & NPC Reactions
@@ -19747,6 +20298,7 @@ Original export: `markdown_export/11 2 5 Emotion Simulation & NPC Reactions 227b
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_05_00_00_00_00__emotion-simulation-and-npc-reactions.md -->
 # 11.2.5 Emotion Simulation & NPC Reactions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_05_00_00_00_00__emotion-simulation-and-npc-reactions.md -->
 
 ### 11.2.6 - Crafting Stations & Logic Nodes
@@ -19756,6 +20308,7 @@ Original export: `markdown_export/11 2 6 Crafting Stations & Logic Nodes 227b227
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_06_00_00_00_00__crafting-stations-and-logic-nodes.md -->
 # 11.2.6 Crafting Stations & Logic Nodes
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_06_00_00_00_00__crafting-stations-and-logic-nodes.md -->
 
 ### 11.2.7 - Dungeon Randomization & Memory Echoes
@@ -19765,6 +20318,7 @@ Original export: `markdown_export/11 2 7 Dungeon Randomization & Memory Echoes 2
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_07_00_00_00_00__dungeon-randomization-and-memory-echoes.md -->
 # 11.2.7 Dungeon Randomization & Memory Echoes
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_07_00_00_00_00__dungeon-randomization-and-memory-echoes.md -->
 
 ### 11.2.8 - Player Inventory & VR Hand Interactions
@@ -19774,6 +20328,7 @@ Original export: `markdown_export/11 2 8 Player Inventory & VR Hand Interactions
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_08_00_00_00_00__player-inventory-and-vr-hand-interactions.md -->
 # 11.2.8 Player Inventory & VR Hand Interactions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_08_00_00_00_00__player-inventory-and-vr-hand-interactions.md -->
 
 ### 11.2.9 - Psionic & Gesture-Based Spellcasting Framework
@@ -19783,6 +20338,7 @@ Original export: `markdown_export/11 2 9 Psionic & Gesture-Based Spellcasting Fr
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/11_02_09_00_00_00_00__psionic-and-gesture-based-spellcasting-framework.md -->
 # 11.2.9 Psionic & Gesture-Based Spellcasting Framework
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_02_09_00_00_00_00__psionic-and-gesture-based-spellcasting-framework.md -->
 
 ### 11.3 - Networking & Persistence
@@ -19870,6 +20426,7 @@ Original export: `markdown_export/11 3 Networking & Persistence 21eb227cadd78012
 - Real-time vs async sync
 - Replication of physical interaction & gestures
 - Partial sync for long-term worlds (e.g., economy, seasons, AI state)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_03_00_00_00_00_00__networking-and-persistence.md -->
 
 ### 11.4 - AI Architecture
@@ -19884,6 +20441,7 @@ Original export: `markdown_export/11 4 AI Architecture 21eb227cadd78013824dd6be7
 - NPC learning & memory simulation integration
 - Modular emotion engine implementation
 - Social graph propagation logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_04_00_00_00_00_00__ai-architecture.md -->
 
 ### 11.5 - Save & Cloud Sync
@@ -20235,6 +20793,7 @@ By integrating the **BP_NPCManagerSubsystem** with your World Partition Manager,
 - Cloud compatibility (Steam, Epic, standalone)
 - Syncing persistent world changes (settlements, relationships)
 - Conflict resolution logic (for mods, desyncs, parallel players)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_05_00_00_00_00_00__save-and-cloud-sync.md -->
 
 ### 11.6 - Simulation Time Controller
@@ -20251,6 +20810,7 @@ Pauses in SP, continuous in MP. Manages game clock rules.
 - Pausing, skipping, acceleration systems
 - Real-time vs time-dilated behavior
 - Sleep, fast travel, dreams, and long-form simulation sync
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_06_00_00_00_00_00__simulation-time-controller.md -->
 
 ### 11.7 - Future-Proofing & Modular Scalability
@@ -20314,6 +20874,7 @@ To ensure the longevity and adaptability of *Infinite Worlds*, the game is being
 - Procedural expansion packs (new planes, disciplines)
 - Avoiding hardcoded subsystems
 - LTS update strategy
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_07_00_00_00_00_00__future-proofing-and-modular-scalability.md -->
 
 ### 11.8 - Cloud Simulation & Asynchronous World Tasks
@@ -20399,6 +20960,7 @@ This framework provides a **foundation for emergent storytelling and dynamic wor
 - Headless simulation (NPCs continue routines while player offline)
 - Dynamic economy, plant growth, construction timelines
 - Scalable async task queue (e.g., creature migrations, myth propagation)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_08_00_00_00_00_00__cloud-simulation-and-asynchronous-world-tasks.md -->
 
 ### 11.9 - Cross-Platform & Standalone Scaling
@@ -20488,6 +21050,7 @@ This cross-platform approach ensures *Infinite Worlds* can thrive on current and
 - VR-first design adaptation to KBM/Controller
 - LOD systems for simulation, audio, animation, NPC density
 - Platform-specific asset bundles
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_09_00_00_00_00_00__cross-platform-and-standalone-scaling.md -->
 
 ### 11.10 - Modding Support & Community Tools
@@ -20505,17 +21068,17 @@ Original export: `markdown_export/11 10 Modding Support & Community Tools 214b22
 ### 🔧 **Modding Philosophy**
 
 - **Player Agency First**
-    
+
     Mods are treated as first-class citizens — not just tolerated but **officially supported**, with tools, documentation, and optional integration into gameplay.
-    
+
 - **Diegetic Extension**
-    
+
     Mods can be introduced into the world through immersive, lore-friendly mechanics (e.g., new tomes, regions, rituals, or guilds), preserving narrative cohesion.
-    
+
 - **Scalable Complexity**
-    
+
     Both **entry-level modders** and **advanced developers** are supported, with tiers of access:
-    
+
     - JSON/DataTable-based content mods
     - Blueprint-based gameplay extensions
     - C++ plugin support for deep engine features
@@ -20545,9 +21108,9 @@ Original export: `markdown_export/11 10 Modding Support & Community Tools 214b22
 ### 🛠️ **Modding Tools & Support**
 
 - **Official Modding SDK (Planned)**
-    
+
     Includes:
-    
+
     - Unreal project templates
     - Data structure references
     - Asset import/export tools
@@ -20593,6 +21156,7 @@ Original export: `markdown_export/11 10 Modding Support & Community Tools 214b22
 [11.10.1 Dedicated Modding Mode](11_10_01_00_00_00_00__dedicated-modding-mode.md)
 
 [11.10.2 Community Toolkit Support](11_10_02_00_00_00_00__community-toolkit-support.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_10_00_00_00_00_00__modding-support-and-community-tools.md -->
 
 ### 11.10.1 - Dedicated Modding Mode
@@ -20703,6 +21267,7 @@ This mode is both a **developer toolset** and an **immersive creation space** fo
 ---
 
 This *Dedicated Modding Mode* is a cornerstone for building a **vibrant, creator-led community**, where mods can be lore-rich, technically sound, and deeply tied to the procedural world’s logic.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_10_01_00_00_00_00__dedicated-modding-mode.md -->
 
 ### 11.10.2 - Community Toolkit Support
@@ -20715,6 +21280,7 @@ Original export: `markdown_export/11 10 2 Community Toolkit Support 227b227cadd7
 
 - Export pipeline, ComfyUI/SDXL workflows
 - Git integration, version control, custom asset packs
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_10_02_00_00_00_00__community-toolkit-support.md -->
 
 ### 11.11 - Performance Optimization
@@ -20729,6 +21295,7 @@ Original export: `markdown_export/11 11 Performance Optimization 214b227cadd7803
 - GPU/CPU profiling goals
 - Dynamic quality scaling (simulation, physics, AI density)
 - Shader and VFX guidelines
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_11_00_00_00_00_00__performance-optimization.md -->
 
 ### 11.12 - Input & Control Layer
@@ -20742,6 +21309,7 @@ Original export: `markdown_export/11 12 Input & Control Layer 227b227cadd7802a82
 - Unified input abstraction layer for VR, KBM, controller
 - Gesture recognition logic (spellcasting, UI, communication)
 - Input rebinding, motion smoothing, accessibility configs
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_12_00_00_00_00_00__input-and-control-layer.md -->
 
 ### 11.13 - Testing & Debugging Tools
@@ -20756,6 +21324,7 @@ Original export: `markdown_export/11 13 Testing & Debugging Tools 227b227cadd780
 - Live AI behavior logs & timeline view
 - VR pathfinding visualizer
 - Simulation stutter and resource monitor
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_13_00_00_00_00_00__testing-and-debugging-tools.md -->
 
 ### 11.14 - Analytics & Balancing Tools
@@ -20770,6 +21339,7 @@ Original export: `markdown_export/11 14 Analytics & Balancing Tools 227b227cadd7
 - Data logging for NPC interactions, economy drift, simulation accuracy
 - Tuning interface for rewards, crafting XP, spawn rates
 - A/B testing hooks (for player feedback experiments)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_14_00_00_00_00_00__analytics-and-balancing-tools.md -->
 
 ### 11.15 - Security, Anti-Cheat & Exploit Protection
@@ -20784,6 +21354,7 @@ Original export: `markdown_export/11 15 Security, Anti-Cheat & Exploit Protectio
 - Behavior validation on server side (VR speed hacks, gesture exploits)
 - Mod signature verification
 - Sandbox protection for shared servers
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/11_15_00_00_00_00_00__security-anti-cheat-and-exploit-protection.md -->
 
 ### 12 - Community & Monetization
@@ -20794,7 +21365,7 @@ Original export: `markdown_export/12 Community & Monetization 20eb227cadd7800ab9
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/12_00_00_00_00_00_00__community-and-monetization.md -->
 # 12. Community & Monetization
 
-## 
+##
 
 ### 🪙 Currencies
 
@@ -21007,6 +21578,7 @@ Add: In-world economy simulation (supply/demand, barter, trade caravans), cosmet
 [12.7 In-Game Community Integration](12_07_00_00_00_00_00__in-game-community-integration.md)
 
 [12.8 AI-Powered Lore Expansion Toolkits](12_08_00_00_00_00_00__ai-powered-lore-expansion-toolkits.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_00_00_00_00_00_00__community-and-monetization.md -->
 
 ### 12.1 - Funding & Crowdsourcing
@@ -21101,11 +21673,12 @@ Frame your game not just as entertainment but as:
 ## 🧠 Example Pitch Summary for a Grant
 
 > “Infinite Worlds is an immersive VR sandbox RPG that transforms traditional gameplay into real-world learning. Players uncover practical skills such as navigation, survival techniques, crafting, and plant identification. Built with accessibility and deep engagement in mind, the game leverages spatial learning and procedural discovery to offer a novel approach to experiential education through interactive fantasy storytelling.”
-> 
+>
 
 - Transparent monetization goals (support sustainability, empower creativity)
 - Avoidance of exploitative practices (no FOMO, pay-to-win, etc.)
 - Balancing immersive world values with real-world needs
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_01_00_00_00_00_00__funding-and-crowdsourcing.md -->
 
 ### 12.2 - Crowdfunding & Support Platforms
@@ -21127,6 +21700,7 @@ Original export: `markdown_export/12 2 Crowdfunding & Support Platforms 227b227c
 [12.2.5 [Itch.io](http://itch.io/)](12_02_05_00_00_00_00__itch-io.md)
 
 [12.8 Substack](12_08_00_00_00_00_00__substack.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_02_00_00_00_00_00__crowdfunding-and-support-platforms.md -->
 
 ### 12.2.1 - Kickstarter
@@ -21138,6 +21712,7 @@ Original export: `markdown_export/12 2 1 Kickstarter 220b227cadd780888fb9f732220
 # 12.2.1 Kickstarter
 
 Main launch crowdfunding, tiered rewards, lore items
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_02_01_00_00_00_00__kickstarter.md -->
 
 ### 12.2.2 - BackerKit / Gamefound
@@ -21149,6 +21724,7 @@ Original export: `markdown_export/12 2 2 BackerKit Gamefound 227b227cadd7801298e
 # 12.2.2 BackerKit / Gamefound
 
 Stretch goals, post-KS funding, merch fulfillment
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_02_02_00_00_00_00__backerkit-gamefound.md -->
 
 ### 12.2.3 - Patreon
@@ -21221,6 +21797,7 @@ Supporters receive exclusive perks to deepen engagement without compromising fai
 [Monetizing Virtual Reality Experiences – A Guide for Content Creators](https://www.companionlink.com/blog/2024/07/monetizing-virtual-reality-experiences-a-guide-for-content-creators/)
 
 [12.2.3.1 Patreon Reward System](12_02_03_01_00_00_00__patreon-reward-system.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_02_03_00_00_00_00__patreon.md -->
 
 ### 12.2.3.1 - Patreon Reward System
@@ -21348,6 +21925,7 @@ To incentivize growth:
 - **“Myth Seed” tier (1-time $75)** – Submit a myth, rune, or story fragment that could appear in-game (once per supporter)
 - **Founder’s Discord** – Tier 3+ get early invites to Founders-only playtests
 - **Legacy Credit** – Tier 4+ patrons get immortalized as a line in ancient history books or tomb ruins
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_02_03_01_00_00_00__patreon-reward-system.md -->
 
 ### 12.2.4 - Ko-Fi / Buy Me a Coffee
@@ -21359,6 +21937,7 @@ Original export: `markdown_export/12 2 4 Ko-Fi Buy Me a Coffee 222b227cadd7801d9
 # 12.2.4 Ko-Fi / Buy Me a Coffee
 
 Micro-payments for content unlocks or shoutouts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_02_04_00_00_00_00__ko-fi-buy-me-a-coffee.md -->
 
 ### 12.2.5 - Itch.io
@@ -21370,6 +21949,7 @@ Original export: `markdown_export/12 2 5 Itch io 227b227cadd780e98654d2d8002f59f
 # 12.2.5 Itch.io
 
 Early alpha or modular builds for feedback
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_02_05_00_00_00_00__itch-io.md -->
 
 ### 12.3 - Community Platforms & Social Strategy
@@ -21391,6 +21971,7 @@ Original export: `markdown_export/12 3 Community Platforms & Social Strategy 227
 [12.3.5 Public Roadmap (Notion, Trello, GitHub)](12%203%205%20Public%20Roadmap%20(Notion,%20Trello,%20GitHub)%20227b227cadd780e7ab3bdc0da47584e6.md)
 
 [12.3.6 Lore Wiki / Memory Archive](12_03_06_00_00_00_00__lore-wiki-memory-archive.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_03_00_00_00_00_00__community-platforms-and-social-strategy.md -->
 
 ### 12.3.1 - Discord
@@ -21402,6 +21983,7 @@ Original export: `markdown_export/12 3 1 Discord 21eb227cadd780bbb345f48599f72a7
 # 12.3.1 Discord
 
 Factions, lore discussion, playtest coordination
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_03_01_00_00_00_00__discord.md -->
 
 ### 12.3.2 - Reddit
@@ -21413,6 +21995,7 @@ Original export: `markdown_export/12 3 2 Reddit 227b227cadd780a1a385d97ed03c7627
 # 12.3.2 Reddit
 
 AMA events, fan theory collection, organic growth
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_03_02_00_00_00_00__reddit.md -->
 
 ### 12.3.3 - Twitch / YouTube / Kick / Rumble / Locals
@@ -21424,6 +22007,7 @@ Original export: `markdown_export/12 3 3 Twitch YouTube Kick Rumble Locals 227b2
 # 12.3.3 Twitch / YouTube / Kick / Rumble / Locals
 
 Dev streams, world design reveals, VR gameplay
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_03_03_00_00_00_00__twitch-youtube-kick-rumble-locals.md -->
 
 ### 12.3.4 - TikTok / Reels / Shorts
@@ -21435,6 +22019,7 @@ Original export: `markdown_export/12 3 4 TikTok Reels Shorts 227b227cadd780339ab
 # 12.3.4 TikTok / Reels / Shorts
 
 Quick idea drops, gestures, dungeon-building moments
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_03_04_00_00_00_00__tiktok-reels-shorts.md -->
 
 ### 12.3.5 - Public Roadmap (Notion, Trello, GitHub)
@@ -21444,6 +22029,7 @@ Original export: `markdown_export/12 3 5 Public Roadmap (Notion, Trello, GitHub)
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/12_03_05_00_00_00_00__public-roadmap-notion-trello-github.md -->
 # 12.3.5 Public Roadmap (Notion, Trello, GitHub)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_03_05_00_00_00_00__public-roadmap-notion-trello-github.md -->
 
 ### 12.3.6 - Lore Wiki / Memory Archive
@@ -21455,6 +22041,7 @@ Original export: `markdown_export/12 3 6 Lore Wiki Memory Archive 227b227cadd780
 # 12.3.6 Lore Wiki / Memory Archive
 
 Community-built myth tracker, origin stories, factions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_03_06_00_00_00_00__lore-wiki-memory-archive.md -->
 
 ### 12.4 - Creator Economies & Modding Support
@@ -21559,6 +22146,7 @@ This mod economy supports hobbyists, educators, and professionals alike — enco
 - Mod-based contest system with lore importation
 
 [12.4.1 Community Governance](12_04_01_00_00_00_00__community-governance.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_04_00_00_00_00_00__creator-economies-and-modding-support.md -->
 
 ### 12.4.1 - Community Governance
@@ -21648,44 +22236,45 @@ Mods don’t need to match a specific canon — instead, they must:
 ### 🔁 **Recommended Mod Categories for Review**
 
 - **New Spells & Psionics**
-    
+
     Must adhere to the player’s effort system, gesture/voice casting, and affect fatigue or mental focus
-    
+
 - **New Skills or Knowledge Trees**
-    
+
     Must fit into progression through experimentation, tomes, or NPC teaching
-    
+
 - **Creatures, Monsters, and Ecosystems**
-    
+
     Must integrate with ecology simulation, AI awareness, and physical interactions
-    
+
 - **Equipment & Craftables**
-    
+
     Must balance with survival pacing, tool degradation, and crafting realism
-    
+
 - **Biomes & Worldgen Presets**
-    
+
     Must remain within high-fantasy, quasi-realistic parameters (e.g., no vaporwave desert planets unless lore-justified)
-    
+
 
 ### 🧑‍⚖️ **Future Ideas (Optional Enhancements)**
 
 - **Weighted Voting by Mod Install Base + Feedback**
-    
+
     Helps elevate useful mods that fit within aesthetic & gameplay norms
-    
+
 - **Player “Lore Tastes” Profiles**
-    
+
     Auto-suggest mods based on player preferences (e.g., grounded realism, surreal myth, dark fantasy)
-    
+
 - **Self-Hosted "Mini-Councils"**
-    
+
     Player groups or server hosts can adopt the tagging framework to curate their own trusted lists
-    
+
 
 ---
 
 In short, the Lore Council is *not a gatekeeper of stories* — it’s a **guidepost for creators and players alike**, helping *Infinite Worlds* grow without sacrificing tone, systemic integrity, or immersion.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_04_01_00_00_00_00__community-governance.md -->
 
 ### 12.5 - Storefront & Distribution Channels
@@ -21709,6 +22298,7 @@ Original export: `markdown_export/12 5 Storefront & Distribution Channels 227b22
 [12.5.6 NVIDIA GeForce NOW / Amazon Luna](12_05_06_00_00_00_00__nvidia-geforce-now-amazon-luna.md)
 
 [12.5.7 Early Access Strategy](12_05_07_00_00_00_00__early-access-strategy.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_00_00_00_00_00__storefront-and-distribution-channels.md -->
 
 ### 12.5.1 - Steam Store
@@ -21744,39 +22334,40 @@ Whether playing solo in a local world you can pause or online in a persistent mu
 ### 🧩 **Key Features:**
 
 - 🌍 **Earth-Scale Procedural World**
-    
+
     Explore a massive, seamless planet with continents, biomes, weather systems, and cultures generated fresh each playthrough.
-    
+
 - 🧠 **Real Skill-Based Progression**
-    
+
     Learn through experience—not menus. Identify herbs, read the stars, or forge blades the way you would in real life.
-    
+
 - 🧬 **Living Ecosystems & Civilizations**
-    
+
     Everything is simulated—from predator-prey dynamics to NPC politics and generational memory.
-    
+
 - 🗡️ **VR-First Physical Interaction**
-    
+
     Swing swords, stir potions, build with your hands, and cast spells with gestures and spoken incantations.
-    
+
 - 🌀 **Voice, Gesture & Focus-Based Magic**
-    
+
     Unlock mystical powers using hand-drawn runes, spoken words, and psionic concentration—with risks as real as the rewards.
-    
+
 - 👁️ **No HUD, No Handholding**
-    
+
     Diegetic interfaces, organic tutorials, and meaningful discovery replace traditional UI and quest systems.
-    
+
 - 👻 **Persistent Legacy & Permanent Death**
-    
+
     Characters die forever, but their choices ripple through generations—through myths, ruins, descendants, or curses.
-    
+
 - 🌐 **Solo or Persistent Multiplayer**
-    
+
     Play offline with full simulation, or join a multiplayer world that evolves even when you're away.
-    
+
 
 Wishlist strategies, demo prep, Next Fest integration
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_01_00_00_00_00__steam-store.md -->
 
 ### 12.5.2 - Meta Quest Store / App Lab
@@ -21788,6 +22379,7 @@ Original export: `markdown_export/12 5 2 Meta Quest Store App Lab 227b227cadd780
 # 12.5.2 Meta Quest Store / App Lab
 
 VR standalone access and visibility
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_02_00_00_00_00__meta-quest-store-app-lab.md -->
 
 ### 12.5.3 - GOG.com
@@ -21799,6 +22391,7 @@ Original export: `markdown_export/12 5 3 GOG com 227b227cadd78089a366f44b47bfc7f
 # 12.5.3 GOG.com
 
 DRM-free + mod support emphasis
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_03_00_00_00_00__gog-com.md -->
 
 ### 12.5.4 - Epic Games Store
@@ -21810,6 +22403,7 @@ Original export: `markdown_export/12 5 4 Epic Games Store 227b227cadd78026a2cfda
 # 12.5.4 Epic Games Store
 
 Broad reach, PC exclusives
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_04_00_00_00_00__epic-games-store.md -->
 
 ### 12.5.5 - Humble Store
@@ -21821,6 +22415,7 @@ Original export: `markdown_export/12 5 5 Humble Store 227b227cadd7802086b3d1a31d
 # 12.5.5 Humble Store
 
 Charitable outreach, bundle inclusion
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_05_00_00_00_00__humble-store.md -->
 
 ### 12.5.6 - NVIDIA GeForce NOW / Amazon Luna
@@ -21832,6 +22427,7 @@ Original export: `markdown_export/12 5 6 NVIDIA GeForce NOW Amazon Luna 227b227c
 # 12.5.6 NVIDIA GeForce NOW / Amazon Luna
 
 Optional cloud gaming support
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_06_00_00_00_00__nvidia-geforce-now-amazon-luna.md -->
 
 ### 12.5.7 - Early Access Strategy
@@ -21843,6 +22439,7 @@ Original export: `markdown_export/12 5 7 Early Access Strategy 227b227cadd780438
 # 12.5.7 Early Access Strategy
 
 What content unlocks when, how feedback is gathered
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_05_07_00_00_00_00__early-access-strategy.md -->
 
 ### 12.6 - Marketing & Outreach
@@ -21864,6 +22461,7 @@ Original export: `markdown_export/12 6 Marketing & Outreach 227b227cadd780249b07
 [12.6.5 Event Participation](12_06_05_00_00_00_00__event-participation.md)
 
 [12.6.6 Review Codes & Indie PR](12_06_06_00_00_00_00__review-codes-and-indie-pr.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_06_00_00_00_00_00__marketing-and-outreach.md -->
 
 ### 12.6.1 - Press Kit & Trailer Production
@@ -21873,6 +22471,7 @@ Original export: `markdown_export/12 6 1 Press Kit & Trailer Production 227b227c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/12_06_01_00_00_00_00__press-kit-and-trailer-production.md -->
 # 12.6.1 Press Kit & Trailer Production
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_06_01_00_00_00_00__press-kit-and-trailer-production.md -->
 
 ### 12.6.2 - SEO-Optimized Devlog Site / Blog
@@ -21882,6 +22481,7 @@ Original export: `markdown_export/12 6 2 SEO-Optimized Devlog Site Blog 227b227c
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/12_06_02_00_00_00_00__seo-optimized-devlog-site-blog.md -->
 # 12.6.2 SEO-Optimized Devlog Site / Blog
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_06_02_00_00_00_00__seo-optimized-devlog-site-blog.md -->
 
 ### 12.6.3 - Email List & Lore Drops
@@ -21891,6 +22491,7 @@ Original export: `markdown_export/12 6 3 Email List & Lore Drops 227b227cadd7808
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/12_06_03_00_00_00_00__email-list-and-lore-drops.md -->
 # 12.6.3 Email List & Lore Drops
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_06_03_00_00_00_00__email-list-and-lore-drops.md -->
 
 ### 12.6.4 - Social Media Calendar
@@ -21902,6 +22503,7 @@ Original export: `markdown_export/12 6 4 Social Media Calendar 227b227cadd7804f9
 # 12.6.4 Social Media Calendar
 
 Dev reveals, lore drops, challenge events
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_06_04_00_00_00_00__social-media-calendar.md -->
 
 ### 12.6.5 - Event Participation
@@ -21913,6 +22515,7 @@ Original export: `markdown_export/12 6 5 Event Participation 227b227cadd780ab855
 # 12.6.5 Event Participation
 
 PAX, IndieCade, Steam Next Fest, Meta Launches
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_06_05_00_00_00_00__event-participation.md -->
 
 ### 12.6.6 - Review Codes & Indie PR
@@ -21922,6 +22525,7 @@ Original export: `markdown_export/12 6 6 Review Codes & Indie PR 227b227cadd7809
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/12_06_06_00_00_00_00__review-codes-and-indie-pr.md -->
 # 12.6.6 Review Codes & Indie PR
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_06_06_00_00_00_00__review-codes-and-indie-pr.md -->
 
 ### 12.7 - In-Game Community Integration
@@ -21936,6 +22540,7 @@ Original export: `markdown_export/12 7 In-Game Community Integration 227b227cadd
 - Crowdfunder names in ruins, songs, or legends
 - Lore forged collaboratively and discovered by new players
 - NPCs based on real patrons or testers
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_07_00_00_00_00_00__in-game-community-integration.md -->
 
 ### 12.8 - AI-Powered Lore Expansion Toolkits
@@ -21947,6 +22552,7 @@ Original export: `markdown_export/12 8 AI-Powered Lore Expansion Toolkits 227b22
 # 12.8 AI-Powered Lore Expansion Toolkits
 
 For community storytelling within boundaries
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_08_00_00_00_00_00__ai-powered-lore-expansion-toolkits.md -->
 
 ### 12.8 - Substack
@@ -21975,7 +22581,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 - Great for showcasing transparency and building trust.
 
 > 🧠 Tie-ins: Discuss how your game teaches real-world skills. Readers interested in philosophy, simulation, or TTRPGs will stay.
-> 
+>
 
 ---
 
@@ -21986,7 +22592,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 - Offer visual lore maps, images, or early lore drafts to paid subscribers.
 
 > 🔁 Cross-promote this content with your game’s wiki, Discord, or site.
-> 
+>
 
 ---
 
@@ -21999,7 +22605,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 - These attract **fellow game devs, writers, and thinkers** who will amplify your reach.
 
 > 📚 Bonus: Tie in relevant books, TTRPG theory, or neuroscience to give it weight.
-> 
+>
 
 ---
 
@@ -22011,7 +22617,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 - Let readers vote on features, cosmetic styles, or even names for in-game items/NPCs.
 
 > 💬 Creates buy-in and boosts organic sharing.
-> 
+>
 
 ---
 
@@ -22024,7 +22630,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 - Integrate Substack with your **Patreon**, giving overlapping or unique value (like exclusive lore PDFs or dev Q&As).
 
 > 📈 Pro Tip: Treat paid Substack like a “collector’s club” — rare art, secrets, early mechanics.
-> 
+>
 
 ---
 
@@ -22034,7 +22640,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 - Invite known thinkers (e.g., TTRPG GMs, sci-fi/fantasy authors, VR designers) to write guest essays or Q&As.
 
 > 🔄 This expands your reach and increases your authority.
-> 
+>
 
 ---
 
@@ -22050,7 +22656,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 | 6 | *Behind the Magic: How Our Spellcasting Teaches Real Physics* |
 
 > Repurpose this content on Twitter/X, Reddit, Discord, YouTube, or your website.
-> 
+>
 
 ---
 
@@ -22061,6 +22667,7 @@ Original export: `markdown_export/12 8 Substack 220b227cadd7809eb590caea204e9e41
 - **Share Substack links across devlogs, Kickstarter, Discord, and forums**.
 
 Long-form devlogs, insights, lore-building
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/12_08_00_00_00_00_00__substack.md -->
 
 ### 13 - Accessibility & UX
@@ -22161,6 +22768,7 @@ Original export: `markdown_export/13 Accessibility & UX 20eb227cadd7809ea4fdc9d9
 [13.9 Difficulty & Complexity Tuning](13_09_00_00_00_00_00__difficulty-and-complexity-tuning.md)
 
 [13.10 Inclusive World Content](13_10_00_00_00_00_00__inclusive-world-content.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_00_00_00_00_00_00__accessibility-and-ux.md -->
 
 ### 13.1 - Inclusive Controls
@@ -22177,6 +22785,7 @@ Original export: `markdown_export/13 1 Inclusive Controls 222b227cadd7808ba7a5c8
     - Left/right hand swap
     - Voice command fallback
 - Rebinding across all control types (VR, KBM, Controller)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_01_00_00_00_00_00__inclusive-controls.md -->
 
 ### 13.2 - Sensory Comfort & Calibration
@@ -22192,6 +22801,7 @@ Original export: `markdown_export/13 2 Sensory Comfort & Calibration 222b227cadd
 - Lighting options (dimmed UI, high contrast)
 - Flash and strobe toggle
 - VR comfort modes (snap turning, head bob control)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_02_00_00_00_00_00__sensory-comfort-and-calibration.md -->
 
 ### 13.3 - Tutorials & Tooltips
@@ -22206,6 +22816,7 @@ Original export: `markdown_export/13 3 Tutorials & Tooltips 222b227cadd78033a911
 - Optional tutorial companions
 - Tooltips with visual, voice, and symbol overlays
 - Replayable help systems and searchable knowledgebook
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_03_00_00_00_00_00__tutorials-and-tooltips.md -->
 
 ### 13.4 - Audio Accessibility Cues
@@ -22220,6 +22831,7 @@ Original export: `markdown_export/13 4 Audio Accessibility Cues 227b227cadd78021
 - Visual alert overlays for loud or dangerous sounds
 - Subtle heartbeat or pulse cues for health, fear, or fatigue
 - Audio mode toggle: low-contrast vs high-contrast mix
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_04_00_00_00_00_00__audio-accessibility-cues.md -->
 
 ### 13.5 - Cognitive Accessibility & Neurodivergence
@@ -22234,6 +22846,7 @@ Original export: `markdown_export/13 5 Cognitive Accessibility & Neurodivergence
 - Adjustable conversation speed and pause options
 - Visual consistency in interfaces (fewer surprises)
 - Simple vs complex toggle for puzzle systems or world logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_05_00_00_00_00_00__cognitive-accessibility-and-neurodivergence.md -->
 
 ### 13.6 - Motion Sickness & VR Comfort
@@ -22248,6 +22861,7 @@ Original export: `markdown_export/13 6 Motion Sickness & VR Comfort 227b227cadd7
 - Toggleable blink/dash locomotion
 - Custom turn radius and snap/smooth preferences
 - Auto-height calibration and comfort zones
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_06_00_00_00_00_00__motion-sickness-and-vr-comfort.md -->
 
 ### 13.7 - Subtitles, Captions & Voice Navigation
@@ -22262,6 +22876,7 @@ Original export: `markdown_export/13 7 Subtitles, Captions & Voice Navigation 22
 - CC for ambient sounds and spatial cues
 - UI voice-over for inventory, crafting, options
 - Voice-to-action mapping for hands-free players
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_07_00_00_00_00_00__subtitles-captions-and-voice-navigation.md -->
 
 ### 13.8 - Input Mapping & Rebinding
@@ -22275,6 +22890,7 @@ Original export: `markdown_export/13 8 Input Mapping & Rebinding 227b227cadd7804
 - Per-hand remapping
 - Custom gestures for VR spellcasting (simplified or complex)
 - Accessibility presets for controller, KBM, VR systems
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_08_00_00_00_00_00__input-mapping-and-rebinding.md -->
 
 ### 13.9 - Difficulty & Complexity Tuning
@@ -22291,6 +22907,7 @@ Original export: `markdown_export/13 9 Difficulty & Complexity Tuning 227b227cad
     - Hardcore death/one-life
 - Time scaling for puzzles or social interaction
 - NPC hint system for exploration
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_09_00_00_00_00_00__difficulty-and-complexity-tuning.md -->
 
 ### 13.10 - Inclusive World Content
@@ -22305,6 +22922,7 @@ Original export: `markdown_export/13 10 Inclusive World Content 227b227cadd7808a
 - Representation of disability in NPCs (magical prosthetics, blind sages, etc.)
 - Non-verbal communication systems (signs, symbols, gestures)
 - VR voice filters or overlays to assist non-vocal players
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/13_10_00_00_00_00_00__inclusive-world-content.md -->
 
 ### 14 - Project Management & Publishing
@@ -22318,7 +22936,7 @@ Original export: `markdown_export/14 Project Management & Publishing 20eb227cadd
 ### 🔹 Milestones / Timeline
 
 > This timeline is flexible and may shift depending on workload, unforeseen challenges, or changes in scope.
-> 
+>
 
 🔹 **Prototype (Pre-Alpha) – Expanded**
 
@@ -22358,17 +22976,17 @@ Add: Gantt chart or milestone table
 ### 🧪 **Key Prototype Deliverables**
 
 - ✅ **Playable VR environment (small area or “test room”)**
-    
+
     A confined but feature-rich area designed to test all interaction modes (e.g., cabin, ruins, or training hall)
-    
+
 - ✅ **Functioning player controller**
-    
+
     Includes movement, hand interaction, and full body presence (if applicable)
-    
+
 - ✅ **Core loop test**
-    
+
     A simple scenario that includes:
-    
+
     - Equipping a weapon
     - Opening a chest
     - Picking up loot
@@ -22421,14 +23039,14 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
     - Release on targeted platform(s)
 
 > ✏️ Note: Post-launch updates and bug fixes will be tracked separately in a lightweight live support roadmap.
-> 
+>
 
 ---
 
 ### 🔹 Team Roles
 
 > This is a solo-developed project, so all roles are handled by the developer, with occasional support from external contractors as needed.
-> 
+>
 - **Game Design:** Player progression, mechanics, balance
 - **Programming:** Core systems, tools, gameplay logic, bug fixing
 - **Art & Animation:** Placeholder and final assets (2D/3D as applicable)
@@ -22438,7 +23056,7 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
 - **QA:** Self-testing and community feedback collection
 
 > 🧩 Potential outsourcing for:
-> 
+>
 > - Music composition
 > - Specialized asset creation (e.g., detailed 3D models or UI icons)
 > - Localization (post-launch)
@@ -22448,7 +23066,7 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
 ### 🔹 Budget Estimates
 
 > Operating under a limited budget, focused on minimizing expenses while maintaining quality where it matters most.
-> 
+>
 - **Game Engine & Tools:** $0–100
     - Open-source or free tools (Unity, Godot, Blender, GIMP, etc.)
 - **Assets (Licenses & Store Packs):** $200–500
@@ -22462,7 +23080,7 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
     - Web hosting, domain registration, submission fees, etc.
 
 > 🎯 Target Budget: $500–1,000 max (self-funded)
-> 
+>
 
 ---
 
@@ -22478,10 +23096,10 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
 | Lack of Feedback | Seek playtesters in indie forums, subreddits, Discord dev communities |
 
 > ⚠️ Contingency Plan:
-> 
-> 
+>
+>
 > If development stalls, pivot to releasing a small polished experience or demo (rather than full release) to gather interest or funding for continued development.
-> 
+>
 
 [14.1 Development Roadmap](14_01_00_00_00_00_00__development-roadmap.md)
 
@@ -22500,6 +23118,7 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
 [14.8 Risk Management & Contingencies](14_08_00_00_00_00_00__risk-management-and-contingencies.md)
 
 [14.9 Platform & Publisher Relations](14_09_00_00_00_00_00__platform-and-publisher-relations.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_00_00_00_00_00_00__project-management-and-publishing.md -->
 
 ### 14.1 - Development Roadmap
@@ -22512,14 +23131,14 @@ Original export: `markdown_export/14 1 Development Roadmap 211b227cadd7806b93d7d
 
 ### **Define Your Roadmap**
 
-**a. Document Core Features:**  
+**a. Document Core Features:**
 Create a design document that lists every mechanic (e.g., basic VR setup, teleportation, hand physics, PCG, etc.) along with their dependencies. This document becomes your “north star” and helps you visualize the final product. You can group these features by categories such as:
 
 - **Core Gameplay:** VR environment, player locomotion, primary interactions.
 - **Advanced Interactions:** Realistic hand physics, avatar animations, complex puzzles.
 - **Optimization & Polish:** Performance tweaks, lighting with Lumen, fine-tuning VR comfort.
 
-**b. Prioritize Features:**  
+**b. Prioritize Features:**
 Prioritize by what’s essential for a Minimum Viable Product (MVP) versus what can be iterated later. Early sprints should concentrate on core VR setup and essential mechanics (teleportation, basic interactions), then gradually layer in the advanced features.
 
 ### 2. **Organize Your Timeline with Agile Sprints**
@@ -22535,7 +23154,7 @@ Prioritize by what’s essential for a Minimum Viable Product (MVP) versus what 
 - **Day 2:** Implement the teleportation mechanic through Blueprints, then test for smooth operation.
 - **Day 3:** Create a simple grab-and-release interaction and verify in VR preview.
 
-**b. Multi-Day Sprints for Larger Tasks:**  
+**b. Multi-Day Sprints for Larger Tasks:**
 Break projects like advanced VR hand physics or PCG into several days. Each day should end with a small, demonstrable part of the feature.
 
 *Example for Advanced VR Hand Physics:*
@@ -22549,22 +23168,22 @@ Repeat similar cycles for each multi-day mechanic, incorporating mid-sprint revi
 
 ### 3. **Integration and Iterative Testing**
 
-**a. Standalone Testing:**  
+**a. Standalone Testing:**
 Before integration, ensure that each mechanic works in isolation. For instance, test your teleportation without interference from hand physics or PCG elements.
 
-**b. Layered Integration:**  
+**b. Layered Integration:**
 Once individual features are stable, begin integrating them into a sandbox version of your game project. This may involve:
 
 - Merging your Blueprint modules into a singular immersive level.
 - Testing how multiple systems interact (e.g., does the grab function interfere with teleportation?).
 - Collating user feedback during playtests to check for VR comfort and performance consistency.
 
-**c. Regular Milestones:**  
+**c. Regular Milestones:**
 Schedule milestones after every major integration phase (every 2–3 weeks). At these points, review overall game performance, the coherence of the mechanics, and potential risks to performance in a VR environment. Adjust your backlog accordingly.
 
 ### 4. **Use Project Management Tools**
 
-**a. Kanban Boards or Agile Tools:**  
+**a. Kanban Boards or Agile Tools:**
 Tools like Trello, Jira, or even a simple spreadsheet can help you keep track of tasks, their status, and dependencies. Create columns for:
 
 - **To Do:** All mechanics and related subtasks
@@ -22572,7 +23191,7 @@ Tools like Trello, Jira, or even a simple spreadsheet can help you keep track of
 - **Testing/Review:** Features waiting for integration testing
 - **Complete:** Tasks that have been integrated and verified
 
-**b. Time Estimations & Buffers:**  
+**b. Time Estimations & Buffers:**
 Estimate the effort for each task and add a buffer time (10–20%) to account for unexpected challenges. For multi-day tasks, review at the end of each day and adjust your sprint plan as needed.
 
 ### 5. **Feedback & Iteration**
@@ -22695,6 +23314,7 @@ These breakdowns provide you with a roadmap for tackling discrete mechanics each
 - Short-term vs long-term phases
 - Milestone checklists and gates
 - Sync with crowdfunding goals and playable demo targets
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_01_00_00_00_00_00__development-roadmap.md -->
 
 ### 14.2 - Team Structure & Tools
@@ -22709,6 +23329,7 @@ Original export: `markdown_export/14 2 Team Structure & Tools 222b227cadd780cca0
 - Solo/dev-partner flow for early phases
 - Tools: Notion, GitHub, Trello, Jira, ClickUp, Miro, etc.
 - Asset management (Perforce, Git LFS, Drive, etc.)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_02_00_00_00_00_00__team-structure-and-tools.md -->
 
 ### 14.3 - Development Methodology
@@ -22722,6 +23343,7 @@ Original export: `markdown_export/14 3 Development Methodology 227b227cadd7807bb
 - Agile sprint breakdowns, Kanban usage, feature prioritization
 - Build philosophy: prototyping → vertical slice → polish
 - Build health rituals and burn-down metrics
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_03_00_00_00_00_00__development-methodology.md -->
 
 ### 14.4 - Milestones & Phases
@@ -22798,6 +23420,7 @@ Here are some popular self-publishing options:
 - Beta: full content, tuning, feedback
 - Launch: optimization, marketing push, platform certification
 - Post-launch: modding tools, new systems, world expansions
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_04_00_00_00_00_00__milestones-and-phases.md -->
 
 ### 14.5 - QA, Testing & Bug Tracking
@@ -22812,6 +23435,7 @@ Original export: `markdown_export/14 5 QA, Testing & Bug Tracking 227b227cadd780
 - External testers (alpha access, Patreon, Discord)
 - Reporting tools and ticket priority systems
 - Regression testing, VR-specific comfort QA
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_05_00_00_00_00_00__qa-testing-and-bug-tracking.md -->
 
 ### 14.6 - Localization & Globalization
@@ -22825,6 +23449,7 @@ Original export: `markdown_export/14 6 Localization & Globalization 227b227cadd7
 - Language packs, font sets, UI auto-expansion
 - Myth, cultural, and gesture review
 - International accessibility alignment
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_06_00_00_00_00_00__localization-and-globalization.md -->
 
 ### 14.7 - Patch & Update Pipeline
@@ -22839,6 +23464,7 @@ Original export: `markdown_export/14 7 Patch & Update Pipeline 227b227cadd780e1b
 - Monthly, seasonal, or versioned content updates
 - Patch note formatting and changelog archive
 - Update testing suite and rollback protocols
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_07_00_00_00_00_00__patch-and-update-pipeline.md -->
 
 ### 14.8 - Risk Management & Contingencies
@@ -22852,6 +23478,7 @@ Original export: `markdown_export/14 8 Risk Management & Contingencies 227b227ca
 - Development time buffers and feature de-risking
 - Funding milestone alternatives
 - Tech debt tracking and scope creep prevention
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_08_00_00_00_00_00__risk-management-and-contingencies.md -->
 
 ### 14.9 - Platform & Publisher Relations
@@ -22865,6 +23492,7 @@ Original export: `markdown_export/14 9 Platform & Publisher Relations 227b227cad
 - Storefront approvals and SDK requirements
 - Negotiating exclusivity, funding, store page setup
 - Submission timelines and compliance testing
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/14_09_00_00_00_00_00__platform-and-publisher-relations.md -->
 
 ### 15 - Appendices
@@ -22922,7 +23550,7 @@ Original export: `markdown_export/15 Appendices 20eb227cadd780c59b55e68b926c4289
 | Floating VR UI Panels | Interface | ✅ Implemented | 🟠 Medium | Basic inventory & spellbook working |
 
 > Legend:
-> 
+>
 > - ✅ Implemented
 > - 🟡 In Progress
 > - 🔲 Not Started
@@ -22990,6 +23618,7 @@ Add: AI Behavior Tree Snapshots
 [15.24 Dream, Memory, and Consciousness in World Simulation](15_24_00_00_00_00_00__dream-memory-and-consciousness-in-world-simulation.md)
 
 [15.25 Astral Navigation and Celestial Architecture](15_25_00_00_00_00_00__astral-navigation-and-celestial-architecture.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_00_00_00_00_00_00__appendices.md -->
 
 ### 15.1 - Glossary
@@ -23015,6 +23644,7 @@ Common terms, acronyms, gameplay shorthand, metaphysical concepts
 | **Hard/Soft Currency** | Soft currency is easily earned through gameplay; hard currency is typically purchased with real money. |
 | **Crafting Tier System** | A progression-based crafting structure where complexity and accuracy increase as skills improve. |
 | *(Add more as needed based on system expansions.)* |  |
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_01_00_00_00_00_00__glossary.md -->
 
 ### 15.2 - Skill Tree Visuals
@@ -23026,6 +23656,7 @@ Original export: `markdown_export/15 2 Skill Tree Visuals 215b227cadd780efa4fbe5
 # 15.2 Skill Tree Visuals
 
 Trees, branches, progression diagrams (for player skills, magic, psionics)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_02_00_00_00_00_00__skill-tree-visuals.md -->
 
 ### 15.3 - NPC Behavior Charts
@@ -23037,6 +23668,7 @@ Original export: `markdown_export/15 3 NPC Behavior Charts 215b227cadd780a8ade8c
 # 15.3 NPC Behavior Charts
 
 Core FSMs (finite state machines), emotion-state graphs, trust curves
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_03_00_00_00_00_00__npc-behavior-charts.md -->
 
 ### 15.4 - Biome Tables
@@ -23048,6 +23680,7 @@ Original export: `markdown_export/15 4 Biome Tables 215b227cadd780648114fb5fd8a2
 # 15.4 Biome Tables
 
 Environmental traits, flora/fauna, resource tables, hazards
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_04_00_00_00_00_00__biome-tables.md -->
 
 ### 15.5 - World Generation Settings & Tables
@@ -23059,6 +23692,7 @@ Original export: `markdown_export/15 5 World Generation Settings & Tables 215b22
 # 15.5 World Generation Settings & Tables
 
 Seeds, terrain parameters, biome weights, planar anchor variables
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_05_00_00_00_00_00__world-generation-settings-and-tables.md -->
 
 ### 15.6 - Combat Diagrams
@@ -23070,6 +23704,7 @@ Original export: `markdown_export/15 6 Combat Diagrams 215b227cadd780e4a796d3aab
 # 15.6 Combat Diagrams
 
 Positioning logic, attack cone visuals, detection cones, stamina-cost graphs
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_06_00_00_00_00_00__combat-diagrams.md -->
 
 ### 15.7 - Crafting Diagrams & Material Logic
@@ -23081,6 +23716,7 @@ Original export: `markdown_export/15 7 Crafting Diagrams & Material Logic 215b22
 # 15.7 Crafting Diagrams & Material Logic
 
 Input/output flows, tool dependencies, workstation logic
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_07_00_00_00_00_00__crafting-diagrams-and-material-logic.md -->
 
 ### 15.8 - Magical Systems Reference
@@ -23098,6 +23734,7 @@ Original export: `markdown_export/15 8 Magical Systems Reference 215b227cadd7800
 [15.8.3 Magic Reagent Tables](15_08_03_00_00_00_00__magic-reagent-tables.md)
 
 [15.8.4 Psionic Signature Patterns](15_08_04_00_00_00_00__psionic-signature-patterns.md)
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_08_00_00_00_00_00__magical-systems-reference.md -->
 
 ### 15.8.1 - Magical Language & Syntax
@@ -23107,6 +23744,7 @@ Original export: `markdown_export/15 8 1 Magical Language & Syntax 227b227cadd78
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/15_08_01_00_00_00_00__magical-language-and-syntax.md -->
 # 15.8.1 Magical Language & Syntax
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_08_01_00_00_00_00__magical-language-and-syntax.md -->
 
 ### 15.8.2 - Ritual Phrases & Symbols
@@ -23116,6 +23754,7 @@ Original export: `markdown_export/15 8 2 Ritual Phrases & Symbols 227b227cadd780
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/15_08_02_00_00_00_00__ritual-phrases-and-symbols.md -->
 # 15.8.2 Ritual Phrases & Symbols
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_08_02_00_00_00_00__ritual-phrases-and-symbols.md -->
 
 ### 15.8.3 - Magic Reagent Tables
@@ -23125,6 +23764,7 @@ Original export: `markdown_export/15 8 3 Magic Reagent Tables 227b227cadd780efa8
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/15_08_03_00_00_00_00__magic-reagent-tables.md -->
 # 15.8.3 Magic Reagent Tables
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_08_03_00_00_00_00__magic-reagent-tables.md -->
 
 ### 15.8.4 - Psionic Signature Patterns
@@ -23134,6 +23774,7 @@ Original export: `markdown_export/15 8 4 Psionic Signature Patterns 227b227cadd7
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/15_08_04_00_00_00_00__psionic-signature-patterns.md -->
 # 15.8.4 Psionic Signature Patterns
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_08_04_00_00_00_00__psionic-signature-patterns.md -->
 
 ### 15.9 - Player Personas
@@ -23146,6 +23787,7 @@ Original export: `markdown_export/15 9 Player Personas 215b227cadd7807c98a7edeb0
 
 - Player type breakdowns (explorer, scholar, achiever, builder)
 - Immersion profiles and UX needs
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_09_00_00_00_00_00__player-personas.md -->
 
 ### 15.10 - Archetypes Explained
@@ -23158,6 +23800,7 @@ Original export: `markdown_export/15 10 Archetypes Explained 222b227cadd7802a851
 
 - Skill/archetype cross-mapping
 - Origin stories, metaphysical interpretations, NPC recognition
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_10_00_00_00_00_00__archetypes-explained.md -->
 
 ### 15.11 - Item & Entity Database
@@ -23172,6 +23815,7 @@ Original export: `markdown_export/15 11 Item & Entity Database 225b227cadd780f78
 - Contains master tables of tags/stats
 - Helpful for team collaboration
 - All core interactables: weapons, armors, plants, reagents, magical devices
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_11_00_00_00_00_00__item-and-entity-database.md -->
 
 ### 15.12 - Affliction Reference Charts
@@ -23183,6 +23827,7 @@ Original export: `markdown_export/15 12 Affliction Reference Charts 227b227cadd7
 # 15.12 Affliction Reference Charts
 
 Physical and mental conditions, triggers, cures, contagion flags
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_12_00_00_00_00_00__affliction-reference-charts.md -->
 
 ### 15.13 - Magic System Tables
@@ -23194,6 +23839,7 @@ Original export: `markdown_export/15 13 Magic System Tables 227b227cadd780179c1c
 # 15.13 Magic System Tables
 
 Casting time, cost, discipline, consequence charts
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_13_00_00_00_00_00__magic-system-tables.md -->
 
 ### 15.14 - Simulation Parameters
@@ -23205,6 +23851,7 @@ Original export: `markdown_export/15 14 Simulation Parameters 227b227cadd780488e
 # 15.14 Simulation Parameters
 
 NPC hunger decay, sleep needs, economy fluctuation algorithms
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_14_00_00_00_00_00__simulation-parameters.md -->
 
 ### 15.15 - Ritual Components & Phrases
@@ -23216,6 +23863,7 @@ Original export: `markdown_export/15 15 Ritual Components & Phrases 227b227cadd7
 # 15.15 Ritual Components & Phrases
 
 For symbolic input, gesture mapping, and audio incantation parsing
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_15_00_00_00_00_00__ritual-components-and-phrases.md -->
 
 ### 15.16 - Lore Reference Timeline / World History
@@ -23227,6 +23875,7 @@ Original export: `markdown_export/15 16 Lore Reference Timeline World History 22
 # 15.16 Lore Reference Timeline / World History
 
 Canon events, major myths, plane shifts, notable discoveries
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_16_00_00_00_00_00__lore-reference-timeline-world-history.md -->
 
 ### 15.17 - Faction & Relationship Diagrams
@@ -23238,6 +23887,7 @@ Original export: `markdown_export/15 17 Faction & Relationship Diagrams 227b227c
 # 15.17 Faction & Relationship Diagrams
 
 Faction goals, rivalries, inter-faction trade paths, diplomacy states
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_17_00_00_00_00_00__faction-and-relationship-diagrams.md -->
 
 ### 15.18 - UI Wireframes & HUD Variants
@@ -23249,6 +23899,7 @@ Original export: `markdown_export/15 18 UI Wireframes & HUD Variants 227b227cadd
 # 15.18 UI Wireframes & HUD Variants
 
 VR, 2D, diegetic and non-diegetic interface designs
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_18_00_00_00_00_00__ui-wireframes-and-hud-variants.md -->
 
 ### 15.19 - VR Accessibility Flowcharts
@@ -23260,6 +23911,7 @@ Original export: `markdown_export/15 19 VR Accessibility Flowcharts 227b227cadd7
 # 15.19 VR Accessibility Flowcharts
 
 Mode selection, gesture simplification options, seated/standing branches
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_19_00_00_00_00_00__vr-accessibility-flowcharts.md -->
 
 ### 15.20 - Test Cases & Debug Modes
@@ -23271,6 +23923,7 @@ Original export: `markdown_export/15 20 Test Cases & Debug Modes 227b227cadd7808
 # 15.20 Test Cases & Debug Modes
 
 QA charts, debug toggles, scenario testing modules
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_20_00_00_00_00_00__test-cases-and-debug-modes.md -->
 
 ### 15.21 - Procedural Seed Examples
@@ -23282,6 +23935,7 @@ Original export: `markdown_export/15 21 Procedural Seed Examples 227b227cadd780f
 # 15.21 Procedural Seed Examples
 
 Test seeds, outcome charts, expected anomalies
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_21_00_00_00_00_00__procedural-seed-examples.md -->
 
 ### 15.22 - AI Behavior States & FSM Diagrams
@@ -23293,6 +23947,7 @@ Original export: `markdown_export/15 22 AI Behavior States & FSM Diagrams 227b22
 # 15.22 AI Behavior States & FSM Diagrams
 
 Idle, patrol, pursuit, flee, social interaction trees
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_22_00_00_00_00_00__ai-behavior-states-and-fsm-diagrams.md -->
 
 ### 15.23 - Psionics Literary Inspiration Guide
@@ -23312,7 +23967,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Divine intelligence, fragmented reality, cosmic knowledge
 
 > "The empire never ended."
-> 
+>
 
 **Design Parallels:**
 
@@ -23333,7 +23988,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Reality reshaped by the unconscious mind; moral consequences of power
 
 > "You can't remake the world without remaking yourself."
-> 
+>
 
 **Design Parallels:**
 
@@ -23354,7 +24009,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Shamanic insight, plant consciousness, biological symbolism
 
 > "Could the DNA molecule be the source of knowledge transmitted in shamanic visions?"
-> 
+>
 
 **Design Parallels:**
 
@@ -23375,7 +24030,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Training of the mind, prescience, ecological and philosophical mastery
 
 > "A beginning is the time for taking the most delicate care..."
-> 
+>
 
 **Design Parallels:**
 
@@ -23396,6 +24051,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 - Each book can inspire a "Psionic School" or tradition the player may study through mentor NPCs, tomes, or self-discovery.
 - Symbolic systems from literature (DNA strands, glyphs, dreams, timelines) can act as templates for UI, crafting, and spellcasting.
 - Consider implementing an "Intellectual Arcana"—a non-combat skill tree focused entirely on inner transformation, interpretation, and mental architecture.
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_23_00_00_00_00_00__psionics-literary-inspiration-guide.md -->
 
 ### 15.24 - Dream, Memory, and Consciousness in World Simulation
@@ -23405,6 +24061,7 @@ Original export: `markdown_export/15 24 Dream, Memory, and Consciousness in Worl
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/15_24_00_00_00_00_00__dream-memory-and-consciousness-in-world-simulation.md -->
 # 15.24 Dream, Memory, and Consciousness in World Simulation
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_24_00_00_00_00_00__dream-memory-and-consciousness-in-world-simulation.md -->
 
 ### 15.25 - Astral Navigation and Celestial Architecture
@@ -23414,4 +24071,5 @@ Original export: `markdown_export/15 25 Astral Navigation and Celestial Architec
 
 <!-- GDD_SOURCE_TEXT_BEGIN docs/game_design_document/15_25_00_00_00_00_00__astral-navigation-and-celestial-architecture.md -->
 # 15.25 Astral Navigation and Celestial Architecture
+
 <!-- GDD_SOURCE_TEXT_END docs/game_design_document/15_25_00_00_00_00_00__astral-navigation-and-celestial-architecture.md -->

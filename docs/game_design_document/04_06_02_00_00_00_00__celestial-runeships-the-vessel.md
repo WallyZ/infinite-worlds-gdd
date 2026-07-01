@@ -1,7 +1,7 @@
 # 4.6.2 Celestial Runeships (The Vessel)
 
 > Each Runeship is a unique, semi-living construct attuned to astral forces and built with ritual precision.
-> 
+>
 
 **Crafting Requirements:**
 

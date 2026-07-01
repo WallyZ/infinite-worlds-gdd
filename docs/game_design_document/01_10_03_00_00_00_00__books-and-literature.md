@@ -19,7 +19,7 @@ These are foundational works that explore magic, myth, and deeply layered cultur
 | **The Broken Sword** | Poul Anderson | Dark Norse myth-inspired tale with fae, doom, and consequence-laden magic |
 
 > 🔍 Use for: ancient mythologies, divine intervention, morally ambiguous magic, linguistic magic (names), non-human psychology.
-> 
+>
 
 ---
 
@@ -36,7 +36,7 @@ For psionics, astral navigation, and consciousness-expanding metaphysics:
 | **The Invisibles** | Grant Morrison (graphic novel) | Reality hacking, psychic rebellion, layered time and control systems |
 
 > 🔍 Use for: inner power mechanics, dream worlds, altered states, psionic schools, and mentor–student inner journeys.
-> 
+>
 
 ---
 
@@ -53,7 +53,7 @@ These books focus on knowledge, skill development, and surviving a world by lear
 | **The Foxfire Book** (series) | Eliot Wigginton & students | Appalachian survival, crafts, blacksmithing, farming, oral knowledge systems |
 
 > 🔍 Use for: in-game skill-as-knowledge systems, survival mechanics, NPC mentorship arcs, plant and crafting design.
-> 
+>
 
 ---
 
@@ -70,7 +70,7 @@ If your astral and celestial navigation mechanics echo *Spelljammer* or dreamwal
 | **Sandman** (graphic novels) | Neil Gaiman | Dream realms, archetypes, metaphysical pantheons, emotional stakes of cosmic entities |
 
 > 🔍 Use for: navigating space by symbols or emotion, dealing with gods/dreams, exploring player-driven realities.
-> 
+>
 
 ---
 
@@ -87,7 +87,7 @@ These go deeper into moral systems, psychology, and critical thinking—perfect 
 | **The Prophet** | Kahlil Gibran | Wisdom distilled into poetic truth; useful for ritual texts, NPC scripts, and sacred philosophy |
 
 > 🔍 Use for: ethical choice systems, narrative consequence, belief mechanics, emotional resonance.
-> 
+>
 
 ---
 

@@ -7,39 +7,39 @@ Here’s a two-part dive: first a full summary of Nick Popovich’s “Making Ga
 Part 1: “Making Games That Stand Out and Survive” (Nick Popovich, GDC 2019)[^1^]
 
 1. Attention Is Your Currency
-    
+
     • Players don’t buy games—they trade you their most precious resource: *time*.
-    
+
     • With thousands of titles launched every month, your first job is to *grab* a few seconds of attention[^1^].
-    
+
 2. Sell It with a GIF
-    
+
     • A single looping GIF must convey three things:
-    
+
     1. The **core gameplay loop** (“what you do every 30 seconds”).
     2. The **killer app** (“what makes it unique”).
     3. The **emotional hook** (“how it feels”).
     • Examples: Spelunky’s cave-diving peril; Superhot’s time-bending freeze; Rocket League’s car-soccer mashup[^1^].
 3. Stay Relevant with Ongoing Engagement
-    
+
     • **Early Access & Feedback**: let passionate fans into your build, listen, iterate.
-    
+
     • **Regular Content Drops**: seasons, events, live ops—give players reasons to return.
-    
+
     • **Community Fuel**: fan art features, social-media spotlights and Twitch integrations keep your audience invested[^1^].
-    
+
 4. Give Players a “Place to Call Home”
-    
+
     • Design a low-stress hub (base, ranch, village) where players can unwind, customize and feel ownership.
-    
+
     • Balance core loop stress (combat, puzzles) with restful loops (decorating, farming, socializing) to broaden appeal[^1^].
-    
+
 5. Find Your Voice & Vision
-    
+
     • It’s not enough to imitate—your game must *say* something with its mechanics, art and tone.
-    
+
     • Cultivate a distinctive aesthetic or narrative twist that resonates emotionally and makes you *memorable*[^1^].
-    
+
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 

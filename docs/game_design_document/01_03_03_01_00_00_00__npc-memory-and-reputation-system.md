@@ -5,7 +5,7 @@
 - Uses a **Reputation/Emotion Ledger** with emotional weights (love, fear, gratitude, shame)
 
 > Blueprint Concept:
-> 
-> 
+>
+>
 > Each important NPC has a "Legacy Memory Component" → a struct storing key interactions, outcomes, and final emotional state toward the player.
 >

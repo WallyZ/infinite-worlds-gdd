@@ -7,17 +7,17 @@
 ### 🔧 **Modding Philosophy**
 
 - **Player Agency First**
-    
+
     Mods are treated as first-class citizens — not just tolerated but **officially supported**, with tools, documentation, and optional integration into gameplay.
-    
+
 - **Diegetic Extension**
-    
+
     Mods can be introduced into the world through immersive, lore-friendly mechanics (e.g., new tomes, regions, rituals, or guilds), preserving narrative cohesion.
-    
+
 - **Scalable Complexity**
-    
+
     Both **entry-level modders** and **advanced developers** are supported, with tiers of access:
-    
+
     - JSON/DataTable-based content mods
     - Blueprint-based gameplay extensions
     - C++ plugin support for deep engine features
@@ -47,9 +47,9 @@
 ### 🛠️ **Modding Tools & Support**
 
 - **Official Modding SDK (Planned)**
-    
+
     Includes:
-    
+
     - Unreal project templates
     - Data structure references
     - Asset import/export tools

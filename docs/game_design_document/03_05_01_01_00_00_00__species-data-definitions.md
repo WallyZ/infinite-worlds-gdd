@@ -4,22 +4,22 @@ High-level architecture plus concrete Blueprint & C++ recipes for a “living ec
 
 ## 1. Core Concepts & Data Architecture
 
-1.1   Data-Driven Species Definitions  
-    • Use a DataTable (`CSV` or `JSON`) keyed by `FName SpeciesID`  
-    • Columns:  
-      – `ParentSpeciesID` (for inheritance)  
-      – `ReproductionType` (Sexual, Asexual)  
-      – `LitterSizeMin/Max`, `MaturityAge`  
-      – `MaxLifespan`, `GestationTime`  
-      – `DietType` (Herbivore, Carnivore, Omnivore, Energy, Matter)  
-      – `PreferredEnvTags` (Tags: Forest, Wetland, Rocky…)  
-      – `AggressionLevel` (0–1 float)  
+1.1   Data-Driven Species Definitions
+    • Use a DataTable (`CSV` or `JSON`) keyed by `FName SpeciesID`
+    • Columns:
+      – `ParentSpeciesID` (for inheritance)
+      – `ReproductionType` (Sexual, Asexual)
+      – `LitterSizeMin/Max`, `MaturityAge`
+      – `MaxLifespan`, `GestationTime`
+      – `DietType` (Herbivore, Carnivore, Omnivore, Energy, Matter)
+      – `PreferredEnvTags` (Tags: Forest, Wetland, Rocky…)
+      – `AggressionLevel` (0–1 float)
       – `ParentalCare` (None, Minimal, Extended)
 
-1.2   Runtime Tracking by `AEcosystemManager`  
-    • Singleton Actor placed in World  
-    • Holds lists: `TSet<AAnimalBase*> AllAnimals;`  
-    • Per-tick or timed update: population counts, carrying capacity checks  
+1.2   Runtime Tracking by `AEcosystemManager`
+    • Singleton Actor placed in World
+    • Holds lists: `TSet<AAnimalBase*> AllAnimals;`
+    • Per-tick or timed update: population counts, carrying capacity checks
     • Exposes EQS/Volumes to steer where births/spreads happen
 
 ## 2. `AAnimalBase` C++ Class Outline
@@ -54,13 +54,13 @@ public:
   UPROPERTY() ULifeCycleComponent* LifeCycleComp;
   UPROPERTY() UBehaviorComponent* BehaviorComp;
   UPROPERTY() UReproductionComponent* ReproComp;
-  
+
   virtual void BeginPlay() override;
   virtual void Tick(float Delta) override;
 };`
 
-**Key Modules (as ActorComponents)**  
- • `ULifeCycleComponent`  
+**Key Modules (as ActorComponents)**
+ • `ULifeCycleComponent`
     – Tracks `Age`, flips `bIsAdult`, kills at `MaxLifespan`
 
 - `UReproductionComponent` – When adult & conditions met (`bHasMateNearby`, resource levels, season), spawns child Actors via `AEcosystemManager->SpawnAnimal()`
@@ -68,13 +68,13 @@ public:
 
 ## 3. Blueprint Patterns
 
-3.1   Spawning Children  
+3.1   Spawning Children
 • In Blueprint: call `Event Custom: OnCanReproduce` → `Spawn Animal Actor from Class` with same `SpeciesID` → set `Mother/Father` → register with `EcosystemManager`
 
-3.2   Environment Queries (EQS)  
+3.2   Environment Queries (EQS)
 • Use EQS to find suitable patch volumes by `PreferredEnvTags` → returns array of `FVector` → move there to forage, nest, birth
 
-3.3   Population Control  
+3.3   Population Control
 • On reproduction, `EcosystemManager` checks:
 
 blueprint
@@ -82,8 +82,8 @@ blueprint
 `if (PopulationOfSpecies < MaxPerArea && TotalPlantsNearby > LitterSize) AllowBirth;
 else DelayNextBirth();`
 
-3.4   Tracking Death & Overpopulation  
-• On death (`Health<=0` or old age), unregister from manager  
+3.4   Tracking Death & Overpopulation
+• On death (`Health<=0` or old age), unregister from manager
 • Manager periodically runs logistic growth check:
 
 math
@@ -94,12 +94,12 @@ math
 
 ## 4. Habitat & Resources
 
-4.1   Plant & Matter/Energy Eaters  
-• Create `AResourceNode` Actors (e.g., berry bush, magical ley line) with `GRR_ResourceComponent` storing `ResourceAmount`  
+4.1   Plant & Matter/Energy Eaters
+• Create `AResourceNode` Actors (e.g., berry bush, magical ley line) with `GRR_ResourceComponent` storing `ResourceAmount`
 • Herbivores query nearest nodes via EQS, consume resource → node’s `ResourceAmount -= IntakeRate`
 
-4.2   Predator-Prey Links  
-• On spawn, each animal’s `BehaviorComp` can register into manager’s Kd-tree or `TMap<SpeciesID, TArray<AAnimalBase*>>`  
+4.2   Predator-Prey Links
+• On spawn, each animal’s `BehaviorComp` can register into manager’s Kd-tree or `TMap<SpeciesID, TArray<AAnimalBase*>>`
 • When hunting: `EQS_FindClosest(PreySpeciesID)` → chase & attack
 
 ## 5. Performance & Tuning
@@ -116,25 +116,25 @@ math
 
 ## 7. Free 5.6-Specific Learning Links
 
-- C++ ActorComponent Patterns: 
-• EQS for Ecology: 
-• Population & Logistics Tutorial (community): 
-• Behavior Trees w/ dynamic targets: 
-• DataTables & CSV import: 
+- C++ ActorComponent Patterns:
+• EQS for Ecology:
+• Population & Logistics Tutorial (community):
+• Behavior Trees w/ dynamic targets:
+• DataTables & CSV import:
 • VR Performance (for many Actors):
-    
+
     https://docs.unrealengine.com/5.0/en-US/creating-actors-and-components-in-unreal-engine/
-    
+
     https://dev.epicgames.com/documentation/en-us/unreal-engine/environment-query-system
-    
+
     https://kumiyama.com/unreal-ecosystem-tutorial/
-    
+
     https://docs.unrealengine.com/5.0/en-US/behavior-tree-overview-in-unreal-engine/
-    
+
     https://docs.unrealengine.com/5.0/en-US/working-with-tables-in-unreal-engine/
-    
+
     https://www.unrealengine.com/en-US/onlinelearning-courses/optimizing-your-game-for-performance
-    
+
 
 By combining a **data-driven** species database, a **manager** to oversee births/deaths, and **modular components** for lifecycle, reproduction and behavior, you’ll end up with a truly organic ecosystem—one that can collapse, explode or self-regulate based on in-world conditions.
 

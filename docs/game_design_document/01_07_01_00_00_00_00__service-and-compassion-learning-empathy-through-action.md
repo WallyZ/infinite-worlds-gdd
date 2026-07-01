@@ -66,12 +66,12 @@ Empathy is taught through **experience, not lectures**—players must observe, l
 Example:
 
 > NPC: “I’m just tired of pretending I’m okay…”
-> 
-> 
+>
+>
 > Bad reply: “Just tell me what happened.”
-> 
+>
 > Good reply: *“It sounds like you’ve been holding a lot inside.”*
-> 
+>
 
 ---
 
@@ -137,7 +137,7 @@ Each of these roles teaches **emotional labor as valuable gameplay**, not passiv
 Example:
 
 > “Why did you think she needed help? Did she ask for it? Or were you trying to feel helpful?”
-> 
+>
 
 ---
 

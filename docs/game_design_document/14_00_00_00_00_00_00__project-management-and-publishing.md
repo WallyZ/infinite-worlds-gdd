@@ -3,7 +3,7 @@
 ### 🔹 Milestones / Timeline
 
 > This timeline is flexible and may shift depending on workload, unforeseen challenges, or changes in scope.
-> 
+>
 
 🔹 **Prototype (Pre-Alpha) – Expanded**
 
@@ -43,17 +43,17 @@ Add: Gantt chart or milestone table
 ### 🧪 **Key Prototype Deliverables**
 
 - ✅ **Playable VR environment (small area or “test room”)**
-    
+
     A confined but feature-rich area designed to test all interaction modes (e.g., cabin, ruins, or training hall)
-    
+
 - ✅ **Functioning player controller**
-    
+
     Includes movement, hand interaction, and full body presence (if applicable)
-    
+
 - ✅ **Core loop test**
-    
+
     A simple scenario that includes:
-    
+
     - Equipping a weapon
     - Opening a chest
     - Picking up loot
@@ -106,14 +106,14 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
     - Release on targeted platform(s)
 
 > ✏️ Note: Post-launch updates and bug fixes will be tracked separately in a lightweight live support roadmap.
-> 
+>
 
 ---
 
 ### 🔹 Team Roles
 
 > This is a solo-developed project, so all roles are handled by the developer, with occasional support from external contractors as needed.
-> 
+>
 - **Game Design:** Player progression, mechanics, balance
 - **Programming:** Core systems, tools, gameplay logic, bug fixing
 - **Art & Animation:** Placeholder and final assets (2D/3D as applicable)
@@ -123,7 +123,7 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
 - **QA:** Self-testing and community feedback collection
 
 > 🧩 Potential outsourcing for:
-> 
+>
 > - Music composition
 > - Specialized asset creation (e.g., detailed 3D models or UI icons)
 > - Localization (post-launch)
@@ -133,7 +133,7 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
 ### 🔹 Budget Estimates
 
 > Operating under a limited budget, focused on minimizing expenses while maintaining quality where it matters most.
-> 
+>
 - **Game Engine & Tools:** $0–100
     - Open-source or free tools (Unity, Godot, Blender, GIMP, etc.)
 - **Assets (Licenses & Store Packs):** $200–500
@@ -147,7 +147,7 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
     - Web hosting, domain registration, submission fees, etc.
 
 > 🎯 Target Budget: $500–1,000 max (self-funded)
-> 
+>
 
 ---
 
@@ -163,10 +163,10 @@ This prototype serves as a **foundation for your vertical slice**, letting you d
 | Lack of Feedback | Seek playtesters in indie forums, subreddits, Discord dev communities |
 
 > ⚠️ Contingency Plan:
-> 
-> 
+>
+>
 > If development stalls, pivot to releasing a small polished experience or demo (rather than full release) to gather interest or funding for continued development.
-> 
+>
 
 [14.1 Development Roadmap](14_01_00_00_00_00_00__development-roadmap.md)
 

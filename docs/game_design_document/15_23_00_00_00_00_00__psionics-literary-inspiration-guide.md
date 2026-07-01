@@ -9,7 +9,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Divine intelligence, fragmented reality, cosmic knowledge
 
 > "The empire never ended."
-> 
+>
 
 **Design Parallels:**
 
@@ -30,7 +30,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Reality reshaped by the unconscious mind; moral consequences of power
 
 > "You can't remake the world without remaking yourself."
-> 
+>
 
 **Design Parallels:**
 
@@ -51,7 +51,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Shamanic insight, plant consciousness, biological symbolism
 
 > "Could the DNA molecule be the source of knowledge transmitted in shamanic visions?"
-> 
+>
 
 **Design Parallels:**
 
@@ -72,7 +72,7 @@ This appendix connects core gameplay mechanics and narrative concepts of *Infini
 **Theme:** Training of the mind, prescience, ecological and philosophical mastery
 
 > "A beginning is the time for taking the most delicate care..."
-> 
+>
 
 **Design Parallels:**
 

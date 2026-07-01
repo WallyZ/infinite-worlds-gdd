@@ -12,9 +12,9 @@ Players solve layered problems through explicit steps:
 - **List assumptions**.
 - **Test multiple solution paths**.
 - **Reflect** on outcomes.
-    
+
     This mirrors algorithmic thinking research [learning.com+4library.iated.org+4en.wikipedia.org+4](https://library.iated.org/view/ATANASOVA2019STU?utm_source=chatgpt.com)[youtube.com](https://www.youtube.com/watch?v=yq8x73p1SfM&utm_source=chatgpt.com)[en.wikipedia.org](https://en.wikipedia.org/wiki/Six_Thinking_Hats?utm_source=chatgpt.com)[learning.com+3arxiv.org+3sciencedirect.com+3](https://arxiv.org/abs/2408.01263?utm_source=chatgpt.com).
-    
+
 
 ### 2. **Narrative vs. Analytical Mode**
 
@@ -22,9 +22,9 @@ Players choose between intuitive "story" answers and deliberate algorithmic solu
 
 - Immediate intuitive option vs. slower systematic choice.
 - Scenes compare resulting outcomes and errors.
-    
+
     Raises awareness of biased storytelling mental models.
-    
+
 
 ### 3. **Socratic Mentor NPC**
 
@@ -54,14 +54,14 @@ Thomas Jefferson’s Secret to Learning Anything Deeply
 
 ## 1. What Jefferson (and Cognitive Science) Teach Us about “Deep Learning”
 
-**A. Jefferson’s Habits**  
-• Mind-Palace Library  
-  – He built a “rolling collection” of thousands of books—his “little mountains”—and mentally mapped them for quick lookup.  
-• Active Note-Taking & Self-Quizzing  
-  – Every evening he’d copy passages into a “Commonplace Book,” then test himself on their arguments.  
-• Dialogues with Self  
-  – He’d explain new ideas out loud as if teaching an invisible student—precursor to the “Feynman Technique.”  
-• Cross-Pollination  
+**A. Jefferson’s Habits**
+• Mind-Palace Library
+  – He built a “rolling collection” of thousands of books—his “little mountains”—and mentally mapped them for quick lookup.
+• Active Note-Taking & Self-Quizzing
+  – Every evening he’d copy passages into a “Commonplace Book,” then test himself on their arguments.
+• Dialogues with Self
+  – He’d explain new ideas out loud as if teaching an invisible student—precursor to the “Feynman Technique.”
+• Cross-Pollination
   – He’d jump from architecture → agriculture → political theory → natural history, forcing his brain to make novel connections.
 
 **B. Modern Memory Science (Make It Stick, Moonwalking with Einstein, et al.)**

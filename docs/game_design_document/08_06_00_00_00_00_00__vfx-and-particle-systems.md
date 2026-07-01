@@ -16,7 +16,7 @@
 
 - Reactive VFX tied to world simulation: wind patterns, pollen bursts, seasonal storms, ash from fires
 - Localized events (e.g., forest fire) alter regional lighting, VFX density, and skybox hues
-- 
+-
 
 **🧰 Tools for VFX & Simulation:**
 

@@ -30,55 +30,55 @@ Enable players to initiate their own goals, shape their experiences, and experie
 ### 3. Designer Responsibilities
 
 - **Abdicate Authorship Where Appropriate**
-    
+
     Allow players to surprise you. Script frameworks, but leave space for emergent play [pure.tue.nl](https://pure.tue.nl/ws/files/3895781/784813.pdf?utm_source=chatgpt.com).
-    
+
 - **Zone of Proximal Autonomy**
-    
+
     Begin with gentle guidance and progressively widen player options—aiding autonomy as competence grows [selfdeterminationtheory.org+15pure.tue.nl+15reddit.com+15](https://pure.tue.nl/ws/files/3895781/784813.pdf?utm_source=chatgpt.com).
-    
+
 - **Mechanic Feedback Alignment**
-    
+
     Align interface, audio, and narrative feedback to choices—reinforcing that player action matters [en.wikipedia.org+12usv.edu+12arxiv.org+12](https://usv.edu/blog/understanding-player-motivation-in-game-design/?utm_source=chatgpt.com).
-    
+
 - **Multiple Valid Solutions**
-    
+
     Provide flexible challenges solvable via different styles: combat, diplomacy, stealth, crafting, etc .
-    
+
 
 ---
 
 ### 4. In-Game Examples
 
 - **Emergent Sims (e.g., Deus Ex, Dishonored):**
-    
+
     Offer intact systems and tools—players craft solutions (stealth, brute force, hacking) and dynamically influence world response [gamerslearn.com+3en.wikipedia.org+3en.wikipedia.org+3](https://en.wikipedia.org/wiki/Emergent_gameplay?utm_source=chatgpt.com).
-    
+
 - **Branching Narrative (e.g., Visual Novels):**
-    
+
     Permit diverse outcomes and character arcs based on meaningful dialogue and morality choices [en.wikipedia.org+1usv.edu+1](https://en.wikipedia.org/wiki/Nonlinear_gameplay?utm_source=chatgpt.com).
-    
+
 - **Sandbox Worlds (e.g., Minecraft, Stellaris):**
-    
+
     Player-defined objectives supported by robust systems that yield emergent narratives and personal stories.
-    
+
 
 ---
 
 ### 5. Benefits of Player Autonomy
 
 - **Increased Engagement & Motivation:**
-    
+
     Satisfying autonomy enhances investment in gameplay and supports sustained motivation per SDT [en.wikipedia.org+15usv.edu+15reddit.com+15](https://usv.edu/blog/understanding-player-motivation-in-game-design/?utm_source=chatgpt.com).
-    
+
 - **Emergent Narrative & Replayability:**
-    
+
     Diverse play patterns create unique experiences that encourage replay and creative expression.
-    
+
 - **Player Ownership & Emotional Resonance:**
-    
+
     When players author their own goals and struggle with real consequences, experiences feel more personal and rewarding.
-    
+
 
 ---
 
@@ -95,21 +95,21 @@ Enable players to initiate their own goals, shape their experiences, and experie
 ### 7. Integrating Player Autonomy in Our GDD
 
 - **Core Loop Elements:**
-    
+
     *Decision → Systemic Reaction → Feedback → New Options*
-    
+
 - **Mechanics Required:**
     - Branch tracker for player decisions
     - Procedural system responses (e.g., AI adapting to playstyle)
     - Choice-impact UI layer (e.g., flags, world state indicators)
 - **Narrative Structure:**
-    
+
     Modular scenario design with optional side arcs, each evolving based on player agency.
-    
+
 - **Progression Design:**
-    
+
     Unlock systems that expand autonomy over time—new skills, tools, areas—based on player-driven criteria.
-    
+
 
 ---
 

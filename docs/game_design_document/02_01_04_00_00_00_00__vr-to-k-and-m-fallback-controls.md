@@ -122,6 +122,6 @@ void UInteractionComponent::TickComponent(...) {
 ### 🧩 Final Thoughts
 
 > The goal is not to mimic VR perfectly, but to preserve intention, rhythm, and feel.
-> 
+>
 
 Where VR is about physicality and space, KB&M is about timing, cursor flow, and tactile responsiveness through feedback. Focus on clarity, responsiveness, and intuitive metaphors over 1:1 fidelity.

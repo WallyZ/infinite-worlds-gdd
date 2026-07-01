@@ -33,17 +33,17 @@ CBT is a structured, evidence-based approach that identifies and challenges nega
 **Key CBT Techniques:**
 
 - **Thought Recording:**
-    
+
     Keep a diary where you log specific negative thoughts, the situations in which they occur, and your emotional responses. This helps in spotting recurring distortions.
-    
+
 - **Socratic Questioning:**
-    
+
     Challenge those negative thoughts by asking questions like: "What is the evidence for this thought?" or "Can I see an alternative perspective?" This method leads to cognitive restructuring.
-    
+
 - **Behavioral Experiments:**
-    
+
     Design small experiments to test the predictions of your negative thoughts. For example, if you assume you’ll fail at a task, plan a small project to challenge that assumption and record the outcome.
-    
+
 
 **Implementation:**
 
@@ -63,17 +63,17 @@ Neuroplasticity is the brain's ability to reorganize itself by forming new neura
 **Techniques Include:**
 
 - **Learning New Skills:**
-    
+
     Challenge yourself to learn something new—such as a new language, musical instrument, or even novel software. Such activities stimulate brain regions associated with memory, attention, and problem-solving [^4^].
-    
+
 - **Playing Video Games:**
-    
+
     Certain video games can improve motor coordination, visual recognition, and problem-solving abilities. Not only do they provide fun, but they also offer a unique form of cognitive training that encourages resilience and adaptability [^5^].
-    
+
 - **Creative Activities:**
-    
+
     Artistic endeavors, like drawing, writing, or even improvisational activities, can establish fresh networks in the brain. Creativity forces you to think outside the box, which disrupts habitual thought patterns.
-    
+
 
 **Implementation:**
 

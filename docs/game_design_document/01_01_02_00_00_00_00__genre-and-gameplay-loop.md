@@ -12,7 +12,7 @@
 ### 🔄 **Gameplay Loop Summary**
 
 > You awaken alone in a vast, unfamiliar land. No quests. No map markers. Just your wits, your senses, and a living world that doesn't wait for you.
-> 
+>
 
 **Moment-to-moment gameplay:**
 
@@ -30,7 +30,7 @@
 - Reclaim forgotten knowledge, seek out echoes of your past life, or confront consequences you set in motion generations ago.
 
 > Infinite Worlds is not just about survival—it’s about significance.
-> 
-> 
+>
+>
 > One life. Infinite echoes.
 >

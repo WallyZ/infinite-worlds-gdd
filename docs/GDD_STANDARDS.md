@@ -62,6 +62,27 @@ Allowed top-level exception:
 
 The filename section key and H1 section number must agree.
 
+## Markdown Format Standard
+
+This repo imports the dependency-free Markdown guard from `F:\dev\00-repo-kit`.
+
+Markdown files must:
+
+- use UTF-8 text
+- have no trailing whitespace outside fenced code blocks
+- use spaces instead of tabs outside fenced code blocks
+- end with a final newline
+- have balanced fenced code blocks
+- have terminated YAML frontmatter when frontmatter is present
+
+Run the formatter before committing broad Markdown edits:
+
+```powershell
+python .\scripts\markdown_format_guard.py --fix README.md AGENTS.md docs
+```
+
+The verifier runs the same guard in check mode through `.\scripts\codex-verify.ps1`.
+
 ## Content Standard For Curated Pages
 
 When source pages are promoted from raw export material into curated GDD pages, they should answer:

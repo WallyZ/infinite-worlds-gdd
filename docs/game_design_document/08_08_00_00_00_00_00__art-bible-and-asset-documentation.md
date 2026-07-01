@@ -31,7 +31,7 @@
 ### 1. **Gritty Naturalism**
 
 > "The world feels lived-in, harsh, and grounded in real biology and physics."
-> 
+>
 - Realistic lighting and materials (PBR, subsurface skin, rust, moss).
 - Weathering, grime, and age visible on most surfaces.
 - Environmental storytelling through erosion, decay, growth, and use.
@@ -44,7 +44,7 @@
 ### 2. **Tamed by Time, Not by Man**
 
 > "Nature is dominant—civilization is carved from it, not over it."
-> 
+>
 - Overgrown ruins, encroaching vegetation, twisted roots reclaiming roads.
 - Towns and shelters feel temporary or defiant—fighting nature’s pull.
 - Even “safe” places show signs of the wilderness pushing back (mold, damp wood, critters).
@@ -56,7 +56,7 @@
 ### 3. **Mysticism in the Mundane**
 
 > "Magic exists subtly in the world—woven into its biology and decay."
-> 
+>
 - Bioluminescence in natural flora/fauna, or subtle ambient magical glows.
 - Enchanted items don’t scream neon—they shimmer gently, pulsing like a heartbeat.
 - Spirits, psionics, or ancient tech blend into nature, often mistaken as natural phenomena.
@@ -68,7 +68,7 @@
 ### 4. **Diegetic Immersion**
 
 > "The world is your interface—everything belongs."
-> 
+>
 - In-world UI as scrolls, tomes, magical glyphs, crystal interfaces, or physical gestures.
 - Inventory, maps, spell menus—all diegetic and tangible.
 - Floating or glowing UI elements are anchored by in-game logic (e.g., spirit guides, magical tattoos, talking artifacts).
@@ -80,7 +80,7 @@
 ### 5. **Divergence Through Discovery**
 
 > "As your knowledge grows, the world becomes visually clearer."
-> 
+>
 - Plants, tools, and ingredients look generic at first, gaining detail as player knowledge increases.
 - Alchemical or psionic effects become more vibrant with player mastery.
 - Subtle HUD-like visual cues appear only after deep learning or attunement.
@@ -92,7 +92,7 @@
 ### 6. **Elemental Forces, Unbound**
 
 > "Magic, psionics, and nature are kinetic, volatile, and reactive."
-> 
+>
 - Spells feel like natural forces—fire chars terrain, gravity bends foliage, wind reshapes sand.
 - Psionic effects distort the visual field—ripples, hallucinations, focus lensing.
 - Magical power isn’t clean—it burns, sparks, bleeds, or consumes.
@@ -104,7 +104,7 @@
 ## 7. **Cultural Contrast**
 
 > "Regional identities shape visuals—language, color, armor, craft, climate."
-> 
+>
 - Every region has distinct silhouettes, materials, and decorative logic.
 - Tribal mountain armor differs wildly from coastal merchant gear.
 
@@ -115,7 +115,7 @@
 ### 8. **Light as Lore**
 
 > "Color and light carry meaning: they warn, guide, and tempt."
-> 
+>
 - Magical colors have meanings (e.g., blue = tranquility, red = danger, gold = divinity).
 - Ancient places use light and shadow to indicate pathways, power, or danger.
 
@@ -268,11 +268,11 @@ Visual Pillars/
 If you're prototyping with AI tools (for internal use, not final art):
 
 - **Midjourney / DALL·E / Firefly / Leonardo.Ai**: Generate prompts like
-    
+
     `“overgrown medieval tower reclaimed by forest, moss, vines, fog, hyperrealistic”`
-    
+
     `“ancient ritual stones with glowing runes, blue bioluminescence, twilight forest”`
-    
+
 - Prompt crafting can help build "theme packs" for your boards quickly and consistently.
 
 ---
@@ -348,7 +348,7 @@ If you're prototyping with AI tools (for internal use, not final art):
 Try this prompt in any of the tools above:
 
 > "Moss-covered medieval ruin deep in a foggy forest, bioluminescent vines, broken stone arches, glowing magical symbols, cinematic lighting, ultra-detailed fantasy environment"
-> 
+>
 
 ## 🧱🧠 Free AI Tools for 3D Asset Generation (As of 2025)
 
