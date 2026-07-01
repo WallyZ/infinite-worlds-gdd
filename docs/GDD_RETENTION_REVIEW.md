@@ -7,7 +7,7 @@ Observed on 2026-07-01 after source migration:
 | Surface | Files | Bytes | Decision |
 | --- | ---: | ---: | --- |
 | `docs/game_design_document/` | 666 | 5,765,066 | Keep as working GDD source set. |
-| `merged_gdd.txt` | 1 | 855,746 | Keep as lightweight full-text search aggregate. |
+| `docs/index/GDD_SOURCE_INDEX.md` | 1 | generated | Keep as generated section index and full-text search snapshot. |
 | `docs/index/gdd_filename_migration.json` | 1 | generated | Keep for old-name to new-name provenance. |
 | `Notion_backup/` | 0 | 0 | Removed by owner; no longer required by verifier. |
 
@@ -17,11 +17,15 @@ The previous `Notion_backup/` zip was archive-only. Its contents matched the Mar
 
 Now that the GDD source has moved to `docs/game_design_document/`, the backup is no longer part of the repo contract.
 
+## Removed Merged Text Decision
+
+The previous root `merged_gdd.txt` duplicated source Markdown for broad keyword discovery. Its search role now lives in the generated `docs/index/GDD_SOURCE_INDEX.md` full-text snapshot, so the standalone root file is no longer part of the repo contract.
+
 ## Keep
 
 - `docs/game_design_document/`: main source surface.
-- `merged_gdd.txt`: broad keyword search and quick review.
-- `docs/index/`: generated source map and provenance.
+- `docs/index/GDD_SOURCE_INDEX.md`: broad keyword search, quick review, and section map.
+- `docs/index/`: generated structured source map and provenance.
 - `docs/*.md`: standards, retention, structure review, and navigation decisions.
 
 ## Do Not Move Here

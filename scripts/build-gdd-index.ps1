@@ -123,6 +123,7 @@ function New-GddIndex {
 
     $migrationByNewFile = Get-MigrationByNewFile
     $records = @()
+    $rawByFile = @{}
     foreach ($file in $markdownFiles) {
         $raw = Get-Content -LiteralPath $file.FullName -Raw
         $heading = Get-HeadingInfo -Raw $raw -FileName $file.Name
@@ -134,6 +135,7 @@ function New-GddIndex {
         $parts = @($fileSection -split "\.")
         $relativePath = Get-PortablePath -Path ($sourceRootRelative + "\" + $file.Name)
         $migration = $migrationByNewFile[$relativePath]
+        $rawByFile[$relativePath] = $raw
 
         $records += [pscustomobject]@{
             section = $fileSection
@@ -177,6 +179,7 @@ function New-GddIndex {
     $md.Add("- Source root: ``$sourceRootPortable/``")
     $md.Add('- Structured index: `docs/index/gdd_source_index.json`')
     $md.Add('- Filename migration map: `docs/index/gdd_filename_migration.json`')
+    $md.Add('- Full-text source snapshot: included below in this file')
     $md.Add("")
     $md.Add("## Top-Level Sections")
     $md.Add("")
@@ -205,9 +208,37 @@ function New-GddIndex {
         }
     }
 
+    $md.Add("")
+    $md.Add("## Full-Text Search Snapshot")
+    $md.Add("")
+    $md.Add("This generated section replaces the old root `merged_gdd.txt` broad keyword search artifact. It is rebuilt from `docs/game_design_document/` by `scripts/build-gdd-index.ps1`.")
+    foreach ($record in ($records | Sort-Object sort_key, file)) {
+        $fileName = Split-Path -Leaf $record.file
+        $link = ConvertTo-RelativeMarkdownLink -FileName $fileName
+        $recordTitle = ConvertTo-MarkdownTableCell -Value $record.title
+        $linkLabel = ConvertTo-MarkdownLinkLabel -Value $fileName
+        $raw = $rawByFile[$record.file]
+
+        $md.Add("")
+        $md.Add("### $($record.section) - $recordTitle")
+        $md.Add("")
+        $md.Add("Source: [$linkLabel]($link)")
+        if (-not [string]::IsNullOrWhiteSpace($record.original_file)) {
+            $md.Add("Original export: ``$($record.original_file)``")
+        }
+        $md.Add("")
+        $md.Add("<!-- GDD_SOURCE_TEXT_BEGIN $($record.file) -->")
+        foreach ($line in ($raw -split "\r?\n")) {
+            $md.Add($line)
+        }
+        $md.Add("<!-- GDD_SOURCE_TEXT_END $($record.file) -->")
+    }
+
     $jsonObject = [ordered]@{
         generated_by = "scripts/build-gdd-index.ps1"
         source_root = $sourceRootPortable
+        markdown_index = "docs/index/GDD_SOURCE_INDEX.md"
+        full_text_snapshot = "docs/index/GDD_SOURCE_INDEX.md#full-text-search-snapshot"
         markdown_file_count = $records.Count
         sections = $sectionSummaries
         files = $records

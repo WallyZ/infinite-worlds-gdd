@@ -29,7 +29,7 @@ Use the smallest search surface that answers the task:
 
 1. Start with `docs/CODEX_GDD_NAVIGATION.md`.
 2. Use `docs/index/GDD_SOURCE_INDEX.md` to identify the specific source files.
-3. Search `merged_gdd.txt` only for broad keyword discovery.
+3. Search `docs/index/GDD_SOURCE_INDEX.md` for broad keyword discovery; it includes the generated full-text source snapshot.
 4. Open source files in `docs/game_design_document/` only after narrowing the topic.
 5. Use `docs/GDD_STANDARDS.md` before renaming, renumbering, merging, or splitting GDD material.
 

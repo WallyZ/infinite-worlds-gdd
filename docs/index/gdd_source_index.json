@@ -1,6 +1,8 @@
 {
   "generated_by": "scripts/build-gdd-index.ps1",
   "source_root": "docs/game_design_document",
+  "markdown_index": "docs/index/GDD_SOURCE_INDEX.md",
+  "full_text_snapshot": "docs/index/GDD_SOURCE_INDEX.md#full-text-search-snapshot",
   "markdown_file_count": 658,
   "sections": [
     {

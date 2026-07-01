@@ -11,8 +11,8 @@ The Unreal implementation repo remains `F:\dev\infinite-worlds`.
 | Path | Role | Keep | Notes |
 | --- | --- | --- | --- |
 | `docs/game_design_document/` | Authoritative working GDD source set | Yes | Sortable, normalized filenames. Source bodies remain export-derived. |
-| `merged_gdd.txt` | Full-text search aggregate | Yes | Useful for broad keyword discovery. It is not the authority when it differs from source Markdown. |
-| `docs/index/` | Generated navigation and provenance indexes | Yes | Regenerate with `scripts/build-gdd-index.ps1`. |
+| `docs/index/GDD_SOURCE_INDEX.md` | Generated navigation and full-text search snapshot | Yes | Replaces the old root `merged_gdd.txt` aggregate. Regenerate with `scripts/build-gdd-index.ps1`. |
+| `docs/index/` | Generated structured navigation and provenance indexes | Yes | Regenerate with `scripts/build-gdd-index.ps1`. |
 | `docs/` | Curation, standards, retention, navigation notes | Yes | Derived documentation only. |
 | `Notion_backup/` | Removed owner-side backup | No | Removed after confirming it duplicated the Markdown export. |
 
@@ -21,7 +21,6 @@ The Unreal implementation repo remains `F:\dev\infinite-worlds`.
 ```text
 README.md
 AGENTS.md
-merged_gdd.txt
 docs/
   CODEX_GDD_NAVIGATION.md
   GDD_ORGANIZATION.md
@@ -49,6 +48,6 @@ scripts/
 
 ## Current Working Decision
 
-`docs/game_design_document/` plus `merged_gdd.txt` is the active source surface.
+`docs/game_design_document/` is the active source surface, and `docs/index/GDD_SOURCE_INDEX.md` is the generated navigation and broad-search surface.
 
 The next cleanup lane is conceptual curation: resolve duplicate section numbers, orphaned sections, tiny placeholder docs, and cross-section overlap identified in `docs/GDD_STRUCTURE_REVIEW.md`.

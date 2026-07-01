@@ -43,7 +43,6 @@ try {
     Assert-RepoPath "AGENTS.md"
     Assert-RepoPath ".gitignore"
     Assert-RepoPath "docs\game_design_document"
-    Assert-RepoPath "merged_gdd.txt"
     Assert-RepoPath "docs\CODEX_GDD_NAVIGATION.md"
     Assert-RepoPath "docs\GDD_ORGANIZATION.md"
     Assert-RepoPath "docs\GDD_RETENTION_REVIEW.md"
@@ -65,9 +64,9 @@ try {
         throw "GDD source filenames do not match the sortable naming standard: $($badNames[0].Name)"
     }
 
-    $merged = Get-Item -LiteralPath (Join-Path $repoRoot "merged_gdd.txt")
-    if ($merged.Length -eq 0) {
-        throw "merged_gdd.txt is empty."
+    $legacyMergedPath = Join-Path $repoRoot "merged_gdd.txt"
+    if (Test-Path -LiteralPath $legacyMergedPath) {
+        throw "merged_gdd.txt should not be present. Use docs\index\GDD_SOURCE_INDEX.md for broad keyword search."
     }
 
     Write-VerifyLine "gdd index freshness check started"
@@ -81,9 +80,17 @@ try {
         throw "GDD index freshness check failed with exit code $indexExit."
     }
 
+    $sourceIndex = Get-Content -LiteralPath (Join-Path $repoRoot "docs\index\GDD_SOURCE_INDEX.md") -Raw
+    if ($sourceIndex -notmatch "## Full-Text Search Snapshot") {
+        throw "GDD_SOURCE_INDEX.md is missing the full-text search snapshot."
+    }
+    if ($sourceIndex -notmatch "GDD_SOURCE_TEXT_BEGIN") {
+        throw "GDD_SOURCE_INDEX.md is missing source text blocks."
+    }
+
     Write-VerifyLine "checked Markdown files: $($markdownFiles.Count)"
     Write-VerifyLine "checked GDD filename standard"
-    Write-VerifyLine "checked merged_gdd bytes: $($merged.Length)"
+    Write-VerifyLine "checked GDD source index full-text snapshot"
     Write-VerifyLine "checked GDD index freshness"
     Write-VerifyLine "codex-verify passed"
     exit 0
