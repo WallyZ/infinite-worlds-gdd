@@ -1,6 +1,6 @@
-# 2.1.2.13.1.1.1 Sample Ghost NPC Blueprint Setup
+# 11.2.3.1.1 Sample Ghost NPC Blueprint Setup
 
-# 👻 Sample Ghost NPC Blueprint Setup
+## Sample Ghost NPC Blueprint Setup
 
 ---
 
@@ -58,8 +58,6 @@ You need:
 **Implement: `OnEnterEtherealView`**
 
 ```
-blueprint
-CopyEdit
 → Set Actor Hidden In Game: false
 → Set Collision Enabled: Query Only
 → Play animation/sound (e.g., ghost fade-in)
@@ -70,8 +68,6 @@ CopyEdit
 **Implement: `OnExitEtherealView`**
 
 ```
-blueprint
-CopyEdit
 → Set Actor Hidden In Game: true
 → Set Collision Enabled: No Collision
 → Stop animation/sound
@@ -92,8 +88,6 @@ In **AI Behavior Tree or Blueprint logic**, simulate ghost logic:
 **Example:**
 
 ```
-blueprint
-CopyEdit
 Event Begin Play → Delay Random 2–5s → Play "LookAround" Animation
 → Random Float (0–1)
    → If > 0.6 → Play Whisper Sound
@@ -128,8 +122,6 @@ Or a stylized outline (e.g., toon shader) in Ethereal Plane.
 ### 📜 Ghost Dialogue or Quest Trigger
 
 ```
-blueprint
-CopyEdit
 On Player Enter Trigger → If IsInEtherealPlane
 → Display Text: “Who walks among echoes?”
 → Branch to Dialogue Widget or Journal Entry
@@ -141,8 +133,6 @@ On Player Enter Trigger → If IsInEtherealPlane
 ### 🔁 Phasing Animation Example
 
 ```
-blueprint
-CopyEdit
 → Timeline → Control Material Opacity
 → Interp: 0 → 1 (fade in)
 → Optionally attach a “soul mist” particle effect
@@ -156,8 +146,6 @@ CopyEdit
 Structure your **BP_GhostNPC** like this:
 
 ```
-scss
-CopyEdit
 BP_GhostNPC
 ├── EtherealComponent (logic)
 ├── SkeletalMesh (visuals)

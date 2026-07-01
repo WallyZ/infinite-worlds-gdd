@@ -11,7 +11,7 @@ Current findings:
 - 658 Markdown source pages.
 - Maximum hierarchy depth: 7.
 - 12 duplicate section numbers.
-- 1 orphaned section.
+- 0 orphaned sections after the `2.1.2.13.1.1` branch was rehomed under `11.2.3`.
 - 287 very small pages with 20 words or fewer.
 
 ## Numbering Issues
@@ -33,11 +33,14 @@ Duplicate section numbers:
 | `8.7.3` | Atmosphere & Emotion; Texture & Material Authoring |
 | `12.8` | AI-Powered Lore Expansion Toolkits; Substack |
 
-Orphaned section:
+Resolved orphaned section:
 
-| Section | Missing Parent | File |
+| Old Section | New Section | Decision |
 | --- | --- | --- |
-| `2.1.2.13.1.1` | `2.1.2.13.1` | `02_01_02_13_01_01_00__blueprint-and-c-plus-plus.md` |
+| `2.1.2.13.1.1` | `11.2.3.1` | Rehomed as `Ethereal Phasing and Visibility System`, because the content is a full Unreal Blueprint/C++ implementation note for ghost-phase and plane visibility. |
+| `2.1.2.13.1.1.1` | `11.2.3.1.1` | Rehomed as the ghost NPC setup child page under the same technical system. |
+
+This is not a duplicate of `3.10.5 Ethereal Plane`: that page owns world, lore, simulation, and player-facing design, while `11.2.3` owns implementation architecture and testing.
 
 ## Overlap Candidates
 
@@ -53,7 +56,7 @@ These areas should be reviewed before changing section numbers:
 ## Recommended Curation Order
 
 1. Fix duplicate section numbers without moving concepts.
-2. Resolve the orphaned `2.1.2.13.1.1` branch.
+2. Continue duplicate section number repair now that the orphaned `2.1.2.13.1.1` branch is resolved.
 3. Merge or annotate pages with 20 words or fewer.
 4. Decide canonical homes for accessibility, AI/social simulation, magic/psionics, technical implementation, and production/community.
 5. Create curated summary pages for the canonical taxonomy in `docs/GDD_STANDARDS.md`.

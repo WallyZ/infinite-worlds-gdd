@@ -770,7 +770,19 @@ function New-GddContentAudit {
     $md.Add("")
     $md.Add("## Recommended Curation Queue")
     $md.Add("")
-    $md.Add("1. Fix duplicate section numbers and the orphaned branch without changing page content.")
+
+    if (($duplicateSections.Count -gt 0) -and ($orphans.Count -gt 0)) {
+        $md.Add("1. Fix duplicate section numbers and the orphaned branch without changing page content.")
+    }
+    elseif ($duplicateSections.Count -gt 0) {
+        $md.Add("1. Fix duplicate section numbers without changing page content.")
+    }
+    elseif ($orphans.Count -gt 0) {
+        $md.Add("1. Fix orphaned branches without changing page content.")
+    }
+    else {
+        $md.Add("1. Review the next highest-impact structural issue before changing source content.")
+    }
     $md.Add("2. Mark link-index pages as parent summaries or absorb them into stronger parent pages.")
     $md.Add("3. Consolidate duplicate title groups and high-score similar title candidates.")
     $md.Add("4. Expand or absorb stub/thin pages, starting with pages under 20 words.")

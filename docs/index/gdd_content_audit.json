@@ -18,15 +18,15 @@
   ],
   "summary": {
     "markdown_files": 658,
-    "total_words": 98025.0,
+    "total_words": 98105.0,
     "target_areas": 12,
     "duplicate_section_numbers": 12,
-    "orphaned_sections": 1,
+    "orphaned_sections": 0,
     "duplicate_title_groups": 4,
     "exact_content_duplicate_groups": 0,
     "similar_title_candidates": 4,
-    "incomplete_or_stub_candidates": 521,
-    "removal_or_merge_candidates": 319,
+    "incomplete_or_stub_candidates": 520,
+    "removal_or_merge_candidates": 318,
     "non_markdown_assets": 8
   },
   "target_area_inventory": [
@@ -86,7 +86,7 @@
     {
       "target_area": "Magic and Supernatural Systems",
       "files": 101,
-      "words": 7911.0,
+      "words": 8011.0,
       "current_top_sections": [
         3,
         4,
@@ -99,7 +99,7 @@
         11,
         15
       ],
-      "stub_or_thin": 87,
+      "stub_or_thin": 86,
       "duplicate_title_groups": 0
     },
     {
@@ -189,9 +189,8 @@
     {
       "target_area": "Technical, Tooling, and QA",
       "files": 42,
-      "words": 9077.0,
+      "words": 9057.0,
       "current_top_sections": [
-        2,
         3,
         4,
         6,
@@ -266,8 +265,8 @@
     {
       "top_section": 2,
       "title": "Core Gameplay Systems",
-      "files": 28,
-      "words": 3887.0,
+      "files": 26,
+      "words": 2700.0,
       "target_area_breakdown": [
         {
           "target_area": "Player Core Rules and Experience",
@@ -283,11 +282,6 @@
           "target_area": "World and Simulation",
           "files": 3,
           "words": 94.0
-        },
-        {
-          "target_area": "Technical, Tooling, and QA",
-          "files": 2,
-          "words": 1187.0
         },
         {
           "target_area": "Art, Audio, UI, and UX",
@@ -310,7 +304,7 @@
       "top_section": 3,
       "title": "Simulation & World Systems",
       "files": 103,
-      "words": 16464.0,
+      "words": 16467.0,
       "target_area_breakdown": [
         {
           "target_area": "World and Simulation",
@@ -320,7 +314,7 @@
         {
           "target_area": "Magic and Supernatural Systems",
           "files": 23,
-          "words": 2460.0
+          "words": 2463.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -698,13 +692,13 @@
     {
       "top_section": 11,
       "title": "Technical Implementation",
-      "files": 27,
-      "words": 6568.0,
+      "files": 29,
+      "words": 7832.0,
       "target_area_breakdown": [
         {
           "target_area": "Technical, Tooling, and QA",
-          "files": 14,
-          "words": 5367.0
+          "files": 16,
+          "words": 6534.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -714,7 +708,7 @@
         {
           "target_area": "Magic and Supernatural Systems",
           "files": 2,
-          "words": 15.0
+          "words": 112.0
         },
         {
           "target_area": "Player Core Rules and Experience",
@@ -997,14 +991,7 @@
       ]
     }
   ],
-  "orphaned_sections": [
-    {
-      "section": "2.1.2.13.1.1",
-      "missing_parent": "2.1.2.13.1",
-      "title": "Blueprint and C++",
-      "file": "docs/game_design_document/02_01_02_13_01_01_00__blueprint-and-c-plus-plus.md"
-    }
-  ],
+  "orphaned_sections": [],
   "duplicate_title_groups": [
     {
       "title_key": "enemy encyclopedia tracking player curated learned",
@@ -2651,17 +2638,6 @@
       "title": "Interaction Cues",
       "file": "docs/game_design_document/10_10_03_00_00_00_00__interaction-cues.md",
       "target_area": "Player Core Rules and Experience",
-      "words": 8,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "11.2.3",
-      "title": "Ghost Phase / Plane Visibility Logic",
-      "file": "docs/game_design_document/11_02_03_00_00_00_00__ghost-phase-plane-visibility-logic.md",
-      "target_area": "Magic and Supernatural Systems",
       "words": 8,
       "flags": [
         "stub-20-words-or-less",
@@ -7865,15 +7841,6 @@
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
     },
     {
-      "section": "11.2.3",
-      "title": "Ghost Phase / Plane Visibility Logic",
-      "file": "docs/game_design_document/11_02_03_00_00_00_00__ghost-phase-plane-visibility-logic.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 8,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
       "section": "11.2.8",
       "title": "Player Inventory & VR Hand Interactions",
       "file": "docs/game_design_document/11_02_08_00_00_00_00__player-inventory-and-vr-hand-interactions.md",
@@ -10193,22 +10160,6 @@
       ]
     },
     {
-      "section": "2.1.2.13.1.1",
-      "title": "Blueprint and C++",
-      "file": "docs/game_design_document/02_01_02_13_01_01_00__blueprint-and-c-plus-plus.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 689,
-      "flags": []
-    },
-    {
-      "section": "2.1.2.13.1.1.1",
-      "title": "Sample Ghost NPC Blueprint Setup",
-      "file": "docs/game_design_document/02_01_02_13_01_01_01__sample-ghost-npc-blueprint-setup.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 498,
-      "flags": []
-    },
-    {
       "section": "2.1.3",
       "title": "Environmental Interaction",
       "file": "docs/game_design_document/02_01_03_00_00_00_00__environmental-interaction.md",
@@ -11061,7 +11012,7 @@
       "title": "Ethereal Plane",
       "file": "docs/game_design_document/03_10_05_00_00_00_00__ethereal-plane.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 946,
+      "words": 949,
       "flags": []
     },
     {
@@ -15034,11 +14985,24 @@
       "title": "Ghost Phase / Plane Visibility Logic",
       "file": "docs/game_design_document/11_02_03_00_00_00_00__ghost-phase-plane-visibility-logic.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 8,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
+      "words": 105,
+      "flags": []
+    },
+    {
+      "section": "11.2.3.1",
+      "title": "Ethereal Phasing and Visibility System",
+      "file": "docs/game_design_document/11_02_03_01_00_00_00__ethereal-phasing-and-visibility-system.md",
+      "target_area": "Technical, Tooling, and QA",
+      "words": 682,
+      "flags": []
+    },
+    {
+      "section": "11.2.3.1.1",
+      "title": "Sample Ghost NPC Blueprint Setup",
+      "file": "docs/game_design_document/11_02_03_01_01_00_00__sample-ghost-npc-blueprint-setup.md",
+      "target_area": "Technical, Tooling, and QA",
+      "words": 485,
+      "flags": []
     },
     {
       "section": "11.2.4",

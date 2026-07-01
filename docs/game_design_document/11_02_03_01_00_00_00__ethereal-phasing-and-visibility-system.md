@@ -1,6 +1,6 @@
-# 2.1.2.13.1.1 Blueprint and C++
+# 11.2.3.1 Ethereal Phasing and Visibility System
 
-# 🌀 Ethereal Phasing & Visibility System
+## Ethereal Phasing and Visibility System
 
 *For Unreal Engine 5.6 (Blueprint and C++)*
 
@@ -32,8 +32,6 @@
 ## 🌌 1. Enum: `EPlaneState`
 
 ```cpp
-cpp
-CopyEdit
 UENUM(BlueprintType)
 enum class EPlaneState : uint8
 {
@@ -50,8 +48,6 @@ enum class EPlaneState : uint8
 Attached to **any actor** that can phase.
 
 ```cpp
-cpp
-CopyEdit
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class YOURGAME_API UEtherealComponent : public UActorComponent
 {
@@ -101,8 +97,6 @@ protected:
 Marks objects that should only be visible/interactive while in Ethereal.
 
 ```cpp
-cpp
-CopyEdit
 UINTERFACE(BlueprintType)
 class UEtherealDetectable : public UInterface
 {
@@ -140,8 +134,6 @@ Coordinates transitions globally, used for:
 - Shared shader effect triggering
 
 ```cpp
-cpp
-CopyEdit
 UCLASS()
 class YOURGAME_API AEtherealManager : public AActor
 {
@@ -218,4 +210,4 @@ public:
 | World geometry layering | Ghost overlays do not block player while phased |
 | Physics in Ethereal | Gravity toggle, ghost movement, phasing walls |
 
-[2.1.2.13.1.1.1 Sample Ghost NPC Blueprint Setup](02_01_02_13_01_01_01__sample-ghost-npc-blueprint-setup.md)
+[11.2.3.1.1 Sample Ghost NPC Blueprint Setup](11_02_03_01_01_00_00__sample-ghost-npc-blueprint-setup.md)
