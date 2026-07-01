@@ -74,3 +74,17 @@ Some practitioners transcend a single Discipline, combining elements into hybrid
 [4.1.2.8 Illusion – Perception, Belief, Dreamwork](04_01_02_08_00_00_00__illusion-perception-belief-dreamwork.md)
 
 [4.1.2.9 Psionic-Magical Hybrids (Overlap with Section 4.3)](4%201%202%209%20Psionic-Magical%20Hybrids%20(Overlap%20with%20Sect%20226b227cadd7809dba0ed0535070edbb.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [4.1.2.1 Evocation - The Art of Elemental Force](04_01_02_01_00_00_00__evocation-the-art-of-elemental-force.md)
+- [4.1.2.2 Divination – Seeing Through Time and Soul](04_01_02_02_00_00_00__divination-seeing-through-time-and-soul.md)
+- [4.1.2.3 Necromancy – Spirit, Decay & Memory](04_01_02_03_00_00_00__necromancy-spirit-decay-and-memory.md)
+- [4.1.2.4 Transmutation – Shape, Form, and Flow](04_01_02_04_00_00_00__transmutation-shape-form-and-flow.md)
+- [4.1.2.5 Abjuration – Warding, Protection, Binding](04_01_02_05_00_00_00__abjuration-warding-protection-binding.md)
+- [4.1.2.6 Enchantment – Mind, Emotion, Influence](04_01_02_06_00_00_00__enchantment-mind-emotion-influence.md)
+- [4.1.2.7 Conjuration – Summoning, Portals, Manifestation](04_01_02_07_00_00_00__conjuration-summoning-portals-manifestation.md)
+- [4.1.2.8 Illusion – Perception, Belief, Dreamwork](04_01_02_08_00_00_00__illusion-perception-belief-dreamwork.md)
+- [4.1.2.9 Psionic-Magical Hybrids (Overlap with Section 4.3)](04_01_02_09_00_00_00__psionic-magical-hybrids-overlap-with-section-4-3.md)
+<!-- GDD_CHILD_LINKS_END -->

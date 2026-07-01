@@ -456,3 +456,13 @@ Keep the pieces loosely coupled so you can extend or swap any part.
 [4.2.4 Sanity & Feedback Mechanics](04_02_04_00_00_00_00__sanity-and-feedback-mechanics.md)
 
 [4.2.5 Psionic Discipline Archetypes](04_02_05_00_00_00_00__psionic-discipline-archetypes.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [4.2.1 Overview & Separation from Magic](04_02_01_00_00_00_00__overview-and-separation-from-magic.md)
+- [4.2.2 Power Source: Mind, Emotion, Will](04_02_02_00_00_00_00__power-source-mind-emotion-will.md)
+- [4.2.3 Core Psionic Abilities (Telepathy, Psychometry, etc.)](04_02_03_00_00_00_00__core-psionic-abilities-telepathy-psychometry-etc.md)
+- [4.2.4 Sanity & Feedback Mechanics](04_02_04_00_00_00_00__sanity-and-feedback-mechanics.md)
+- [4.2.5 Psionic Discipline Archetypes](04_02_05_00_00_00_00__psionic-discipline-archetypes.md)
+<!-- GDD_CHILD_LINKS_END -->

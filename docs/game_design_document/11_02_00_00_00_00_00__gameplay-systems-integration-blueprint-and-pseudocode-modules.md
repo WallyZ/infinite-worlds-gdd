@@ -23,3 +23,17 @@ Start writing **pseudocode headers** for key systems: NPC Memory, Detection Logi
 [11.2.8 Player Inventory & VR Hand Interactions](11_02_08_00_00_00_00__player-inventory-and-vr-hand-interactions.md)
 
 [11.2.9 Psionic & Gesture-Based Spellcasting Framework](11_02_09_00_00_00_00__psionic-and-gesture-based-spellcasting-framework.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [11.2.1 World Generation & Biome Simulation](11_02_01_00_00_00_00__world-generation-and-biome-simulation.md)
+- [11.2.2 Skill System & Discovery Progression](11_02_02_00_00_00_00__skill-system-and-discovery-progression.md)
+- [11.2.3 Ghost Phase / Plane Visibility Logic](11_02_03_00_00_00_00__ghost-phase-plane-visibility-logic.md)
+- [11.2.4 Stealth Detection (vision/audio/odor)](11_02_04_00_00_00_00__stealth-detection-vision-audio-odor.md)
+- [11.2.5 Emotion Simulation & NPC Reactions](11_02_05_00_00_00_00__emotion-simulation-and-npc-reactions.md)
+- [11.2.6 Crafting Stations & Logic Nodes](11_02_06_00_00_00_00__crafting-stations-and-logic-nodes.md)
+- [11.2.7 Dungeon Randomization & Memory Echoes](11_02_07_00_00_00_00__dungeon-randomization-and-memory-echoes.md)
+- [11.2.8 Player Inventory & VR Hand Interactions](11_02_08_00_00_00_00__player-inventory-and-vr-hand-interactions.md)
+- [11.2.9 Psionic & Gesture-Based Spellcasting Framework](11_02_09_00_00_00_00__psionic-and-gesture-based-spellcasting-framework.md)
+<!-- GDD_CHILD_LINKS_END -->

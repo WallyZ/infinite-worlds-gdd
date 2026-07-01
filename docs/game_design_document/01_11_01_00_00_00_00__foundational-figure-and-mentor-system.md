@@ -86,3 +86,19 @@ Mentors continue to shape the experience throughout the game in layered, evolvin
 | Narrative replayability | Different mentors lead to different world interpretations and outcomes |
 | Immersive inner voice | Mentor echoes become part of the player’s internal narrative |
 | Long-term growth reflection | Mentor system evolves with player actions and choices |
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [1.11.1.1 Minecraft](01_11_01_01_00_00_00__minecraft.md)
+- [1.11.1.2 The Elder Scrolls III: Morrowind](01_11_01_02_00_00_00__the-elder-scrolls-iii-morrowind.md)
+- [1.11.1.3 Project Zomboid](01_11_01_03_00_00_00__project-zomboid.md)
+- [1.11.1.4 Dwarf Fortress](01_11_01_04_00_00_00__dwarf-fortress.md)
+- [1.11.1.5 Kingdom Come: Deliverance](01_11_01_05_00_00_00__kingdom-come-deliverance.md)
+- [1.11.1.6 Kingdom Come: Deliverance 2](01_11_01_06_00_00_00__kingdom-come-deliverance-2.md)
+- [1.11.1.7 RimWorld](01_11_01_07_00_00_00__rimworld.md)
+- [1.11.1.8 Destiny & Destiny 2](01_11_01_08_00_00_00__destiny-and-destiny-2.md)
+- [1.11.1.9 Escape from Tarkov](01_11_01_09_00_00_00__escape-from-tarkov.md)
+- [1.11.1.10 Ultima Online](01_11_01_10_00_00_00__ultima-online.md)
+- [1.11.1.11 Arma 3](01_11_01_11_00_00_00__arma-3.md)
+<!-- GDD_CHILD_LINKS_END -->

@@ -18,3 +18,13 @@ How enemy types are constructed, how they think, and how they evolve.
 [5.5.4 Planar/Corrupted Variants](05_05_04_00_00_00_00__planar-corrupted-variants.md)
 
 [5.5.5 Creature Ecology-Based AI](05_05_05_00_00_00_00__creature-ecology-based-ai.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [5.5.1 Enemy Roles (Tank, Swarm, Controller, etc.)](05_05_01_00_00_00_00__enemy-roles-tank-swarm-controller-etc.md)
+- [5.5.2 Behavioral Templates & Faction Intelligence](05_05_02_00_00_00_00__behavioral-templates-and-faction-intelligence.md)
+- [5.5.3 Unique Boss Mechanics](05_05_03_00_00_00_00__unique-boss-mechanics.md)
+- [5.5.4 Planar/Corrupted Variants](05_05_04_00_00_00_00__planar-corrupted-variants.md)
+- [5.5.5 Creature Ecology-Based AI](05_05_05_00_00_00_00__creature-ecology-based-ai.md)
+<!-- GDD_CHILD_LINKS_END -->

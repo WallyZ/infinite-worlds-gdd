@@ -16,3 +16,15 @@ This system transforms death from punishment into **meaningful presence**, makin
 [1.3.6 Sample Pseudocode for a Legacy Trigger System](01_03_06_00_00_00_00__sample-pseudocode-for-a-legacy-trigger-system.md)
 
 [1.3.7 MVP → Full Vision Implementation Roadmap](01_03_07_00_00_00_00__mvp-full-vision-implementation-roadmap.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [1.3.1 Emotional & Narrative Intent](01_03_01_00_00_00_00__emotional-and-narrative-intent.md)
+- [1.3.2 Core Systems Overview (Player Impact → Legacy)](01_03_02_00_00_00_00__core-systems-overview-player-impact-legacy.md)
+- [1.3.3 Mechanical Systems of Legacy](01_03_03_00_00_00_00__mechanical-systems-of-legacy.md)
+- [1.3.4 AI & World Reaction Systems](01_03_04_00_00_00_00__ai-and-world-reaction-systems.md)
+- [1.3.5 VR-Specific Enhancements](01_03_05_00_00_00_00__vr-specific-enhancements.md)
+- [1.3.6 Sample Pseudocode for a Legacy Trigger System](01_03_06_00_00_00_00__sample-pseudocode-for-a-legacy-trigger-system.md)
+- [1.3.7 MVP → Full Vision Implementation Roadmap](01_03_07_00_00_00_00__mvp-full-vision-implementation-roadmap.md)
+<!-- GDD_CHILD_LINKS_END -->

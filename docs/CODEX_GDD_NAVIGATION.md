@@ -15,8 +15,10 @@ This repo is the Infinite Worlds GDD source repository. Use this file first so C
 
 - `docs/index/GDD_SOURCE_INDEX.md`: generated table of contents plus full-text source snapshot for keyword search.
 - `docs/index/GDD_CONTENT_AUDIT.md`: generated content audit for organization, duplication, stubs, overlap, and merge/remove review.
+- `docs/index/GDD_DOCUMENT_FIT_AUDIT.md`: generated document-fit audit for title/content review signals and parent-child link coverage.
 - `docs/index/gdd_source_index.json`: structured version of the same index for scripts and tooling.
 - `docs/index/gdd_content_audit.json`: structured content audit for scripts and future curation tooling.
+- `docs/index/gdd_document_fit_audit.json`: structured document-fit audit for scripts and future curation tooling.
 - `docs/index/gdd_filename_migration.json`: old Notion export names mapped to current sortable names.
 - `docs/game_design_document/`: authoritative working Markdown source set.
 
@@ -46,4 +48,5 @@ This repo is the Infinite Worlds GDD source repository. Use this file first so C
 - Use `docs/GDD_TARGET_STRUCTURE.md` as the curated library target.
 - Do not put Unreal implementation TODOs in this repo; those belong in `F:\dev\infinite-worlds`.
 - Regenerate indexes with `.\scripts\build-gdd-index.ps1` and `.\scripts\build-gdd-content-audit.ps1` after source files change.
+- Regenerate document-fit coverage with `.\scripts\build-gdd-document-fit-audit.ps1` after source files or parent links change.
 - Use `.\scripts\codex-verify.ps1` before committing GDD repo changes.

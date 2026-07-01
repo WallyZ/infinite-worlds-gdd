@@ -108,3 +108,14 @@ Below are proposed diagrams and visual interfaces to support intuitive, immersiv
 [2.1.5 Immersive Feedback Systems (Visual, Audio, Haptics)](2%201%205%20Immersive%20Feedback%20Systems%20(Visual,%20Audio,%20H%20220b227cadd780e0854cdbf8cbde9594.md)
 
 [2.1.6 Posture, Balance & Fatigue Simulation](02_01_06_00_00_00_00__posture-balance-and-fatigue-simulation.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [2.1.1 Full-Body VR Movement & Physicality](02_01_01_00_00_00_00__full-body-vr-movement-and-physicality.md)
+- [2.1.2 Environmental Navigation: Climbing, Swimming, Crawling, Flying](02_01_02_00_00_00_00__environmental-navigation-climbing-swimming-crawling-flying.md)
+- [2.1.3 Environmental Interaction](02_01_03_00_00_00_00__environmental-interaction.md)
+- [2.1.4 VR to K&M Fallback Controls](02_01_04_00_00_00_00__vr-to-k-and-m-fallback-controls.md)
+- [2.1.5 Immersive Feedback Systems (Visual, Audio, Haptics)](02_01_05_00_00_00_00__immersive-feedback-systems-visual-audio-haptics.md)
+- [2.1.6 Posture, Balance & Fatigue Simulation](02_01_06_00_00_00_00__posture-balance-and-fatigue-simulation.md)
+<!-- GDD_CHILD_LINKS_END -->

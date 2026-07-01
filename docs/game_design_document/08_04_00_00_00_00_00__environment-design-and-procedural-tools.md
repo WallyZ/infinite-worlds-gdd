@@ -43,3 +43,11 @@ The look and feel of the living world, both static and dynamic.
 [8.3.3 Dungeon, Ruin & Underground Style](08_03_03_00_00_00_00__dungeon-ruin-and-underground-style.md)
 
 [8.3.4 Procedural Tools & Terrain Generation](08_03_04_00_00_00_00__procedural-tools-and-terrain-generation.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [8.4.1 Fonts & Typography](08_04_01_00_00_00_00__fonts-and-typography.md)
+- [8.4.2 Icons & World Symbols](08_04_02_00_00_00_00__icons-and-world-symbols.md)
+- [8.4.3 Magical & Ritual Markings](08_04_03_00_00_00_00__magical-and-ritual-markings.md)
+<!-- GDD_CHILD_LINKS_END -->

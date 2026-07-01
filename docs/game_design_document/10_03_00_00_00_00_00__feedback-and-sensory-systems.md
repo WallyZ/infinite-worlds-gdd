@@ -7,3 +7,11 @@ How the world talks back to the player across all senses.
 [10.3.2 Audio Feedback](10_03_02_00_00_00_00__audio-feedback.md)
 
 [10.3.3 Visual Feedback](10_03_03_00_00_00_00__visual-feedback.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [10.3.1 Haptic Feedback (VR)](10_03_01_00_00_00_00__haptic-feedback-vr.md)
+- [10.3.2 Audio Feedback](10_03_02_00_00_00_00__audio-feedback.md)
+- [10.3.3 Visual Feedback](10_03_03_00_00_00_00__visual-feedback.md)
+<!-- GDD_CHILD_LINKS_END -->

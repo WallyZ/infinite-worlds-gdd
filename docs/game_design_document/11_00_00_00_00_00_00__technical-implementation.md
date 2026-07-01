@@ -67,3 +67,23 @@
 [11.14 Analytics & Balancing Tools](11_14_00_00_00_00_00__analytics-and-balancing-tools.md)
 
 [11.15 Security, Anti-Cheat & Exploit Protection](11_15_00_00_00_00_00__security-anti-cheat-and-exploit-protection.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [11.1 Modular Architecture](11_01_00_00_00_00_00__modular-architecture.md)
+- [11.2 Gameplay Systems Integration (Blueprint & Pseudocode Modules)](11_02_00_00_00_00_00__gameplay-systems-integration-blueprint-and-pseudocode-modules.md)
+- [11.3 Networking & Persistence](11_03_00_00_00_00_00__networking-and-persistence.md)
+- [11.4 AI Architecture](11_04_00_00_00_00_00__ai-architecture.md)
+- [11.5 Save & Cloud Sync](11_05_00_00_00_00_00__save-and-cloud-sync.md)
+- [11.6 Simulation Time Controller](11_06_00_00_00_00_00__simulation-time-controller.md)
+- [11.7 Future-Proofing & Modular Scalability](11_07_00_00_00_00_00__future-proofing-and-modular-scalability.md)
+- [11.8 Cloud Simulation & Asynchronous World Tasks](11_08_00_00_00_00_00__cloud-simulation-and-asynchronous-world-tasks.md)
+- [11.9 Cross-Platform & Standalone Scaling](11_09_00_00_00_00_00__cross-platform-and-standalone-scaling.md)
+- [11.10 Modding Support & Community Tools](11_10_00_00_00_00_00__modding-support-and-community-tools.md)
+- [11.11 Performance Optimization](11_11_00_00_00_00_00__performance-optimization.md)
+- [11.12 Input & Control Layer](11_12_00_00_00_00_00__input-and-control-layer.md)
+- [11.13 Testing & Debugging Tools](11_13_00_00_00_00_00__testing-and-debugging-tools.md)
+- [11.14 Analytics & Balancing Tools](11_14_00_00_00_00_00__analytics-and-balancing-tools.md)
+- [11.15 Security, Anti-Cheat & Exploit Protection](11_15_00_00_00_00_00__security-anti-cheat-and-exploit-protection.md)
+<!-- GDD_CHILD_LINKS_END -->

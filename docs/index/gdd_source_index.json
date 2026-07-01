@@ -16,36 +16,36 @@
       "section": 1,
       "title": "Game Overview",
       "files": 68,
-      "bytes": 219051.0,
-      "words": 30043.0
+      "bytes": 222308.0,
+      "words": 30262.0
     },
     {
       "section": 2,
       "title": "Core Gameplay Systems",
       "files": 26,
-      "bytes": 19913.0,
-      "words": 2700.0
+      "bytes": 21445.0,
+      "words": 2795.0
     },
     {
       "section": 3,
       "title": "Simulation & World Systems",
       "files": 98,
-      "bytes": 147834.0,
-      "words": 16547.0
+      "bytes": 152201.0,
+      "words": 16831.0
     },
     {
       "section": 4,
       "title": "Magic, Psionics & Ritual Systems",
       "files": 78,
-      "bytes": 47419.0,
-      "words": 6080.0
+      "bytes": 54741.0,
+      "words": 6561.0
     },
     {
       "section": 5,
       "title": "Combat and Detection Systems",
       "files": 62,
-      "bytes": 34839.0,
-      "words": 4166.0
+      "bytes": 38113.0,
+      "words": 4381.0
     },
     {
       "section": 6,
@@ -58,15 +58,15 @@
       "section": 7,
       "title": "Artificial Intelligence",
       "files": 51,
-      "bytes": 30528.0,
-      "words": 3843.0
+      "bytes": 31262.0,
+      "words": 3890.0
     },
     {
       "section": 8,
       "title": "Art & Visual Design",
       "files": 43,
-      "bytes": 43050.0,
-      "words": 6105.0
+      "bytes": 45710.0,
+      "words": 6287.0
     },
     {
       "section": 9,
@@ -79,22 +79,22 @@
       "section": 10,
       "title": "UI, UX & Immersion",
       "files": 40,
-      "bytes": 9080.0,
-      "words": 1019.0
+      "bytes": 9380.0,
+      "words": 1040.0
     },
     {
       "section": 11,
       "title": "Technical Implementation",
       "files": 29,
-      "bytes": 58169.0,
-      "words": 7832.0
+      "bytes": 60862.0,
+      "words": 8000.0
     },
     {
       "section": 12,
       "title": "Community & Monetization",
       "files": 36,
-      "bytes": 42247.0,
-      "words": 5676.0
+      "bytes": 42837.0,
+      "words": 5722.0
     },
     {
       "section": 13,
@@ -157,9 +157,9 @@
       "file": "docs/game_design_document/01_01_00_00_00_00_00__game-summary.md",
       "source_id": "225b227cadd780538251caec84e8d5a0",
       "original_file": "markdown_export/1 1 Game Summary 225b227cadd780538251caec84e8d5a0.md",
-      "bytes": 2207,
-      "lines": 28,
-      "words": 286
+      "bytes": 2554,
+      "lines": 36,
+      "words": 310
     },
     {
       "section": "1.1.1",
@@ -213,9 +213,9 @@
       "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
       "source_id": "215b227cadd780b78682e84e2e44945b",
       "original_file": "markdown_export/1 2 Vision Statement & Core Pillars 215b227cadd780b78682e84e2e44945b.md",
-      "bytes": 480,
-      "lines": 10,
-      "words": 31
+      "bytes": 998,
+      "lines": 19,
+      "words": 67
     },
     {
       "section": "1.2.1",
@@ -283,9 +283,9 @@
       "file": "docs/game_design_document/01_03_00_00_00_00_00__death-and-permanence-one-life-echoing-through-eternity.md",
       "source_id": "214b227cadd780efbd65c36daa39b048",
       "original_file": "markdown_export/1 3 Death & Permanence One Life, Echoing Through E 214b227cadd780efbd65c36daa39b048.md",
-      "bytes": 1294,
-      "lines": 19,
-      "words": 121
+      "bytes": 2129,
+      "lines": 31,
+      "words": 178
     },
     {
       "section": "1.3.1",
@@ -759,9 +759,9 @@
       "file": "docs/game_design_document/01_11_01_00_00_00_00__foundational-figure-and-mentor-system.md",
       "source_id": "229b227cadd780deb06bf83fcdd19747",
       "original_file": "markdown_export/1 11 1 Foundational Figure & Mentor System 229b227cadd780deb06bf83fcdd19747.md",
-      "bytes": 5802,
-      "lines": 89,
-      "words": 821
+      "bytes": 6721,
+      "lines": 105,
+      "words": 880
     },
     {
       "section": "1.11.1.1",
@@ -1011,9 +1011,9 @@
       "file": "docs/game_design_document/01_11_03_00_00_00_00__learning-as-remembering-and-practicing.md",
       "source_id": "22eb227cadd7805eb4b3cc3f47a55183",
       "original_file": "markdown_export/1 11 3 Learning as Remembering & Practicing 22eb227cadd7805eb4b3cc3f47a55183.md",
-      "bytes": 1077,
-      "lines": 16,
-      "words": 95
+      "bytes": 1715,
+      "lines": 26,
+      "words": 138
     },
     {
       "section": "1.11.3.1",
@@ -1109,9 +1109,9 @@
       "file": "docs/game_design_document/02_01_00_00_00_00_00__movement-interaction-and-sensory-immersion.md",
       "source_id": "20eb227cadd7808a9c0ef6a99d8d4008",
       "original_file": "markdown_export/2 1 Movement, Interaction & Sensory Immersion 20eb227cadd7808a9c0ef6a99d8d4008.md",
-      "bytes": 4684,
-      "lines": 111,
-      "words": 585
+      "bytes": 5475,
+      "lines": 122,
+      "words": 634
     },
     {
       "section": "2.1.1",
@@ -1207,9 +1207,9 @@
       "file": "docs/game_design_document/02_02_00_00_00_00_00__player-growth-skills-and-learning.md",
       "source_id": "220b227cadd7805a864dddf8ff4b5790",
       "original_file": "markdown_export/2 2 Player Growth, Skills & Learning 220b227cadd7805a864dddf8ff4b5790.md",
-      "bytes": 716,
-      "lines": 14,
-      "words": 39
+      "bytes": 1457,
+      "lines": 25,
+      "words": 85
     },
     {
       "section": "2.2.1",
@@ -1473,9 +1473,9 @@
       "file": "docs/game_design_document/03_01_00_00_00_00_00__world-generation-and-biomes.md",
       "source_id": "21db227cadd780339b89d43d106f37cf",
       "original_file": "markdown_export/3 1 World Generation & Biomes 21db227cadd780339b89d43d106f37cf.md",
-      "bytes": 6421,
-      "lines": 92,
-      "words": 832
+      "bytes": 6931,
+      "lines": 100,
+      "words": 866
     },
     {
       "section": "3.1.1",
@@ -1753,9 +1753,9 @@
       "file": "docs/game_design_document/03_05_00_00_00_00_00__enemy-types-and-ecological-roles.md",
       "source_id": "212b227cadd780ad8587ed091fd1fbaf",
       "original_file": "markdown_export/3 5 Enemy Types & Ecological Roles 212b227cadd780ad8587ed091fd1fbaf.md",
-      "bytes": 6050,
-      "lines": 84,
-      "words": 798
+      "bytes": 6841,
+      "lines": 94,
+      "words": 849
     },
     {
       "section": "3.5.1",
@@ -1865,9 +1865,9 @@
       "file": "docs/game_design_document/03_06_00_00_00_00_00__settlements-construction-and-civilization-logic.md",
       "source_id": "214b227cadd78064b42aef8df4a4fca6",
       "original_file": "markdown_export/3 6 Settlements, Construction & Civilization Logic 214b227cadd78064b42aef8df4a4fca6.md",
-      "bytes": 1104,
-      "lines": 14,
-      "words": 80
+      "bytes": 1864,
+      "lines": 24,
+      "words": 127
     },
     {
       "section": "3.6.1",
@@ -2061,9 +2061,9 @@
       "file": "docs/game_design_document/03_08_00_00_00_00_00__economic-simulation-and-trade-networks.md",
       "source_id": "222b227cadd78009adc1da81d1bfc4f6",
       "original_file": "markdown_export/3 8 Economic Simulation & Trade Networks 222b227cadd78009adc1da81d1bfc4f6.md",
-      "bytes": 707,
-      "lines": 14,
-      "words": 46
+      "bytes": 1378,
+      "lines": 24,
+      "words": 90
     },
     {
       "section": "3.8.1",
@@ -2215,9 +2215,9 @@
       "file": "docs/game_design_document/03_10_00_00_00_00_00__world-physics-and-planar-systems.md",
       "source_id": "21db227cadd7801392d5d047ff14cee2",
       "original_file": "markdown_export/3 10 World Physics & Planar Systems 21db227cadd7801392d5d047ff14cee2.md",
-      "bytes": 6715,
-      "lines": 126,
-      "words": 810
+      "bytes": 8350,
+      "lines": 147,
+      "words": 918
     },
     {
       "section": "3.10.1",
@@ -2859,9 +2859,9 @@
       "file": "docs/game_design_document/04_01_01_00_00_00_00__magic-practitioner-archetypes.md",
       "source_id": "216b227cadd7807cb473fdb28212340c",
       "original_file": "markdown_export/4 1 1 Magic Practitioner Archetypes 216b227cadd7807cb473fdb28212340c.md",
-      "bytes": 765,
-      "lines": 17,
-      "words": 49
+      "bytes": 1367,
+      "lines": 28,
+      "words": 87
     },
     {
       "section": "4.1.1.1",
@@ -2957,9 +2957,9 @@
       "file": "docs/game_design_document/04_01_02_00_00_00_00__magic-schools-and-disciplines.md",
       "source_id": "216b227cadd78089b6d0f6b05fe7e26a",
       "original_file": "markdown_export/4 1 2 Magic Schools & Disciplines 216b227cadd78089b6d0f6b05fe7e26a.md",
-      "bytes": 5441,
-      "lines": 77,
-      "words": 643
+      "bytes": 6615,
+      "lines": 91,
+      "words": 721
     },
     {
       "section": "4.1.2.1",
@@ -3097,9 +3097,9 @@
       "file": "docs/game_design_document/04_01_03_00_00_00_00__magic-resource-system.md",
       "source_id": "21eb227cadd7800bad92f93e86ba8dbf",
       "original_file": "markdown_export/4 1 3 Magic Resource System 21eb227cadd7800bad92f93e86ba8dbf.md",
-      "bytes": 389,
-      "lines": 8,
-      "words": 23
+      "bytes": 807,
+      "lines": 16,
+      "words": 52
     },
     {
       "section": "4.1.3.1",
@@ -3153,9 +3153,9 @@
       "file": "docs/game_design_document/04_01_04_00_00_00_00__spellcasting-input-systems.md",
       "source_id": "21eb227cadd780a799c9de88ce0037e8",
       "original_file": "markdown_export/4 1 4 Spellcasting Input Systems 21eb227cadd780a799c9de88ce0037e8.md",
-      "bytes": 515,
-      "lines": 10,
-      "words": 32
+      "bytes": 1068,
+      "lines": 19,
+      "words": 71
     },
     {
       "section": "4.1.4.1",
@@ -3279,9 +3279,9 @@
       "file": "docs/game_design_document/04_01_06_00_00_00_00__magical-consequences.md",
       "source_id": "21eb227cadd780959761cf1e905a6827",
       "original_file": "markdown_export/4 1 6 Magical Consequences 21eb227cadd780959761cf1e905a6827.md",
-      "bytes": 418,
-      "lines": 8,
-      "words": 22
+      "bytes": 866,
+      "lines": 16,
+      "words": 51
     },
     {
       "section": "4.1.6.1",
@@ -3377,9 +3377,9 @@
       "file": "docs/game_design_document/04_01_08_00_00_00_00__magical-ai-behavior.md",
       "source_id": "226b227cadd780788cf9fdd176938411",
       "original_file": "markdown_export/4 1 8 Magical AI Behavior 226b227cadd780788cf9fdd176938411.md",
-      "bytes": 317,
-      "lines": 6,
-      "words": 19
+      "bytes": 656,
+      "lines": 13,
+      "words": 43
     },
     {
       "section": "4.1.8.1",
@@ -3419,9 +3419,9 @@
       "file": "docs/game_design_document/04_02_00_00_00_00_00__psionics-mental-and-soul-powers.md",
       "source_id": "20fb227cadd78045bf5cccb0ae3bc404",
       "original_file": "markdown_export/4 2 Psionics Mental & Soul Powers 20fb227cadd78045bf5cccb0ae3bc404.md",
-      "bytes": 18951,
-      "lines": 459,
-      "words": 2762
+      "bytes": 19574,
+      "lines": 469,
+      "words": 2803
     },
     {
       "section": "4.2.1",
@@ -3489,9 +3489,9 @@
       "file": "docs/game_design_document/04_02_05_00_00_00_00__psionic-discipline-archetypes.md",
       "source_id": "226b227cadd7805ca0d8fccd683bfea5",
       "original_file": "markdown_export/4 2 5 Psionic Discipline Archetypes 226b227cadd7805ca0d8fccd683bfea5.md",
-      "bytes": 584,
-      "lines": 10,
-      "words": 23
+      "bytes": 1077,
+      "lines": 19,
+      "words": 53
     },
     {
       "section": "4.2.5.1",
@@ -3559,9 +3559,9 @@
       "file": "docs/game_design_document/04_03_00_00_00_00_00__rituals-language-and-symbol-systems.md",
       "source_id": "215b227cadd780918c2bf5eafce64e52",
       "original_file": "markdown_export/4 3 Rituals, Language & Symbol Systems 215b227cadd780918c2bf5eafce64e52.md",
-      "bytes": 855,
-      "lines": 16,
-      "words": 49
+      "bytes": 1643,
+      "lines": 27,
+      "words": 99
     },
     {
       "section": "4.3.1",
@@ -3657,9 +3657,9 @@
       "file": "docs/game_design_document/04_04_00_00_00_00_00__magical-items-and-artifacts.md",
       "source_id": "225b227cadd780a9aa9fcc7186a85c01",
       "original_file": "markdown_export/4 4 Magical Items & Artifacts 225b227cadd780a9aa9fcc7186a85c01.md",
-      "bytes": 624,
-      "lines": 12,
-      "words": 34
+      "bytes": 1273,
+      "lines": 22,
+      "words": 75
     },
     {
       "section": "4.4.1",
@@ -3741,9 +3741,9 @@
       "file": "docs/game_design_document/04_05_00_00_00_00_00__dream-memory-and-soul-magic.md",
       "source_id": "226b227cadd780ea86fbf40e83da8e3e",
       "original_file": "markdown_export/4 5 Dream, Memory, and Soul Magic 226b227cadd780ea86fbf40e83da8e3e.md",
-      "bytes": 541,
-      "lines": 10,
-      "words": 34
+      "bytes": 1103,
+      "lines": 19,
+      "words": 73
     },
     {
       "section": "4.5.1",
@@ -3811,9 +3811,9 @@
       "file": "docs/game_design_document/04_06_00_00_00_00_00__astral-navigation-and-celestial-runeships.md",
       "source_id": "228b227cadd780ec8ab7f4b8af527b22",
       "original_file": "markdown_export/4 6 Astral Navigation & Celestial Runeships 228b227cadd780ec8ab7f4b8af527b22.md",
-      "bytes": 1568,
-      "lines": 31,
-      "words": 165
+      "bytes": 2241,
+      "lines": 43,
+      "words": 208
     },
     {
       "section": "4.6.1",
@@ -3923,9 +3923,9 @@
       "file": "docs/game_design_document/05_00_00_00_00_00_00__combat-and-detection-systems.md",
       "source_id": "220b227cadd780188ea9ed5b2af8f83c",
       "original_file": "markdown_export/5 Combat and Detection Systems 220b227cadd780188ea9ed5b2af8f83c.md",
-      "bytes": 963,
-      "lines": 22,
-      "words": 57
+      "bytes": 1966,
+      "lines": 37,
+      "words": 126
     },
     {
       "section": "5.1",
@@ -3951,9 +3951,9 @@
       "file": "docs/game_design_document/05_01_01_00_00_00_00__physical-combat.md",
       "source_id": "210b227cadd780a98bbbd217576d04aa",
       "original_file": "markdown_export/5 1 1 Physical Combat 210b227cadd780a98bbbd217576d04aa.md",
-      "bytes": 8655,
-      "lines": 151,
-      "words": 1096
+      "bytes": 9353,
+      "lines": 161,
+      "words": 1142
     },
     {
       "section": "5.1.1.1",
@@ -4161,9 +4161,9 @@
       "file": "docs/game_design_document/05_01_04_00_00_00_00__hybrid-combat-styles.md",
       "source_id": "213b227cadd78013aee8e7e256ca7691",
       "original_file": "markdown_export/5 1 4 Hybrid Combat Styles 213b227cadd78013aee8e7e256ca7691.md",
-      "bytes": 1242,
-      "lines": 25,
-      "words": 128
+      "bytes": 1739,
+      "lines": 33,
+      "words": 160
     },
     {
       "section": "5.1.4.1",
@@ -4385,9 +4385,9 @@
       "file": "docs/game_design_document/05_03_02_00_00_00_00__detection-logic.md",
       "source_id": "226b227cadd780a0914dd0157cc48884",
       "original_file": "markdown_export/5 3 2 Detection Logic 226b227cadd780a0914dd0157cc48884.md",
-      "bytes": 526,
-      "lines": 8,
-      "words": 24
+      "bytes": 1013,
+      "lines": 16,
+      "words": 55
     },
     {
       "section": "5.3.2.1",
@@ -4539,9 +4539,9 @@
       "file": "docs/game_design_document/05_05_00_00_00_00_00__enemy-design-and-behavior.md",
       "source_id": "21eb227cadd780199c58d11c4d5d851b",
       "original_file": "markdown_export/5 5 Enemy Design & Behavior 21eb227cadd780199c58d11c4d5d851b.md",
-      "bytes": 855,
-      "lines": 21,
-      "words": 76
+      "bytes": 1444,
+      "lines": 31,
+      "words": 113
     },
     {
       "section": "5.5.1",
@@ -5701,9 +5701,9 @@
       "file": "docs/game_design_document/07_04_01_00_00_00_00__dynamic-navigation-and-perception.md",
       "source_id": "223b227cadd780709f14c94be0605f44",
       "original_file": "markdown_export/7 4 1 Dynamic Navigation & Perception 223b227cadd780709f14c94be0605f44.md",
-      "bytes": 808,
-      "lines": 17,
-      "words": 63
+      "bytes": 1319,
+      "lines": 26,
+      "words": 94
     },
     {
       "section": "7.4.1.1",
@@ -5715,9 +5715,9 @@
       "file": "docs/game_design_document/07_04_01_01_00_00_00__navigation-mesh-integration.md",
       "source_id": "227b227cadd780aa9c9ef94abda01c2e",
       "original_file": "markdown_export/7 4 1 1 Navigation Mesh Integration 227b227cadd780aa9c9ef94abda01c2e.md",
-      "bytes": 552,
-      "lines": 9,
-      "words": 67
+      "bytes": 775,
+      "lines": 15,
+      "words": 83
     },
     {
       "section": "7.4.1.1.1",
@@ -5939,9 +5939,9 @@
       "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
       "source_id": "20eb227cadd7802e930bfe8f391a8c81",
       "original_file": "markdown_export/8 Art & Visual Design 20eb227cadd7802e930bfe8f391a8c81.md",
-      "bytes": 1058,
-      "lines": 26,
-      "words": 66
+      "bytes": 2139,
+      "lines": 42,
+      "words": 139
     },
     {
       "section": "8.1",
@@ -6065,9 +6065,9 @@
       "file": "docs/game_design_document/08_02_00_00_00_00_00__art-style-reference.md",
       "source_id": "21fb227cadd780ddac96f157a87de643",
       "original_file": "markdown_export/8 2 Art Style Reference 21fb227cadd780ddac96f157a87de643.md",
-      "bytes": 1742,
-      "lines": 39,
-      "words": 241
+      "bytes": 2186,
+      "lines": 48,
+      "words": 270
     },
     {
       "section": "8.2.1",
@@ -6135,9 +6135,9 @@
       "file": "docs/game_design_document/08_03_00_00_00_00_00__character-design-and-animation.md",
       "source_id": "21fb227cadd78024b558fe9d8ff9f2cc",
       "original_file": "markdown_export/8 3 Character Design & Animation 21fb227cadd78024b558fe9d8ff9f2cc.md",
-      "bytes": 2312,
-      "lines": 49,
-      "words": 299
+      "bytes": 2793,
+      "lines": 58,
+      "words": 332
     },
     {
       "section": "8.3.1",
@@ -6205,9 +6205,9 @@
       "file": "docs/game_design_document/08_04_00_00_00_00_00__environment-design-and-procedural-tools.md",
       "source_id": "21fb227cadd7803fa7bbffca11cf114a",
       "original_file": "markdown_export/8 4 Environment Design & Procedural Tools 21fb227cadd7803fa7bbffca11cf114a.md",
-      "bytes": 2443,
-      "lines": 46,
-      "words": 320
+      "bytes": 2778,
+      "lines": 54,
+      "words": 345
     },
     {
       "section": "8.4.1",
@@ -6261,9 +6261,9 @@
       "file": "docs/game_design_document/08_05_00_00_00_00_00__ui-ux-vr-focused-and-diegetic.md",
       "source_id": "215b227cadd7804baa35fdf2d228d4ad",
       "original_file": "markdown_export/8 5 UI UX (VR-Focused & Diegetic) 215b227cadd7804baa35fdf2d228d4ad.md",
-      "bytes": 1559,
-      "lines": 32,
-      "words": 221
+      "bytes": 1878,
+      "lines": 40,
+      "words": 243
     },
     {
       "section": "8.5.1",
@@ -7157,9 +7157,9 @@
       "file": "docs/game_design_document/10_03_00_00_00_00_00__feedback-and-sensory-systems.md",
       "source_id": "227b227cadd780ffa10fc76e7312141f",
       "original_file": "markdown_export/10 3 Feedback & Sensory Systems 227b227cadd780ffa10fc76e7312141f.md",
-      "bytes": 335,
-      "lines": 10,
-      "words": 27
+      "bytes": 635,
+      "lines": 18,
+      "words": 48
     },
     {
       "section": "10.3.1",
@@ -7577,9 +7577,9 @@
       "file": "docs/game_design_document/11_00_00_00_00_00_00__technical-implementation.md",
       "source_id": "216b227cadd7805ab032fdda3159f1ad",
       "original_file": "markdown_export/11 Technical Implementation 216b227cadd7805ab032fdda3159f1ad.md",
-      "bytes": 3776,
-      "lines": 70,
-      "words": 375
+      "bytes": 5353,
+      "lines": 90,
+      "words": 472
     },
     {
       "section": "11.1",
@@ -7605,9 +7605,9 @@
       "file": "docs/game_design_document/11_02_00_00_00_00_00__gameplay-systems-integration-blueprint-and-pseudocode-modules.md",
       "source_id": "21eb227cadd780e4b958c4f9408700f6",
       "original_file": "markdown_export/11 2 Gameplay Systems Integration (Blueprint & Pse 21eb227cadd780e4b958c4f9408700f6.md",
-      "bytes": 1412,
-      "lines": 26,
-      "words": 103
+      "bytes": 2528,
+      "lines": 40,
+      "words": 174
     },
     {
       "section": "11.2.1",
@@ -8109,9 +8109,9 @@
       "file": "docs/game_design_document/12_03_00_00_00_00_00__community-platforms-and-social-strategy.md",
       "source_id": "227b227cadd780859d1dcab996d0b7e3",
       "original_file": "markdown_export/12 3 Community Platforms & Social Strategy 227b227cadd780859d1dcab996d0b7e3.md",
-      "bytes": 577,
-      "lines": 14,
-      "words": 39
+      "bytes": 1167,
+      "lines": 25,
+      "words": 85
     },
     {
       "section": "12.3.1",

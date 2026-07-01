@@ -18,22 +18,22 @@
   ],
   "summary": {
     "markdown_files": 648,
-    "total_words": 98208.0,
+    "total_words": 99966.0,
     "target_areas": 12,
     "duplicate_section_numbers": 0,
     "orphaned_sections": 0,
     "duplicate_title_groups": 4,
     "exact_content_duplicate_groups": 0,
     "similar_title_candidates": 4,
-    "incomplete_or_stub_candidates": 509,
-    "removal_or_merge_candidates": 312,
+    "incomplete_or_stub_candidates": 507,
+    "removal_or_merge_candidates": 306,
     "non_markdown_assets": 8
   },
   "target_area_inventory": [
     {
       "target_area": "Design Control and Overview",
       "files": 74,
-      "words": 30810.0,
+      "words": 31029.0,
       "current_top_sections": [
         0,
         1,
@@ -49,7 +49,7 @@
     {
       "target_area": "Player Core Rules and Experience",
       "files": 61,
-      "words": 4001.0,
+      "words": 4164.0,
       "current_top_sections": [
         2,
         3,
@@ -63,13 +63,13 @@
         13,
         15
       ],
-      "stub_or_thin": 57,
+      "stub_or_thin": 55,
       "duplicate_title_groups": 2
     },
     {
       "target_area": "World and Simulation",
       "files": 49,
-      "words": 10742.0,
+      "words": 10776.0,
       "current_top_sections": [
         2,
         3,
@@ -86,7 +86,7 @@
     {
       "target_area": "Magic and Supernatural Systems",
       "files": 100,
-      "words": 8004.0,
+      "words": 8455.0,
       "current_top_sections": [
         3,
         4,
@@ -99,13 +99,13 @@
         11,
         15
       ],
-      "stub_or_thin": 85,
+      "stub_or_thin": 84,
       "duplicate_title_groups": 0
     },
     {
       "target_area": "Combat and Encounter Systems",
       "files": 53,
-      "words": 3941.0,
+      "words": 4207.0,
       "current_top_sections": [
         2,
         3,
@@ -114,13 +114,13 @@
         6,
         7
       ],
-      "stub_or_thin": 43,
+      "stub_or_thin": 42,
       "duplicate_title_groups": 1
     },
     {
       "target_area": "Items, Crafting, and Settlement",
       "files": 35,
-      "words": 838.0,
+      "words": 914.0,
       "current_top_sections": [
         3,
         4,
@@ -136,7 +136,7 @@
     {
       "target_area": "AI, NPCs, and Factions",
       "files": 77,
-      "words": 11074.0,
+      "words": 11121.0,
       "current_top_sections": [
         2,
         3,
@@ -149,7 +149,7 @@
         11,
         12
       ],
-      "stub_or_thin": 62,
+      "stub_or_thin": 60,
       "duplicate_title_groups": 0
     },
     {
@@ -168,7 +168,7 @@
     {
       "target_area": "Art, Audio, UI, and UX",
       "files": 66,
-      "words": 7219.0,
+      "words": 7409.0,
       "current_top_sections": [
         2,
         3,
@@ -183,13 +183,13 @@
         12,
         15
       ],
-      "stub_or_thin": 55,
+      "stub_or_thin": 54,
       "duplicate_title_groups": 0
     },
     {
       "target_area": "Technical, Tooling, and QA",
       "files": 40,
-      "words": 9067.0,
+      "words": 9304.0,
       "current_top_sections": [
         3,
         4,
@@ -203,26 +203,26 @@
         14,
         15
       ],
-      "stub_or_thin": 25,
+      "stub_or_thin": 24,
       "duplicate_title_groups": 0
     },
     {
       "target_area": "Production, Community, and Publishing",
       "files": 42,
-      "words": 9122.0,
+      "words": 9168.0,
       "current_top_sections": [
         3,
         11,
         12,
         14
       ],
-      "stub_or_thin": 31,
+      "stub_or_thin": 30,
       "duplicate_title_groups": 0
     },
     {
       "target_area": "Appendix and Reference",
       "files": 26,
-      "words": 2092.0,
+      "words": 2121.0,
       "current_top_sections": [
         3,
         5,
@@ -253,12 +253,12 @@
       "top_section": 1,
       "title": "Game Overview",
       "files": 68,
-      "words": 30043.0,
+      "words": 30262.0,
       "target_area_breakdown": [
         {
           "target_area": "Design Control and Overview",
           "files": 68,
-          "words": 30043.0
+          "words": 30262.0
         }
       ]
     },
@@ -266,12 +266,12 @@
       "top_section": 2,
       "title": "Core Gameplay Systems",
       "files": 26,
-      "words": 2700.0,
+      "words": 2795.0,
       "target_area_breakdown": [
         {
           "target_area": "Player Core Rules and Experience",
           "files": 17,
-          "words": 2303.0
+          "words": 2398.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -304,17 +304,17 @@
       "top_section": 3,
       "title": "Simulation & World Systems",
       "files": 98,
-      "words": 16547.0,
+      "words": 16831.0,
       "target_area_breakdown": [
         {
           "target_area": "World and Simulation",
           "files": 38,
-          "words": 10466.0
+          "words": 10500.0
         },
         {
           "target_area": "Magic and Supernatural Systems",
           "files": 22,
-          "words": 2456.0
+          "words": 2564.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -324,12 +324,12 @@
         {
           "target_area": "Combat and Encounter Systems",
           "files": 7,
-          "words": 859.0
+          "words": 910.0
         },
         {
           "target_area": "Items, Crafting, and Settlement",
           "files": 6,
-          "words": 178.0
+          "words": 225.0
         },
         {
           "target_area": "Narrative, Lore, and Quests",
@@ -349,7 +349,7 @@
         {
           "target_area": "Technical, Tooling, and QA",
           "files": 2,
-          "words": 52.0
+          "words": 96.0
         },
         {
           "target_area": "Appendix and Reference",
@@ -367,17 +367,17 @@
       "top_section": 4,
       "title": "Magic, Psionics & Ritual Systems",
       "files": 78,
-      "words": 6080.0,
+      "words": 6561.0,
       "target_area_breakdown": [
         {
           "target_area": "Magic and Supernatural Systems",
           "files": 57,
-          "words": 5194.0
+          "words": 5537.0
         },
         {
           "target_area": "Art, Audio, UI, and UX",
           "files": 6,
-          "words": 544.0
+          "words": 585.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -387,12 +387,12 @@
         {
           "target_area": "Items, Crafting, and Settlement",
           "files": 3,
-          "words": 35.0
+          "words": 64.0
         },
         {
           "target_area": "Player Core Rules and Experience",
           "files": 3,
-          "words": 138.0
+          "words": 206.0
         },
         {
           "target_area": "World and Simulation",
@@ -425,12 +425,12 @@
       "top_section": 5,
       "title": "Combat and Detection Systems",
       "files": 62,
-      "words": 4166.0,
+      "words": 4381.0,
       "target_area_breakdown": [
         {
           "target_area": "Combat and Encounter Systems",
           "files": 38,
-          "words": 2808.0
+          "words": 3023.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -516,12 +516,12 @@
       "top_section": 7,
       "title": "Artificial Intelligence",
       "files": 51,
-      "words": 3843.0,
+      "words": 3890.0,
       "target_area_breakdown": [
         {
           "target_area": "AI, NPCs, and Factions",
           "files": 36,
-          "words": 2966.0
+          "words": 3013.0
         },
         {
           "target_area": "Player Core Rules and Experience",
@@ -564,22 +564,22 @@
       "top_section": 8,
       "title": "Art & Visual Design",
       "files": 43,
-      "words": 6105.0,
+      "words": 6287.0,
       "target_area_breakdown": [
         {
           "target_area": "Art, Audio, UI, and UX",
           "files": 27,
-          "words": 4936.0
+          "words": 5064.0
         },
         {
           "target_area": "Technical, Tooling, and QA",
           "files": 5,
-          "words": 594.0
+          "words": 619.0
         },
         {
           "target_area": "Appendix and Reference",
           "files": 3,
-          "words": 353.0
+          "words": 382.0
         },
         {
           "target_area": "Magic and Supernatural Systems",
@@ -650,12 +650,12 @@
       "top_section": 10,
       "title": "UI, UX & Immersion",
       "files": 40,
-      "words": 1019.0,
+      "words": 1040.0,
       "target_area_breakdown": [
         {
           "target_area": "Art, Audio, UI, and UX",
           "files": 19,
-          "words": 385.0
+          "words": 406.0
         },
         {
           "target_area": "Player Core Rules and Experience",
@@ -693,12 +693,12 @@
       "top_section": 11,
       "title": "Technical Implementation",
       "files": 29,
-      "words": 7832.0,
+      "words": 8000.0,
       "target_area_breakdown": [
         {
           "target_area": "Technical, Tooling, and QA",
           "files": 16,
-          "words": 6534.0
+          "words": 6702.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -746,12 +746,12 @@
       "top_section": 12,
       "title": "Community & Monetization",
       "files": 36,
-      "words": 5676.0,
+      "words": 5722.0,
       "target_area_breakdown": [
         {
           "target_area": "Production, Community, and Publishing",
           "files": 31,
-          "words": 5048.0
+          "words": 5094.0
         },
         {
           "target_area": "AI, NPCs, and Factions",
@@ -3753,17 +3753,6 @@
       ]
     },
     {
-      "section": "4.1.8",
-      "title": "Magical AI Behavior",
-      "file": "docs/game_design_document/04_01_08_00_00_00_00__magical-ai-behavior.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 19,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "6.2.1",
       "title": "Weapon Crafting",
       "file": "docs/game_design_document/06_02_01_00_00_00_00__weapon-crafting.md",
@@ -4136,18 +4125,6 @@
       ]
     },
     {
-      "section": "4.1.6",
-      "title": "Magical Consequences",
-      "file": "docs/game_design_document/04_01_06_00_00_00_00__magical-consequences.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 22,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "4.1.7",
       "title": "Planar & Environmental Influence on Magic",
       "file": "docs/game_design_document/04_01_07_00_00_00_00__planar-and-environmental-influence-on-magic.md",
@@ -4301,30 +4278,6 @@
       ]
     },
     {
-      "section": "4.1.3",
-      "title": "Magic Resource System",
-      "file": "docs/game_design_document/04_01_03_00_00_00_00__magic-resource-system.md",
-      "target_area": "Items, Crafting, and Settlement",
-      "words": 23,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "4.2.5",
-      "title": "Psionic Discipline Archetypes",
-      "file": "docs/game_design_document/04_02_05_00_00_00_00__psionic-discipline-archetypes.md",
-      "target_area": "Player Core Rules and Experience",
-      "words": 23,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "6.4.3",
       "title": "Workshop & Station Building",
       "file": "docs/game_design_document/06_04_03_00_00_00_00__workshop-and-station-building.md",
@@ -4461,18 +4414,6 @@
       "title": "Magical Experimentation",
       "file": "docs/game_design_document/04_01_05_00_00_00_00__magical-experimentation.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 24,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "5.3.2",
-      "title": "Detection Logic",
-      "file": "docs/game_design_document/05_03_02_00_00_00_00__detection-logic.md",
-      "target_area": "Combat and Encounter Systems",
       "words": 24,
       "flags": [
         "thin-75-words-or-less",
@@ -4747,17 +4688,6 @@
       "words": 27,
       "flags": [
         "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "10.3",
-      "title": "Feedback & Sensory Systems",
-      "file": "docs/game_design_document/10_03_00_00_00_00_00__feedback-and-sensory-systems.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 27,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
       ]
     },
     {
@@ -5050,18 +4980,6 @@
       ]
     },
     {
-      "section": "1.2",
-      "title": "Vision Statement & Core Pillars",
-      "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
-      "target_area": "Design Control and Overview",
-      "words": 31,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "2.3.5",
       "title": "World Response & Hidden Depths",
       "file": "docs/game_design_document/02_03_05_00_00_00_00__world-response-and-hidden-depths.md",
@@ -5129,18 +5047,6 @@
       "words": 32,
       "flags": [
         "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "4.1.4",
-      "title": "Spellcasting Input Systems",
-      "file": "docs/game_design_document/04_01_04_00_00_00_00__spellcasting-input-systems.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 32,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -5253,30 +5159,6 @@
       "words": 34,
       "flags": [
         "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "4.4",
-      "title": "Magical Items & Artifacts",
-      "file": "docs/game_design_document/04_04_00_00_00_00_00__magical-items-and-artifacts.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 34,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "4.5",
-      "title": "Dream, Memory, and Soul Magic",
-      "file": "docs/game_design_document/04_05_00_00_00_00_00__dream-memory-and-soul-magic.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 34,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -5510,18 +5392,6 @@
       ]
     },
     {
-      "section": "2.2",
-      "title": "Player Growth, Skills & Learning",
-      "file": "docs/game_design_document/02_02_00_00_00_00_00__player-growth-skills-and-learning.md",
-      "target_area": "Player Core Rules and Experience",
-      "words": 39,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "3.10.11",
       "title": "Positive and Negative Energy Planes",
       "file": "docs/game_design_document/03_10_11_00_00_00_00__positive-and-negative-energy-planes.md",
@@ -5561,18 +5431,6 @@
       "words": 39,
       "flags": [
         "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "12.3",
-      "title": "Community Platforms & Social Strategy",
-      "file": "docs/game_design_document/12_03_00_00_00_00_00__community-platforms-and-social-strategy.md",
-      "target_area": "Production, Community, and Publishing",
-      "words": 39,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -5680,6 +5538,18 @@
       ]
     },
     {
+      "section": "4.1.8",
+      "title": "Magical AI Behavior",
+      "file": "docs/game_design_document/04_01_08_00_00_00_00__magical-ai-behavior.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 43,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
+      ]
+    },
+    {
       "section": "7",
       "title": "Artificial Intelligence",
       "file": "docs/game_design_document/07_00_00_00_00_00_00__artificial-intelligence.md",
@@ -5746,17 +5616,6 @@
       ]
     },
     {
-      "section": "3.8",
-      "title": "Economic Simulation & Trade Networks",
-      "file": "docs/game_design_document/03_08_00_00_00_00_00__economic-simulation-and-trade-networks.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 46,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
-      ]
-    },
-    {
       "section": "3.10.10",
       "title": "Elemental Planes (Fire, Air, Water, Earth)",
       "file": "docs/game_design_document/03_10_10_00_00_00_00__elemental-planes-fire-air-water-earth.md",
@@ -5767,22 +5626,11 @@
       ]
     },
     {
-      "section": "4.1.1",
-      "title": "Magic Practitioner Archetypes",
-      "file": "docs/game_design_document/04_01_01_00_00_00_00__magic-practitioner-archetypes.md",
-      "target_area": "Player Core Rules and Experience",
-      "words": 49,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
-      ]
-    },
-    {
-      "section": "4.3",
-      "title": "Rituals, Language & Symbol Systems",
-      "file": "docs/game_design_document/04_03_00_00_00_00_00__rituals-language-and-symbol-systems.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 49,
+      "section": "10.3",
+      "title": "Feedback & Sensory Systems",
+      "file": "docs/game_design_document/10_03_00_00_00_00_00__feedback-and-sensory-systems.md",
+      "target_area": "Art, Audio, UI, and UX",
+      "words": 48,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page"
@@ -5809,10 +5657,45 @@
       ]
     },
     {
+      "section": "4.1.6",
+      "title": "Magical Consequences",
+      "file": "docs/game_design_document/04_01_06_00_00_00_00__magical-consequences.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 51,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
+      ]
+    },
+    {
+      "section": "4.1.3",
+      "title": "Magic Resource System",
+      "file": "docs/game_design_document/04_01_03_00_00_00_00__magic-resource-system.md",
+      "target_area": "Items, Crafting, and Settlement",
+      "words": 52,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
+      ]
+    },
+    {
       "section": "2.4",
       "title": "Consequences & Memory Systems",
       "file": "docs/game_design_document/02_04_00_00_00_00_00__consequences-and-memory-systems.md",
       "target_area": "AI, NPCs, and Factions",
+      "words": 53,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "4.2.5",
+      "title": "Psionic Discipline Archetypes",
+      "file": "docs/game_design_document/04_02_05_00_00_00_00__psionic-discipline-archetypes.md",
+      "target_area": "Player Core Rules and Experience",
       "words": 53,
       "flags": [
         "thin-75-words-or-less",
@@ -5838,6 +5721,18 @@
       "flags": [
         "thin-75-words-or-less",
         "link-index-page"
+      ]
+    },
+    {
+      "section": "5.3.2",
+      "title": "Detection Logic",
+      "file": "docs/game_design_document/05_03_02_00_00_00_00__detection-logic.md",
+      "target_area": "Combat and Encounter Systems",
+      "words": 55,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -5892,18 +5787,6 @@
       "words": 57,
       "flags": [
         "thin-75-words-or-less"
-      ]
-    },
-    {
-      "section": "5",
-      "title": "Combat and Detection Systems",
-      "file": "docs/game_design_document/05_00_00_00_00_00_00__combat-and-detection-systems.md",
-      "target_area": "Combat and Encounter Systems",
-      "words": 57,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -6028,17 +5911,6 @@
       ]
     },
     {
-      "section": "7.4.1",
-      "title": "Dynamic Navigation & Perception",
-      "file": "docs/game_design_document/07_04_01_00_00_00_00__dynamic-navigation-and-perception.md",
-      "target_area": "AI, NPCs, and Factions",
-      "words": 63,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page"
-      ]
-    },
-    {
       "section": "4.6.5",
       "title": "Risk & Immersion Design",
       "file": "docs/game_design_document/04_06_05_00_00_00_00__risk-and-immersion-design.md",
@@ -6049,25 +5921,15 @@
       ]
     },
     {
-      "section": "8",
-      "title": "Art & Visual Design",
-      "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 66,
+      "section": "1.2",
+      "title": "Vision Statement & Core Pillars",
+      "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
+      "target_area": "Design Control and Overview",
+      "words": 67,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
         "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "7.4.1.1",
-      "title": "Navigation Mesh Integration",
-      "file": "docs/game_design_document/07_04_01_01_00_00_00__navigation-mesh-integration.md",
-      "target_area": "AI, NPCs, and Factions",
-      "words": 67,
-      "flags": [
-        "thin-75-words-or-less"
       ]
     },
     {
@@ -6110,6 +5972,18 @@
       "words": 70,
       "flags": [
         "thin-75-words-or-less"
+      ]
+    },
+    {
+      "section": "4.1.4",
+      "title": "Spellcasting Input Systems",
+      "file": "docs/game_design_document/04_01_04_00_00_00_00__spellcasting-input-systems.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 71,
+      "flags": [
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -6165,22 +6039,25 @@
       ]
     },
     {
-      "section": "5.5",
-      "title": "Enemy Design & Behavior",
-      "file": "docs/game_design_document/05_05_00_00_00_00_00__enemy-design-and-behavior.md",
-      "target_area": "Combat and Encounter Systems",
-      "words": 76,
+      "section": "4.5",
+      "title": "Dream, Memory, and Soul Magic",
+      "file": "docs/game_design_document/04_05_00_00_00_00_00__dream-memory-and-soul-magic.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 73,
       "flags": [
-        "link-index-page"
+        "thin-75-words-or-less",
+        "link-index-page",
+        "heading-only-or-nearly-empty"
       ]
     },
     {
-      "section": "3.6",
-      "title": "Settlements, Construction & Civilization Logic",
-      "file": "docs/game_design_document/03_06_00_00_00_00_00__settlements-construction-and-civilization-logic.md",
-      "target_area": "Items, Crafting, and Settlement",
-      "words": 80,
+      "section": "4.4",
+      "title": "Magical Items & Artifacts",
+      "file": "docs/game_design_document/04_04_00_00_00_00_00__magical-items-and-artifacts.md",
+      "target_area": "Art, Audio, UI, and UX",
+      "words": 75,
       "flags": [
+        "thin-75-words-or-less",
         "link-index-page"
       ]
     },
@@ -6195,11 +6072,51 @@
       ]
     },
     {
+      "section": "2.2",
+      "title": "Player Growth, Skills & Learning",
+      "file": "docs/game_design_document/02_02_00_00_00_00_00__player-growth-skills-and-learning.md",
+      "target_area": "Player Core Rules and Experience",
+      "words": 85,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "12.3",
+      "title": "Community Platforms & Social Strategy",
+      "file": "docs/game_design_document/12_03_00_00_00_00_00__community-platforms-and-social-strategy.md",
+      "target_area": "Production, Community, and Publishing",
+      "words": 85,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
       "section": "5.2.1",
       "title": "Combat AI Logic",
       "file": "docs/game_design_document/05_02_01_00_00_00_00__combat-ai-logic.md",
       "target_area": "Combat and Encounter Systems",
       "words": 86,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "4.1.1",
+      "title": "Magic Practitioner Archetypes",
+      "file": "docs/game_design_document/04_01_01_00_00_00_00__magic-practitioner-archetypes.md",
+      "target_area": "Player Core Rules and Experience",
+      "words": 87,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "3.8",
+      "title": "Economic Simulation & Trade Networks",
+      "file": "docs/game_design_document/03_08_00_00_00_00_00__economic-simulation-and-trade-networks.md",
+      "target_area": "Technical, Tooling, and QA",
+      "words": 90,
       "flags": [
         "link-index-page"
       ]
@@ -6235,11 +6152,11 @@
       ]
     },
     {
-      "section": "1.11.3",
-      "title": "Learning as Remembering & Practicing",
-      "file": "docs/game_design_document/01_11_03_00_00_00_00__learning-as-remembering-and-practicing.md",
-      "target_area": "Design Control and Overview",
-      "words": 95,
+      "section": "7.4.1",
+      "title": "Dynamic Navigation & Perception",
+      "file": "docs/game_design_document/07_04_01_00_00_00_00__dynamic-navigation-and-perception.md",
+      "target_area": "AI, NPCs, and Factions",
+      "words": 94,
       "flags": [
         "link-index-page"
       ]
@@ -6255,11 +6172,21 @@
       ]
     },
     {
-      "section": "11.2",
-      "title": "Gameplay Systems Integration (Blueprint & Pseudocode Modules)",
-      "file": "docs/game_design_document/11_02_00_00_00_00_00__gameplay-systems-integration-blueprint-and-pseudocode-modules.md",
-      "target_area": "Technical, Tooling, and QA",
-      "words": 103,
+      "section": "4.3",
+      "title": "Rituals, Language & Symbol Systems",
+      "file": "docs/game_design_document/04_03_00_00_00_00_00__rituals-language-and-symbol-systems.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 99,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "5.5",
+      "title": "Enemy Design & Behavior",
+      "file": "docs/game_design_document/05_05_00_00_00_00_00__enemy-design-and-behavior.md",
+      "target_area": "Combat and Encounter Systems",
+      "words": 113,
       "flags": [
         "link-index-page"
       ]
@@ -6275,11 +6202,41 @@
       ]
     },
     {
-      "section": "1.3",
-      "title": "Death & Permanence: One Life, Echoing Through Eternity",
-      "file": "docs/game_design_document/01_03_00_00_00_00_00__death-and-permanence-one-life-echoing-through-eternity.md",
+      "section": "5",
+      "title": "Combat and Detection Systems",
+      "file": "docs/game_design_document/05_00_00_00_00_00_00__combat-and-detection-systems.md",
+      "target_area": "Combat and Encounter Systems",
+      "words": 126,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "3.6",
+      "title": "Settlements, Construction & Civilization Logic",
+      "file": "docs/game_design_document/03_06_00_00_00_00_00__settlements-construction-and-civilization-logic.md",
+      "target_area": "Items, Crafting, and Settlement",
+      "words": 127,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "1.11.3",
+      "title": "Learning as Remembering & Practicing",
+      "file": "docs/game_design_document/01_11_03_00_00_00_00__learning-as-remembering-and-practicing.md",
       "target_area": "Design Control and Overview",
-      "words": 121,
+      "words": 138,
+      "flags": [
+        "link-index-page"
+      ]
+    },
+    {
+      "section": "8",
+      "title": "Art & Visual Design",
+      "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
+      "target_area": "Art, Audio, UI, and UX",
+      "words": 139,
       "flags": [
         "link-index-page"
       ]
@@ -6292,6 +6249,16 @@
       "words": 157,
       "flags": [
         "explicit-incomplete-marker"
+      ]
+    },
+    {
+      "section": "11.2",
+      "title": "Gameplay Systems Integration (Blueprint & Pseudocode Modules)",
+      "file": "docs/game_design_document/11_02_00_00_00_00_00__gameplay-systems-integration-blueprint-and-pseudocode-modules.md",
+      "target_area": "Technical, Tooling, and QA",
+      "words": 174,
+      "flags": [
+        "link-index-page"
       ]
     },
     {
@@ -8677,15 +8644,6 @@
       "reason": "stub-20-words-or-less"
     },
     {
-      "section": "4.1.8",
-      "title": "Magical AI Behavior",
-      "file": "docs/game_design_document/04_01_08_00_00_00_00__magical-ai-behavior.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 19,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
       "section": "6.2.1",
       "title": "Weapon Crafting",
       "file": "docs/game_design_document/06_02_01_00_00_00_00__weapon-crafting.md",
@@ -8866,15 +8824,6 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
-      "section": "4.1.6",
-      "title": "Magical Consequences",
-      "file": "docs/game_design_document/04_01_06_00_00_00_00__magical-consequences.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 22,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
       "section": "4.1.7",
       "title": "Planar & Environmental Influence on Magic",
       "file": "docs/game_design_document/04_01_07_00_00_00_00__planar-and-environmental-influence-on-magic.md",
@@ -8893,24 +8842,6 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
-      "section": "4.1.3",
-      "title": "Magic Resource System",
-      "file": "docs/game_design_document/04_01_03_00_00_00_00__magic-resource-system.md",
-      "target_area": "Items, Crafting, and Settlement",
-      "words": 23,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "4.2.5",
-      "title": "Psionic Discipline Archetypes",
-      "file": "docs/game_design_document/04_02_05_00_00_00_00__psionic-discipline-archetypes.md",
-      "target_area": "Player Core Rules and Experience",
-      "words": 23,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
       "section": "15.8",
       "title": "Magical Systems Reference",
       "file": "docs/game_design_document/15_08_00_00_00_00_00__magical-systems-reference.md",
@@ -8924,15 +8855,6 @@
       "title": "Magical Experimentation",
       "file": "docs/game_design_document/04_01_05_00_00_00_00__magical-experimentation.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 24,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "5.3.2",
-      "title": "Detection Logic",
-      "file": "docs/game_design_document/05_03_02_00_00_00_00__detection-logic.md",
-      "target_area": "Combat and Encounter Systems",
       "words": 24,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
@@ -8983,42 +8905,6 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
-      "section": "1.2",
-      "title": "Vision Statement & Core Pillars",
-      "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
-      "target_area": "Design Control and Overview",
-      "words": 31,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "4.1.4",
-      "title": "Spellcasting Input Systems",
-      "file": "docs/game_design_document/04_01_04_00_00_00_00__spellcasting-input-systems.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 32,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "4.4",
-      "title": "Magical Items & Artifacts",
-      "file": "docs/game_design_document/04_04_00_00_00_00_00__magical-items-and-artifacts.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 34,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "4.5",
-      "title": "Dream, Memory, and Soul Magic",
-      "file": "docs/game_design_document/04_05_00_00_00_00_00__dream-memory-and-soul-magic.md",
-      "target_area": "Magic and Supernatural Systems",
-      "words": 34,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
       "section": "1.6",
       "title": "Design Philosophies",
       "file": "docs/game_design_document/01_06_00_00_00_00_00__design-philosophies.md",
@@ -9055,29 +8941,20 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
-      "section": "2.2",
-      "title": "Player Growth, Skills & Learning",
-      "file": "docs/game_design_document/02_02_00_00_00_00_00__player-growth-skills-and-learning.md",
-      "target_area": "Player Core Rules and Experience",
-      "words": 39,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "12.3",
-      "title": "Community Platforms & Social Strategy",
-      "file": "docs/game_design_document/12_03_00_00_00_00_00__community-platforms-and-social-strategy.md",
-      "target_area": "Production, Community, and Publishing",
-      "words": 39,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
       "section": "4",
       "title": "Magic, Psionics & Ritual Systems",
       "file": "docs/game_design_document/04_00_00_00_00_00_00__magic-psionics-and-ritual-systems.md",
       "target_area": "Magic and Supernatural Systems",
       "words": 41,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
+      "section": "4.1.8",
+      "title": "Magical AI Behavior",
+      "file": "docs/game_design_document/04_01_08_00_00_00_00__magical-ai-behavior.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 43,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
@@ -9100,6 +8977,33 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
+      "section": "4.1.6",
+      "title": "Magical Consequences",
+      "file": "docs/game_design_document/04_01_06_00_00_00_00__magical-consequences.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 51,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
+      "section": "4.1.3",
+      "title": "Magic Resource System",
+      "file": "docs/game_design_document/04_01_03_00_00_00_00__magic-resource-system.md",
+      "target_area": "Items, Crafting, and Settlement",
+      "words": 52,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
+      "section": "5.3.2",
+      "title": "Detection Logic",
+      "file": "docs/game_design_document/05_03_02_00_00_00_00__detection-logic.md",
+      "target_area": "Combat and Encounter Systems",
+      "words": 55,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
       "section": "7.1",
       "title": "Core Simulation & Internal Modeling",
       "file": "docs/game_design_document/07_01_00_00_00_00_00__core-simulation-and-internal-modeling.md",
@@ -9109,20 +9013,11 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
-      "section": "5",
-      "title": "Combat and Detection Systems",
-      "file": "docs/game_design_document/05_00_00_00_00_00_00__combat-and-detection-systems.md",
-      "target_area": "Combat and Encounter Systems",
-      "words": 57,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "8",
-      "title": "Art & Visual Design",
-      "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
-      "target_area": "Art, Audio, UI, and UX",
-      "words": 66,
+      "section": "1.2",
+      "title": "Vision Statement & Core Pillars",
+      "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
+      "target_area": "Design Control and Overview",
+      "words": 67,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
@@ -9136,11 +9031,29 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
+      "section": "4.1.4",
+      "title": "Spellcasting Input Systems",
+      "file": "docs/game_design_document/04_01_04_00_00_00_00__spellcasting-input-systems.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 71,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
       "section": "0",
       "title": "Game Design Document (GDD) Infinite Worlds",
       "file": "docs/game_design_document/00_00_00_00_00_00_00__game-design-document-gdd-infinite-worlds.md",
       "target_area": "Design Control and Overview",
       "words": 72,
+      "recommended_action": "merge-or-remove-after-parent-absorption",
+      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
+    },
+    {
+      "section": "4.5",
+      "title": "Dream, Memory, and Soul Magic",
+      "file": "docs/game_design_document/04_05_00_00_00_00_00__dream-memory-and-soul-magic.md",
+      "target_area": "Magic and Supernatural Systems",
+      "words": 73,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     }
@@ -9215,7 +9128,7 @@
       "title": "Game Summary",
       "file": "docs/game_design_document/01_01_00_00_00_00_00__game-summary.md",
       "target_area": "Design Control and Overview",
-      "words": 286,
+      "words": 310,
       "flags": []
     },
     {
@@ -9247,7 +9160,7 @@
       "title": "Vision Statement & Core Pillars",
       "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
       "target_area": "Design Control and Overview",
-      "words": 31,
+      "words": 67,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -9297,10 +9210,8 @@
       "title": "Death & Permanence: One Life, Echoing Through Eternity",
       "file": "docs/game_design_document/01_03_00_00_00_00_00__death-and-permanence-one-life-echoing-through-eternity.md",
       "target_area": "Design Control and Overview",
-      "words": 121,
-      "flags": [
-        "link-index-page"
-      ]
+      "words": 178,
+      "flags": []
     },
     {
       "section": "1.3.1",
@@ -9608,7 +9519,7 @@
       "title": "Foundational Figure & Mentor System",
       "file": "docs/game_design_document/01_11_01_00_00_00_00__foundational-figure-and-mentor-system.md",
       "target_area": "Design Control and Overview",
-      "words": 821,
+      "words": 880,
       "flags": []
     },
     {
@@ -9758,7 +9669,7 @@
       "title": "Learning as Remembering & Practicing",
       "file": "docs/game_design_document/01_11_03_00_00_00_00__learning-as-remembering-and-practicing.md",
       "target_area": "Design Control and Overview",
-      "words": 95,
+      "words": 138,
       "flags": [
         "link-index-page"
       ]
@@ -9820,7 +9731,7 @@
       "title": "Movement, Interaction & Sensory Immersion",
       "file": "docs/game_design_document/02_01_00_00_00_00_00__movement-interaction-and-sensory-immersion.md",
       "target_area": "Player Core Rules and Experience",
-      "words": 585,
+      "words": 634,
       "flags": []
     },
     {
@@ -9886,11 +9797,9 @@
       "title": "Player Growth, Skills & Learning",
       "file": "docs/game_design_document/02_02_00_00_00_00_00__player-growth-skills-and-learning.md",
       "target_area": "Player Core Rules and Experience",
-      "words": 39,
+      "words": 85,
       "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
+        "link-index-page"
       ]
     },
     {
@@ -10075,7 +9984,7 @@
       "title": "World Generation & Biomes",
       "file": "docs/game_design_document/03_01_00_00_00_00_00__world-generation-and-biomes.md",
       "target_area": "World and Simulation",
-      "words": 832,
+      "words": 866,
       "flags": []
     },
     {
@@ -10273,7 +10182,7 @@
       "title": "Enemy Types & Ecological Roles",
       "file": "docs/game_design_document/03_05_00_00_00_00_00__enemy-types-and-ecological-roles.md",
       "target_area": "Combat and Encounter Systems",
-      "words": 798,
+      "words": 849,
       "flags": []
     },
     {
@@ -10352,7 +10261,7 @@
       "title": "Settlements, Construction & Civilization Logic",
       "file": "docs/game_design_document/03_06_00_00_00_00_00__settlements-construction-and-civilization-logic.md",
       "target_area": "Items, Crafting, and Settlement",
-      "words": 80,
+      "words": 127,
       "flags": [
         "link-index-page"
       ]
@@ -10501,9 +10410,8 @@
       "title": "Economic Simulation & Trade Networks",
       "file": "docs/game_design_document/03_08_00_00_00_00_00__economic-simulation-and-trade-networks.md",
       "target_area": "Technical, Tooling, and QA",
-      "words": 46,
+      "words": 90,
       "flags": [
-        "thin-75-words-or-less",
         "link-index-page"
       ]
     },
@@ -10619,7 +10527,7 @@
       "title": "World Physics & Planar Systems",
       "file": "docs/game_design_document/03_10_00_00_00_00_00__world-physics-and-planar-systems.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 810,
+      "words": 918,
       "flags": []
     },
     {
@@ -11075,9 +10983,8 @@
       "title": "Magic Practitioner Archetypes",
       "file": "docs/game_design_document/04_01_01_00_00_00_00__magic-practitioner-archetypes.md",
       "target_area": "Player Core Rules and Experience",
-      "words": 49,
+      "words": 87,
       "flags": [
-        "thin-75-words-or-less",
         "link-index-page"
       ]
     },
@@ -11152,7 +11059,7 @@
       "title": "Magic Schools & Disciplines",
       "file": "docs/game_design_document/04_01_02_00_00_00_00__magic-schools-and-disciplines.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 643,
+      "words": 721,
       "flags": []
     },
     {
@@ -11252,7 +11159,7 @@
       "title": "Magic Resource System",
       "file": "docs/game_design_document/04_01_03_00_00_00_00__magic-resource-system.md",
       "target_area": "Items, Crafting, and Settlement",
-      "words": 23,
+      "words": 52,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -11297,7 +11204,7 @@
       "title": "Spellcasting Input Systems",
       "file": "docs/game_design_document/04_01_04_00_00_00_00__spellcasting-input-systems.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 32,
+      "words": 71,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -11398,7 +11305,7 @@
       "title": "Magical Consequences",
       "file": "docs/game_design_document/04_01_06_00_00_00_00__magical-consequences.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 22,
+      "words": 51,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -11476,9 +11383,10 @@
       "title": "Magical AI Behavior",
       "file": "docs/game_design_document/04_01_08_00_00_00_00__magical-ai-behavior.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 19,
+      "words": 43,
       "flags": [
-        "stub-20-words-or-less",
+        "thin-75-words-or-less",
+        "link-index-page",
         "heading-only-or-nearly-empty"
       ]
     },
@@ -11509,7 +11417,7 @@
       "title": "Psionics: Mental & Soul Powers",
       "file": "docs/game_design_document/04_02_00_00_00_00_00__psionics-mental-and-soul-powers.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 2762,
+      "words": 2803,
       "flags": []
     },
     {
@@ -11561,11 +11469,10 @@
       "title": "Psionic Discipline Archetypes",
       "file": "docs/game_design_document/04_02_05_00_00_00_00__psionic-discipline-archetypes.md",
       "target_area": "Player Core Rules and Experience",
-      "words": 23,
+      "words": 53,
       "flags": [
         "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
+        "link-index-page"
       ]
     },
     {
@@ -11617,9 +11524,8 @@
       "title": "Rituals, Language & Symbol Systems",
       "file": "docs/game_design_document/04_03_00_00_00_00_00__rituals-language-and-symbol-systems.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 49,
+      "words": 99,
       "flags": [
-        "thin-75-words-or-less",
         "link-index-page"
       ]
     },
@@ -11694,11 +11600,10 @@
       "title": "Magical Items & Artifacts",
       "file": "docs/game_design_document/04_04_00_00_00_00_00__magical-items-and-artifacts.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 34,
+      "words": 75,
       "flags": [
         "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
+        "link-index-page"
       ]
     },
     {
@@ -11761,7 +11666,7 @@
       "title": "Dream, Memory, and Soul Magic",
       "file": "docs/game_design_document/04_05_00_00_00_00_00__dream-memory-and-soul-magic.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 34,
+      "words": 73,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -11817,7 +11722,7 @@
       "title": "Astral Navigation & Celestial Runeships",
       "file": "docs/game_design_document/04_06_00_00_00_00_00__astral-navigation-and-celestial-runeships.md",
       "target_area": "Magic and Supernatural Systems",
-      "words": 165,
+      "words": 208,
       "flags": []
     },
     {
@@ -11885,11 +11790,9 @@
       "title": "Combat and Detection Systems",
       "file": "docs/game_design_document/05_00_00_00_00_00_00__combat-and-detection-systems.md",
       "target_area": "Combat and Encounter Systems",
-      "words": 57,
+      "words": 126,
       "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
+        "link-index-page"
       ]
     },
     {
@@ -11908,7 +11811,7 @@
       "title": "Physical Combat",
       "file": "docs/game_design_document/05_01_01_00_00_00_00__physical-combat.md",
       "target_area": "Combat and Encounter Systems",
-      "words": 1096,
+      "words": 1142,
       "flags": []
     },
     {
@@ -12063,7 +11966,7 @@
       "title": "Hybrid Combat Styles",
       "file": "docs/game_design_document/05_01_04_00_00_00_00__hybrid-combat-styles.md",
       "target_area": "Combat and Encounter Systems",
-      "words": 128,
+      "words": 160,
       "flags": []
     },
     {
@@ -12228,7 +12131,7 @@
       "title": "Detection Logic",
       "file": "docs/game_design_document/05_03_02_00_00_00_00__detection-logic.md",
       "target_area": "Combat and Encounter Systems",
-      "words": 24,
+      "words": 55,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page",
@@ -12348,7 +12251,7 @@
       "title": "Enemy Design & Behavior",
       "file": "docs/game_design_document/05_05_00_00_00_00_00__enemy-design-and-behavior.md",
       "target_area": "Combat and Encounter Systems",
-      "words": 76,
+      "words": 113,
       "flags": [
         "link-index-page"
       ]
@@ -13184,9 +13087,8 @@
       "title": "Dynamic Navigation & Perception",
       "file": "docs/game_design_document/07_04_01_00_00_00_00__dynamic-navigation-and-perception.md",
       "target_area": "AI, NPCs, and Factions",
-      "words": 63,
+      "words": 94,
       "flags": [
-        "thin-75-words-or-less",
         "link-index-page"
       ]
     },
@@ -13195,10 +13097,8 @@
       "title": "Navigation Mesh Integration",
       "file": "docs/game_design_document/07_04_01_01_00_00_00__navigation-mesh-integration.md",
       "target_area": "AI, NPCs, and Factions",
-      "words": 67,
-      "flags": [
-        "thin-75-words-or-less"
-      ]
+      "words": 83,
+      "flags": []
     },
     {
       "section": "7.4.1.1.1",
@@ -13353,11 +13253,9 @@
       "title": "Art & Visual Design",
       "file": "docs/game_design_document/08_00_00_00_00_00_00__art-and-visual-design.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 66,
+      "words": 139,
       "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
+        "link-index-page"
       ]
     },
     {
@@ -13435,7 +13333,7 @@
       "title": "Art Style Reference",
       "file": "docs/game_design_document/08_02_00_00_00_00_00__art-style-reference.md",
       "target_area": "Appendix and Reference",
-      "words": 241,
+      "words": 270,
       "flags": []
     },
     {
@@ -13483,7 +13381,7 @@
       "title": "Character Design & Animation",
       "file": "docs/game_design_document/08_03_00_00_00_00_00__character-design-and-animation.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 299,
+      "words": 332,
       "flags": []
     },
     {
@@ -13531,7 +13429,7 @@
       "title": "Environment Design & Procedural Tools",
       "file": "docs/game_design_document/08_04_00_00_00_00_00__environment-design-and-procedural-tools.md",
       "target_area": "Technical, Tooling, and QA",
-      "words": 320,
+      "words": 345,
       "flags": []
     },
     {
@@ -13569,7 +13467,7 @@
       "title": "UI/UX (VR-Focused & Diegetic)",
       "file": "docs/game_design_document/08_05_00_00_00_00_00__ui-ux-vr-focused-and-diegetic.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 221,
+      "words": 243,
       "flags": []
     },
     {
@@ -14203,7 +14101,7 @@
       "title": "Feedback & Sensory Systems",
       "file": "docs/game_design_document/10_03_00_00_00_00_00__feedback-and-sensory-systems.md",
       "target_area": "Art, Audio, UI, and UX",
-      "words": 27,
+      "words": 48,
       "flags": [
         "thin-75-words-or-less",
         "link-index-page"
@@ -14510,7 +14408,7 @@
       "title": "Technical Implementation",
       "file": "docs/game_design_document/11_00_00_00_00_00_00__technical-implementation.md",
       "target_area": "Technical, Tooling, and QA",
-      "words": 375,
+      "words": 472,
       "flags": []
     },
     {
@@ -14528,7 +14426,7 @@
       "title": "Gameplay Systems Integration (Blueprint & Pseudocode Modules)",
       "file": "docs/game_design_document/11_02_00_00_00_00_00__gameplay-systems-integration-blueprint-and-pseudocode-modules.md",
       "target_area": "Technical, Tooling, and QA",
-      "words": 103,
+      "words": 174,
       "flags": [
         "link-index-page"
       ]
@@ -14870,11 +14768,9 @@
       "title": "Community Platforms & Social Strategy",
       "file": "docs/game_design_document/12_03_00_00_00_00_00__community-platforms-and-social-strategy.md",
       "target_area": "Production, Community, and Publishing",
-      "words": 39,
+      "words": 85,
       "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
+        "link-index-page"
       ]
     },
     {

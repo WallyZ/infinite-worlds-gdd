@@ -29,3 +29,11 @@ How the game world conveys meaning without text.
 [8.4.2 Icons & World Symbols](08_04_02_00_00_00_00__icons-and-world-symbols.md)
 
 [8.4.3 Magical & Ritual Markings](08_04_03_00_00_00_00__magical-and-ritual-markings.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [8.5.1 Diegetic UI Elements](08_05_01_00_00_00_00__diegetic-ui-elements.md)
+- [8.5.2 VR-Friendly UX](08_05_02_00_00_00_00__vr-friendly-ux.md)
+- [8.5.3 Accessibility UI Adapters](08_05_03_00_00_00_00__accessibility-ui-adapters.md)
+<!-- GDD_CHILD_LINKS_END -->

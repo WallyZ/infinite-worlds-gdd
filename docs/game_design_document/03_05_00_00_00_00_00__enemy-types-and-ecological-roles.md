@@ -81,3 +81,13 @@ Tension scaling system tied to world events
 [3.5.4 Adaptive Enemies (learn and evolve from player actions)](3%205%204%20Adaptive%20Enemies%20(learn%20and%20evolve%20from%20play%20225b227cadd780cb87bfe57f4b07f61e.md)
 
 [3.5.5 Enemy Encyclopedia & Tracking (player-curated or learned)](3%205%205%20Enemy%20Encyclopedia%20&%20Tracking%20(player-curate%20225b227cadd780c2a19dccd0f39156c2.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [3.5.1 Enemy Classification: Wildlife, Constructs, Aberrations, etc](03_05_01_00_00_00_00__enemy-classification-wildlife-constructs-aberrations-etc.md)
+- [3.5.2 Behavioral Ecology & Spawn Conditions](03_05_02_00_00_00_00__behavioral-ecology-and-spawn-conditions.md)
+- [3.5.3 Enemy Social Systems (hives, packs, lone predators)](03_05_03_00_00_00_00__enemy-social-systems-hives-packs-lone-predators.md)
+- [3.5.4 Adaptive Enemies (learn and evolve from player actions)](03_05_04_00_00_00_00__adaptive-enemies-learn-and-evolve-from-player-actions.md)
+- [3.5.5 Enemy Encyclopedia & Tracking (player-curated or learned)](03_05_05_00_00_00_00__enemy-encyclopedia-and-tracking-player-curated-or-learned.md)
+<!-- GDD_CHILD_LINKS_END -->

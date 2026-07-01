@@ -28,3 +28,15 @@ This system enables **non-technological space travel** that still demands **real
 [4.6.6 Skill Integration](04_06_06_00_00_00_00__skill-integration.md)
 
 [4.6.7 Narrative Potential](04_06_07_00_00_00_00__narrative-potential.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [4.6.1 Core Components](04_06_01_00_00_00_00__core-components.md)
+- [4.6.2 Celestial Runeships (The Vessel)](04_06_02_00_00_00_00__celestial-runeships-the-vessel.md)
+- [4.6.3 Spelljammer Elements Adapted](04_06_03_00_00_00_00__spelljammer-elements-adapted.md)
+- [4.6.4 Gameplay Mechanics in VR](04_06_04_00_00_00_00__gameplay-mechanics-in-vr.md)
+- [4.6.5 Risk & Immersion Design](04_06_05_00_00_00_00__risk-and-immersion-design.md)
+- [4.6.6 Skill Integration](04_06_06_00_00_00_00__skill-integration.md)
+- [4.6.7 Narrative Potential](04_06_07_00_00_00_00__narrative-potential.md)
+<!-- GDD_CHILD_LINKS_END -->

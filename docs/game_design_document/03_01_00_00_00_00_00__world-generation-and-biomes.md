@@ -89,3 +89,11 @@
 [3.1.2 Biome Diversity & Composition (climate, altitude, terrain types)](3%201%202%20Biome%20Diversity%20&%20Composition%20(climate,%20alti%20214b227cadd780b7b2c2ee275a280ae6.md)
 
 [3.1.3 Navigation, Landmarks & Orientation (natural and artificial)](3%201%203%20Navigation,%20Landmarks%20&%20Orientation%20(natural%20214b227cadd780098439eadd4bfae768.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [3.1.1 Procedural Terrain & Seed Rules](03_01_01_00_00_00_00__procedural-terrain-and-seed-rules.md)
+- [3.1.2 Biome Diversity & Composition (climate, altitude, terrain types)](03_01_02_00_00_00_00__biome-diversity-and-composition-climate-altitude-terrain-types.md)
+- [3.1.3 Navigation, Landmarks & Orientation (natural and artificial)](03_01_03_00_00_00_00__navigation-landmarks-and-orientation-natural-and-artificial.md)
+<!-- GDD_CHILD_LINKS_END -->

@@ -20,7 +20,7 @@ $env:TEMP = $runTemp
 $env:TMP = $runTemp
 
 function Write-VerifyLine {
-    param([Parameter(Mandatory)][string]$Message)
+    param([AllowEmptyString()][string]$Message)
     $Message | Tee-Object -FilePath $logPath -Append
 }
 
@@ -52,11 +52,14 @@ try {
     Assert-RepoPath "docs\GDD_TARGET_STRUCTURE.md"
     Assert-RepoPath "docs\index\GDD_SOURCE_INDEX.md"
     Assert-RepoPath "docs\index\GDD_CONTENT_AUDIT.md"
+    Assert-RepoPath "docs\index\GDD_DOCUMENT_FIT_AUDIT.md"
     Assert-RepoPath "docs\index\gdd_source_index.json"
     Assert-RepoPath "docs\index\gdd_content_audit.json"
+    Assert-RepoPath "docs\index\gdd_document_fit_audit.json"
     Assert-RepoPath "docs\index\gdd_filename_migration.json"
     Assert-RepoPath "scripts\build-gdd-index.ps1"
     Assert-RepoPath "scripts\build-gdd-content-audit.ps1"
+    Assert-RepoPath "scripts\build-gdd-document-fit-audit.ps1"
     Assert-RepoPath "scripts\markdown_format_guard.py"
     Assert-RepoPath "scripts\codex-verify.ps1"
 
@@ -121,12 +124,24 @@ try {
         throw "GDD content audit freshness check failed with exit code $auditExit."
     }
 
+    Write-VerifyLine "gdd document fit audit freshness check started"
+    $documentFitAuditScript = Join-Path $repoRoot "scripts\build-gdd-document-fit-audit.ps1"
+    $documentFitAuditOutput = & $documentFitAuditScript -RepoRoot $repoRoot -Check 2>&1
+    $documentFitAuditExit = $LASTEXITCODE
+    foreach ($line in $documentFitAuditOutput) {
+        Write-VerifyLine "$line"
+    }
+    if ($documentFitAuditExit -ne 0) {
+        throw "GDD document fit audit freshness check failed with exit code $documentFitAuditExit."
+    }
+
     Write-VerifyLine "checked Markdown files: $($markdownFiles.Count)"
     Write-VerifyLine "checked Markdown format guard"
     Write-VerifyLine "checked GDD filename standard"
     Write-VerifyLine "checked GDD source index full-text snapshot"
     Write-VerifyLine "checked GDD index freshness"
     Write-VerifyLine "checked GDD content audit freshness"
+    Write-VerifyLine "checked GDD document fit audit freshness"
     Write-VerifyLine "codex-verify passed"
     exit 0
 }

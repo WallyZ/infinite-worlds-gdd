@@ -13,3 +13,13 @@ In *Infinite Worlds*, the learning process is not about gaining abilities from n
 [1.11.3.4 Guided Practice Spaces & Simulation Zones](01_11_03_04_00_00_00__guided-practice-spaces-and-simulation-zones.md)
 
 [1.11.3.5 Sensory and Embodied Feedback (VR Emphasis)](1%2011%203%205%20Sensory%20and%20Embodied%20Feedback%20(VR%20Emphasi%2022eb227cadd78082829ac6fe5bffb142.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [1.11.3.1 Knowledge is Present, Not Gated](01_11_03_01_00_00_00__knowledge-is-present-not-gated.md)
+- [1.11.3.2 Practice as Reclamation](01_11_03_02_00_00_00__practice-as-reclamation.md)
+- [1.11.3.3 Skill Exposure, Not Skill Unlocking](01_11_03_03_00_00_00__skill-exposure-not-skill-unlocking.md)
+- [1.11.3.4 Guided Practice Spaces & Simulation Zones](01_11_03_04_00_00_00__guided-practice-spaces-and-simulation-zones.md)
+- [1.11.3.5 Sensory and Embodied Feedback (VR Emphasis)](01_11_03_05_00_00_00__sensory-and-embodied-feedback-vr-emphasis.md)
+<!-- GDD_CHILD_LINKS_END -->

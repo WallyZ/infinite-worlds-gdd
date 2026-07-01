@@ -46,3 +46,12 @@ Design of player, NPCs, enemies, and creatures for immersion and expression.
 [8.2.3 Animation Style](08_02_03_00_00_00_00__animation-style.md)
 
 [8.2.4 Modular Clothing & Customization Systems](08_02_04_00_00_00_00__modular-clothing-and-customization-systems.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [8.3.1 Biome Visual Language](08_03_01_00_00_00_00__biome-visual-language.md)
+- [8.3.2 Settlement & Culture Design](08_03_02_00_00_00_00__settlement-and-culture-design.md)
+- [8.3.3 Dungeon, Ruin & Underground Style](08_03_03_00_00_00_00__dungeon-ruin-and-underground-style.md)
+- [8.3.4 Procedural Tools & Terrain Generation](08_03_04_00_00_00_00__procedural-tools-and-terrain-generation.md)
+<!-- GDD_CHILD_LINKS_END -->

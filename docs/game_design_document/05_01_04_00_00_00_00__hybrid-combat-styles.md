@@ -22,3 +22,11 @@ These styles combine aspects of physical, magical, and psionic systems for uniqu
 [5.1.4.2 Psionic Infusion & Psychic Weaponry](05_01_04_02_00_00_00__psionic-infusion-and-psychic-weaponry.md)
 
 [5.1.4.3 Adaptive Combat (Real-time switching, stances, dual-focus)](5%201%204%203%20Adaptive%20Combat%20(Real-time%20switching,%20stan%20226b227cadd7802cbb10f76c44858bb8.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [5.1.4.1 Magic + Weapon Integration (Spellblades, War Priests)](05_01_04_01_00_00_00__magic-plus-weapon-integration-spellblades-war-priests.md)
+- [5.1.4.2 Psionic Infusion & Psychic Weaponry](05_01_04_02_00_00_00__psionic-infusion-and-psychic-weaponry.md)
+- [5.1.4.3 Adaptive Combat (Real-time switching, stances, dual-focus)](05_01_04_03_00_00_00__adaptive-combat-real-time-switching-stances-dual-focus.md)
+<!-- GDD_CHILD_LINKS_END -->

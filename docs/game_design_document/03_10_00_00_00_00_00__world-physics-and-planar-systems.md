@@ -123,3 +123,24 @@ Just as tabletop GMs often warn players “this world doesn’t work like yours,
 [3.10.15 Planar Travel & Access Mechanics](03_10_15_00_00_00_00__planar-travel-and-access-mechanics.md)
 
 [3.10.16 Planar Influence on Ecosystems, Magic, and NPCs](03_10_16_00_00_00_00__planar-influence-on-ecosystems-magic-and-npcs.md)
+
+<!-- GDD_CHILD_LINKS_BEGIN -->
+## Subdocuments
+
+- [3.10.1 Physical Laws & Environmental Interactions](03_10_01_00_00_00_00__physical-laws-and-environmental-interactions.md)
+- [3.10.2 Magical Laws & Aether Mechanics](03_10_02_00_00_00_00__magical-laws-and-aether-mechanics.md)
+- [3.10.3 Dimensional Anchors & Veil Mechanics](03_10_03_00_00_00_00__dimensional-anchors-and-veil-mechanics.md)
+- [3.10.4 Planar Intersections & Rifts](03_10_04_00_00_00_00__planar-intersections-and-rifts.md)
+- [3.10.5 Ethereal Plane](03_10_05_00_00_00_00__ethereal-plane.md)
+- [3.10.6 Astral Plane](03_10_06_00_00_00_00__astral-plane.md)
+- [3.10.7 Shadowfell (Plane of Shadow)](03_10_07_00_00_00_00__shadowfell-plane-of-shadow.md)
+- [3.10.8 Feywild (Plane of Faerie)](03_10_08_00_00_00_00__feywild-plane-of-faerie.md)
+- [3.10.9 Dreaming Realm](03_10_09_00_00_00_00__dreaming-realm.md)
+- [3.10.10 Elemental Planes (Fire, Air, Water, Earth)](03_10_10_00_00_00_00__elemental-planes-fire-air-water-earth.md)
+- [3.10.11 Positive and Negative Energy Planes](03_10_11_00_00_00_00__positive-and-negative-energy-planes.md)
+- [3.10.12 Outer Planes (Heavens, Hells, etc.)](03_10_12_00_00_00_00__outer-planes-heavens-hells-etc.md)
+- [3.10.13 Far Realm](03_10_13_00_00_00_00__far-realm.md)
+- [3.10.14 Astral Sea & Void Travel](03_10_14_00_00_00_00__astral-sea-and-void-travel.md)
+- [3.10.15 Planar Travel & Access Mechanics](03_10_15_00_00_00_00__planar-travel-and-access-mechanics.md)
+- [3.10.16 Planar Influence on Ecosystems, Magic, and NPCs](03_10_16_00_00_00_00__planar-influence-on-ecosystems-magic-and-npcs.md)
+<!-- GDD_CHILD_LINKS_END -->

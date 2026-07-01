@@ -63,6 +63,24 @@ Allowed top-level exception:
 
 The filename section key and H1 section number must agree.
 
+## Title And Content Fit Standard
+
+Each source page should keep its H1, filename slug, and main body aligned:
+
+- The H1 title should describe the page's actual topic.
+- The filename slug should describe the same topic as the H1.
+- Body content should either support the title directly or be treated as a stub/thin page needing expansion, absorption, or relocation review.
+- Use `docs/index/GDD_DOCUMENT_FIT_AUDIT.md` to find title-only stubs, thin pages, and conservative title/content review candidates.
+
+## Parent Link Standard
+
+Every page with direct subdocuments should link those direct child pages from the parent page.
+
+- Existing contextual links count when they point to the direct child file.
+- When a parent is missing child links, add or update a generated `## Subdocuments` block.
+- The generated child-link block is bounded by `GDD_CHILD_LINKS_BEGIN` and `GDD_CHILD_LINKS_END` comments so future scripts can refresh it without disturbing the rest of the page.
+- `.\scripts\codex-verify.ps1` enforces that no parent page is missing direct child links.
+
 ## Markdown Format Standard
 
 This repo imports the dependency-free Markdown guard from `F:\dev\00-repo-kit`.
