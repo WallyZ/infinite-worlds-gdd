@@ -2,51 +2,33 @@
 
 ## Current Inventory
 
-Observed on 2026-07-01:
+Observed on 2026-07-01 after source migration:
 
 | Surface | Files | Bytes | Decision |
 | --- | ---: | ---: | --- |
-| `markdown_export/` | 666 | 5,782,983 | Keep as working source export. |
-| `Notion_backup/` | 1 | 5,450,891 | Archive-only; candidate for later removal. |
+| `docs/game_design_document/` | 666 | 5,765,066 | Keep as working GDD source set. |
 | `merged_gdd.txt` | 1 | 855,746 | Keep as lightweight full-text search aggregate. |
+| `docs/index/gdd_filename_migration.json` | 1 | generated | Keep for old-name to new-name provenance. |
+| `Notion_backup/` | 0 | 0 | Removed by owner; no longer required by verifier. |
 
-## Notion Backup Comparison
+## Removed Backup Decision
 
-`Notion_backup/` contains one zip:
+The previous `Notion_backup/` zip was archive-only. Its contents matched the Markdown export by Markdown file count and shared file sizes, except for a root filename prefix difference, and it did not include helper export artifacts.
 
-`1a215901-5fc5-4268-a48f-0c04648c75cc_Export-f49257be-d289-4ccb-9b7c-0f21e91fc50d.zip`
-
-The zip contains:
-
-- 658 Markdown files
-- 3 PNG files
-- 1 C++ file
-- 1 text file
-
-Comparison against `markdown_export/`:
-
-- Markdown counts match: 658 zip Markdown files and 658 export Markdown files.
-- Shared file sizes match.
-- The zip has `Game Design Document (GDD) Infinite Worlds ... .md`.
-- `markdown_export/` has the same root file with a `0 ` prefix.
-- `markdown_export/` also contains `check_path.py`, `merge_files.py`, and `visited.json`, which are not in the zip.
+Now that the GDD source has moved to `docs/game_design_document/`, the backup is no longer part of the repo contract.
 
 ## Keep
 
-- `markdown_export/`: main raw source surface.
+- `docs/game_design_document/`: main source surface.
 - `merged_gdd.txt`: broad keyword search and quick review.
-- `docs/index/`: generated search map for Codex.
-- `docs/*.md`: retention and navigation decisions.
-
-## Candidate Remove
-
-- `Notion_backup/`: remove only after confirming that Git history or another off-machine backup is enough for the original zip.
+- `docs/index/`: generated source map and provenance.
+- `docs/*.md`: standards, retention, structure review, and navigation decisions.
 
 ## Do Not Move Here
 
 - Unreal project files.
 - Implementation TODOs.
 - QA-live specs for runtime systems.
-- Normalized design briefs that are meant to drive active development.
+- Normalized implementation design briefs.
 
 Those belong in `F:\dev\infinite-worlds`.

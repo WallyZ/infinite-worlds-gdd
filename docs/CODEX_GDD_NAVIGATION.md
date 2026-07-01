@@ -1,22 +1,22 @@
 # Codex GDD Navigation
 
-This repo is a source archive, not the implementation backlog. Use this file first to keep context small when working with the large GDD export.
+This repo is the Infinite Worlds GDD source repository. Use this file first so Codex can work from a compact map before opening the full source set.
 
 ## Fast Path
 
 1. Read `README.md` for repo purpose.
-2. Read `docs/GDD_ORGANIZATION.md` for source surfaces and ownership rules.
+2. Read `docs/GDD_STANDARDS.md` for naming, numbering, and curation rules.
 3. Use `docs/index/GDD_SOURCE_INDEX.md` to find the smallest relevant source files.
-4. Use `merged_gdd.txt` for broad keyword search when the index is not enough.
-5. Open files in `markdown_export/` only after narrowing the question to a section or topic.
+4. Use `merged_gdd.txt` only for broad keyword discovery.
+5. Open files in `docs/game_design_document/` after narrowing the question to a section or topic.
 
 ## Search Surfaces
 
 - `docs/index/GDD_SOURCE_INDEX.md`: compact, generated table of contents by source section.
 - `docs/index/gdd_source_index.json`: structured version of the same index for scripts and tooling.
+- `docs/index/gdd_filename_migration.json`: old Notion export names mapped to current sortable names.
 - `merged_gdd.txt`: full-text aggregate for keyword search across the export.
-- `markdown_export/`: authoritative working Markdown export.
-- `Notion_backup/`: archive-only zip; not a normal search surface.
+- `docs/game_design_document/`: authoritative working Markdown source set.
 
 ## Section Map
 
@@ -39,7 +39,8 @@ This repo is a source archive, not the implementation backlog. Use this file fir
 
 ## Working Rules
 
-- Keep raw export filenames stable so links and provenance remain valid.
-- Put implementation TODOs and normalized design briefs in `F:\dev\infinite-worlds`, not here.
-- Add curation notes under `docs/` when they help navigation or retention decisions.
+- Keep source files under `docs/game_design_document/`.
+- Preserve provenance through `docs/index/gdd_filename_migration.json`.
+- Do not put Unreal implementation TODOs in this repo; those belong in `F:\dev\infinite-worlds`.
 - Regenerate the index with `.\scripts\build-gdd-index.ps1` after source files change.
+- Use `.\scripts\codex-verify.ps1` before committing GDD repo changes.

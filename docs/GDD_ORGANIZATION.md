@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository preserves the Infinite Worlds GDD source package and provides lightweight navigation files so Codex can work from a small, searchable map before opening raw export pages.
+This repository preserves the Infinite Worlds GDD source package and provides lightweight navigation files so Codex can work from a small, searchable map before opening source pages.
 
 The Unreal implementation repo remains `F:\dev\infinite-worlds`.
 
@@ -10,27 +10,30 @@ The Unreal implementation repo remains `F:\dev\infinite-worlds`.
 
 | Path | Role | Keep | Notes |
 | --- | --- | --- | --- |
-| `markdown_export/` | Authoritative working Markdown export | Yes | Use for source reads after narrowing by section. Do not rename files casually because Notion IDs are part of provenance. |
+| `docs/game_design_document/` | Authoritative working GDD source set | Yes | Sortable, normalized filenames. Source bodies remain export-derived. |
 | `merged_gdd.txt` | Full-text search aggregate | Yes | Useful for broad keyword discovery. It is not the authority when it differs from source Markdown. |
-| `Notion_backup/` | Original Notion zip backup | Candidate archive/remove | The current zip matches the Markdown export by file count and size except for the root file name prefix, and does not include helper export artifacts. Keep until off-machine backup or deletion approval is confirmed. |
-| `docs/index/` | Generated navigation index | Yes | Regenerate with `scripts/build-gdd-index.ps1`. |
-| `docs/` | Curation, retention, navigation notes | Yes | Derived documentation only. |
+| `docs/index/` | Generated navigation and provenance indexes | Yes | Regenerate with `scripts/build-gdd-index.ps1`. |
+| `docs/` | Curation, standards, retention, navigation notes | Yes | Derived documentation only. |
+| `Notion_backup/` | Removed owner-side backup | No | Removed after confirming it duplicated the Markdown export. |
 
-## Desired Layout
+## Current Layout
 
 ```text
 README.md
 AGENTS.md
 merged_gdd.txt
-markdown_export/
-Notion_backup/
 docs/
   CODEX_GDD_NAVIGATION.md
   GDD_ORGANIZATION.md
   GDD_RETENTION_REVIEW.md
+  GDD_STANDARDS.md
+  GDD_STRUCTURE_REVIEW.md
+  game_design_document/
+    NN_NN_NN_NN_NN_NN_NN__kebab-case-title.md
   index/
     GDD_SOURCE_INDEX.md
     gdd_source_index.json
+    gdd_filename_migration.json
 scripts/
   codex-verify.ps1
   build-gdd-index.ps1
@@ -38,14 +41,14 @@ scripts/
 
 ## Organization Policy
 
-- Keep raw exports intact until a cleanup decision is explicit and backed by an inventory comparison.
-- Prefer generated indexes and curation docs over physically reorganizing raw files.
 - Keep the GDD source repo private.
-- Do not copy implementation backlog files into this repo.
-- When extracting implementation tasks, write them in `F:\dev\infinite-worlds`.
+- Prefer generated indexes and curation docs over large manual rewrites.
+- Keep implementation backlog files in `F:\dev\infinite-worlds`.
+- Preserve source provenance through the migration map and generated index.
+- Fix numbering and structure deliberately; do not silently merge or delete design concepts.
 
 ## Current Working Decision
 
-The working source surface should be `markdown_export/` plus `merged_gdd.txt`.
+`docs/game_design_document/` plus `merged_gdd.txt` is the active source surface.
 
-`Notion_backup/` is useful as a short-term provenance backup, but it is not useful for normal Codex search. It is safe to treat it as a removal candidate once an external backup or Git history retention decision is confirmed.
+The next cleanup lane is conceptual curation: resolve duplicate section numbers, orphaned sections, tiny placeholder docs, and cross-section overlap identified in `docs/GDD_STRUCTURE_REVIEW.md`.

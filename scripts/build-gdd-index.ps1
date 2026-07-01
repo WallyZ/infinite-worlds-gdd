@@ -7,46 +7,18 @@ param(
 $ErrorActionPreference = "Stop"
 
 $repoRoot = (Resolve-Path -LiteralPath $RepoRoot).Path
-$exportRoot = Join-Path $repoRoot "markdown_export"
+$sourceRootRelative = "docs\game_design_document"
+$sourceRootPortable = "docs/game_design_document"
+$sourceRoot = Join-Path $repoRoot $sourceRootRelative
 $indexRoot = Join-Path $repoRoot "docs\index"
 $markdownIndexPath = Join-Path $indexRoot "GDD_SOURCE_INDEX.md"
 $jsonIndexPath = Join-Path $indexRoot "gdd_source_index.json"
+$migrationMapPath = Join-Path $indexRoot "gdd_filename_migration.json"
 
 function Get-PortablePath {
     param([Parameter(Mandatory)][string]$Path)
 
     return ($Path -replace "\\", "/")
-}
-
-function Get-CleanTitle {
-    param([Parameter(Mandatory)][string]$FileName)
-
-    $baseName = [System.IO.Path]::GetFileNameWithoutExtension($FileName)
-    return ($baseName -replace "\s+[0-9a-f]{32}$", "").Trim()
-}
-
-function Get-SectionInfo {
-    param([Parameter(Mandatory)][string]$CleanTitle)
-
-    if ($CleanTitle -match "^(\d+(?:\s+\d+)*)\s+(.+)$") {
-        $parts = @($Matches[1] -split "\s+")
-        $sortKey = (($parts | ForEach-Object { "{0:D4}" -f [int]$_ }) -join ".")
-        return [pscustomobject]@{
-            Path = ($parts -join ".")
-            SortKey = $sortKey
-            Top = [int]$parts[0]
-            Depth = $parts.Count
-            Title = $Matches[2].Trim()
-        }
-    }
-
-    return [pscustomobject]@{
-        Path = ""
-        SortKey = "9999"
-        Top = 999
-        Depth = 0
-        Title = $CleanTitle
-    }
 }
 
 function ConvertTo-MarkdownTableCell {
@@ -68,45 +40,111 @@ function ConvertTo-MarkdownLinkLabel {
 function ConvertTo-RelativeMarkdownLink {
     param([Parameter(Mandatory)][string]$FileName)
 
-    return "../../markdown_export/$([uri]::EscapeDataString($FileName))"
+    return "../game_design_document/$([uri]::EscapeDataString($FileName))"
+}
+
+function Get-SectionFromFileName {
+    param([Parameter(Mandatory)][string]$FileName)
+
+    if ($FileName -match "^((?:\d{2}_){6}\d{2})__") {
+        $parts = @($Matches[1] -split "_" | ForEach-Object { [int]$_ })
+        while ($parts.Count -gt 1 -and $parts[$parts.Count - 1] -eq 0) {
+            $parts = @($parts[0..($parts.Count - 2)])
+        }
+
+        return ($parts -join ".")
+    }
+
+    throw "File does not follow GDD filename standard: $FileName"
+}
+
+function Get-SortKey {
+    param([Parameter(Mandatory)][string]$Section)
+
+    return ((@($Section -split "\.") | ForEach-Object { "{0:D4}" -f [int]$_ }) -join ".")
+}
+
+function Get-HeadingInfo {
+    param(
+        [Parameter(Mandatory)][string]$Raw,
+        [Parameter(Mandatory)][string]$FileName
+    )
+
+    $firstHeading = ""
+    foreach ($line in ($Raw -split "\r?\n")) {
+        if ($line -match "^#\s+(.+)$") {
+            $firstHeading = $Matches[1].Trim()
+            break
+        }
+    }
+
+    if ([string]::IsNullOrWhiteSpace($firstHeading)) {
+        throw "Missing H1 heading in $FileName"
+    }
+
+    if ($firstHeading -match "^(\d+(?:(?:\.|\s+)\d+)*)(?:[\\.:])?\s+(.+)$") {
+        return [pscustomobject]@{
+            Section = ($Matches[1] -replace "\s+", ".")
+            Title = $Matches[2].Trim()
+            FirstHeading = $firstHeading
+        }
+    }
+
+    return [pscustomobject]@{
+        Section = Get-SectionFromFileName -FileName $FileName
+        Title = $firstHeading.Trim()
+        FirstHeading = $firstHeading
+    }
+}
+
+function Get-MigrationByNewFile {
+    $lookup = @{}
+    if (-not (Test-Path -LiteralPath $migrationMapPath)) {
+        return $lookup
+    }
+
+    $items = @(Get-Content -LiteralPath $migrationMapPath -Raw | ConvertFrom-Json)
+    foreach ($item in $items) {
+        $lookup[$item.new_file] = $item
+    }
+
+    return $lookup
 }
 
 function New-GddIndex {
-    if (-not (Test-Path -LiteralPath $exportRoot)) {
-        throw "Missing markdown export root: $exportRoot"
+    if (-not (Test-Path -LiteralPath $sourceRoot)) {
+        throw "Missing GDD source root: $sourceRoot"
     }
 
-    $markdownFiles = @(Get-ChildItem -LiteralPath $exportRoot -File -Filter "*.md" | Sort-Object Name)
+    $markdownFiles = @(Get-ChildItem -LiteralPath $sourceRoot -File -Filter "*.md" | Sort-Object Name)
     if ($markdownFiles.Count -eq 0) {
-        throw "No Markdown files found in $exportRoot"
+        throw "No Markdown files found in $sourceRoot"
     }
 
+    $migrationByNewFile = Get-MigrationByNewFile
     $records = @()
     foreach ($file in $markdownFiles) {
         $raw = Get-Content -LiteralPath $file.FullName -Raw
-        $cleanTitle = Get-CleanTitle -FileName $file.Name
-        $section = Get-SectionInfo -CleanTitle $cleanTitle
-        $firstHeading = ""
-
-        foreach ($line in ($raw -split "\r?\n")) {
-            if ($line -match "^#\s+(.+)$") {
-                $firstHeading = $Matches[1].Trim()
-                break
-            }
+        $heading = Get-HeadingInfo -Raw $raw -FileName $file.Name
+        $fileSection = Get-SectionFromFileName -FileName $file.Name
+        if ($heading.Section -ne $fileSection) {
+            throw "Heading section '$($heading.Section)' does not match filename section '$fileSection' in $($file.Name)"
         }
 
-        if ([string]::IsNullOrWhiteSpace($firstHeading)) {
-            $firstHeading = $section.Title
-        }
+        $parts = @($fileSection -split "\.")
+        $relativePath = Get-PortablePath -Path ($sourceRootRelative + "\" + $file.Name)
+        $migration = $migrationByNewFile[$relativePath]
 
         $records += [pscustomobject]@{
-            section = $section.Path
-            sort_key = $section.SortKey
-            top_section = $section.Top
-            depth = $section.Depth
-            title = $section.Title
-            first_heading = $firstHeading
-            file = (Get-PortablePath -Path ("markdown_export\" + $file.Name))
+            section = $fileSection
+            sort_key = Get-SortKey -Section $fileSection
+            top_section = [int]$parts[0]
+            depth = $parts.Count
+            title = $heading.Title
+            first_heading = $heading.FirstHeading
+            file = $relativePath
+            source_id = if ($migration) { $migration.source_id } else { "" }
+            original_file = if ($migration) { $migration.old_file } else { "" }
             bytes = $file.Length
             lines = (($raw -split "\r?\n") | Measure-Object).Count
             words = ([regex]::Matches($raw, "\S+")).Count
@@ -131,13 +169,14 @@ function New-GddIndex {
     $md = [System.Collections.Generic.List[string]]::new()
     $md.Add("# GDD Source Index")
     $md.Add("")
-    $md.Add('Generated by `scripts/build-gdd-index.ps1`. Regenerate after raw Markdown export changes.')
+    $md.Add('Generated by `scripts/build-gdd-index.ps1`. Regenerate after GDD source changes.')
     $md.Add("")
     $md.Add("## Summary")
     $md.Add("")
     $md.Add("- Markdown files: $($records.Count)")
-    $md.Add('- Source root: `markdown_export/`')
+    $md.Add("- Source root: ``$sourceRootPortable/``")
     $md.Add('- Structured index: `docs/index/gdd_source_index.json`')
+    $md.Add('- Filename migration map: `docs/index/gdd_filename_migration.json`')
     $md.Add("")
     $md.Add("## Top-Level Sections")
     $md.Add("")
@@ -160,16 +199,15 @@ function New-GddIndex {
         foreach ($record in ($records | Where-Object { $_.top_section -eq $summary.section } | Sort-Object sort_key, file)) {
             $fileName = Split-Path -Leaf $record.file
             $link = ConvertTo-RelativeMarkdownLink -FileName $fileName
-            $sectionLabel = if ([string]::IsNullOrWhiteSpace($record.section)) { "-" } else { $record.section }
             $recordTitle = ConvertTo-MarkdownTableCell -Value $record.title
             $linkLabel = ConvertTo-MarkdownLinkLabel -Value $fileName
-            $md.Add("| $sectionLabel | $recordTitle | $($record.words) | [$linkLabel]($link) |")
+            $md.Add("| $($record.section) | $recordTitle | $($record.words) | [$linkLabel]($link) |")
         }
     }
 
     $jsonObject = [ordered]@{
         generated_by = "scripts/build-gdd-index.ps1"
-        source_root = "markdown_export"
+        source_root = $sourceRootPortable
         markdown_file_count = $records.Count
         sections = $sectionSummaries
         files = $records
