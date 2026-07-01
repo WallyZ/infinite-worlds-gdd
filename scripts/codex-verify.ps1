@@ -45,6 +45,12 @@ try {
     Assert-RepoPath "markdown_export"
     Assert-RepoPath "Notion_backup"
     Assert-RepoPath "merged_gdd.txt"
+    Assert-RepoPath "docs\CODEX_GDD_NAVIGATION.md"
+    Assert-RepoPath "docs\GDD_ORGANIZATION.md"
+    Assert-RepoPath "docs\GDD_RETENTION_REVIEW.md"
+    Assert-RepoPath "docs\index\GDD_SOURCE_INDEX.md"
+    Assert-RepoPath "docs\index\gdd_source_index.json"
+    Assert-RepoPath "scripts\build-gdd-index.ps1"
     Assert-RepoPath "scripts\codex-verify.ps1"
 
     $markdownFiles = Get-ChildItem -LiteralPath (Join-Path $repoRoot "markdown_export") -File -Filter "*.md" -ErrorAction Stop
@@ -57,8 +63,20 @@ try {
         throw "merged_gdd.txt is empty."
     }
 
+    Write-VerifyLine "gdd index freshness check started"
+    $indexScript = Join-Path $repoRoot "scripts\build-gdd-index.ps1"
+    $indexOutput = & $indexScript -RepoRoot $repoRoot -Check 2>&1
+    $indexExit = $LASTEXITCODE
+    foreach ($line in $indexOutput) {
+        Write-VerifyLine "$line"
+    }
+    if ($indexExit -ne 0) {
+        throw "GDD index freshness check failed with exit code $indexExit."
+    }
+
     Write-VerifyLine "checked Markdown files: $($markdownFiles.Count)"
     Write-VerifyLine "checked merged_gdd bytes: $($merged.Length)"
+    Write-VerifyLine "checked GDD index freshness"
     Write-VerifyLine "codex-verify passed"
     exit 0
 }

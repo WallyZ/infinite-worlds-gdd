@@ -23,6 +23,16 @@ At the start of every task:
 - Use `F:\dev\infinite-worlds` for canonical implementation docs and backlog work.
 - Keep this repo private unless the owner explicitly changes that policy.
 
+## Codex Navigation
+
+Use the smallest search surface that answers the task:
+
+1. Start with `docs/CODEX_GDD_NAVIGATION.md`.
+2. Use `docs/index/GDD_SOURCE_INDEX.md` to identify the specific source files.
+3. Search `merged_gdd.txt` only for broad keyword discovery.
+4. Open raw files in `markdown_export/` only after narrowing the topic.
+5. Treat `Notion_backup/` as archive-only. Do not search it unless verifying export provenance.
+
 ## Verification Contract
 
 Use exactly:
