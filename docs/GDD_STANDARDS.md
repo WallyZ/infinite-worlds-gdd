@@ -72,6 +72,25 @@ Each source page should keep its H1, filename slug, and main body aligned:
 - Body content should either support the title directly or be treated as a stub/thin page needing expansion, absorption, or relocation review.
 - Use `docs/index/GDD_DOCUMENT_FIT_AUDIT.md` to find title-only stubs, thin pages, and conservative title/content review candidates.
 
+## Document Size And Splitting Standard
+
+Use page size to reduce context load without scattering ideas too early:
+
+- `0-75` body words: stub or index-only page. Expand it, absorb it into a parent, or mark why it should remain link-only.
+- `150-350` body words: acceptable for a narrow concept, glossary-style note, or pure parent/index page with child links.
+- `300-900` body words: target range for most atomic design pages.
+- `900-1,500` body words: acceptable for broad parent concepts, system overviews, reference pages, or pages with tables.
+- `1,500+` body words: review for splitting, but split only when the sections can stand alone and will be searched or implemented separately.
+
+Split a page only when it contains two or more durable topics with different owners, implementation surfaces, test harnesses, or TODO lanes. Do not split just to make a weak page look organized. Expand weak content first, then split only when the page has enough substance to justify independent children.
+
+Implementation-relevant GDD pages should include enough mapping cues for the game repo:
+
+- likely runtime system or feature area
+- likely prototype or harness
+- related implementation TODO lane in `F:\dev\infinite-worlds`
+- unresolved questions that need design or prototype evidence
+
 ## Parent Link Standard
 
 Every page with direct subdocuments should link those direct child pages from the parent page.

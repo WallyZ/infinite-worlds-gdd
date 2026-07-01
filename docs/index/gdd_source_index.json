@@ -16,8 +16,8 @@
       "section": 1,
       "title": "Game Overview",
       "files": 68,
-      "bytes": 222308.0,
-      "words": 30262.0
+      "bytes": 229011.0,
+      "words": 31219.0
     },
     {
       "section": 2,
@@ -213,9 +213,9 @@
       "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
       "source_id": "215b227cadd780b78682e84e2e44945b",
       "original_file": "markdown_export/1 2 Vision Statement & Core Pillars 215b227cadd780b78682e84e2e44945b.md",
-      "bytes": 998,
-      "lines": 19,
-      "words": 67
+      "bytes": 2578,
+      "lines": 31,
+      "words": 295
     },
     {
       "section": "1.2.1",
@@ -241,9 +241,9 @@
       "file": "docs/game_design_document/01_02_02_00_00_00_00__emotional-and-experiential-goals.md",
       "source_id": "225b227cadd780ecb45cd754e7094ec0",
       "original_file": "markdown_export/1 2 2 Emotional & Experiential Goals 225b227cadd780ecb45cd754e7094ec0.md",
-      "bytes": 39,
-      "lines": 2,
-      "words": 6
+      "bytes": 2478,
+      "lines": 24,
+      "words": 352
     },
     {
       "section": "1.2.3",
@@ -255,9 +255,9 @@
       "file": "docs/game_design_document/01_02_03_00_00_00_00__player-transformation-goals-what-players-should-gain-beyond-fun.md",
       "source_id": "225b227cadd780a59c51c5477f5898e3",
       "original_file": "markdown_export/1 2 3 Player Transformation Goals (what players sh 225b227cadd780a59c51c5477f5898e3.md",
-      "bytes": 74,
-      "lines": 2,
-      "words": 11
+      "bytes": 2758,
+      "lines": 31,
+      "words": 394
     },
     {
       "section": "1.2.4",

@@ -18,22 +18,22 @@
   ],
   "summary": {
     "markdown_files": 648,
-    "total_words": 99966.0,
+    "total_words": 100923.0,
     "target_areas": 12,
     "duplicate_section_numbers": 0,
     "orphaned_sections": 0,
     "duplicate_title_groups": 4,
     "exact_content_duplicate_groups": 0,
     "similar_title_candidates": 4,
-    "incomplete_or_stub_candidates": 507,
-    "removal_or_merge_candidates": 306,
+    "incomplete_or_stub_candidates": 505,
+    "removal_or_merge_candidates": 303,
     "non_markdown_assets": 8
   },
   "target_area_inventory": [
     {
       "target_area": "Design Control and Overview",
       "files": 74,
-      "words": 31029.0,
+      "words": 31986.0,
       "current_top_sections": [
         0,
         1,
@@ -43,7 +43,7 @@
         11,
         14
       ],
-      "stub_or_thin": 21,
+      "stub_or_thin": 18,
       "duplicate_title_groups": 1
     },
     {
@@ -253,12 +253,12 @@
       "top_section": 1,
       "title": "Game Overview",
       "files": 68,
-      "words": 30262.0,
+      "words": 31219.0,
       "target_area_breakdown": [
         {
           "target_area": "Design Control and Overview",
           "files": 68,
-          "words": 30262.0
+          "words": 31219.0
         }
       ]
     },
@@ -1174,17 +1174,6 @@
       "file": "docs/game_design_document/15_08_04_00_00_00_00__psionic-signature-patterns.md",
       "target_area": "Magic and Supernatural Systems",
       "words": 5,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
-      "section": "1.2.2",
-      "title": "Emotional & Experiential Goals",
-      "file": "docs/game_design_document/01_02_02_00_00_00_00__emotional-and-experiential-goals.md",
-      "target_area": "Design Control and Overview",
-      "words": 6,
       "flags": [
         "stub-20-words-or-less",
         "heading-only-or-nearly-empty"
@@ -2809,17 +2798,6 @@
       "words": 10,
       "flags": [
         "stub-20-words-or-less"
-      ]
-    },
-    {
-      "section": "1.2.3",
-      "title": "Player Transformation Goals (what players should gain beyond fun)",
-      "file": "docs/game_design_document/01_02_03_00_00_00_00__player-transformation-goals-what-players-should-gain-beyond-fun.md",
-      "target_area": "Design Control and Overview",
-      "words": 11,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
       ]
     },
     {
@@ -5921,18 +5899,6 @@
       ]
     },
     {
-      "section": "1.2",
-      "title": "Vision Statement & Core Pillars",
-      "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
-      "target_area": "Design Control and Overview",
-      "words": 67,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
-    },
-    {
       "section": "8.1.6",
       "title": "Key Art & Trailer Style",
       "file": "docs/game_design_document/08_01_06_00_00_00_00__key-art-and-trailer-style.md",
@@ -6262,6 +6228,16 @@
       ]
     },
     {
+      "section": "1.2.3",
+      "title": "Player Transformation Goals (what players should gain beyond fun)",
+      "file": "docs/game_design_document/01_02_03_00_00_00_00__player-transformation-goals-what-players-should-gain-beyond-fun.md",
+      "target_area": "Design Control and Overview",
+      "words": 394,
+      "flags": [
+        "explicit-incomplete-marker"
+      ]
+    },
+    {
       "section": "15",
       "title": "Appendices",
       "file": "docs/game_design_document/15_00_00_00_00_00_00__appendices.md",
@@ -6462,15 +6438,6 @@
       "file": "docs/game_design_document/15_08_04_00_00_00_00__psionic-signature-patterns.md",
       "target_area": "Magic and Supernatural Systems",
       "words": 5,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
-      "section": "1.2.2",
-      "title": "Emotional & Experiential Goals",
-      "file": "docs/game_design_document/01_02_02_00_00_00_00__emotional-and-experiential-goals.md",
-      "target_area": "Design Control and Overview",
-      "words": 6,
       "recommended_action": "merge-or-remove-after-parent-absorption",
       "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
     },
@@ -7807,15 +7774,6 @@
       "reason": "stub-20-words-or-less"
     },
     {
-      "section": "1.2.3",
-      "title": "Player Transformation Goals (what players should gain beyond fun)",
-      "file": "docs/game_design_document/01_02_03_00_00_00_00__player-transformation-goals-what-players-should-gain-beyond-fun.md",
-      "target_area": "Design Control and Overview",
-      "words": 11,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "stub-20-words-or-less; heading-only-or-nearly-empty"
-    },
-    {
       "section": "5.7.1",
       "title": "Armor Types",
       "file": "docs/game_design_document/05_07_01_00_00_00_00__armor-types.md",
@@ -9013,15 +8971,6 @@
       "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
     },
     {
-      "section": "1.2",
-      "title": "Vision Statement & Core Pillars",
-      "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
-      "target_area": "Design Control and Overview",
-      "words": 67,
-      "recommended_action": "merge-or-remove-after-parent-absorption",
-      "reason": "thin-75-words-or-less; link-index-page; heading-only-or-nearly-empty"
-    },
-    {
       "section": "10",
       "title": "UI, UX & Immersion",
       "file": "docs/game_design_document/10_00_00_00_00_00_00__ui-ux-and-immersion.md",
@@ -9160,12 +9109,8 @@
       "title": "Vision Statement & Core Pillars",
       "file": "docs/game_design_document/01_02_00_00_00_00_00__vision-statement-and-core-pillars.md",
       "target_area": "Design Control and Overview",
-      "words": 67,
-      "flags": [
-        "thin-75-words-or-less",
-        "link-index-page",
-        "heading-only-or-nearly-empty"
-      ]
+      "words": 295,
+      "flags": []
     },
     {
       "section": "1.2.1",
@@ -9180,21 +9125,17 @@
       "title": "Emotional & Experiential Goals",
       "file": "docs/game_design_document/01_02_02_00_00_00_00__emotional-and-experiential-goals.md",
       "target_area": "Design Control and Overview",
-      "words": 6,
-      "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
-      ]
+      "words": 352,
+      "flags": []
     },
     {
       "section": "1.2.3",
       "title": "Player Transformation Goals (what players should gain beyond fun)",
       "file": "docs/game_design_document/01_02_03_00_00_00_00__player-transformation-goals-what-players-should-gain-beyond-fun.md",
       "target_area": "Design Control and Overview",
-      "words": 11,
+      "words": 394,
       "flags": [
-        "stub-20-words-or-less",
-        "heading-only-or-nearly-empty"
+        "explicit-incomplete-marker"
       ]
     },
     {
