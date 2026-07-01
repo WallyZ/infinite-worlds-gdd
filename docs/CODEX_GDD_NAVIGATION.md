@@ -20,6 +20,7 @@ This repo is the Infinite Worlds GDD source repository. Use this file first so C
 - `docs/index/gdd_content_audit.json`: structured content audit for scripts and future curation tooling.
 - `docs/index/gdd_document_fit_audit.json`: structured document-fit audit for scripts and future curation tooling.
 - `docs/index/gdd_filename_migration.json`: old Notion export names mapped to current sortable names.
+- `docs/curated/09_appendices_reference/source_canon_world_generation_and_fantasy_ecology.md`: curated source links for natural-process world generation, ecology, evolution, procedural generation, and fantasy overlays.
 - `docs/game_design_document/`: authoritative working Markdown source set.
 
 ## Section Map
@@ -40,6 +41,7 @@ This repo is the Infinite Worlds GDD source repository. Use this file first so C
 - `13`: accessibility and UX.
 - `14`: project management and publishing.
 - `15`: appendices and references.
+- `docs/curated/09_appendices_reference/`: curated appendix material, including source canons that point implementation work back to external references without rewriting raw GDD exports.
 
 ## Working Rules
 
