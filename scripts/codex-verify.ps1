@@ -48,10 +48,14 @@ try {
     Assert-RepoPath "docs\GDD_RETENTION_REVIEW.md"
     Assert-RepoPath "docs\GDD_STANDARDS.md"
     Assert-RepoPath "docs\GDD_STRUCTURE_REVIEW.md"
+    Assert-RepoPath "docs\GDD_TARGET_STRUCTURE.md"
     Assert-RepoPath "docs\index\GDD_SOURCE_INDEX.md"
+    Assert-RepoPath "docs\index\GDD_CONTENT_AUDIT.md"
     Assert-RepoPath "docs\index\gdd_source_index.json"
+    Assert-RepoPath "docs\index\gdd_content_audit.json"
     Assert-RepoPath "docs\index\gdd_filename_migration.json"
     Assert-RepoPath "scripts\build-gdd-index.ps1"
+    Assert-RepoPath "scripts\build-gdd-content-audit.ps1"
     Assert-RepoPath "scripts\codex-verify.ps1"
 
     $markdownFiles = Get-ChildItem -LiteralPath (Join-Path $repoRoot "docs\game_design_document") -File -Filter "*.md" -ErrorAction Stop
@@ -88,10 +92,22 @@ try {
         throw "GDD_SOURCE_INDEX.md is missing source text blocks."
     }
 
+    Write-VerifyLine "gdd content audit freshness check started"
+    $auditScript = Join-Path $repoRoot "scripts\build-gdd-content-audit.ps1"
+    $auditOutput = & $auditScript -RepoRoot $repoRoot -Check 2>&1
+    $auditExit = $LASTEXITCODE
+    foreach ($line in $auditOutput) {
+        Write-VerifyLine "$line"
+    }
+    if ($auditExit -ne 0) {
+        throw "GDD content audit freshness check failed with exit code $auditExit."
+    }
+
     Write-VerifyLine "checked Markdown files: $($markdownFiles.Count)"
     Write-VerifyLine "checked GDD filename standard"
     Write-VerifyLine "checked GDD source index full-text snapshot"
     Write-VerifyLine "checked GDD index freshness"
+    Write-VerifyLine "checked GDD content audit freshness"
     Write-VerifyLine "codex-verify passed"
     exit 0
 }

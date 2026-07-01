@@ -12,7 +12,8 @@ The Unreal implementation repo remains `F:\dev\infinite-worlds`.
 | --- | --- | --- | --- |
 | `docs/game_design_document/` | Authoritative working GDD source set | Yes | Sortable, normalized filenames. Source bodies remain export-derived. |
 | `docs/index/GDD_SOURCE_INDEX.md` | Generated navigation and full-text search snapshot | Yes | Replaces the old root `merged_gdd.txt` aggregate. Regenerate with `scripts/build-gdd-index.ps1`. |
-| `docs/index/` | Generated structured navigation and provenance indexes | Yes | Regenerate with `scripts/build-gdd-index.ps1`. |
+| `docs/index/GDD_CONTENT_AUDIT.md` | Generated organization/content audit | Yes | Tracks duplicate, incomplete, overlap, target-area, and merge/remove review candidates. Regenerate with `scripts/build-gdd-content-audit.ps1`. |
+| `docs/index/` | Generated structured navigation, audit, and provenance indexes | Yes | Regenerate with repo scripts before committing source changes. |
 | `docs/` | Curation, standards, retention, navigation notes | Yes | Derived documentation only. |
 | `Notion_backup/` | Removed owner-side backup | No | Removed after confirming it duplicated the Markdown export. |
 
@@ -27,15 +28,19 @@ docs/
   GDD_RETENTION_REVIEW.md
   GDD_STANDARDS.md
   GDD_STRUCTURE_REVIEW.md
+  GDD_TARGET_STRUCTURE.md
   game_design_document/
     NN_NN_NN_NN_NN_NN_NN__kebab-case-title.md
   index/
     GDD_SOURCE_INDEX.md
+    GDD_CONTENT_AUDIT.md
     gdd_source_index.json
+    gdd_content_audit.json
     gdd_filename_migration.json
 scripts/
   codex-verify.ps1
   build-gdd-index.ps1
+  build-gdd-content-audit.ps1
 ```
 
 ## Organization Policy
@@ -44,6 +49,7 @@ scripts/
 - Prefer generated indexes and curation docs over large manual rewrites.
 - Keep implementation backlog files in `F:\dev\infinite-worlds`.
 - Preserve source provenance through the migration map and generated index.
+- Use `docs/GDD_TARGET_STRUCTURE.md` as the curated target library.
 - Fix numbering and structure deliberately; do not silently merge or delete design concepts.
 
 ## Current Working Decision

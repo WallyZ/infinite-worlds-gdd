@@ -75,20 +75,22 @@ When source pages are promoted from raw export material into curated GDD pages, 
 
 ## Section Taxonomy Standard
 
-Use the current source hierarchy as a source archive, but use this target taxonomy when creating curated or reorganized pages:
+Use the current source hierarchy as a source archive, but use `docs/GDD_TARGET_STRUCTURE.md` as the target structure when creating curated or reorganized pages.
+
+Target taxonomy:
 
 | Canonical Area | Purpose |
 | --- | --- |
-| Overview and pillars | Pitch, vision, audience, platforms, pillars. |
-| Player experience | Core loop, progression, onboarding, comfort, accessibility. |
-| Gameplay systems | Interaction, inventory, skills, combat, crafting, magic. |
-| World simulation | Biomes, time, weather, ecology, PCG, persistence. |
-| AI and social simulation | NPC cognition, routines, factions, relationships, dialogue. |
-| Narrative and lore | world history, themes, quests, emergent story, player legacy. |
-| Art, audio, UI, UX | Visual direction, sound, interface, feedback, accessibility presentation. |
-| Technical and tooling | Engine, architecture, data, networking, save, automation, QA. |
-| Production and community | roadmap, publishing, community, monetization, marketing. |
-| Appendix/reference | Glossary, tables, diagrams, examples, citations. |
+| Design Control and Product Vision | Pitch, pillars, audience, platform goals, scope rules, source-of-truth rules. |
+| Player Handbook | Player experience, core loop, movement, controls, onboarding, progression, accessibility, VR comfort. |
+| Systems Compendium | Combat, stealth, inventory, equipment, crafting, building, magic, psionics, rituals, survival mechanics. |
+| World and Simulation Guide | World generation, biomes, time, weather, ecology, civilization, economy, persistence, terrain. |
+| Bestiary, NPC, and Faction Codex | Creature roles, enemy types, species data, NPC behavior, relationships, factions, dialogue, companion systems. |
+| Narrative and Lore Bible | Themes, mythology, history, emergent story, quests, player legacy, religions, symbolic systems. |
+| Art, Audio, UI, and UX Bible | Visual direction, audio direction, VFX, interface, diegetic UX, accessibility presentation, asset naming and style guides. |
+| Technical, Tooling, and QA Bible | Unreal architecture, data model, networking, persistence, automation, generated assets, QA, debug tools, modding, performance. |
+| Production, Community, and Publishing Plan | Roadmap, milestones, funding, community, storefronts, marketing, localization, risk management. |
+| Appendices and Reference | Glossary, tables, formulas, diagrams, example seeds, source citations, index-only reference material. |
 
 ## Review Standard
 

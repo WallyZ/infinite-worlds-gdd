@@ -4,6 +4,8 @@
 
 The source set is now easier to search, but the conceptual structure still needs curation.
 
+For the current generated audit, use `docs/index/GDD_CONTENT_AUDIT.md`.
+
 Current findings:
 
 - 658 Markdown source pages.
