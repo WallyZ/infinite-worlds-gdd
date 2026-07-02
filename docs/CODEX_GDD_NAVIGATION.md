@@ -21,6 +21,7 @@ This repo is the Infinite Worlds GDD source repository. Use this file first so C
 - `docs/index/gdd_document_fit_audit.json`: structured document-fit audit for scripts and future curation tooling.
 - `docs/index/gdd_filename_migration.json`: old Notion export names mapped to current sortable names.
 - `docs/curated/03_world_simulation_guide/physical_laws_gravity_and_water_systems.md`: curated bridge for physical-law simulation, gravity, localized gravity, water, waves, currents, buoyancy, and implementation surfaces.
+- `docs/curated/03_world_simulation_guide/vegetation_assets_and_ecology.md`: curated bridge for vegetation assets, plant ecology, roots, soil, sunlight, water needs, wood/fiber traits, and plant-use possibilities.
 - `docs/curated/09_appendices_reference/source_canon_world_generation_and_fantasy_ecology.md`: curated source links for natural-process world generation, ecology, evolution, procedural generation, and fantasy overlays.
 - `docs/game_design_document/`: authoritative working Markdown source set.
 
